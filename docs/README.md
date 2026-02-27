@@ -66,14 +66,14 @@ Visualize my diary entries like GitHub for commits.
 <rect x="114" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-20: 0 entries</title></rect>
 <rect x="114" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-21: 0 entries</title></rect>
 <rect x="126" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-22: 0 entries</title></rect>
-<a href="https://saiht.de/obsidian/My-Projects"><rect x="126" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2026-02-23: 1 entry
+<a href="https://saiht.de/obsidian/My-Projects"><rect x="126" y="30" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2026-02-23: 1 entry
 My Projects</title></rect></a>
 <rect x="126" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-24: 0 entries</title></rect>
-<a href="https://saiht.de/obsidian/Leisure"><rect x="126" y="54" width="10" height="10" fill="#30a14e" rx="2" ry="2"><title>2026-02-25: 3 entries
+<a href="https://saiht.de/obsidian/Leisure"><rect x="126" y="54" width="10" height="10" fill="#e57373" rx="2" ry="2"><title>2026-02-25: 3 entries
 Leisure
 Tschechientour - Weekend trip to Czechia
 Digital Garden</title></rect></a>
-<a href="https://saiht.de/obsidian/Projects/Obsidian"><rect x="126" y="66" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2026-02-26: 5 entries
+<a href="https://saiht.de/obsidian/Projects/Obsidian"><rect x="126" y="66" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2026-02-26: 5 entries
 Obsidian
 E3-1226 v3 with GTX 1060
 Nvidia
@@ -396,7 +396,7 @@ Hiking in Vietnam</title></rect></a>
 <rect x="654" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-12-28: 0 entries</title></rect>
 <rect x="654" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-12-29: 0 entries</title></rect>
 <rect x="654" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-12-30: 0 entries</title></rect>
-<a href="https://saiht.de/obsidian/Diary/2026"><rect x="654" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2026-12-31: 1 entry
+<a href="https://saiht.de/obsidian/Diary/2026"><rect x="654" y="66" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2026-12-31: 1 entry
 2026</title></rect></a>
 </svg>
 
@@ -4273,7 +4273,7 @@ Am Strand von Vũng Tàu</title></rect></a>
 <rect x="606" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-12-03: 0 entries</title></rect>
 <text x="618" y="12" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
 <rect x="618" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-12-04: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/computer/benchmark.html"><rect x="618" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-12-05: 1 entry
+<a href="https://saiht.de/legacy/computer/benchmark.html"><rect x="618" y="30" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2016-12-05: 1 entry
 Kleine Benchmarkseite des saiht</title></rect></a>
 <rect x="618" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-12-06: 0 entries</title></rect>
 <rect x="618" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-12-07: 0 entries</title></rect>
@@ -4726,7 +4726,7 @@ Start der Webseite</title></rect></a>
 <rect x="42" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-01-10: 0 entries</title></rect>
 <rect x="42" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-01-11: 0 entries</title></rect>
 <rect x="54" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-01-12: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/2013_usa.html"><rect x="54" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2014-01-13: 1 entry
+<a href="https://saiht.de/legacy/urlaub/2013_usa.html"><rect x="54" y="30" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2014-01-13: 1 entry
 USA 2013: From Eastcoast to Westcoast - and back! Including Canada</title></rect></a>
 <rect x="54" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-01-14: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2014/01/15/jahreshauptversammlung/"><rect x="54" y="54" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2014-01-15: 1 entry
@@ -4935,7 +4935,7 @@ Jahreshauptversammlung</title></rect></a>
 Fortsetzung Baumhausprojekt</title></rect></a>
 <rect x="390" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-07-30: 0 entries</title></rect>
 <rect x="390" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-07-31: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/glossar/handy.html"><rect x="390" y="78" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2014-08-01: 1 entry
+<a href="https://saiht.de/legacy/glossar/handy.html"><rect x="390" y="78" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2014-08-01: 1 entry
 Handysammlung</title></rect></a>
 <rect x="390" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-08-02: 0 entries</title></rect>
 <text x="402" y="12" font-family="sans-serif" font-size="8" fill="#767676">Aug</text>
@@ -5115,10 +5115,10 @@ Temperatur in Hofkoh</title></rect></a>
 <rect x="30" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-05: 0 entries</title></rect>
 <text x="42" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect x="42" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-06: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/2012_westeuropa.html"><rect x="42" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2013-01-07: 1 entry
+<a href="https://saiht.de/legacy/urlaub/2012_westeuropa.html"><rect x="42" y="30" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2013-01-07: 1 entry
 Tour durch Westeuropa im sonnigen Herbst - entlang der Côte d`Azur</title></rect></a>
 <rect x="42" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-08: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/umfang.html"><rect x="42" y="54" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2013-01-09: 1 entry
+<a href="https://saiht.de/legacy/projekte/umfang.html"><rect x="42" y="54" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2013-01-09: 1 entry
 Statistik zu saiht.de</title></rect></a>
 <rect x="42" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-10: 0 entries</title></rect>
 <rect x="42" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-11: 0 entries</title></rect>
@@ -5289,7 +5289,7 @@ Baumhaus &amp;#8211; Ebene eins</title></rect></a>
 <rect x="318" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-19: 0 entries</title></rect>
 <rect x="318" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-20: 0 entries</title></rect>
 <rect x="318" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-21: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/urlaub.html"><rect x="318" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2013-06-22: 1 entry
+<a href="https://saiht.de/legacy/urlaub/urlaub.html"><rect x="318" y="90" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2013-06-22: 1 entry
 Wo war der saiht im Urlaub?</title></rect></a>
 <rect x="330" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-23: 0 entries</title></rect>
 <rect x="330" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-24: 0 entries</title></rect>
@@ -5815,12 +5815,12 @@ Architektur mit SketchUp</title></rect></a>
 <rect x="546" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-10-29: 0 entries</title></rect>
 <rect x="546" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-10-30: 0 entries</title></rect>
 <rect x="546" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-10-31: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/2011_scandinavien.html"><rect x="546" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2012-11-01: 1 entry
+<a href="https://saiht.de/legacy/urlaub/2011_scandinavien.html"><rect x="546" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2012-11-01: 1 entry
 Städtetour nach Skandinavien - und dann einmal um die Ostsee</title></rect></a>
 <rect x="546" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-02: 0 entries</title></rect>
 <rect x="546" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-03: 0 entries</title></rect>
 <text x="558" y="12" font-family="sans-serif" font-size="8" fill="#767676">Nov</text>
-<a href="https://saiht.de/legacy/urlaub/liste.html"><rect x="558" y="18" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2012-11-04: 1 entry
+<a href="https://saiht.de/legacy/urlaub/liste.html"><rect x="558" y="18" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2012-11-04: 1 entry
 Liste der besuchten Lnder des saiht</title></rect></a>
 <rect x="558" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-05: 0 entries</title></rect>
 <rect x="558" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-06: 0 entries</title></rect>
@@ -5837,7 +5837,7 @@ Liste der besuchten Lnder des saiht</title></rect></a>
 <rect x="570" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-17: 0 entries</title></rect>
 <rect x="582" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-18: 0 entries</title></rect>
 <rect x="582" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-19: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/computer/history.html"><rect x="582" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2012-11-20: 1 entry
+<a href="https://saiht.de/legacy/computer/history.html"><rect x="582" y="42" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2012-11-20: 1 entry
 die saiht-Computergeschichte</title></rect></a>
 <rect x="582" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-21: 0 entries</title></rect>
 <rect x="582" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-22: 0 entries</title></rect>
@@ -5858,7 +5858,7 @@ die saiht-Computergeschichte</title></rect></a>
 <rect x="606" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-12-06: 0 entries</title></rect>
 <rect x="606" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-12-07: 0 entries</title></rect>
 <rect x="606" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-12-08: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/2002_ukraine.html"><rect x="618" y="18" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2012-12-09: 1 entry
+<a href="https://saiht.de/legacy/urlaub/2002_ukraine.html"><rect x="618" y="18" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2012-12-09: 1 entry
 Sommerschule in der Ukraine</title></rect></a>
 <rect x="618" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-12-10: 0 entries</title></rect>
 <rect x="618" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-12-11: 0 entries</title></rect>
@@ -6376,7 +6376,7 @@ wieder online</title></rect></a>
 <rect x="186" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-04-03: 0 entries</title></rect>
 <text x="198" y="12" font-family="sans-serif" font-size="8" fill="#767676">Apr</text>
 <rect x="198" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-04-04: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/logfeile/logfeile.html"><rect x="198" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2010-04-05: 1 entry
+<a href="https://saiht.de/legacy/logfeile/logfeile.html"><rect x="198" y="30" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2010-04-05: 1 entry
 Chronologie der saiht-Seiten</title></rect></a>
 <rect x="198" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-04-06: 0 entries</title></rect>
 <rect x="198" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-04-07: 0 entries</title></rect>
@@ -6508,7 +6508,7 @@ Projekt der HTW Berlin</title></rect></a>
 <rect x="402" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-08-06: 0 entries</title></rect>
 <rect x="402" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-08-07: 0 entries</title></rect>
 <rect x="414" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-08-08: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/logfeile/gruppe.html"><rect x="414" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2010-08-09: 1 entry
+<a href="https://saiht.de/legacy/logfeile/gruppe.html"><rect x="414" y="30" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2010-08-09: 1 entry
 Gruppenfotos</title></rect></a>
 <rect x="414" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-08-10: 0 entries</title></rect>
 <rect x="414" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-08-11: 0 entries</title></rect>
@@ -6573,7 +6573,7 @@ Gruppenfotos</title></rect></a>
 <rect x="510" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-10-07: 0 entries</title></rect>
 <rect x="510" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-10-08: 0 entries</title></rect>
 <rect x="510" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-10-09: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/02sdw.html"><rect x="522" y="18" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2010-10-10: 1 entry
+<a href="https://saiht.de/legacy/projekte/02sdw.html"><rect x="522" y="18" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2010-10-10: 1 entry
 Schule zur Dienstamtlichen Weiterbildung (SDW)</title></rect></a>
 <rect x="522" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-10-11: 0 entries</title></rect>
 <rect x="522" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-10-12: 0 entries</title></rect>
@@ -6615,7 +6615,7 @@ SDW beendet</title></rect></a>
 <rect x="582" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-11-15: 0 entries</title></rect>
 <rect x="582" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-11-16: 0 entries</title></rect>
 <rect x="582" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-11-17: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/2010_georgien.html"><rect x="582" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2010-11-18: 1 entry
+<a href="https://saiht.de/legacy/urlaub/2010_georgien.html"><rect x="582" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2010-11-18: 1 entry
 Zu Besuch bei den Delegierten aus der Ukraine und Georgien</title></rect></a>
 <rect x="582" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-11-19: 0 entries</title></rect>
 <rect x="582" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-11-20: 0 entries</title></rect>
@@ -6670,7 +6670,7 @@ Zu Besuch bei den Delegierten aus der Ukraine und Georgien</title></rect></a>
 <text x="5" y="39" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="63" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="87" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
-<a href="https://saiht.de/legacy/urlaub/2008_tatra.html"><rect x="30" y="66" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2009-01-01: 2 entries
+<a href="https://saiht.de/legacy/urlaub/2008_tatra.html"><rect x="30" y="66" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2009-01-01: 2 entries
 Herbsturlaub in der Hohen Tatra
 7 Wochen Afrika</title></rect></a>
 <rect x="30" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-02: 0 entries</title></rect>
@@ -6692,7 +6692,7 @@ Herbsturlaub in der Hohen Tatra
 <rect x="54" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-17: 0 entries</title></rect>
 <rect x="66" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-18: 0 entries</title></rect>
 <rect x="66" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-19: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/projekte.html"><rect x="66" y="42" width="10" height="10" fill="#30a14e" rx="2" ry="2"><title>2009-01-20: 3 entries
+<a href="https://saiht.de/legacy/projekte/projekte.html"><rect x="66" y="42" width="10" height="10" fill="#64b5f6" rx="2" ry="2"><title>2009-01-20: 3 entries
 Projekte des saiht
 Festplattentausch am Toshiba NB-100
 Unsere Tschechientouren</title></rect></a>
@@ -6702,7 +6702,7 @@ Unsere Tschechientouren</title></rect></a>
 <rect x="66" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-24: 0 entries</title></rect>
 <rect x="78" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-25: 0 entries</title></rect>
 <rect x="78" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-26: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/2015_usa.html"><rect x="78" y="42" width="10" height="10" fill="#30a14e" rx="2" ry="2"><title>2009-01-27: 3 entries
+<a href="https://saiht.de/legacy/urlaub/2015_usa.html"><rect x="78" y="42" width="10" height="10" fill="#64b5f6" rx="2" ry="2"><title>2009-01-27: 3 entries
 Per Auto quer durch den Osten Nordamerikas
 Per Auto quer durch den Osten Nordamerikas
 Per Auto quer durch den Osten Nordamerikas</title></rect></a>
@@ -6730,7 +6730,7 @@ Wo ist der Arbeitgeber</title></rect></a>
 <rect x="114" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-02-16: 0 entries</title></rect>
 <rect x="114" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-02-17: 0 entries</title></rect>
 <rect x="114" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-02-18: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/01bibellesen.html"><rect x="114" y="66" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2009-02-19: 2 entries
+<a href="https://saiht.de/legacy/projekte/01bibellesen.html"><rect x="114" y="66" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2009-02-19: 2 entries
 Bibellesen
 Zeitleiste</title></rect></a>
 <rect x="114" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-02-20: 0 entries</title></rect>
@@ -6767,7 +6767,7 @@ Zeitleiste</title></rect></a>
 <rect x="174" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-03-22: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2009/03/23/aufstieg-in-die-top5000-bei-wikipedia/"><rect x="174" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2009-03-23: 1 entry
 Aufstieg in die Top5000 bei Wikipedia</title></rect></a>
-<a href="https://saiht.de/legacy/computer/computer.html"><rect x="174" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2009-03-24: 1 entry
+<a href="https://saiht.de/legacy/computer/computer.html"><rect x="174" y="42" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2009-03-24: 1 entry
 Computerseite des saiht</title></rect></a>
 <rect x="174" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-03-25: 0 entries</title></rect>
 <rect x="174" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-03-26: 0 entries</title></rect>
@@ -6775,7 +6775,7 @@ Computerseite des saiht</title></rect></a>
 <rect x="174" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-03-28: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2009/03/29/weltkarte-von-uniteddomains/"><rect x="186" y="18" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2009-03-29: 1 entry
 Weltkarte von united.domains</title></rect></a>
-<a href="https://saiht.de/legacy/freizeit/fahrrad.html"><rect x="186" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2009-03-30: 1 entry
+<a href="https://saiht.de/legacy/freizeit/fahrrad.html"><rect x="186" y="30" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2009-03-30: 1 entry
 die Fahrradseite</title></rect></a>
 <rect x="186" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-03-31: 0 entries</title></rect>
 <rect x="186" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-04-01: 0 entries</title></rect>
@@ -6800,7 +6800,7 @@ die Fahrradseite</title></rect></a>
 <rect x="222" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-04-19: 0 entries</title></rect>
 <rect x="222" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-04-20: 0 entries</title></rect>
 <rect x="222" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-04-21: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/2008_usa.html"><rect x="222" y="54" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2009-04-22: 1 entry
+<a href="https://saiht.de/legacy/urlaub/2008_usa.html"><rect x="222" y="54" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2009-04-22: 1 entry
 Die Ostküste der USA: Florida und New York</title></rect></a>
 <rect x="222" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-04-23: 0 entries</title></rect>
 <rect x="222" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-04-24: 0 entries</title></rect>
@@ -6864,8 +6864,7 @@ Die Ostküste der USA: Florida und New York</title></rect></a>
 <rect x="318" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-06-19: 0 entries</title></rect>
 <rect x="318" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-06-20: 0 entries</title></rect>
 <rect x="330" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-06-21: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/freizeit/bilder.html"><rect x="330" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2009-06-22: 1 entry
-Unsere Tschechientouren</title></rect></a>
+<rect x="330" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-06-22: 0 entries</title></rect>
 <rect x="330" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-06-23: 0 entries</title></rect>
 <rect x="330" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-06-24: 0 entries</title></rect>
 <rect x="330" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-06-25: 0 entries</title></rect>
@@ -6917,7 +6916,7 @@ Unsere Tschechientouren</title></rect></a>
 <a href="https://saiht.de/blog/2009/08/08/ausflug-nach-syrien-und-jordanien/"><rect x="402" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2009-08-08: 1 entry
 Ausflug nach Syrien und Jordanien</title></rect></a>
 <rect x="414" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-08-09: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/2009_jordanien.html"><rect x="414" y="30" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2009-08-10: 2 entries
+<a href="https://saiht.de/legacy/urlaub/2009_jordanien.html"><rect x="414" y="30" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2009-08-10: 2 entries
 Mit dem Auto nach Jordanien
 Mit dem Auto nach Jordanien</title></rect></a>
 <rect x="414" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-08-11: 0 entries</title></rect>
@@ -6960,7 +6959,7 @@ Mit dem Auto nach Jordanien</title></rect></a>
 <rect x="474" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-09-16: 0 entries</title></rect>
 <rect x="474" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-09-17: 0 entries</title></rect>
 <rect x="474" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-09-18: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/logfeile/friends.html"><rect x="474" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2009-09-19: 1 entry
+<a href="https://saiht.de/legacy/logfeile/friends.html"><rect x="474" y="90" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2009-09-19: 1 entry
 Homepages von Freunden und Bekannten</title></rect></a>
 <rect x="486" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-09-20: 0 entries</title></rect>
 <rect x="486" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-09-21: 0 entries</title></rect>
@@ -7073,7 +7072,7 @@ Weiterer Server</title></rect></a>
 <rect x="654" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-12-31: 0 entries</title></rect>
 </svg>
 
-24 articles in 2009
+23 articles in 2009
 
 ### 2008
 <svg width="676" height="114" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
@@ -7170,7 +7169,7 @@ Abschlussprüfung des Physikstudiums</title></rect></a>
 <rect x="162" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-03-22: 0 entries</title></rect>
 <rect x="174" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-03-23: 0 entries</title></rect>
 <rect x="174" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-03-24: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/physik/physik.html"><rect x="174" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2008-03-25: 1 entry
+<a href="https://saiht.de/legacy/physik/physik.html"><rect x="174" y="42" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2008-03-25: 1 entry
 Studium zum Diplom-Physiker</title></rect></a>
 <rect x="174" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-03-26: 0 entries</title></rect>
 <rect x="174" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-03-27: 0 entries</title></rect>
@@ -7199,11 +7198,11 @@ Studium zum Diplom-Physiker</title></rect></a>
 Mandigo Theme
 upgrade auf WordPress 2.5</title></rect></a>
 <rect x="210" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-04-18: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/freizeit/einladungen.html"><rect x="210" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2008-04-19: 1 entry
+<a href="https://saiht.de/legacy/freizeit/einladungen.html"><rect x="210" y="90" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2008-04-19: 1 entry
 Unsere Tschechientouren</title></rect></a>
 <rect x="222" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-04-20: 0 entries</title></rect>
 <rect x="222" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-04-21: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/"><rect x="222" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2008-04-22: 1 entry
+<a href="https://saiht.de/legacy/"><rect x="222" y="42" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2008-04-22: 1 entry
 der saiht im internet</title></rect></a>
 <rect x="222" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-04-23: 0 entries</title></rect>
 <rect x="222" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-04-24: 0 entries</title></rect>
@@ -7217,7 +7216,7 @@ der saiht im internet</title></rect></a>
 <rect x="234" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-02: 0 entries</title></rect>
 <rect x="234" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-03: 0 entries</title></rect>
 <text x="246" y="12" font-family="sans-serif" font-size="8" fill="#767676">May</text>
-<a href="https://saiht.de/legacy/guestbook.html"><rect x="246" y="18" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2008-05-04: 1 entry
+<a href="https://saiht.de/legacy/guestbook.html"><rect x="246" y="18" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2008-05-04: 1 entry
 Gstebuch</title></rect></a>
 <rect x="246" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-05: 0 entries</title></rect>
 <rect x="246" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-06: 0 entries</title></rect>
@@ -7227,7 +7226,7 @@ Gstebuch</title></rect></a>
 <rect x="246" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-10: 0 entries</title></rect>
 <rect x="258" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-11: 0 entries</title></rect>
 <rect x="258" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-12: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/2008_ruegen.html"><rect x="258" y="42" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2008-05-13: 2 entries
+<a href="https://saiht.de/legacy/urlaub/2008_ruegen.html"><rect x="258" y="42" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2008-05-13: 2 entries
 Fahrradurlaub auf Rügen
 Elbrus im Kaukasus</title></rect></a>
 <rect x="258" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-14: 0 entries</title></rect>
@@ -7236,12 +7235,12 @@ Elbrus im Kaukasus</title></rect></a>
 WordPress ist ganz einfach</title></rect></a>
 <rect x="258" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-17: 0 entries</title></rect>
 <rect x="270" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-18: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/computer/html.html"><rect x="270" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2008-05-19: 1 entry
+<a href="https://saiht.de/legacy/computer/html.html"><rect x="270" y="30" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2008-05-19: 1 entry
 HTML-Seiten selbst erstellen</title></rect></a>
 <rect x="270" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-20: 0 entries</title></rect>
 <rect x="270" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-21: 0 entries</title></rect>
 <rect x="270" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-22: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/freizeit/teilnehmer.html"><rect x="270" y="78" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2008-05-23: 1 entry
+<a href="https://saiht.de/legacy/freizeit/teilnehmer.html"><rect x="270" y="78" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2008-05-23: 1 entry
 Teilnehmer der Tschechientouren</title></rect></a>
 <rect x="270" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-24: 0 entries</title></rect>
 <rect x="282" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-25: 0 entries</title></rect>
@@ -7380,7 +7379,7 @@ Hier bei Werner</title></rect></a>
 <rect x="498" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-09-28: 0 entries</title></rect>
 <rect x="498" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-09-29: 0 entries</title></rect>
 <rect x="498" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-09-30: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/04ledigsein.html"><rect x="498" y="54" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2008-10-01: 1 entry
+<a href="https://saiht.de/legacy/projekte/04ledigsein.html"><rect x="498" y="54" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2008-10-01: 1 entry
 Grnde fr das Ledigsein</title></rect></a>
 <a href="https://saiht.de/blog/2008/10/02/krank-zum-unpassenden-zeitpunkt/"><rect x="498" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2008-10-02: 1 entry
 Krank zum unpassenden Zeitpunkt</title></rect></a>
@@ -7418,7 +7417,7 @@ Zurück aus dem Urlaub in der Hohen Tatra</title></rect></a>
 <rect x="546" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-11-01: 0 entries</title></rect>
 <text x="558" y="12" font-family="sans-serif" font-size="8" fill="#767676">Nov</text>
 <rect x="558" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-11-02: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/glossar/family.html"><rect x="558" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2008-11-03: 1 entry
+<a href="https://saiht.de/legacy/glossar/family.html"><rect x="558" y="30" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2008-11-03: 1 entry
 Familie</title></rect></a>
 <rect x="558" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-11-04: 0 entries</title></rect>
 <rect x="558" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-11-05: 0 entries</title></rect>
@@ -7451,7 +7450,7 @@ Familie</title></rect></a>
 <rect x="606" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-02: 0 entries</title></rect>
 <rect x="606" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-03: 0 entries</title></rect>
 <rect x="606" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-04: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/2008_usa_bilder.html"><rect x="606" y="78" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2008-12-05: 1 entry
+<a href="https://saiht.de/legacy/urlaub/2008_usa_bilder.html"><rect x="606" y="78" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2008-12-05: 1 entry
 Die Ostküste der USA: Florida und New York</title></rect></a>
 <rect x="606" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-06: 0 entries</title></rect>
 <text x="618" y="12" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
@@ -7463,7 +7462,7 @@ Zurück aus Amerika</title></rect></a>
 <rect x="618" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-11: 0 entries</title></rect>
 <rect x="618" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-12: 0 entries</title></rect>
 <rect x="618" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-13: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/freizeit/einzelevents.html"><rect x="630" y="18" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2008-12-14: 1 entry
+<a href="https://saiht.de/legacy/freizeit/einzelevents.html"><rect x="630" y="18" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2008-12-14: 1 entry
 Einzelevents</title></rect></a>
 <rect x="630" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-15: 0 entries</title></rect>
 <rect x="630" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-16: 0 entries</title></rect>
@@ -7593,7 +7592,7 @@ Man liest mich</title></rect></a>
 <rect x="186" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-04-05: 0 entries</title></rect>
 <rect x="186" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-04-06: 0 entries</title></rect>
 <rect x="186" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-04-07: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/deutsch.html"><rect x="198" y="18" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2007-04-08: 1 entry
+<a href="https://saiht.de/legacy/projekte/deutsch.html"><rect x="198" y="18" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2007-04-08: 1 entry
 Bildung durch Lesen</title></rect></a>
 <rect x="198" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-04-09: 0 entries</title></rect>
 <rect x="198" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-04-10: 0 entries</title></rect>
@@ -7632,7 +7631,7 @@ Bildung durch Lesen</title></rect></a>
 <rect x="246" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-12: 0 entries</title></rect>
 <rect x="258" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-13: 0 entries</title></rect>
 <rect x="258" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-14: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/2003_elbsandstein.html"><rect x="258" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2007-05-15: 1 entry
+<a href="https://saiht.de/legacy/urlaub/2003_elbsandstein.html"><rect x="258" y="42" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2007-05-15: 1 entry
 Kurzurlaub im Elbsandsteingebirge</title></rect></a>
 <rect x="258" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-16: 0 entries</title></rect>
 <rect x="258" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-17: 0 entries</title></rect>
@@ -7644,7 +7643,7 @@ Kurzurlaub im Elbsandsteingebirge</title></rect></a>
 <rect x="270" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-23: 0 entries</title></rect>
 <rect x="270" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-24: 0 entries</title></rect>
 <rect x="270" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-25: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/1998_thailand_pic.html"><rect x="270" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2007-05-26: 1 entry
+<a href="https://saiht.de/legacy/urlaub/1998_thailand_pic.html"><rect x="270" y="90" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2007-05-26: 1 entry
 Thailand &amp; Malaysia - nur die Bilder</title></rect></a>
 <rect x="282" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-27: 0 entries</title></rect>
 <rect x="282" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-28: 0 entries</title></rect>
@@ -7656,7 +7655,7 @@ Thailand &amp; Malaysia - nur die Bilder</title></rect></a>
 <text x="294" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jun</text>
 <rect x="294" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-06-03: 0 entries</title></rect>
 <rect x="294" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-06-04: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/impressum.html"><rect x="294" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2007-06-05: 1 entry
+<a href="https://saiht.de/legacy/impressum.html"><rect x="294" y="42" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2007-06-05: 1 entry
 Impressum</title></rect></a>
 <rect x="294" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-06-06: 0 entries</title></rect>
 <rect x="294" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-06-07: 0 entries</title></rect>
@@ -7727,7 +7726,7 @@ Impressum</title></rect></a>
 <rect x="402" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-09: 0 entries</title></rect>
 <rect x="402" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-10: 0 entries</title></rect>
 <rect x="402" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-11: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/logfeile/sitemap.html"><rect x="414" y="18" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2007-08-12: 1 entry
+<a href="https://saiht.de/legacy/logfeile/sitemap.html"><rect x="414" y="18" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2007-08-12: 1 entry
 Sitemap</title></rect></a>
 <rect x="414" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-13: 0 entries</title></rect>
 <rect x="414" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-14: 0 entries</title></rect>
@@ -7844,7 +7843,7 @@ Gründe für das Ledigsein</title></rect></a>
 <rect x="594" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-11-26: 0 entries</title></rect>
 <rect x="594" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-11-27: 0 entries</title></rect>
 <rect x="594" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-11-28: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/02leben.html"><rect x="594" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2007-11-29: 1 entry
+<a href="https://saiht.de/legacy/projekte/02leben.html"><rect x="594" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2007-11-29: 1 entry
 Kann Leben durch Zufall entstehen?</title></rect></a>
 <rect x="594" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-11-30: 0 entries</title></rect>
 <rect x="594" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-12-01: 0 entries</title></rect>
@@ -7892,13 +7891,13 @@ russischer Vortrag über Studienergebnisse</title></rect></a>
 <text x="30" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect x="30" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-01: 0 entries</title></rect>
 <rect x="30" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-02: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/logfeile/logfeile.html"><rect x="30" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-01-03: 1 entry
+<a href="https://saiht.de/legacy/lite/logfeile/logfeile.html"><rect x="30" y="42" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-01-03: 1 entry
 Chronologie der saiht-Seiten</title></rect></a>
 <rect x="30" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-04: 0 entries</title></rect>
 <rect x="30" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-05: 0 entries</title></rect>
 <rect x="30" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-06: 0 entries</title></rect>
 <rect x="30" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-07: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/freizeit/fahrrad.html"><rect x="42" y="18" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-01-08: 1 entry
+<a href="https://saiht.de/legacy/lite/freizeit/fahrrad.html"><rect x="42" y="18" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-01-08: 1 entry
 die Fahrradseite</title></rect></a>
 <rect x="42" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-09: 0 entries</title></rect>
 <rect x="42" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-10: 0 entries</title></rect>
@@ -7915,12 +7914,12 @@ die Fahrradseite</title></rect></a>
 <rect x="54" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-21: 0 entries</title></rect>
 <rect x="66" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-22: 0 entries</title></rect>
 <rect x="66" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-23: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/14tag.html"><rect x="66" y="42" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2006-01-24: 4 entries
+<a href="https://saiht.de/legacy/projekte/14tag.html"><rect x="66" y="42" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2006-01-24: 4 entries
 Wie lange ist ein Schpfungstag?
 Leerprojekt
 Grnde fr das Ledigsein
 Leerprojekt</title></rect></a>
-<a href="https://saiht.de/legacy/projekte/05exfreund.html"><rect x="66" y="54" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2006-01-25: 2 entries
+<a href="https://saiht.de/legacy/projekte/05exfreund.html"><rect x="66" y="54" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2006-01-25: 2 entries
 Wieso wird aus so vielen Jungs bald ein Exfreund?
 Wieso wird aus so vielen Jungs bald ein Exfreund?</title></rect></a>
 <rect x="66" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-26: 0 entries</title></rect>
@@ -7930,9 +7929,9 @@ Wieso wird aus so vielen Jungs bald ein Exfreund?</title></rect></a>
 <rect x="78" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-30: 0 entries</title></rect>
 <rect x="78" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-31: 0 entries</title></rect>
 <rect x="78" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-01: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/2005_osteuropa.html"><rect x="78" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-02-02: 1 entry
+<a href="https://saiht.de/legacy/urlaub/2005_osteuropa.html"><rect x="78" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-02-02: 1 entry
 Rundreise durch Sdosteuropa</title></rect></a>
-<a href="https://saiht.de/legacy/freizeit/witz.html"><rect x="78" y="78" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-02-03: 1 entry
+<a href="https://saiht.de/legacy/freizeit/witz.html"><rect x="78" y="78" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-02-03: 1 entry
 Unsere Tschechientouren</title></rect></a>
 <rect x="78" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-04: 0 entries</title></rect>
 <text x="90" y="12" font-family="sans-serif" font-size="8" fill="#767676">Feb</text>
@@ -7940,23 +7939,23 @@ Unsere Tschechientouren</title></rect></a>
 <rect x="90" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-06: 0 entries</title></rect>
 <rect x="90" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-07: 0 entries</title></rect>
 <rect x="90" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-08: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/03jesus.html"><rect x="90" y="66" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2006-02-09: 6 entries
+<a href="https://saiht.de/legacy/projekte/03jesus.html"><rect x="90" y="66" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2006-02-09: 6 entries
 Wann wurde Jesus geboren?
 Impressum
 Projekte des saiht
 verwendete Hardware
 Bibellesen
 Wann wurde Jesus geboren?</title></rect></a>
-<a href="https://saiht.de/legacy/lite/glossar/glossar.html"><rect x="90" y="78" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-02-10: 1 entry
+<a href="https://saiht.de/legacy/lite/glossar/glossar.html"><rect x="90" y="78" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-02-10: 1 entry
 Glossar</title></rect></a>
 <rect x="90" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-11: 0 entries</title></rect>
 <rect x="102" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-12: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/freizeit/einzelevents.html"><rect x="102" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-02-13: 1 entry
+<a href="https://saiht.de/legacy/lite/freizeit/einzelevents.html"><rect x="102" y="30" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-02-13: 1 entry
 Einzelevents</title></rect></a>
 <rect x="102" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-14: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/projekte/umfang.html"><rect x="102" y="54" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-02-15: 1 entry
+<a href="https://saiht.de/legacy/lite/projekte/umfang.html"><rect x="102" y="54" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-02-15: 1 entry
 HTML-Seiten selbst erstellen</title></rect></a>
-<a href="https://saiht.de/legacy/lite/logfeile/wohnung.html"><rect x="102" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-02-16: 1 entry
+<a href="https://saiht.de/legacy/lite/logfeile/wohnung.html"><rect x="102" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-02-16: 1 entry
 Wohnorte auf diesem Planeten</title></rect></a>
 <rect x="102" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-17: 0 entries</title></rect>
 <rect x="102" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-18: 0 entries</title></rect>
@@ -7964,7 +7963,7 @@ Wohnorte auf diesem Planeten</title></rect></a>
 <rect x="114" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-20: 0 entries</title></rect>
 <rect x="114" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-21: 0 entries</title></rect>
 <rect x="114" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-22: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/physik/physik.html"><rect x="114" y="66" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2006-02-23: 2 entries
+<a href="https://saiht.de/legacy/lite/physik/physik.html"><rect x="114" y="66" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2006-02-23: 2 entries
 Studium zum Diplom-Physiker
 Unsere Tschechientouren</title></rect></a>
 <rect x="114" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-24: 0 entries</title></rect>
@@ -8010,7 +8009,7 @@ Unsere Tschechientouren</title></rect></a>
 <rect x="186" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-04-03: 0 entries</title></rect>
 <rect x="186" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-04-04: 0 entries</title></rect>
 <rect x="186" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-04-05: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/12freiheit.html"><rect x="186" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-04-06: 1 entry
+<a href="https://saiht.de/legacy/projekte/12freiheit.html"><rect x="186" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-04-06: 1 entry
 Was ist Freiheit?</title></rect></a>
 <rect x="186" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-04-07: 0 entries</title></rect>
 <rect x="186" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-04-08: 0 entries</title></rect>
@@ -8041,7 +8040,7 @@ Was ist Freiheit?</title></rect></a>
 <rect x="234" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-05-03: 0 entries</title></rect>
 <rect x="234" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-05-04: 0 entries</title></rect>
 <rect x="234" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-05-05: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/geschichte/c14.html"><rect x="234" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-05-06: 1 entry
+<a href="https://saiht.de/legacy/geschichte/c14.html"><rect x="234" y="90" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-05-06: 1 entry
 C14-Zeitbestimmung</title></rect></a>
 <text x="246" y="12" font-family="sans-serif" font-size="8" fill="#767676">May</text>
 <rect x="246" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-05-07: 0 entries</title></rect>
@@ -8117,7 +8116,7 @@ C14-Zeitbestimmung</title></rect></a>
 <rect x="354" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-07-14: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2006/07/15/erste-datenbank-erstes-wordpress-blog/"><rect x="354" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-07-15: 1 entry
 erste Datenbank, erstes WordPress-Blog</title></rect></a>
-<a href="https://saiht.de/legacy/logfeile/wohnung.html"><rect x="366" y="18" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-07-16: 1 entry
+<a href="https://saiht.de/legacy/logfeile/wohnung.html"><rect x="366" y="18" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-07-16: 1 entry
 Wohnorte auf diesem Planeten</title></rect></a>
 <rect x="366" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-07-17: 0 entries</title></rect>
 <rect x="366" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-07-18: 0 entries</title></rect>
@@ -8148,7 +8147,7 @@ Wohnorte auf diesem Planeten</title></rect></a>
 <rect x="402" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-08-11: 0 entries</title></rect>
 <rect x="402" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-08-12: 0 entries</title></rect>
 <rect x="414" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-08-13: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/physik/program/vir2qti.cpp"><rect x="414" y="30" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2006-08-14: 7 entries
+<a href="https://saiht.de/legacy/physik/program/vir2qti.cpp"><rect x="414" y="30" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2006-08-14: 7 entries
 vir2qti.cpp
 vir2qti.java
 vir2qti.cpp
@@ -8169,12 +8168,12 @@ vir2qti.class</title></rect></a>
 <rect x="426" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-08-25: 0 entries</title></rect>
 <rect x="426" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-08-26: 0 entries</title></rect>
 <rect x="438" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-08-27: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/physik/thesis/thesis.html"><rect x="438" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-08-28: 1 entry
+<a href="https://saiht.de/legacy/physik/thesis/thesis.html"><rect x="438" y="30" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-08-28: 1 entry
 Photoemission on narrow Bandgap II-VI-semiconductors Diplomarbeit HUMBOLDT-UNIVERSIT&amp;#196;T ZU BERLIN
 INSTITUT F&amp;#220;R PHYSIK
 AG ELEKTRONISCHE EIGENSCHAFTEN UND SUPRALEITUNG</title></rect></a>
 <rect x="438" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-08-29: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/physik/thesis/diploma.html"><rect x="438" y="54" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2006-08-30: 4 entries
+<a href="https://saiht.de/legacy/physik/thesis/diploma.html"><rect x="438" y="54" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2006-08-30: 4 entries
 Detailinformationen zur Diplomarbeit
 Detailinformationen zur Diplomarbeit
 Zeitleiste horizontal
@@ -8187,12 +8186,12 @@ Zeitleiste horizontal</title></rect></a>
 <rect x="450" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-09-04: 0 entries</title></rect>
 <rect x="450" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-09-05: 0 entries</title></rect>
 <rect x="450" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-09-06: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/zeitleiste/zeit4.html"><rect x="450" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-09-07: 1 entry
+<a href="https://saiht.de/legacy/projekte/zeitleiste/zeit4.html"><rect x="450" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-09-07: 1 entry
 Zeitleiste horizontal</title></rect></a>
 <rect x="450" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-09-08: 0 entries</title></rect>
 <rect x="450" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-09-09: 0 entries</title></rect>
 <rect x="462" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-09-10: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/logfeile/bericht3.html"><rect x="462" y="30" width="10" height="10" fill="#30a14e" rx="2" ry="2"><title>2006-09-11: 3 entries
+<a href="https://saiht.de/legacy/logfeile/bericht3.html"><rect x="462" y="30" width="10" height="10" fill="#64b5f6" rx="2" ry="2"><title>2006-09-11: 3 entries
 Bericht vom 13. 2. 2004
 Bericht vom 14. 11. 2004
 Bericht vom 15. 8. 2003</title></rect></a>
@@ -8245,23 +8244,23 @@ Bericht vom 15. 8. 2003</title></rect></a>
 <rect x="534" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-10-27: 0 entries</title></rect>
 <rect x="534" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-10-28: 0 entries</title></rect>
 <rect x="546" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-10-29: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/2006_italy.html"><rect x="546" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-10-30: 1 entry
+<a href="https://saiht.de/legacy/urlaub/2006_italy.html"><rect x="546" y="30" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-10-30: 1 entry
 Gardasee im Oktober 2006</title></rect></a>
 <rect x="546" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-10-31: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/geschichte/geschichte.html"><rect x="546" y="54" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-11-01: 1 entry
+<a href="https://saiht.de/legacy/geschichte/geschichte.html"><rect x="546" y="54" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-11-01: 1 entry
 interessante Fragen der Geschichte</title></rect></a>
 <rect x="546" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-02: 0 entries</title></rect>
 <rect x="546" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-03: 0 entries</title></rect>
 <rect x="546" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-04: 0 entries</title></rect>
 <text x="558" y="12" font-family="sans-serif" font-size="8" fill="#767676">Nov</text>
 <rect x="558" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-05: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/freizeit/motorrad.html"><rect x="558" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-11-06: 1 entry
+<a href="https://saiht.de/legacy/freizeit/motorrad.html"><rect x="558" y="30" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-11-06: 1 entry
 die Motorradseite</title></rect></a>
 <rect x="558" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-07: 0 entries</title></rect>
 <rect x="558" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-08: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/hardware.html"><rect x="558" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-11-09: 1 entry
+<a href="https://saiht.de/legacy/hardware.html"><rect x="558" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-11-09: 1 entry
 verwendete Hardware</title></rect></a>
-<a href="https://saiht.de/legacy/glossar/glossar.html"><rect x="558" y="78" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-11-10: 1 entry
+<a href="https://saiht.de/legacy/glossar/glossar.html"><rect x="558" y="78" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-11-10: 1 entry
 Glossar</title></rect></a>
 <rect x="558" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-11: 0 entries</title></rect>
 <rect x="570" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-12: 0 entries</title></rect>
@@ -8275,12 +8274,12 @@ Glossar</title></rect></a>
 <rect x="582" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-20: 0 entries</title></rect>
 <rect x="582" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-21: 0 entries</title></rect>
 <rect x="582" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-22: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/freizeit/tornowsee.html"><rect x="582" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-11-23: 1 entry
+<a href="https://saiht.de/legacy/freizeit/tornowsee.html"><rect x="582" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-11-23: 1 entry
 Informationen zum Tornowsee</title></rect></a>
-<a href="https://saiht.de/legacy/freizeit/freizeit.html"><rect x="582" y="78" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2006-11-24: 2 entries
+<a href="https://saiht.de/legacy/freizeit/freizeit.html"><rect x="582" y="78" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2006-11-24: 2 entries
 Freizeitaktivitten des saiht
 Synchronisierung des Festfrequenzmonitors GDM 1963 HE</title></rect></a>
-<a href="https://saiht.de/legacy/freizeit/kanu.html"><rect x="582" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-11-25: 1 entry
+<a href="https://saiht.de/legacy/freizeit/kanu.html"><rect x="582" y="90" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-11-25: 1 entry
 Kanu, saiht und Natur</title></rect></a>
 <rect x="594" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-26: 0 entries</title></rect>
 <rect x="594" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-27: 0 entries</title></rect>
@@ -8290,7 +8289,7 @@ Kanu, saiht und Natur</title></rect></a>
 <rect x="594" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-12-01: 0 entries</title></rect>
 <rect x="594" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-12-02: 0 entries</title></rect>
 <text x="606" y="12" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
-<a href="https://saiht.de/legacy/geschichte/angkor.html"><rect x="606" y="18" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2006-12-03: 2 entries
+<a href="https://saiht.de/legacy/geschichte/angkor.html"><rect x="606" y="18" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2006-12-03: 2 entries
 Angkor Wat
 Unsere Tschechientouren</title></rect></a>
 <rect x="606" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-12-04: 0 entries</title></rect>
@@ -8330,11 +8329,11 @@ Unsere Tschechientouren</title></rect></a>
 <text x="5" y="39" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="63" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="87" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
-<a href="https://saiht.de/legacy/lite/geschichte/geschichte.html"><rect x="30" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2005-01-01: 1 entry
+<a href="https://saiht.de/legacy/lite/geschichte/geschichte.html"><rect x="30" y="90" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2005-01-01: 1 entry
 interessante Fragen der Geschichte</title></rect></a>
 <text x="42" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect x="42" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-01-02: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/guestbook.html"><rect x="42" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2005-01-03: 1 entry
+<a href="https://saiht.de/legacy/lite/guestbook.html"><rect x="42" y="30" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2005-01-03: 1 entry
 Gstebuch</title></rect></a>
 <rect x="42" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-01-04: 0 entries</title></rect>
 <rect x="42" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-01-05: 0 entries</title></rect>
@@ -8389,7 +8388,7 @@ Gstebuch</title></rect></a>
 <rect x="126" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-02-22: 0 entries</title></rect>
 <rect x="126" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-02-23: 0 entries</title></rect>
 <rect x="126" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-02-24: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/1998_thailand.html"><rect x="126" y="78" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2005-02-25: 2 entries
+<a href="https://saiht.de/legacy/urlaub/1998_thailand.html"><rect x="126" y="78" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2005-02-25: 2 entries
 Thailand &amp; Malaysia
 Thailand &amp; Malaysia</title></rect></a>
 <rect x="126" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-02-26: 0 entries</title></rect>
@@ -8463,7 +8462,7 @@ Thailand &amp; Malaysia</title></rect></a>
 <rect x="246" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-05-02: 0 entries</title></rect>
 <rect x="246" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-05-03: 0 entries</title></rect>
 <rect x="246" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-05-04: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/2004_transsib.html"><rect x="246" y="66" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2005-05-05: 9 entries
+<a href="https://saiht.de/legacy/urlaub/2004_transsib.html"><rect x="246" y="66" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2005-05-05: 9 entries
 21000 km mit der Transsibirischen Eisenbahn
 Erlbach
 Winterurlaub Dolomiten
@@ -8473,12 +8472,12 @@ Ostkste der USA
 Erlbach
 Kurzurlaub im Elbsandsteingebirge
 Winterurlaub Dolomiten</title></rect></a>
-<a href="https://saiht.de/legacy/lite/geschichte/c14.html"><rect x="246" y="78" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2005-05-06: 1 entry
+<a href="https://saiht.de/legacy/lite/geschichte/c14.html"><rect x="246" y="78" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2005-05-06: 1 entry
 C14-Zeitbestimmung</title></rect></a>
 <rect x="246" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-05-07: 0 entries</title></rect>
 <rect x="258" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-05-08: 0 entries</title></rect>
 <rect x="258" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-05-09: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/freizeit/freizeit.html"><rect x="258" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2005-05-10: 1 entry
+<a href="https://saiht.de/legacy/lite/freizeit/freizeit.html"><rect x="258" y="42" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2005-05-10: 1 entry
 Freizeit</title></rect></a>
 <rect x="258" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-05-11: 0 entries</title></rect>
 <rect x="258" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-05-12: 0 entries</title></rect>
@@ -8517,15 +8516,15 @@ Freizeit</title></rect></a>
 <rect x="318" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-13: 0 entries</title></rect>
 <rect x="318" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-14: 0 entries</title></rect>
 <rect x="318" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-15: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/computer/history.html"><rect x="318" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2005-06-16: 1 entry
+<a href="https://saiht.de/legacy/lite/computer/history.html"><rect x="318" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2005-06-16: 1 entry
 die saiht-Computergeschichte</title></rect></a>
-<a href="https://saiht.de/legacy/lite/computer/html.html"><rect x="318" y="78" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2005-06-17: 1 entry
+<a href="https://saiht.de/legacy/lite/computer/html.html"><rect x="318" y="78" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2005-06-17: 1 entry
 HTML-Seiten selbst erstellen</title></rect></a>
 <rect x="318" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-18: 0 entries</title></rect>
 <rect x="330" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-19: 0 entries</title></rect>
 <rect x="330" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-20: 0 entries</title></rect>
 <rect x="330" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-21: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/07abitur.html"><rect x="330" y="54" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2005-06-22: 2 entries
+<a href="https://saiht.de/legacy/projekte/07abitur.html"><rect x="330" y="54" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2005-06-22: 2 entries
 Wie erhlt man ein Abitur?
 Wie erhlt man ein Abitur?</title></rect></a>
 <rect x="330" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-23: 0 entries</title></rect>
@@ -8534,7 +8533,7 @@ Wie erhlt man ein Abitur?</title></rect></a>
 <rect x="342" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-26: 0 entries</title></rect>
 <rect x="342" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-27: 0 entries</title></rect>
 <rect x="342" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-28: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/1996_austria_winter.html"><rect x="342" y="54" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2005-06-29: 2 entries
+<a href="https://saiht.de/legacy/urlaub/1996_austria_winter.html"><rect x="342" y="54" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2005-06-29: 2 entries
 mein erster Winterurlaub
 mein erster Winterurlaub</title></rect></a>
 <rect x="342" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-30: 0 entries</title></rect>
@@ -8544,16 +8543,16 @@ mein erster Winterurlaub</title></rect></a>
 <rect x="354" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-03: 0 entries</title></rect>
 <rect x="354" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-04: 0 entries</title></rect>
 <rect x="354" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-05: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/freizeit/motorrad.html"><rect x="354" y="54" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2005-07-06: 1 entry
+<a href="https://saiht.de/legacy/lite/freizeit/motorrad.html"><rect x="354" y="54" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2005-07-06: 1 entry
 die Motorradseite</title></rect></a>
 <rect x="354" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-07: 0 entries</title></rect>
 <rect x="354" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-08: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/computer/computer.html"><rect x="354" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2005-07-09: 1 entry
+<a href="https://saiht.de/legacy/lite/computer/computer.html"><rect x="354" y="90" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2005-07-09: 1 entry
 Computerseite des saiht</title></rect></a>
 <rect x="366" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-10: 0 entries</title></rect>
 <rect x="366" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-11: 0 entries</title></rect>
 <rect x="366" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-12: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/urlaub/urlaub.html"><rect x="366" y="54" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2005-07-13: 1 entry
+<a href="https://saiht.de/legacy/lite/urlaub/urlaub.html"><rect x="366" y="54" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2005-07-13: 1 entry
 Wo war der saiht im Urlaub?</title></rect></a>
 <rect x="366" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-14: 0 entries</title></rect>
 <rect x="366" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-15: 0 entries</title></rect>
@@ -8570,7 +8569,7 @@ Wo war der saiht im Urlaub?</title></rect></a>
 <rect x="390" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-26: 0 entries</title></rect>
 <rect x="390" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-27: 0 entries</title></rect>
 <rect x="390" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-28: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/06papier.html"><rect x="390" y="78" width="10" height="10" fill="#30a14e" rx="2" ry="2"><title>2005-07-29: 3 entries
+<a href="https://saiht.de/legacy/projekte/06papier.html"><rect x="390" y="78" width="10" height="10" fill="#64b5f6" rx="2" ry="2"><title>2005-07-29: 3 entries
 Wie oft kann man ein Blatt Papier falten?
 Kann Leben durch Zufall entstehen?
 Wie oft kann man ein Blatt Papier falten?</title></rect></a>
@@ -8707,7 +8706,7 @@ Wie oft kann man ein Blatt Papier falten?</title></rect></a>
 <rect x="606" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-12-03: 0 entries</title></rect>
 <text x="618" y="12" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
 <rect x="618" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-12-04: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/urlaub/2002_ukraine.html"><rect x="618" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2005-12-05: 1 entry
+<a href="https://saiht.de/legacy/lite/urlaub/2002_ukraine.html"><rect x="618" y="30" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2005-12-05: 1 entry
 Sommerschule in der Ukraine</title></rect></a>
 <rect x="618" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-12-06: 0 entries</title></rect>
 <rect x="618" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-12-07: 0 entries</title></rect>
@@ -8752,7 +8751,7 @@ Sommerschule in der Ukraine</title></rect></a>
 <rect x="42" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-05: 0 entries</title></rect>
 <rect x="42" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-06: 0 entries</title></rect>
 <rect x="42" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-07: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/auslegung.html"><rect x="42" y="66" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2004-01-08: 2 entries
+<a href="https://saiht.de/legacy/projekte/auslegung.html"><rect x="42" y="66" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2004-01-08: 2 entries
 Beispiel einer extremen (und beiderseits falschen) Bibelauslegung (Rmer 10:2)
 Beispiel einer extremen (und beiderseits falschen) Bibelauslegung (Rmer 10:2)</title></rect></a>
 <rect x="42" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-09: 0 entries</title></rect>
@@ -8767,12 +8766,12 @@ Beispiel einer extremen (und beiderseits falschen) Bibelauslegung (Rmer 10:2)</t
 <rect x="66" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-18: 0 entries</title></rect>
 <rect x="66" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-19: 0 entries</title></rect>
 <rect x="66" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-20: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/computer/cdrom.html"><rect x="66" y="54" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2004-01-21: 2 entries
+<a href="https://saiht.de/legacy/computer/cdrom.html"><rect x="66" y="54" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2004-01-21: 2 entries
 Motherboard zerstrt CD-ROM Laufwerke
 Motherboard zerstrt CD-ROM Laufwerke</title></rect></a>
 <rect x="66" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-22: 0 entries</title></rect>
 <rect x="66" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-23: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/computer/gdm1963.html"><rect x="66" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2004-01-24: 1 entry
+<a href="https://saiht.de/legacy/lite/computer/gdm1963.html"><rect x="66" y="90" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2004-01-24: 1 entry
 Synchronisierung des Festfrequenzmonitors GDM 1963 HE</title></rect></a>
 <rect x="78" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-25: 0 entries</title></rect>
 <rect x="78" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-26: 0 entries</title></rect>
@@ -9087,15 +9086,15 @@ Synchronisierung des Festfrequenzmonitors GDM 1963 HE</title></rect></a>
 <rect x="582" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-20: 0 entries</title></rect>
 <rect x="594" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-21: 0 entries</title></rect>
 <rect x="594" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-22: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/freizeit/tornowsee.html"><rect x="594" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2004-11-23: 1 entry
+<a href="https://saiht.de/legacy/lite/freizeit/tornowsee.html"><rect x="594" y="42" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2004-11-23: 1 entry
 Informationen zum Tornowsee</title></rect></a>
 <rect x="594" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-24: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/freizeit/kanu.html"><rect x="594" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2004-11-25: 1 entry
+<a href="https://saiht.de/legacy/lite/freizeit/kanu.html"><rect x="594" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2004-11-25: 1 entry
 Kanu, saiht und Natur</title></rect></a>
 <rect x="594" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-26: 0 entries</title></rect>
 <rect x="594" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-27: 0 entries</title></rect>
 <rect x="606" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-28: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/1997_usa.html"><rect x="606" y="30" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2004-11-29: 2 entries
+<a href="https://saiht.de/legacy/urlaub/1997_usa.html"><rect x="606" y="30" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2004-11-29: 2 entries
 USA - der Westen
 USA - der Westen</title></rect></a>
 <rect x="606" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-30: 0 entries</title></rect>
@@ -9197,8 +9196,7 @@ USA - der Westen</title></rect></a>
 <rect x="114" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-02-22: 0 entries</title></rect>
 <rect x="126" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-02-23: 0 entries</title></rect>
 <rect x="126" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-02-24: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/bibel/bibel1.html"><rect x="126" y="42" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2003-02-25: 2 entries
-das Bibelleseprogramm im ersten Jahr
+<a href="https://saiht.de/legacy/lite/projekte/bibel/bibel1.html"><rect x="126" y="42" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2003-02-25: 1 entry
 das Bibelleseprogramm im ersten Jahr</title></rect></a>
 <rect x="126" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-02-26: 0 entries</title></rect>
 <rect x="126" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-02-27: 0 entries</title></rect>
@@ -9327,7 +9325,7 @@ das Bibelleseprogramm im ersten Jahr</title></rect></a>
 <rect x="330" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-06-26: 0 entries</title></rect>
 <rect x="330" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-06-27: 0 entries</title></rect>
 <rect x="330" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-06-28: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/09propaganda.html"><rect x="342" y="18" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2003-06-29: 2 entries
+<a href="https://saiht.de/legacy/projekte/09propaganda.html"><rect x="342" y="18" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2003-06-29: 2 entries
 Propaganda und Irrefhrungen
 Propaganda und Irrefhrungen</title></rect></a>
 <rect x="342" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-06-30: 0 entries</title></rect>
@@ -9523,7 +9521,7 @@ Propaganda und Irrefhrungen</title></rect></a>
 <rect x="654" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-12-31: 0 entries</title></rect>
 </svg>
 
-4 articles in 2003
+3 articles in 2003
 
 ### 2002
 <svg width="676" height="114" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
@@ -9576,7 +9574,7 @@ Propaganda und Irrefhrungen</title></rect></a>
 <rect x="102" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-02-11: 0 entries</title></rect>
 <rect x="102" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-02-12: 0 entries</title></rect>
 <rect x="102" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-02-13: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/projekte/deutsch.html"><rect x="102" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2002-02-14: 1 entry
+<a href="https://saiht.de/legacy/lite/projekte/deutsch.html"><rect x="102" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2002-02-14: 1 entry
 Bildung durch Lesen</title></rect></a>
 <rect x="102" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-02-15: 0 entries</title></rect>
 <rect x="102" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-02-16: 0 entries</title></rect>
@@ -9719,7 +9717,7 @@ Bildung durch Lesen</title></rect></a>
 <rect x="330" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-06-29: 0 entries</title></rect>
 <rect x="342" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-06-30: 0 entries</title></rect>
 <rect x="342" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-07-01: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/1997.html"><rect x="342" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2002-07-02: 1 entry
+<a href="https://saiht.de/legacy/urlaub/1997.html"><rect x="342" y="42" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2002-07-02: 1 entry
 tote Verweisseite</title></rect></a>
 <rect x="342" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-07-03: 0 entries</title></rect>
 <rect x="342" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-07-04: 0 entries</title></rect>
@@ -9991,7 +9989,7 @@ tote Verweisseite</title></rect></a>
 <rect x="138" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-03-09: 0 entries</title></rect>
 <rect x="138" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-03-10: 0 entries</title></rect>
 <rect x="150" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-03-11: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/physik/ranseier.html"><rect x="150" y="30" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2001-03-12: 2 entries
+<a href="https://saiht.de/legacy/physik/ranseier.html"><rect x="150" y="30" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2001-03-12: 2 entries
 Karl Ranseier ist tot
 Karl Ranseier ist tot</title></rect></a>
 <rect x="150" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-03-13: 0 entries</title></rect>
@@ -10204,7 +10202,7 @@ Karl Ranseier ist tot</title></rect></a>
 <rect x="498" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-09-30: 0 entries</title></rect>
 <rect x="498" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-10-01: 0 entries</title></rect>
 <rect x="498" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-10-02: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/2001_fahrrad.html"><rect x="498" y="54" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2001-10-03: 2 entries
+<a href="https://saiht.de/legacy/urlaub/2001_fahrrad.html"><rect x="498" y="54" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2001-10-03: 2 entries
 mit dem Rad nach Rumnien
 mit dem Rad nach Rumnien</title></rect></a>
 <rect x="498" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-10-04: 0 entries</title></rect>
@@ -10280,7 +10278,7 @@ mit dem Rad nach Rumnien</title></rect></a>
 <rect x="618" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-12-10: 0 entries</title></rect>
 <rect x="618" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-12-11: 0 entries</title></rect>
 <rect x="618" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-12-12: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/geschichte/angkor.html"><rect x="618" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2001-12-13: 1 entry
+<a href="https://saiht.de/legacy/lite/geschichte/angkor.html"><rect x="618" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2001-12-13: 1 entry
 Angkor Wat</title></rect></a>
 <rect x="618" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-12-14: 0 entries</title></rect>
 <rect x="618" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-12-15: 0 entries</title></rect>
@@ -10458,7 +10456,7 @@ Angkor Wat</title></rect></a>
 <rect x="282" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-05-21: 0 entries</title></rect>
 <rect x="282" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-05-22: 0 entries</title></rect>
 <rect x="282" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-05-23: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/11freundschaft.html"><rect x="282" y="54" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2000-05-24: 2 entries
+<a href="https://saiht.de/legacy/projekte/11freundschaft.html"><rect x="282" y="54" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2000-05-24: 2 entries
 Freundschaft
 Freundschaft</title></rect></a>
 <rect x="282" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-05-25: 0 entries</title></rect>
@@ -10474,9 +10472,8 @@ Freundschaft</title></rect></a>
 <text x="306" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jun</text>
 <rect x="306" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-04: 0 entries</title></rect>
 <rect x="306" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-05: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/computer/crazy.html"><rect x="306" y="42" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2000-06-06: 6 entries
+<a href="https://saiht.de/legacy/computer/crazy.html"><rect x="306" y="42" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2000-06-06: 5 entries
 Wie man selbst gesund bleibt und dabei andere Leute in den Wahnsinn treibt:!
-das Bibelleseprogramm im zweiten Jahr
 das Bibelleseprogramm im dritten Jahr
 Wie man selbst gesund bleibt und dabei andere Leute in den Wahnsinn treibt:!
 das Bibelleseprogramm im zweiten Jahr
@@ -10495,11 +10492,12 @@ das Bibelleseprogramm im dritten Jahr</title></rect></a>
 <rect x="330" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-18: 0 entries</title></rect>
 <rect x="330" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-19: 0 entries</title></rect>
 <rect x="330" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-20: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/computer/atx.html"><rect x="330" y="54" width="10" height="10" fill="#30a14e" rx="2" ry="2"><title>2000-06-21: 3 entries
+<a href="https://saiht.de/legacy/computer/atx.html"><rect x="330" y="54" width="10" height="10" fill="#64b5f6" rx="2" ry="2"><title>2000-06-21: 3 entries
 Linux schaltet den ATX-Rechner nicht aus
 Anmerkung
 Linux schaltet den ATX-Rechner nicht aus</title></rect></a>
-<a href="https://saiht.de/legacy/computer/inder.html"><rect x="330" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2000-06-22: 1 entry
+<a href="https://saiht.de/legacy/computer/inder.html"><rect x="330" y="66" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2000-06-22: 2 entries
+InderNet
 InderNet</title></rect></a>
 <rect x="330" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-23: 0 entries</title></rect>
 <rect x="330" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-24: 0 entries</title></rect>
@@ -10507,7 +10505,7 @@ InderNet</title></rect></a>
 <rect x="342" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-26: 0 entries</title></rect>
 <rect x="342" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-27: 0 entries</title></rect>
 <rect x="342" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-28: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/10wahrheit.html"><rect x="342" y="66" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2000-06-29: 8 entries
+<a href="https://saiht.de/legacy/projekte/10wahrheit.html"><rect x="342" y="66" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2000-06-29: 8 entries
 Was ist Wahrheit?
 Psychologie
 Die Geschichte Ägyptens
@@ -10624,7 +10622,7 @@ Maya</title></rect></a>
 <rect x="522" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-10-09: 0 entries</title></rect>
 <rect x="522" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-10-10: 0 entries</title></rect>
 <rect x="522" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-10-11: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/physik/reform.html"><rect x="522" y="66" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2000-10-12: 2 entries
+<a href="https://saiht.de/legacy/physik/reform.html"><rect x="522" y="66" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2000-10-12: 2 entries
 Mathematikunterricht nach der Bildungsreform
 Mathematikunterricht nach der Bildungsreform</title></rect></a>
 <rect x="522" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-10-13: 0 entries</title></rect>
@@ -11042,7 +11040,7 @@ Mathematikunterricht nach der Bildungsreform</title></rect></a>
 <rect x="570" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1999-11-08: 0 entries</title></rect>
 <rect x="570" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1999-11-09: 0 entries</title></rect>
 <rect x="570" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1999-11-10: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/alt.html"><rect x="570" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>1999-11-11: 1 entry
+<a href="https://saiht.de/legacy/alt.html"><rect x="570" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>1999-11-11: 1 entry
 der saiht im web</title></rect></a>
 <rect x="570" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1999-11-12: 0 entries</title></rect>
 <rect x="570" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1999-11-13: 0 entries</title></rect>
@@ -11100,8 +11098,8 @@ der saiht im web</title></rect></a>
 1 article in 1999
 
 ## Statistics
-- **Days covered:** 201
-- **Total articles:** 277
-- **Total words:** 277836
-- **Total reading time:** 23h 10m
+- **Days covered:** 200
+- **Total articles:** 275
+- **Total words:** 262887
+- **Total reading time:** 21h 55m
 <!-- END_STATS -->
