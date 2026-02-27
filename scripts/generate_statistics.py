@@ -6,6 +6,7 @@ from datetime import datetime, date, timedelta
 import math
 import os
 import xml.sax.saxutils as saxutils
+import html
 
 def fetch_url(url):
     try:
@@ -166,7 +167,7 @@ def strip_html(text):
     # Remove other HTML tags
     text = re.sub('<[^<]+?>', '', text)
     # Unescape common entities
-    text = text.replace('&nbsp;', ' ').replace('&lt;', '<').replace('&gt;', '>').replace('&amp;', '&').replace('&quot;', '"')
+    text = html.unescape(text)
     return text
 
 def count_words(text):
@@ -220,7 +221,8 @@ def generate_svg(year, data_by_date):
                 tooltip = saxutils.escape(tooltip)
                 rect = f'<rect x="{x}" y="{y}" width="{square_size}" height="{square_size}" fill="{color}" rx="2" ry="2"><title>{tooltip}</title></rect>'
                 if count > 0:
-                    svg_parts.append(f'<a href="{entries[0]["link"]}">{rect}</a>')
+                    link = saxutils.quoteattr(entries[0]["link"])
+                    svg_parts.append(f'<a href={link}>{rect}</a>')
                 else:
                     svg_parts.append(rect)
             curr += timedelta(days=1)
