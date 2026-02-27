@@ -1,0 +1,14 @@
+[
+    {
+        "url": "https://saiht.de/blog",
+        "type": "wordpress"
+    },
+    {
+        "url": "https://kreier.github.io/quartz",
+        "type": "quartz"
+    },
+    {
+        "url": "https://saiht.de/legacy",
+        "type": "legacy_html"
+    }
+]
