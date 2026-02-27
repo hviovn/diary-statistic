@@ -94,7 +94,7 @@ Visualize my diary entries like GitHub for commits.
 ### 2009
 ![Activity 2009](assets/activity_2009.svg)
 
-24 articles in 2009
+23 articles in 2009
 
 ### 2008
 ![Activity 2008](assets/activity_2008.svg)
@@ -104,27 +104,27 @@ Visualize my diary entries like GitHub for commits.
 ### 2007
 ![Activity 2007](assets/activity_2007.svg)
 
-11 articles in 2007
+10 articles in 2007
 
 ### 2006
 ![Activity 2006](assets/activity_2006.svg)
 
-51 articles in 2006
+52 articles in 2006
 
 ### 2005
 ![Activity 2005](assets/activity_2005.svg)
 
-28 articles in 2005
+26 articles in 2005
 
 ### 2004
 ![Activity 2004](assets/activity_2004.svg)
 
-9 articles in 2004
+8 articles in 2004
 
 ### 2003
 ![Activity 2003](assets/activity_2003.svg)
 
-4 articles in 2003
+3 articles in 2003
 
 ### 2002
 ![Activity 2002](assets/activity_2002.svg)
@@ -139,7 +139,7 @@ Visualize my diary entries like GitHub for commits.
 ### 2000
 ![Activity 2000](assets/activity_2000.svg)
 
-23 articles in 2000
+22 articles in 2000
 
 ### 1999
 ![Activity 1999](assets/activity_1999.svg)
@@ -148,7 +148,7 @@ Visualize my diary entries like GitHub for commits.
 
 ## Statistics
 - **Days covered:** 200
-- **Total articles:** 276
-- **Total words:** 277460
-- **Total reading time:** 23h 8m
+- **Total articles:** 270
+- **Total words:** 266388
+- **Total reading time:** 22h 12m
 <!-- END_STATS -->

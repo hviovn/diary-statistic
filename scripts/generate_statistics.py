@@ -5,6 +5,7 @@ import re
 from datetime import datetime, date, timedelta
 import math
 import os
+import xml.sax.saxutils as saxutils
 
 def fetch_url(url):
     try:
@@ -160,7 +161,13 @@ def fetch_legacy_html(base_url):
     return posts
 
 def strip_html(text):
-    return re.sub('<[^<]+?>', '', text)
+    # Remove script and style tags and their content
+    text = re.sub(r'<(script|style).*?>.*?</\1>', '', text, flags=re.DOTALL | re.IGNORECASE)
+    # Remove other HTML tags
+    text = re.sub('<[^<]+?>', '', text)
+    # Unescape common entities
+    text = text.replace('&nbsp;', ' ').replace('&lt;', '<').replace('&gt;', '>').replace('&amp;', '&').replace('&quot;', '"')
+    return text
 
 def count_words(text):
     text = strip_html(text)
@@ -210,6 +217,7 @@ def generate_svg(year, data_by_date):
                 tooltip = f"{date_str}: {count} entry" if count == 1 else f"{date_str}: {count} entries"
                 if count > 0:
                     tooltip += "\n" + "\n".join([e['title'] for e in entries])
+                tooltip = saxutils.escape(tooltip)
                 rect = f'<rect x="{x}" y="{y}" width="{square_size}" height="{square_size}" fill="{color}" rx="2" ry="2"><title>{tooltip}</title></rect>'
                 if count > 0:
                     svg_parts.append(f'<a href="{entries[0]["link"]}">{rect}</a>')
