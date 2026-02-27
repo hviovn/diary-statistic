@@ -36,7 +36,8 @@ def fetch_wordpress(base_url):
                     'date': post['date'].split('T')[0],
                     'title': post['title']['rendered'],
                     'link': post['link'],
-                    'content': post['content']['rendered']
+                    'content': post['content']['rendered'],
+                    'source_type': 'wordpress'
                 })
             # Check headers via a separate HEAD or just assume from data length if header not available
             if len(data) < per_page:
@@ -72,7 +73,8 @@ def fetch_quartz(base_url):
                             'date': created_date,
                             'title': title,
                             'link': link,
-                            'content': item.get('content', '')
+                            'content': item.get('content', ''),
+                            'source_type': 'quartz'
                         })
         except Exception as e:
             print(f"Error parsing Quartz index: {e}")
@@ -99,7 +101,8 @@ def fetch_quartz(base_url):
                                 'date': date_str,
                                 'title': title,
                                 'link': link,
-                                'content': ''
+                                'content': '',
+                                'source_type': 'quartz'
                             })
                 except Exception as e:
                     print(f"Error parsing RSS item: {e}")
@@ -149,7 +152,8 @@ def fetch_legacy_html(base_url):
                 'date': found_date_str,
                 'title': title,
                 'link': url_no_frag,
-                'content': content
+                'content': content,
+                'source_type': 'legacy_html'
             })
 
         links = re.findall(r'href=["\'](.*?)["\']', content)
@@ -209,10 +213,22 @@ def generate_svg(year, data_by_date):
                 count = len(entries)
                 color = "#ebedf0"
                 if count > 0:
-                    if count == 1: color = "#9be9a8"
-                    elif count == 2: color = "#40c463"
-                    elif count == 3: color = "#30a14e"
-                    else: color = "#216e39"
+                    source_type = entries[0].get('source_type', 'wordpress')
+                    if source_type == 'wordpress': # Green
+                        if count == 1: color = "#9be9a8"
+                        elif count == 2: color = "#40c463"
+                        elif count == 3: color = "#30a14e"
+                        else: color = "#216e39"
+                    elif source_type == 'quartz': # Red
+                        if count == 1: color = "#ffcdd2"
+                        elif count == 2: color = "#ef9a9a"
+                        elif count == 3: color = "#e57373"
+                        else: color = "#ef5350"
+                    elif source_type == 'legacy_html': # Blue
+                        if count == 1: color = "#bbdefb"
+                        elif count == 2: color = "#90caf9"
+                        elif count == 3: color = "#64b5f6"
+                        else: color = "#42a5f5"
                 x = week * (square_size + square_margin) + 30
                 y = day * (square_size + square_margin) + 18
                 tooltip = f"{date_str}: {count} entry" if count == 1 else f"{date_str}: {count} entries"
@@ -255,10 +271,11 @@ def main():
     data_by_date = {}
     total_words = 0
     for item in all_data:
+        item['word_count'] = count_words(item.get('content', ''))
         d = item['date']
         if d not in data_by_date: data_by_date[d] = []
         data_by_date[d].append(item)
-        total_words += count_words(item.get('content', ''))
+        total_words += item['word_count']
 
     total_articles = len(all_data)
     days_covered = len(data_by_date)
@@ -276,6 +293,25 @@ def main():
     assets_dir = os.path.join(os.path.dirname(script_dir), "docs", "assets")
     os.makedirs(assets_dir, exist_ok=True)
 
+    # Generate CSV files for each source
+    sources_data = {}
+    for item in all_data:
+        st = item.get('source_type', 'unknown')
+        if st not in sources_data: sources_data[st] = []
+        sources_data[st].append(item)
+
+    for st, items in sources_data.items():
+        csv_filename = f"source_{st}.csv"
+        csv_path = os.path.join(assets_dir, csv_filename)
+        with open(csv_path, "w") as f:
+            f.write("Title,Link,Word Count\n")
+            for item in items:
+                title = item['title'].replace('"', '""')
+                link = item['link']
+                wc = item['word_count']
+                f.write(f'"{title}","{link}",{wc}\n')
+        print(f"Generated {csv_path}")
+
     output = ["# Diary Activity Overview\n"]
     for year in range(end_year, start_year - 1, -1):
         year_entries = sum(len(entries) for d, entries in data_by_date.items() if d.startswith(str(year)))
@@ -286,7 +322,7 @@ def main():
             f.write(svg_content)
 
         output.append(f"### {year}")
-        output.append(f"![Activity {year}](assets/{svg_filename})")
+        output.append(svg_content)
         output.append(f"\n{year_entries} article{'s' if year_entries != 1 else ''} in {year}\n")
 
     output.append("## Statistics")
