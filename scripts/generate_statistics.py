@@ -65,6 +65,37 @@ def fetch_quartz(base_url):
                 for slug, item in data.items():
                     title = item.get('title', slug)
                     created_date = item.get('date') or item.get('dates', {}).get('created')
+
+                    # Try to extract date from slug if not in metadata
+                    if not created_date:
+                        # Match YYYY/MM/DD or YYYY-MM-DD
+                        date_match = re.search(r'(\d{4})[/-](\d{2})[/-](\d{2})', slug)
+                        if date_match:
+                            created_date = f"{date_match.group(1)}-{date_match.group(2)}-{date_match.group(3)}"
+                        else:
+                            # Match YYYY/MM (assume 01 for day)
+                            date_match = re.search(r'(\d{4})[/-](\d{2})', slug)
+                            if date_match:
+                                created_date = f"{date_match.group(1)}-{date_match.group(2)}-01"
+                            else:
+                                # Match YYYY in slug
+                                date_match = re.search(r'\b(\d{4})\b', slug)
+                                if date_match:
+                                    created_date = f"{date_match.group(1)}-01-01"
+
+                    # Try content for lines like "2025-10-20"
+                    if not created_date:
+                        content = item.get('content', '')
+                        date_match = re.search(r'\b(\d{4}-\d{2}-\d{2})\b', content)
+                        if date_match:
+                            created_date = date_match.group(1)
+
+                    # Special case for filePath if slug doesn't have it
+                    if not created_date and 'filePath' in item:
+                        date_match = re.search(r'(\d{4})[/-](\d{2})[/-](\d{2})', item['filePath'])
+                        if date_match:
+                            created_date = f"{date_match.group(1)}-{date_match.group(2)}-{date_match.group(3)}"
+
                     if created_date:
                         created_date = created_date.split('T')[0]
                         link = f"{base_url}/{slug.lstrip('/')}"
@@ -107,6 +138,51 @@ def fetch_quartz(base_url):
                 except Exception as e:
                     print(f"Error parsing RSS item: {e}")
     return posts
+
+def fetch_github(username):
+    print(f"Fetching GitHub commits for user: {username}...")
+    all_commits = []
+    page = 1
+    per_page = 100
+
+    # We use the search API to find commits by the user.
+    # Note: This requires specific headers and might be subject to lower rate limits.
+    while page <= 10: # Limit to 10 pages to avoid deep paging issues and stay within reasonable limits
+        # Sort by committer-date to get a consistent order
+        url = f"https://api.github.com/search/commits?q=author:{username}&sort=committer-date&order=desc&page={page}&per_page={per_page}"
+        headers = {
+            'User-Agent': 'Mozilla/5.0',
+            'Accept': 'application/vnd.github.cloak-preview' # Required for commit search API
+        }
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=15) as response:
+                content = response.read().decode('utf-8', errors='ignore')
+                data = json.loads(content)
+
+                if not data.get('items'):
+                    break
+
+                for item in data['items']:
+                    commit_date = item['commit']['author']['date'].split('T')[0]
+                    repo_name = item['repository']['full_name']
+                    msg = item['commit']['message'].split('\n')[0]
+                    all_commits.append({
+                        'date': commit_date,
+                        'title': f"[{repo_name}] {msg}",
+                        'link': item['html_url'],
+                        'content': item['commit']['message'], # Use message as content for word count
+                        'source_type': 'github'
+                    })
+
+                if len(data['items']) < per_page or len(all_commits) >= 1000: # Limit to 1000 for now to avoid hitting limits
+                    break
+                page += 1
+        except Exception as e:
+            print(f"Error fetching GitHub commits: {e}")
+            break
+
+    return all_commits
 
 def fetch_legacy_html(base_url):
     print(f"Fetching Legacy HTML: {base_url}...")
@@ -187,7 +263,7 @@ def generate_svg(year, data_by_date):
     square_size = 10
     square_margin = 2
     width = 53 * (square_size + square_margin) + 40
-    height = 7 * (square_size + square_margin) + 30
+    height = 7 * (square_size + square_margin) + 40
 
     svg_parts = [f'<svg width="{width}" height="{height}" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">']
     day_labels = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
@@ -229,6 +305,11 @@ def generate_svg(year, data_by_date):
                         elif count == 2: color = "#90caf9"
                         elif count == 3: color = "#64b5f6"
                         else: color = "#42a5f5"
+                    elif source_type == 'github': # Teal
+                        if count == 1: color = "#b2dfdb"
+                        elif count == 2: color = "#80cbc4"
+                        elif count == 3: color = "#4db6ac"
+                        else: color = "#26a69a"
                 x = week * (square_size + square_margin) + 30
                 y = day * (square_size + square_margin) + 18
                 tooltip = f"{date_str}: {count} entry" if count == 1 else f"{date_str}: {count} entries"
@@ -244,6 +325,20 @@ def generate_svg(year, data_by_date):
             curr += timedelta(days=1)
         if curr > end_date: break
 
+    # Add legend
+    legend_x = 30
+    legend_y = height - 12
+    sources_info = [
+        ("WordPress", "#30a14e"),
+        ("Quartz", "#e57373"),
+        ("Legacy HTML", "#64b5f6"),
+        ("GitHub", "#4db6ac")
+    ]
+    for label, color in sources_info:
+        svg_parts.append(f'<rect x="{legend_x}" y="{legend_y}" width="8" height="8" fill="{color}" rx="1" ry="1"/>')
+        svg_parts.append(f'<text x="{legend_x + 12}" y="{legend_y + 7}" font-family="sans-serif" font-size="7" fill="#767676">{label}</text>')
+        legend_x += 70
+
     svg_parts.append('</svg>')
     return "\n".join(svg_parts)
 
@@ -258,6 +353,7 @@ def main():
         if source['type'] == 'wordpress': all_data.extend(fetch_wordpress(source['url']))
         elif source['type'] == 'quartz': all_data.extend(fetch_quartz(source['url']))
         elif source['type'] == 'legacy_html': all_data.extend(fetch_legacy_html(source['url']))
+        elif source['type'] == 'github': all_data.extend(fetch_github(source['url']))
 
     # Deduplicate by link
     unique_data = []
@@ -285,9 +381,10 @@ def main():
     dates = sorted(data_by_date.keys())
     start_year = 2006 # Default start year
     if dates:
-        earliest_year = int(dates[0].split('-')[0])
-        # If we have data before 2006, include those years too
-        start_year = min(start_year, earliest_year)
+        # Filter out clearly invalid dates like "0001-01-01" or far-future dates
+        valid_years = [int(d.split('-')[0]) for d in dates if 1970 <= int(d.split('-')[0]) <= 2026]
+        if valid_years:
+            start_year = min(start_year, min(valid_years))
     end_year = 2026
 
     assets_dir = os.path.join(os.path.dirname(script_dir), "docs", "assets")
@@ -327,9 +424,22 @@ def main():
 
     output.append("## Statistics")
     output.append(f"- **Days covered:** {days_covered}")
-    output.append(f"- **Total articles:** {total_articles}")
+    output.append(f"- **Total entries:** {total_articles}")
     output.append(f"- **Total words:** {total_words}")
     output.append(f"- **Total reading time:** {reading_time_str}")
+
+    output.append("\n### Breakdown by Source")
+    source_names = {
+        'wordpress': 'WordPress',
+        'quartz': 'Quartz',
+        'legacy_html': 'Legacy HTML',
+        'github': 'GitHub'
+    }
+    for st, items in sorted(sources_data.items()):
+        name = source_names.get(st, st)
+        count = len(items)
+        words = sum(item.get('word_count', 0) for item in items)
+        output.append(f"- **{name}:** {count} entries, {words} words")
 
     readme_path = os.path.join(os.path.dirname(script_dir), "docs", "README.md")
     if not os.path.exists(readme_path):

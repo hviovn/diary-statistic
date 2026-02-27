@@ -1,8 +1,9 @@
-<svg width="676" height="114" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<svg width="676" height="124" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
 <text x="5" y="39" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="63" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="87" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
-<rect x="30" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-01: 0 entries</title></rect>
+<a href="https://kreier.github.io/quartz/Diary/2024"><rect x="30" y="30" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2024-01-01: 1 entry
+2024</title></rect></a>
 <rect x="30" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-02: 0 entries</title></rect>
 <rect x="30" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-03: 0 entries</title></rect>
 <rect x="30" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-04: 0 entries</title></rect>
@@ -13,7 +14,8 @@
 <rect x="42" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-08: 0 entries</title></rect>
 <rect x="42" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-09: 0 entries</title></rect>
 <rect x="42" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-10: 0 entries</title></rect>
-<rect x="42" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-11: 0 entries</title></rect>
+<a href="https://kreier.github.io/quartz/Projects/Computer/HP-ProDesk-600-G4-mini-i5-8500T"><rect x="42" y="66" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2024-01-11: 1 entry
+HP ProDesk 600 G4 mini i5-8500T</title></rect></a>
 <rect x="42" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-12: 0 entries</title></rect>
 <rect x="42" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-13: 0 entries</title></rect>
 <rect x="54" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-14: 0 entries</title></rect>
@@ -36,7 +38,8 @@
 <rect x="78" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-31: 0 entries</title></rect>
 <rect x="78" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-01: 0 entries</title></rect>
 <rect x="78" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-02: 0 entries</title></rect>
-<rect x="78" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-03: 0 entries</title></rect>
+<a href="https://kreier.github.io/quartz/Projects/Computer/MXQ-Pro-4K"><rect x="78" y="90" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2024-02-03: 1 entry
+MXQ Pro 4K</title></rect></a>
 <text x="90" y="12" font-family="sans-serif" font-size="8" fill="#767676">Feb</text>
 <rect x="90" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-04: 0 entries</title></rect>
 <rect x="90" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-05: 0 entries</title></rect>
@@ -46,7 +49,8 @@
 <rect x="90" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-09: 0 entries</title></rect>
 <rect x="90" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-10: 0 entries</title></rect>
 <rect x="102" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-11: 0 entries</title></rect>
-<rect x="102" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-12: 0 entries</title></rect>
+<a href="https://kreier.github.io/quartz/Projects/Computer/Raspberry-Pi-3-with-1-GB-RAM"><rect x="102" y="30" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2024-02-12: 1 entry
+Raspberry Pi 3 with 1 GB RAM</title></rect></a>
 <rect x="102" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-13: 0 entries</title></rect>
 <rect x="102" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-14: 0 entries</title></rect>
 <rect x="102" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-15: 0 entries</title></rect>
@@ -317,7 +321,11 @@
 <rect x="546" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-29: 0 entries</title></rect>
 <rect x="546" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-30: 0 entries</title></rect>
 <rect x="546" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-31: 0 entries</title></rect>
-<rect x="546" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-01: 0 entries</title></rect>
+<a href="https://kreier.github.io/quartz/Blog/2024/11/A-humble-beginning-2024"><rect x="546" y="78" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2024-11-01: 4 entries
+A humble beginning 2024
+First use of Obsidian
+Ideas about the Structure of my Obsidian vault
+Note the second</title></rect></a>
 <rect x="546" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-02: 0 entries</title></rect>
 <text x="558" y="12" font-family="sans-serif" font-size="8" fill="#767676">Nov</text>
 <rect x="558" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-03: 0 entries</title></rect>
@@ -349,7 +357,8 @@
 <rect x="594" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-29: 0 entries</title></rect>
 <rect x="594" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-30: 0 entries</title></rect>
 <text x="606" y="12" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
-<rect x="606" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-01: 0 entries</title></rect>
+<a href="https://kreier.github.io/quartz/Blog/2024/12/Writing-pages-in-Obsidian"><rect x="606" y="18" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2024-12-01: 1 entry
+Writing pages in Obsidian</title></rect></a>
 <rect x="606" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-02: 0 entries</title></rect>
 <rect x="606" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-03: 0 entries</title></rect>
 <rect x="606" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-04: 0 entries</title></rect>
@@ -380,4 +389,12 @@
 <rect x="654" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-29: 0 entries</title></rect>
 <rect x="654" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-30: 0 entries</title></rect>
 <rect x="654" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-31: 0 entries</title></rect>
+<rect x="30" y="112" width="8" height="8" fill="#30a14e" rx="1" ry="1"/>
+<text x="42" y="119" font-family="sans-serif" font-size="7" fill="#767676">WordPress</text>
+<rect x="100" y="112" width="8" height="8" fill="#e57373" rx="1" ry="1"/>
+<text x="112" y="119" font-family="sans-serif" font-size="7" fill="#767676">Quartz</text>
+<rect x="170" y="112" width="8" height="8" fill="#64b5f6" rx="1" ry="1"/>
+<text x="182" y="119" font-family="sans-serif" font-size="7" fill="#767676">Legacy HTML</text>
+<rect x="240" y="112" width="8" height="8" fill="#4db6ac" rx="1" ry="1"/>
+<text x="252" y="119" font-family="sans-serif" font-size="7" fill="#767676">GitHub</text>
 </svg>

@@ -1,8 +1,9 @@
-<svg width="676" height="114" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<svg width="676" height="124" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
 <text x="5" y="39" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="63" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="87" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
-<rect x="30" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-01: 0 entries</title></rect>
+<a href="https://kreier.github.io/quartz/Diary/2004"><rect x="30" y="66" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2004-01-01: 1 entry
+2004</title></rect></a>
 <rect x="30" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-02: 0 entries</title></rect>
 <rect x="30" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-03: 0 entries</title></rect>
 <text x="42" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
@@ -10,8 +11,7 @@
 <rect x="42" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-05: 0 entries</title></rect>
 <rect x="42" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-06: 0 entries</title></rect>
 <rect x="42" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-07: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/auslegung.html"><rect x="42" y="66" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2004-01-08: 2 entries
-Beispiel einer extremen (und beiderseits falschen) Bibelauslegung (Rmer 10:2)
+<a href="https://saiht.de/legacy/projekte/auslegung.html"><rect x="42" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2004-01-08: 1 entry
 Beispiel einer extremen (und beiderseits falschen) Bibelauslegung (Rmer 10:2)</title></rect></a>
 <rect x="42" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-09: 0 entries</title></rect>
 <rect x="42" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-10: 0 entries</title></rect>
@@ -25,13 +25,11 @@ Beispiel einer extremen (und beiderseits falschen) Bibelauslegung (Rmer 10:2)</t
 <rect x="66" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-18: 0 entries</title></rect>
 <rect x="66" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-19: 0 entries</title></rect>
 <rect x="66" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-20: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/computer/cdrom.html"><rect x="66" y="54" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2004-01-21: 2 entries
-Motherboard zerstrt CD-ROM Laufwerke
+<a href="https://saiht.de/legacy/computer/cdrom.html"><rect x="66" y="54" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2004-01-21: 1 entry
 Motherboard zerstrt CD-ROM Laufwerke</title></rect></a>
 <rect x="66" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-22: 0 entries</title></rect>
 <rect x="66" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-23: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/computer/gdm1963.html"><rect x="66" y="90" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2004-01-24: 1 entry
-Synchronisierung des Festfrequenzmonitors GDM 1963 HE</title></rect></a>
+<rect x="66" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-24: 0 entries</title></rect>
 <rect x="78" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-25: 0 entries</title></rect>
 <rect x="78" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-26: 0 entries</title></rect>
 <rect x="78" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-27: 0 entries</title></rect>
@@ -345,16 +343,13 @@ Synchronisierung des Festfrequenzmonitors GDM 1963 HE</title></rect></a>
 <rect x="582" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-20: 0 entries</title></rect>
 <rect x="594" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-21: 0 entries</title></rect>
 <rect x="594" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-22: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/freizeit/tornowsee.html"><rect x="594" y="42" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2004-11-23: 1 entry
-Informationen zum Tornowsee</title></rect></a>
+<rect x="594" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-23: 0 entries</title></rect>
 <rect x="594" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-24: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/freizeit/kanu.html"><rect x="594" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2004-11-25: 1 entry
-Kanu, saiht und Natur</title></rect></a>
+<rect x="594" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-25: 0 entries</title></rect>
 <rect x="594" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-26: 0 entries</title></rect>
 <rect x="594" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-27: 0 entries</title></rect>
 <rect x="606" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-28: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/1997_usa.html"><rect x="606" y="30" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2004-11-29: 2 entries
-USA - der Westen
+<a href="https://saiht.de/legacy/urlaub/1997_usa.html"><rect x="606" y="30" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2004-11-29: 1 entry
 USA - der Westen</title></rect></a>
 <rect x="606" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-30: 0 entries</title></rect>
 <rect x="606" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-12-01: 0 entries</title></rect>
@@ -389,4 +384,12 @@ USA - der Westen</title></rect></a>
 <rect x="654" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-12-29: 0 entries</title></rect>
 <rect x="654" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-12-30: 0 entries</title></rect>
 <rect x="654" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-12-31: 0 entries</title></rect>
+<rect x="30" y="112" width="8" height="8" fill="#30a14e" rx="1" ry="1"/>
+<text x="42" y="119" font-family="sans-serif" font-size="7" fill="#767676">WordPress</text>
+<rect x="100" y="112" width="8" height="8" fill="#e57373" rx="1" ry="1"/>
+<text x="112" y="119" font-family="sans-serif" font-size="7" fill="#767676">Quartz</text>
+<rect x="170" y="112" width="8" height="8" fill="#64b5f6" rx="1" ry="1"/>
+<text x="182" y="119" font-family="sans-serif" font-size="7" fill="#767676">Legacy HTML</text>
+<rect x="240" y="112" width="8" height="8" fill="#4db6ac" rx="1" ry="1"/>
+<text x="252" y="119" font-family="sans-serif" font-size="7" fill="#767676">GitHub</text>
 </svg>
