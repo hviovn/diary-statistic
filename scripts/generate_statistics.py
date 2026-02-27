@@ -286,7 +286,7 @@ def main():
             f.write(svg_content)
 
         output.append(f"### {year}")
-        output.append(f"![Activity {year}](assets/{svg_filename})")
+        output.append(svg_content)
         output.append(f"\n{year_entries} article{'s' if year_entries != 1 else ''} in {year}\n")
 
     output.append("## Statistics")
