@@ -263,11 +263,20 @@ def main():
         start_year = min(start_year, earliest_year)
     end_year = 2026
 
+    assets_dir = os.path.join(os.path.dirname(script_dir), "docs", "assets")
+    os.makedirs(assets_dir, exist_ok=True)
+
     output = ["# Diary Activity Overview\n"]
     for year in range(end_year, start_year - 1, -1):
         year_entries = sum(len(entries) for d, entries in data_by_date.items() if d.startswith(str(year)))
+        svg_content = generate_svg(year, data_by_date)
+        svg_filename = f"activity_{year}.svg"
+        svg_path = os.path.join(assets_dir, svg_filename)
+        with open(svg_path, "w") as f:
+            f.write(svg_content)
+
         output.append(f"### {year}")
-        output.append(generate_svg(year, data_by_date))
+        output.append(f"![Activity {year}](assets/{svg_filename})")
         output.append(f"\n{year_entries} article{'s' if year_entries != 1 else ''} in {year}\n")
 
     output.append("## Statistics")
