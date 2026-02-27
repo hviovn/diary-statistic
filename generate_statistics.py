@@ -110,7 +110,7 @@ def generate_svg(year, data_by_date, base_url):
                 x = week * (square_size + square_margin) + 30
                 y = day * (square_size + square_margin) + 18
 
-                tooltip = f"{date_str}: {count} entries"
+                tooltip = f"{date_str}: {count} entry" if count == 1 else f"{date_str}: {count} entries"
                 if count > 0:
                     tooltip += "\n" + "\n".join([e['title'] for e in entries])
 
@@ -149,7 +149,7 @@ def main():
         # Show year if there are entries or if it's within the range 2006-2026
         output.append(f"### {year}")
         output.append(generate_svg(year, data_by_date, base_url))
-        output.append(f"\n{year_entries} articles in {year}\n")
+        output.append(f"\n{year_entries} article{'s' if year_entries != 1 else ''} in {year}\n")
 
     output.append("## Statistics")
     output.append(f"- **Days covered:** {days_covered}")
