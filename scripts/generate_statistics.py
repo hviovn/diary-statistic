@@ -145,6 +145,7 @@ def fetch_github(username):
     per_page = 100
     current_year = date.today().year
 
+    token = os.environ.get('GITHUB_TOKEN')
     for year in range(current_year, 2010, -1):
         print(f"  Fetching year {year}...")
         page = 1
@@ -155,6 +156,8 @@ def fetch_github(username):
                 'User-Agent': 'Mozilla/5.0',
                 'Accept': 'application/vnd.github.cloak-preview'
             }
+            if token:
+                headers['Authorization'] = f'token {token}'
             try:
                 req = urllib.request.Request(url, headers=headers)
                 with urllib.request.urlopen(req, timeout=15) as response:
