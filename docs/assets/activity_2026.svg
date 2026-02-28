@@ -13,7 +13,7 @@ Black Virgin Mountain III
 [kreier/obsidian] Quartz sync: Jan 1, 2026, 2:43 PM
 [kreier/statistics-diary] remove daily run
 [kreier/statistics-diary] extend visuals and structure</title></rect></a>
-<a href="https://github.com/kreier/quartz/commit/3482f93073b59faddf6f8b1f2b3fc8d01145e746"><rect x="30" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2026-01-02: 13 entries
+<a href="https://github.com/kreier/quartz/commit/3482f93073b59faddf6f8b1f2b3fc8d01145e746"><rect x="30" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2026-01-02: 14 entries
 [kreier/quartz] include some 2026 history
 [kreier/obsidian] include some 2026 history
 [timeline24/timeline24.github.io] Revise language table in README.md
@@ -26,7 +26,8 @@ Black Virgin Mountain III
 [kreier/logo] updated guidelines and keylines
 [kreier/thesis08] now 44 pages with all chapters
 [kreier/thesis08] expanded chapter 6
-[kreier/thesis08] document images first 4 chapters</title></rect></a>
+[kreier/thesis08] document images first 4 chapters
+[kreier/thesis08] README.md</title></rect></a>
 <a href="https://github.com/kreier/statistics-diary/commit/4b88fc563b4ed1de78b8aaf90ba339f6435bd9ff"><rect x="30" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-01-03: 1 entry
 [kreier/statistics-diary] Update README with pixel calculations and statistics</title></rect></a>
 <text x="42" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
@@ -74,7 +75,7 @@ Black Virgin Mountain III
 [kreier/python2018] fix typo from 2019, update statistics
 [kreier/python2018] Merge pull request #41 from kreier/dependabot/pip/filelock-3.20.3
 [kreier/python2018] Add artifact upload step to GitHub Pages workflow with correct path</title></rect></a>
-<a href="https://github.com/kreier/timeline/commit/de7cc6f2d49e727eed80f1b493bd44e85618e5c5"><rect x="54" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-01-15: 10 entries
+<a href="https://github.com/kreier/timeline/commit/de7cc6f2d49e727eed80f1b493bd44e85618e5c5"><rect x="54" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-01-15: 12 entries
 [kreier/timeline] show which lines have tag changed, mark as unchecked
 [kreier/timeline] removed redundant C.E. entries
 [kreier/timeline] updated German translation, rendering
@@ -84,7 +85,9 @@ Black Virgin Mountain III
 [kreier/obsidian] Make comparison between vaults easier
 [kreier/obsidian] Update early January 2026
 [kreier/quartz] Quartz sync: Jan 15, 2026, 6:35 PM
-[kreier/obsidian] Quartz sync: Jan 15, 2026, 6:35 PM</title></rect></a>
+[kreier/obsidian] Quartz sync: Jan 15, 2026, 6:35 PM
+[vex-ssis/2026] README.md
+[kreier/calendar] README.md</title></rect></a>
 <a href="https://github.com/kreier/timeline/commit/ef53cfd2cbff5509946adeb7557a7b4ef8b16504"><rect x="54" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-01-16: 9 entries
 [kreier/timeline] update English and German, minor fix
 [kreier/timeline] Include 7 generations of Cain's family tree, plus 13 persons
@@ -103,7 +106,7 @@ Black Virgin Mountain III
 [kreier/timeline] update Spanish and Vietnamese, fix location error bug
 [kreier/timeline] Merge pull request #78 from kreier/main</title></rect></a>
 <rect x="66" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-01-18: 0 entries</title></rect>
-<a href="https://github.com/kreier/tl/commit/49dd2cac59a5e8389b44650719359b2262a8eee3"><rect x="66" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-01-19: 9 entries
+<a href="https://github.com/kreier/tl/commit/49dd2cac59a5e8389b44650719359b2262a8eee3"><rect x="66" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-01-19: 10 entries
 [kreier/tl] Revise README with project title and images
 [kreier/tl] document progress
 [kreier/tl] include pinch &amp; zoom
@@ -112,8 +115,9 @@ Black Virgin Mountain III
 [kreier/tl] Update .gitignore to include .DS_Store
 [kreier/tl] Initial commit
 [kreier/logo] Include TL timeline logo
-[kreier/logo] new logo for timeline subdomain</title></rect></a>
-<a href="https://github.com/kreier/igshcmc/commit/f88fc38e6b8c65efe7117028eed91dfc41016f08"><rect x="66" y="42" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2026-01-20: 14 entries
+[kreier/logo] new logo for timeline subdomain
+[kreier/logo] README.md</title></rect></a>
+<a href="https://github.com/kreier/igshcmc/commit/f88fc38e6b8c65efe7117028eed91dfc41016f08"><rect x="66" y="42" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2026-01-20: 17 entries
 [kreier/igshcmc] Create CNAME
 [kreier/igshcmc] old saiht.org page from 2010
 [kreier/igshcmc] starting framework
@@ -127,8 +131,11 @@ Black Virgin Mountain III
 [kreier/obsidian] Quartz sync: Jan 20, 2026, 1:35 AM
 [kreier/statistics-diary] Rename workflow and update scripts for statistics
 [kreier/statistics-diary] update Github description and process
-[kreier/statistics-diary] Revise README with updated statistics and project details</title></rect></a>
-<a href="https://github.com/kreier/swagger/commit/7e005a6ced7b4be66eb0dd43546b820a96aae394"><rect x="66" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-01-21: 11 entries
+[kreier/statistics-diary] Revise README with updated statistics and project details
+[kreier/igshcmc] README.md
+[kreier/tl] README.md
+[kreier/statistics-diary] README.md</title></rect></a>
+<a href="https://github.com/kreier/swagger/commit/7e005a6ced7b4be66eb0dd43546b820a96aae394"><rect x="66" y="54" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2026-01-21: 13 entries
 [kreier/swagger] Create CNAME
 [kreier/swagger] Enhance README with badges and project details
 [kreier/swagger] start installation
@@ -139,7 +146,9 @@ Black Virgin Mountain III
 [kreier/picow] prepare for kreier.eu.org
 [kreier/picow] Delete CNAME
 [kreier/picow] Revise README with project title and badges
-[kreier/picow] Create CNAME</title></rect></a>
+[kreier/picow] Create CNAME
+[kreier/swagger] README.md
+[kreier/picow] README.md</title></rect></a>
 <rect x="66" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-01-22: 0 entries</title></rect>
 <a href="https://github.com/kreier/bilder/commit/ca421128271dcf03bb6d5ae5b7373ea124aaa640"><rect x="66" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-01-23: 2 entries
 [kreier/bilder] target network folder
@@ -167,7 +176,7 @@ Black Virgin Mountain III
 <text x="90" y="12" font-family="sans-serif" font-size="8" fill="#767676">Feb</text>
 <a href="https://kreier.github.io/quartz/Blog/2026/02/Black-Virgin-Mountain-IV"><rect x="90" y="18" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2026-02-01: 1 entry
 Black Virgin Mountain IV</title></rect></a>
-<a href="https://github.com/kreier/hv.io.vn/commit/93c3eb17e6053684ba4e319924d0285c09ee43bf"><rect x="90" y="30" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2026-02-02: 24 entries
+<a href="https://github.com/kreier/hv.io.vn/commit/93c3eb17e6053684ba4e319924d0285c09ee43bf"><rect x="90" y="30" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2026-02-02: 25 entries
 [kreier/hv.io.vn] Add hyperlinks for certificates and new links
 [kreier/hv.io.vn] Create CNAME
 [kreier/hv.io.vn] Delete CNAME
@@ -191,16 +200,18 @@ Black Virgin Mountain IV</title></rect></a>
 [kreier/homelab] Merge branch 'main' of https://github.com/kreier/homeserver
 [kreier/homelab] setting up pi3 and pi4 in the network
 [kreier/homelab] Revise README with hardware specs and Docker setup
-[kreier/homelab] visualize server-side and user-side</title></rect></a>
-<a href="https://github.com/kreier/hv.io.vn/commit/cafb117ce697c186fb0b2447f2880fda389beee9"><rect x="90" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-03: 6 entries
+[kreier/homelab] visualize server-side and user-side
+[kreier/ml] README.md</title></rect></a>
+<a href="https://github.com/kreier/hv.io.vn/commit/cafb117ce697c186fb0b2447f2880fda389beee9"><rect x="90" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-02-03: 7 entries
 [kreier/hv.io.vn] Enhance documentation with badges and server details
 [kreier/hv.io.vn] include visual of nvtop
 [kreier/hv.io.vn] nicer layout, setup
 [kreier/hv.io.vn] Merge branch 'main' of https://github.com/kreier/hv.io.vn
 [kreier/hv.io.vn] switch to mkdocs
-[kreier/hv.io.vn] Fix href attributes in certificate links</title></rect></a>
+[kreier/hv.io.vn] Fix href attributes in certificate links
+[kreier/hv.io.vn] README.md</title></rect></a>
 <rect x="90" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-04: 0 entries</title></rect>
-<a href="https://github.com/kreier/prime/commit/b4f0c1f2333f69aa4bfc1d384e9192207756be18"><rect x="90" y="66" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2026-02-05: 20 entries
+<a href="https://github.com/kreier/prime/commit/b4f0c1f2333f69aa4bfc1d384e9192207756be18"><rect x="90" y="66" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2026-02-05: 21 entries
 [kreier/prime] results from May 2025
 [kreier/homelab] fix typos in setup
 [kreier/homelab] glightbox was not used regardless
@@ -220,7 +231,8 @@ Black Virgin Mountain IV</title></rect></a>
 [kreier/location24] Implement geolocation fetching from API
 [kreier/location24] Create Cargo.toml with package and dependencies
 [kreier/homelab] Fix formatting and headings in README.md
-[kreier/homelab] added details of the setup</title></rect></a>
+[kreier/homelab] added details of the setup
+[kreier/location24] README.md</title></rect></a>
 <a href="https://github.com/kreier/prime/commit/9f562553cc253dd7a63692e15c8f2fabdf92d6c4"><rect x="90" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-06: 4 entries
 [kreier/prime] v5.6.2026 with fixed time measurement
 [kreier/prime] preliminary results for 32bit
@@ -229,10 +241,11 @@ Black Virgin Mountain IV</title></rect></a>
 <a href="https://github.com/kreier/homelab/commit/54f8c05d048b5716a3ff3e47baffed9f990c78f3"><rect x="90" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-07: 2 entries
 [kreier/homelab] updated WOL problem
 [kreier/homelab] updated Tuya network</title></rect></a>
-<a href="https://github.com/hviovn/hello-world/commit/1d196a920c19cf602377a2f6a7900721622a6809"><rect x="102" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-08: 2 entries
+<a href="https://github.com/hviovn/hello-world/commit/1d196a920c19cf602377a2f6a7900721622a6809"><rect x="102" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-08: 3 entries
 [hviovn/hello-world] Add hello.c to print 'Hello, World!'
-[hviovn/hello-world] cleanup, include Java</title></rect></a>
-<a href="https://github.com/kreier/quartz/commit/5950441a7e72e62731ed1a1abeaef0a00d00845f"><rect x="102" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-02-09: 9 entries
+[hviovn/hello-world] cleanup, include Java
+[hviovn/hello-world] README.md</title></rect></a>
+<a href="https://github.com/kreier/quartz/commit/5950441a7e72e62731ed1a1abeaef0a00d00845f"><rect x="102" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-02-09: 12 entries
 [kreier/quartz] more history of Vietnam 2024-12-26
 [kreier/obsidian] more history of Vietnam 2024-12-26
 [kreier/timeline] minor updates in preparation for 6.02
@@ -241,8 +254,11 @@ Black Virgin Mountain IV</title></rect></a>
 [kreier/quartz] Quartz sync: Feb 9, 2026, 1:15 AM
 [kreier/obsidian] Quartz sync: Feb 9, 2026, 1:15 AM
 [kreier/quartz] Merge branch 'v4' of https://github.com/jackyzha0/quartz into v4
-[ssis-aa/collaborative-code] Update README with p5.js version details</title></rect></a>
-<a href="https://github.com/kreier/timeline/commit/bd868cc32d626727f3728060b6df1e211ce9e4d6"><rect x="102" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-02-10: 11 entries
+[ssis-aa/collaborative-code] Update README with p5.js version details
+[kreier/bilder] README.md
+[kreier/prime] README.md
+[ssis-aa/collaborative-code] README.md</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/bd868cc32d626727f3728060b6df1e211ce9e4d6"><rect x="102" y="42" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2026-02-10: 13 entries
 [kreier/timeline] small fix for digital edition printout
 [kreier/timeline] realign with CSV export pattern of Pandas
 [kreier/quartz] Include mining and the Triple GPU server
@@ -253,14 +269,16 @@ Black Virgin Mountain IV</title></rect></a>
 [kreier/quartz] Update quartz landing page
 [kreier/obsidian] Update quartz landing page
 [kreier/quartz] document 3 PCs and one M590 mouse fix
-[kreier/obsidian] document 3 PCs and one M590 mouse fix</title></rect></a>
+[kreier/obsidian] document 3 PCs and one M590 mouse fix
+[kreier/impact] README.md
+[kreier/python2018] README.md</title></rect></a>
 <a href="https://github.com/kreier/timeline/commit/454da40dd3202c5d2145593c464b4f7fd9d5a841"><rect x="102" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-11: 5 entries
 [kreier/timeline] updated run of auto-translate.py
 [kreier/timeline] Update for new dictionary setup in Google Sheets
 [kreier/timeline] Merge pull request #80 from kreier/6.02
 [kreier/timeline] document current state with Google Apps Script
 [kreier/timeline] cleanup and organize some clutter after 2.5 years</title></rect></a>
-<a href="https://github.com/kreier/timeline/commit/adab2d8eb7dbe5239b7f360b5f4538ea1909d074"><rect x="102" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2026-02-12: 16 entries
+<a href="https://github.com/kreier/timeline/commit/adab2d8eb7dbe5239b7f360b5f4538ea1909d074"><rect x="102" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2026-02-12: 18 entries
 [kreier/timeline] Merge pull request #82 from kreier/6.02
 [timeline24/timeline24.github.io] version 6.02 from 2026-02-12
 [kreier/timeline] batch processed PDF generation, 5 new languages
@@ -276,7 +294,9 @@ Black Virgin Mountain IV</title></rect></a>
 [kreier/timeline] include first edition of web edit for dictionary
 [kreier/timeline] align 42 translations of 571 entries
 [kreier/timeline] include 6.01 translations
-[kreier/timeline] updated translation for 6.02</title></rect></a>
+[kreier/timeline] updated translation for 6.02
+[kreier/timeline] README.md
+[timeline24/timeline24.github.io] README.md</title></rect></a>
 <a href="https://kreier.github.io/quartz/Projects/Computer/Raspberry-Pi-4-with-4-GB-RAM"><rect x="102" y="78" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2026-02-13: 3 entries
 Raspberry Pi 4 with 4 GB RAM
 [kreier/quartz] Document both Raspberrys Pi3 and Pi4
@@ -290,7 +310,7 @@ Raspberry Pi 4 with 4 GB RAM
 [kreier/quartz] hardware update documentation
 [kreier/obsidian] hardware update documentation
 [kreier/benchmark] Update GPU performance metrics in README</title></rect></a>
-<a href="https://github.com/kreier/homelab/commit/070e74306f5fecec4522ec68f165aaf428c9552b"><rect x="114" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-02-19: 10 entries
+<a href="https://github.com/kreier/homelab/commit/070e74306f5fecec4522ec68f165aaf428c9552b"><rect x="114" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-02-19: 11 entries
 [kreier/homelab] Rename repository and update README content
 [kreier/benchmark] updated benchmark results 1 year later
 [kreier/homelab] Add mkdocs-glightbox to installation dependencies
@@ -300,8 +320,9 @@ Raspberry Pi 4 with 4 GB RAM
 [kreier/benchmark] expand on 64 bit
 [kreier/benchmark] updated benchmarks with new P104-100 GPU and different slots in Z170 mainboard
 [kreier/quartz] Penta-GPU server is running
-[kreier/obsidian] Penta-GPU server is running</title></rect></a>
-<a href="https://github.com/kreier/quartz/commit/aac21671276305370fa75788509711a6b73a37d0"><rect x="114" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-02-20: 11 entries
+[kreier/obsidian] Penta-GPU server is running
+[kreier/benchmark] README.md</title></rect></a>
+<a href="https://github.com/kreier/quartz/commit/aac21671276305370fa75788509711a6b73a37d0"><rect x="114" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2026-02-20: 13 entries
 [kreier/quartz] document ar65view and related events
 [kreier/obsidian] document ar65view and related events
 [kreier/ar65view-svn] Initialize README.md with project information
@@ -312,13 +333,16 @@ Raspberry Pi 4 with 4 GB RAM
 [kreier/quartz] expand on Penta-GPU server
 [kreier/obsidian] expand on Penta-GPU server
 [kreier/homelab] Merge branch 'main' of https://github.com/kreier/homelab
-[kreier/homelab] progress on Tuya integration</title></rect></a>
-<a href="https://github.com/kreier/quartz/commit/ea65c769a316c765de8d8c465884846e8fbc44f8"><rect x="114" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-21: 3 entries
+[kreier/homelab] progress on Tuya integration
+[kreier/ar65view-svn] README.md
+[kreier/ar65view] README.md</title></rect></a>
+<a href="https://github.com/kreier/quartz/commit/ea65c769a316c765de8d8c465884846e8fbc44f8"><rect x="114" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-21: 4 entries
 [kreier/quartz] include Black Virgin Mountain
 [kreier/obsidian] include Black Virgin Mountain
-[kreier/T100] Add BLE project details and Bluetooth module history</title></rect></a>
+[kreier/T100] Add BLE project details and Bluetooth module history
+[kreier/T100] README.md</title></rect></a>
 <rect x="126" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-22: 0 entries</title></rect>
-<a href="https://saiht.de/obsidian/My-Projects"><rect x="126" y="30" width="10" height="10" fill="#ef9a9a" rx="2" ry="2"><title>2026-02-23: 12 entries
+<a href="https://saiht.de/obsidian/My-Projects"><rect x="126" y="30" width="10" height="10" fill="#e57373" rx="2" ry="2"><title>2026-02-23: 13 entries
 My Projects
 [kreier/homelab] first iteration - some crashes
 [kreier/wob] code examples, cleanup
@@ -330,14 +354,17 @@ My Projects
 [kreier/wob] Update .gitignore to include .DS_Store
 [kreier/wob] Initial commit
 [kreier/quartz] include some hiking experience
-[kreier/obsidian] include some hiking experience</title></rect></a>
-<a href="https://github.com/kreier/homelab/commit/6e8ac409c1eb36ba6a74723c08eb89388ac9dd54"><rect x="126" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-24: 5 entries
+[kreier/obsidian] include some hiking experience
+[kreier/wob] README.md</title></rect></a>
+<a href="https://github.com/kreier/homelab/commit/6e8ac409c1eb36ba6a74723c08eb89388ac9dd54"><rect x="126" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-02-24: 7 entries
 [kreier/homelab] fix idle shutdown
 [kreier/quartz] some llama.cpp tests
 [kreier/obsidian] some llama.cpp tests
 [kreier/llama.cpp-jetson] Add LFM2.5-1.2B-Thinking section to README
-[kreier/llama.cpp-jetson] Can we compile for Liquid?</title></rect></a>
-<a href="https://saiht.de/obsidian/Leisure"><rect x="126" y="54" width="10" height="10" fill="#ef9a9a" rx="2" ry="2"><title>2026-02-25: 12 entries
+[kreier/llama.cpp-jetson] Can we compile for Liquid?
+[kreier/homelab] README.md
+[kreier/llama.cpp-jetson] README.md</title></rect></a>
+<a href="https://saiht.de/obsidian/Leisure"><rect x="126" y="54" width="10" height="10" fill="#e57373" rx="2" ry="2"><title>2026-02-25: 13 entries
 Leisure
 Tschechientour - Weekend trip to Czechia
 Digital Garden
@@ -349,8 +376,9 @@ Digital Garden
 [kreier/obsidian] Add 'vault/saiht/' from commit '8facfbedf07014a37b4cc6c6ef7a1756492e5795'
 [kreier/obsidian] Move saiht to saiht_old to clear path for subtree
 [kreier/obsidian] branch for Obsidian content
-[kreier/obsidian] prepare complete history import</title></rect></a>
-<a href="https://saiht.de/obsidian/Projects/Obsidian"><rect x="126" y="66" width="10" height="10" fill="#ef9a9a" rx="2" ry="2"><title>2026-02-26: 8 entries
+[kreier/obsidian] prepare complete history import
+[kreier/obsidian] README.md</title></rect></a>
+<a href="https://saiht.de/obsidian/Projects/Obsidian"><rect x="126" y="66" width="10" height="10" fill="#ef9a9a" rx="2" ry="2"><title>2026-02-26: 9 entries
 Obsidian
 E3-1226 v3 with GTX 1060
 Nvidia
@@ -358,12 +386,19 @@ Hardware collection
 Hiking in Vietnam
 [kreier/quartz] fix typos, more benchmark from penta server
 [kreier/quartz] fixed server error message
-[kreier/quartz] Hardware collection and other history artifacts</title></rect></a>
+[kreier/quartz] Hardware collection and other history artifacts
+[kreier/quartz] README.md</title></rect></a>
 <a href="https://github.com/hviovn/diary-statistic/commit/1e4ed8aff877707087715ef491a471690f85386b"><rect x="126" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-27: 1 entry
 [hviovn/diary-statistic] Update README for clarity and grammar</title></rect></a>
-<a href="https://github.com/hviovn/new-vocabulary/commit/ef0bda50caa96e1b11d44679661cf6cfbecd089f"><rect x="126" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-28: 2 entries
+<a href="https://github.com/hviovn/new-vocabulary/commit/73c94681760209bfee2ffd1a8d1875d38332f50e"><rect x="126" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-02-28: 8 entries
+[hviovn/new-vocabulary] Parse first example.
+[hviovn/new-vocabulary] match image names to content
+[hviovn/new-vocabulary] cleanup
+[hviovn/new-vocabulary] import picture sources
 [hviovn/new-vocabulary] Add .DS_Store to .gitignore for Synology Diskstation
-[hviovn/diary-statistic] Merge pull request #9 from hviovn/fix-jekyll-error-and-split-output-15352974587547767671</title></rect></a>
+[hviovn/diary-statistic] Merge pull request #9 from hviovn/fix-jekyll-error-and-split-output-15352974587547767671
+[hviovn/new-vocabulary] README.md
+[hviovn/diary-statistic] README.md</title></rect></a>
 <text x="138" y="12" font-family="sans-serif" font-size="8" fill="#767676">Mar</text>
 <rect x="138" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-01: 0 entries</title></rect>
 <rect x="138" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-02: 0 entries</title></rect>
