@@ -1,8 +1,9 @@
-<svg width="676" height="114" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<svg width="676" height="124" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
 <text x="5" y="39" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="63" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="87" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
-<rect x="30" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-01-01: 0 entries</title></rect>
+<a href="https://kreier.github.io/quartz/Diary/2000"><rect x="30" y="90" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2000-01-01: 1 entry
+2000</title></rect></a>
 <text x="42" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect x="42" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-01-02: 0 entries</title></rect>
 <rect x="42" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-01-03: 0 entries</title></rect>
@@ -151,8 +152,7 @@
 <rect x="282" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-05-21: 0 entries</title></rect>
 <rect x="282" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-05-22: 0 entries</title></rect>
 <rect x="282" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-05-23: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/11freundschaft.html"><rect x="282" y="54" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2000-05-24: 2 entries
-Freundschaft
+<a href="https://saiht.de/legacy/projekte/11freundschaft.html"><rect x="282" y="54" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2000-05-24: 1 entry
 Freundschaft</title></rect></a>
 <rect x="282" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-05-25: 0 entries</title></rect>
 <rect x="282" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-05-26: 0 entries</title></rect>
@@ -167,9 +167,7 @@ Freundschaft</title></rect></a>
 <text x="306" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jun</text>
 <rect x="306" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-04: 0 entries</title></rect>
 <rect x="306" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-05: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/computer/crazy.html"><rect x="306" y="42" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2000-06-06: 5 entries
-Wie man selbst gesund bleibt und dabei andere Leute in den Wahnsinn treibt:!
-das Bibelleseprogramm im dritten Jahr
+<a href="https://saiht.de/legacy/computer/crazy.html"><rect x="306" y="42" width="10" height="10" fill="#64b5f6" rx="2" ry="2"><title>2000-06-06: 3 entries
 Wie man selbst gesund bleibt und dabei andere Leute in den Wahnsinn treibt:!
 das Bibelleseprogramm im zweiten Jahr
 das Bibelleseprogramm im dritten Jahr</title></rect></a>
@@ -187,12 +185,10 @@ das Bibelleseprogramm im dritten Jahr</title></rect></a>
 <rect x="330" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-18: 0 entries</title></rect>
 <rect x="330" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-19: 0 entries</title></rect>
 <rect x="330" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-20: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/computer/atx.html"><rect x="330" y="54" width="10" height="10" fill="#64b5f6" rx="2" ry="2"><title>2000-06-21: 3 entries
+<a href="https://saiht.de/legacy/computer/atx.html"><rect x="330" y="54" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2000-06-21: 2 entries
 Linux schaltet den ATX-Rechner nicht aus
-Anmerkung
-Linux schaltet den ATX-Rechner nicht aus</title></rect></a>
-<a href="https://saiht.de/legacy/computer/inder.html"><rect x="330" y="66" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2000-06-22: 2 entries
-InderNet
+Anmerkung</title></rect></a>
+<a href="https://saiht.de/legacy/computer/inder.html"><rect x="330" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2000-06-22: 1 entry
 InderNet</title></rect></a>
 <rect x="330" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-23: 0 entries</title></rect>
 <rect x="330" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-24: 0 entries</title></rect>
@@ -200,14 +196,10 @@ InderNet</title></rect></a>
 <rect x="342" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-26: 0 entries</title></rect>
 <rect x="342" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-27: 0 entries</title></rect>
 <rect x="342" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-28: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/10wahrheit.html"><rect x="342" y="66" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2000-06-29: 8 entries
+<a href="https://saiht.de/legacy/projekte/10wahrheit.html"><rect x="342" y="66" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2000-06-29: 4 entries
 Was ist Wahrheit?
 Psychologie
 Die Geschichte Ägyptens
-Maya
-Was ist Wahrheit?
-Psychologie
-die Geschichte gyptens
 Maya</title></rect></a>
 <rect x="342" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-30: 0 entries</title></rect>
 <rect x="342" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-07-01: 0 entries</title></rect>
@@ -317,8 +309,7 @@ Maya</title></rect></a>
 <rect x="522" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-10-09: 0 entries</title></rect>
 <rect x="522" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-10-10: 0 entries</title></rect>
 <rect x="522" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-10-11: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/physik/reform.html"><rect x="522" y="66" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2000-10-12: 2 entries
-Mathematikunterricht nach der Bildungsreform
+<a href="https://saiht.de/legacy/physik/reform.html"><rect x="522" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2000-10-12: 1 entry
 Mathematikunterricht nach der Bildungsreform</title></rect></a>
 <rect x="522" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-10-13: 0 entries</title></rect>
 <rect x="522" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-10-14: 0 entries</title></rect>
@@ -401,4 +392,12 @@ Mathematikunterricht nach der Bildungsreform</title></rect></a>
 <rect x="654" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-12-28: 0 entries</title></rect>
 <rect x="654" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-12-29: 0 entries</title></rect>
 <rect x="654" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-12-30: 0 entries</title></rect>
+<rect x="30" y="112" width="8" height="8" fill="#30a14e" rx="1" ry="1"/>
+<text x="42" y="119" font-family="sans-serif" font-size="7" fill="#767676">WordPress</text>
+<rect x="100" y="112" width="8" height="8" fill="#e57373" rx="1" ry="1"/>
+<text x="112" y="119" font-family="sans-serif" font-size="7" fill="#767676">Quartz</text>
+<rect x="170" y="112" width="8" height="8" fill="#64b5f6" rx="1" ry="1"/>
+<text x="182" y="119" font-family="sans-serif" font-size="7" fill="#767676">Legacy HTML</text>
+<rect x="240" y="112" width="8" height="8" fill="#4db6ac" rx="1" ry="1"/>
+<text x="252" y="119" font-family="sans-serif" font-size="7" fill="#767676">GitHub</text>
 </svg>

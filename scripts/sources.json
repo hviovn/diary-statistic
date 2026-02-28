@@ -10,5 +10,9 @@
     {
         "url": "https://saiht.de/legacy",
         "type": "legacy_html"
+    },
+    {
+        "url": "kreier",
+        "type": "github"
     }
 ]
