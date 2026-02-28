@@ -2,7 +2,7 @@
 <text x="5" y="39" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="63" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="87" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
-<a href="https://kreier.github.io/quartz/Diary/2005"><rect x="30" y="90" width="10" height="10" fill="#ef9a9a" rx="2" ry="2"><title>2005-01-01: 2 entries
+<a href="https://kreier.github.io/quartz/Diary/2005"><rect x="30" y="90" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2005-01-01: 2 entries
 2005
 interessante Fragen der Geschichte</title></rect></a>
 <text x="42" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
@@ -62,7 +62,7 @@ Gstebuch</title></rect></a>
 <rect x="126" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-02-22: 0 entries</title></rect>
 <rect x="126" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-02-23: 0 entries</title></rect>
 <rect x="126" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-02-24: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/1998_thailand.html"><rect x="126" y="78" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2005-02-25: 2 entries
+<a href="https://saiht.de/legacy/urlaub/1998_thailand.html"><rect x="126" y="78" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2005-02-25: 2 entries
 Thailand &amp; Malaysia
 Thailand &amp; Malaysia</title></rect></a>
 <rect x="126" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-02-26: 0 entries</title></rect>
@@ -198,7 +198,7 @@ HTML-Seiten selbst erstellen</title></rect></a>
 <rect x="330" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-19: 0 entries</title></rect>
 <rect x="330" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-20: 0 entries</title></rect>
 <rect x="330" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-21: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/07abitur.html"><rect x="330" y="54" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2005-06-22: 2 entries
+<a href="https://saiht.de/legacy/projekte/07abitur.html"><rect x="330" y="54" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2005-06-22: 2 entries
 Wie erhlt man ein Abitur?
 Wie erhlt man ein Abitur?</title></rect></a>
 <rect x="330" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-23: 0 entries</title></rect>
@@ -207,7 +207,7 @@ Wie erhlt man ein Abitur?</title></rect></a>
 <rect x="342" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-26: 0 entries</title></rect>
 <rect x="342" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-27: 0 entries</title></rect>
 <rect x="342" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-28: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/1996_austria_winter.html"><rect x="342" y="54" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2005-06-29: 2 entries
+<a href="https://saiht.de/legacy/urlaub/1996_austria_winter.html"><rect x="342" y="54" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2005-06-29: 2 entries
 mein erster Winterurlaub
 mein erster Winterurlaub</title></rect></a>
 <rect x="342" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-30: 0 entries</title></rect>
@@ -243,7 +243,7 @@ Wo war der saiht im Urlaub?</title></rect></a>
 <rect x="390" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-26: 0 entries</title></rect>
 <rect x="390" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-27: 0 entries</title></rect>
 <rect x="390" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-28: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/06papier.html"><rect x="390" y="78" width="10" height="10" fill="#64b5f6" rx="2" ry="2"><title>2005-07-29: 3 entries
+<a href="https://saiht.de/legacy/projekte/06papier.html"><rect x="390" y="78" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2005-07-29: 3 entries
 Wie oft kann man ein Blatt Papier falten?
 Kann Leben durch Zufall entstehen?
 Wie oft kann man ein Blatt Papier falten?</title></rect></a>
@@ -414,6 +414,6 @@ Sommerschule in der Ukraine</title></rect></a>
 <text x="112" y="119" font-family="sans-serif" font-size="7" fill="#767676">Quartz</text>
 <rect x="170" y="112" width="8" height="8" fill="#64b5f6" rx="1" ry="1"/>
 <text x="182" y="119" font-family="sans-serif" font-size="7" fill="#767676">Legacy HTML</text>
-<rect x="240" y="112" width="8" height="8" fill="#4db6ac" rx="1" ry="1"/>
+<rect x="240" y="112" width="8" height="8" fill="#ffa726" rx="1" ry="1"/>
 <text x="252" y="119" font-family="sans-serif" font-size="7" fill="#767676">GitHub</text>
 </svg>
