@@ -1,263 +1,10 @@
 import json
-import urllib.request
-import urllib.parse
 import re
 from datetime import datetime, date, timedelta
 import math
 import os
 import xml.sax.saxutils as saxutils
-import html
-
-def fetch_url(url):
-    try:
-        # User-Agent to avoid some blocks
-        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        with urllib.request.urlopen(req, timeout=10) as response:
-            return response.read().decode('utf-8', errors='ignore')
-    except Exception as e:
-        print(f"Error fetching {url}: {e}")
-        return None
-
-def fetch_wordpress(base_url):
-    all_posts = []
-    page = 1
-    per_page = 100
-    while True:
-        url = f"{base_url}/wp-json/wp/v2/posts?page={page}&per_page={per_page}"
-        print(f"Fetching WordPress: {url}...")
-        try:
-            content = fetch_url(url)
-            if not content: break
-            data = json.loads(content)
-            if not data:
-                break
-            for post in data:
-                all_posts.append({
-                    'date': post['date'].split('T')[0],
-                    'title': post['title']['rendered'],
-                    'link': post['link'],
-                    'content': post['content']['rendered'],
-                    'source_type': 'wordpress'
-                })
-            # Check headers via a separate HEAD or just assume from data length if header not available
-            if len(data) < per_page:
-                break
-            page += 1
-        except Exception as e:
-            print(f"Error fetching WordPress page {page}: {e}")
-            break
-    return all_posts
-
-def fetch_quartz(base_url):
-    print(f"Fetching Quartz: {base_url}...")
-    base_url = base_url.rstrip('/')
-    indices = ["/static/contentIndex.json", "/contentIndex.json", "/index.json"]
-    content = None
-    for idx in indices:
-        content = fetch_url(base_url + idx)
-        if content: break
-
-    posts = []
-    if content:
-        try:
-            data = json.loads(content)
-            if isinstance(data, dict):
-                for slug, item in data.items():
-                    title = item.get('title', slug)
-                    created_date = item.get('date') or item.get('dates', {}).get('created')
-
-                    # Try to extract date from slug if not in metadata
-                    if not created_date:
-                        # Match YYYY/MM/DD or YYYY-MM-DD
-                        date_match = re.search(r'(\d{4})[/-](\d{2})[/-](\d{2})', slug)
-                        if date_match:
-                            created_date = f"{date_match.group(1)}-{date_match.group(2)}-{date_match.group(3)}"
-                        else:
-                            # Match YYYY/MM (assume 01 for day)
-                            date_match = re.search(r'(\d{4})[/-](\d{2})', slug)
-                            if date_match:
-                                created_date = f"{date_match.group(1)}-{date_match.group(2)}-01"
-                            else:
-                                # Match YYYY in slug
-                                date_match = re.search(r'\b(\d{4})\b', slug)
-                                if date_match:
-                                    created_date = f"{date_match.group(1)}-01-01"
-
-                    # Try content for lines like "2025-10-20"
-                    if not created_date:
-                        content = item.get('content', '')
-                        date_match = re.search(r'\b(\d{4}-\d{2}-\d{2})\b', content)
-                        if date_match:
-                            created_date = date_match.group(1)
-
-                    # Special case for filePath if slug doesn't have it
-                    if not created_date and 'filePath' in item:
-                        date_match = re.search(r'(\d{4})[/-](\d{2})[/-](\d{2})', item['filePath'])
-                        if date_match:
-                            created_date = f"{date_match.group(1)}-{date_match.group(2)}-{date_match.group(3)}"
-
-                    if created_date:
-                        created_date = created_date.split('T')[0]
-                        link = f"{base_url}/{slug.lstrip('/')}"
-                        link = link.replace('https://https://', 'https://')
-                        posts.append({
-                            'date': created_date,
-                            'title': title,
-                            'link': link,
-                            'content': item.get('content', ''),
-                            'source_type': 'quartz'
-                        })
-        except Exception as e:
-            print(f"Error parsing Quartz index: {e}")
-
-    print("Fetching Quartz RSS fallback...")
-    rss_url = base_url + "/index.xml"
-    rss_content = fetch_url(rss_url)
-    if rss_content:
-        items = re.findall(r'<item>(.*?)</item>', rss_content, re.DOTALL)
-        for item in items:
-            title_match = re.search(r'<title>(.*?)</title>', item)
-            link_match = re.search(r'<link>(.*?)</link>', item)
-            pub_date_match = re.search(r'<pubDate>(.*?)</pubDate>', item)
-            if title_match and link_match and pub_date_match:
-                try:
-                    title = title_match.group(1)
-                    link = link_match.group(1).replace('https://https://', 'https://')
-                    date_match = re.search(r'\d{1,2} \w{3} \d{4}', pub_date_match.group(1))
-                    if date_match:
-                        d = datetime.strptime(date_match.group(0), "%d %b %Y")
-                        date_str = d.strftime('%Y-%m-%d')
-                        if not any(p['link'] == link for p in posts):
-                            posts.append({
-                                'date': date_str,
-                                'title': title,
-                                'link': link,
-                                'content': '',
-                                'source_type': 'quartz'
-                            })
-                except Exception as e:
-                    print(f"Error parsing RSS item: {e}")
-    return posts
-
-def fetch_github(username):
-    print(f"Fetching GitHub commits for user: {username}...")
-    all_commits = []
-    per_page = 100
-    current_year = date.today().year
-
-    token = os.environ.get('GITHUB_TOKEN')
-    for year in range(current_year, 2010, -1):
-        print(f"  Fetching year {year}...")
-        page = 1
-        while page <= 10:
-            query = f"author:{username} committer-date:{year}-01-01..{year}-12-31"
-            url = f"https://api.github.com/search/commits?q={urllib.parse.quote(query)}&sort=committer-date&order=desc&page={page}&per_page={per_page}"
-            headers = {
-                'User-Agent': 'Mozilla/5.0',
-                'Accept': 'application/vnd.github.cloak-preview'
-            }
-            if token:
-                headers['Authorization'] = f'token {token}'
-            try:
-                req = urllib.request.Request(url, headers=headers)
-                with urllib.request.urlopen(req, timeout=15) as response:
-                    content = response.read().decode('utf-8', errors='ignore')
-                    data = json.loads(content)
-
-                    if not data.get('items'):
-                        break
-
-                    for item in data['items']:
-                        commit_date = item['commit']['author']['date'].split('T')[0]
-                        repo_name = item['repository']['full_name']
-                        msg = item['commit']['message'].split('\n')[0]
-                        all_commits.append({
-                            'date': commit_date,
-                            'title': f"[{repo_name}] {msg}",
-                            'link': item['html_url'],
-                            'content': item['commit']['message'],
-                            'source_type': 'github'
-                        })
-
-                    if len(data['items']) < per_page:
-                        break
-                    page += 1
-            except Exception as e:
-                print(f"Error fetching GitHub commits for {year} page {page}: {e}")
-                break
-
-    return all_commits
-
-def fetch_legacy_html(base_url):
-    print(f"Fetching Legacy HTML: {base_url}...")
-    base_url = base_url.rstrip('/') + '/'
-    to_visit = [base_url]
-    visited = set()
-    posts = []
-
-    date_patterns = [
-        (r'\b(\d{4}-\d{2}-\d{2})\b', '%Y-%m-%d'),
-        (r'\b(\d{2}\.\d{2}\.\d{4})\b', '%d.%m.%Y'),
-        (r'\b([A-Z][a-z]+ \d{1,2}, \d{4})\b', '%B %d, %Y'),
-        (r'\b(\d{1,2}\. [A-Z][a-z]+ \d{4})\b', '%d. %B %Y')
-    ]
-
-    while to_visit and len(visited) < 300:
-        url = to_visit.pop(0)
-        url_no_frag = url.split('#')[0]
-        if url_no_frag in visited: continue
-        visited.add(url_no_frag)
-
-        content = fetch_url(url_no_frag)
-        if not content: continue
-
-        found_date_str = None
-        date_obj = None
-        for pattern, fmt in date_patterns:
-            match = re.search(pattern, content)
-            if match:
-                try:
-                    date_obj = datetime.strptime(match.group(1), fmt)
-                    found_date_str = date_obj.strftime('%Y-%m-%d')
-                    break
-                except:
-                    continue
-
-        title_match = re.search(r'<title>(.*?)</title>', content, re.IGNORECASE | re.DOTALL)
-        title = title_match.group(1) if title_match else url_no_frag.split('/')[-1]
-        title = re.sub('<[^<]+?>', '', title).strip()
-
-        if found_date_str and not url_no_frag.endswith(('index.html', 'navigator.html', 'rechts.html')):
-            posts.append({
-                'date': found_date_str,
-                'title': title,
-                'link': url_no_frag,
-                'content': content,
-                'source_type': 'legacy_html'
-            })
-
-        links = re.findall(r'href=["\'](.*?)["\']', content)
-        for link in links:
-            abs_link = urllib.parse.urljoin(url_no_frag, link).split('#')[0]
-            if abs_link.startswith(base_url) and abs_link not in visited:
-                if not abs_link.lower().endswith(('.jpg', '.jpeg', '.png', '.gif', '.pdf', '.zip', '.doc', '.css', '.js')):
-                    to_visit.append(abs_link)
-
-    return posts
-
-def strip_html(text):
-    # Remove script and style tags and their content
-    text = re.sub(r'<(script|style).*?>.*?</\1>', '', text, flags=re.DOTALL | re.IGNORECASE)
-    # Remove other HTML tags
-    text = re.sub('<[^<]+?>', '', text)
-    # Unescape common entities
-    text = html.unescape(text)
-    return text
-
-def count_words(text):
-    text = strip_html(text)
-    words = re.findall(r'\w+', text)
-    return len(words)
+import csv
 
 def generate_svg(year, data_by_date):
     start_date = date(year, 1, 1)
@@ -356,18 +103,28 @@ def generate_svg(year, data_by_date):
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    sources_file = os.path.join(script_dir, "sources.json")
-    with open(sources_file, "r") as f:
-        sources = json.load(f)
+    data_dir = os.path.join(os.path.dirname(script_dir), "data")
 
     all_data = []
-    for source in sources:
-        if source['type'] == 'wordpress': all_data.extend(fetch_wordpress(source['url']))
-        elif source['type'] == 'quartz': all_data.extend(fetch_quartz(source['url']))
-        elif source['type'] == 'legacy_html': all_data.extend(fetch_legacy_html(source['url']))
-        elif source['type'] == 'github': all_data.extend(fetch_github(source['url']))
+    sources = ['wordpress', 'quartz', 'legacy_html', 'github']
 
-    # Deduplicate by link
+    for st in sources:
+        stats_file = os.path.join(data_dir, f"statistics_{st}.csv")
+        if not os.path.exists(stats_file):
+            continue
+        with open(stats_file, 'r', encoding='utf-8') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                all_data.append({
+                    'link': row['Link'],
+                    'date': row['Date'],
+                    'title': row['Title'],
+                    'word_count': int(row['Word Count']),
+                    'character_count': int(row['Character Count']),
+                    'source_type': st
+                })
+
+    # Deduplicate by link (though they should already be mostly unique)
     unique_data = []
     seen_links = set()
     for item in all_data:
@@ -379,7 +136,6 @@ def main():
     data_by_date = {}
     total_words = 0
     for item in all_data:
-        item['word_count'] = count_words(item.get('content', ''))
         d = item['date']
         if d not in data_by_date: data_by_date[d] = []
         data_by_date[d].append(item)
@@ -391,9 +147,8 @@ def main():
     reading_time_str = f"{reading_time_total_minutes // 60}h {reading_time_total_minutes % 60}m"
 
     dates = sorted(data_by_date.keys())
-    start_year = 2006 # Default start year
+    start_year = 2006
     if dates:
-        # Filter out clearly invalid dates like "0001-01-01" or far-future dates
         valid_years = [int(d.split('-')[0]) for d in dates if 1970 <= int(d.split('-')[0]) <= 2026]
         if valid_years:
             start_year = min(start_year, min(valid_years))
@@ -402,24 +157,12 @@ def main():
     assets_dir = os.path.join(os.path.dirname(script_dir), "docs", "assets")
     os.makedirs(assets_dir, exist_ok=True)
 
-    # Generate CSV files for each source
+    # Source breakdown for whole period
     sources_data = {}
     for item in all_data:
-        st = item.get('source_type', 'unknown')
+        st = item['source_type']
         if st not in sources_data: sources_data[st] = []
         sources_data[st].append(item)
-
-    for st, items in sources_data.items():
-        csv_filename = f"source_{st}.csv"
-        csv_path = os.path.join(assets_dir, csv_filename)
-        with open(csv_path, "w") as f:
-            f.write("Title,Link,Word Count\n")
-            for item in items:
-                title = item['title'].replace('"', '""')
-                link = item['link']
-                wc = item['word_count']
-                f.write(f'"{title}","{link}",{wc}\n')
-        print(f"Generated {csv_path}")
 
     output = ["# Diary Activity Overview\n"]
     html_output = [
@@ -459,10 +202,9 @@ def main():
         with open(svg_path, "w") as f:
             f.write(svg_content)
 
-        # Category breakdown for the year
         year_breakdown = {}
         for item in year_data:
-            st = item.get('source_type', 'unknown')
+            st = item['source_type']
             year_breakdown[st] = year_breakdown.get(st, 0) + 1
 
         breakdown_parts = []
@@ -506,7 +248,7 @@ def main():
     for st, items in sorted(sources_data.items()):
         name = source_names.get(st, st)
         count = len(items)
-        words = sum(item.get('word_count', 0) for item in items)
+        words = sum(item['word_count'] for item in items)
         rt_total_min = math.ceil(words / 200)
         rt_str = f"{rt_total_min // 60}h {rt_total_min % 60}m"
         output.append(f"- **{name}:** {count} entries, {words} words, {rt_str} reading time")
@@ -522,7 +264,7 @@ def main():
 
     for st, items in sorted(sources_data.items()):
         name = source_names.get(st, st)
-        top_3 = sorted(items, key=lambda x: x.get('word_count', 0), reverse=True)[:3]
+        top_3 = sorted(items, key=lambda x: x['word_count'], reverse=True)[:3]
         for i, item in enumerate(top_3):
             title = item['title']
             link = item['link']
@@ -538,7 +280,6 @@ def main():
     html_output.append("</body>")
     html_output.append("</html>")
 
-    # Save index.html
     index_path = os.path.join(os.path.dirname(script_dir), "docs", "index.html")
     with open(index_path, "w") as f:
         f.write("\n".join(html_output))

@@ -2,7 +2,7 @@
 <text x="5" y="39" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="63" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="87" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
-<a href="https://kreier.github.io/quartz/Diary/2018"><rect x="30" y="30" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2018-01-01: 1 entry
+<a href="https://kreier.github.io/quartz/Diary/2018"><rect x="30" y="30" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2018-01-01: 1 entry
 2018</title></rect></a>
 <rect x="30" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-01-02: 0 entries</title></rect>
 <rect x="30" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-01-03: 0 entries</title></rect>
@@ -292,56 +292,15 @@
 <rect x="498" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-05: 0 entries</title></rect>
 <rect x="498" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-06: 0 entries</title></rect>
 <text x="510" y="12" font-family="sans-serif" font-size="8" fill="#767676">Oct</text>
-<a href="https://github.com/kreier/ar65view/commit/63639560022bebc7c318a7664bcd40a4966b02a5"><rect x="510" y="18" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2018-10-07: 13 entries
-[kreier/ar65view] Merge pull request #4 from matthiaskreier/0.2.11.2
-[kreier/ar65view] latest software version February 2011
-[kreier/ar65view] Sourcefiles February 2011
-[kreier/ar65view] Merge pull request #3 from matthiaskreier/0.2.11.1
-[kreier/ar65view] Shirley background update, Look 'n' Feel
-[kreier/ar65view] Merge pull request #2 from matthiaskreier/0.1.08.04
-[kreier/ar65view] Sourcefiles April 2008 and sample data.
-[kreier/ar65view] Merge pull request #1 from matthiaskreier/0.1.07.12
-[kreier/ar65view] Initial edition from end of 2007
-[kreier/ar65view] Update README.md
-[kreier/ar65view] Update README.md
-[kreier/ar65view] Update README.md
-[kreier/ar65view] Initial commit</title></rect></a>
-<a href="https://github.com/kreier/rfid/commit/5534dfeb295f0c618b8a83ea17002075d8c5935e"><rect x="510" y="30" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2018-10-08: 18 entries
-[kreier/rfid] working sample
-[kreier/rfid] Create SimpleRFID125_1602
-[kreier/rfid] read and serial output
-[kreier/rfid] Initial commit
-[kreier/T100] corrected comments
-[kreier/T100] Rename T-100_v2.ino to T100.ino
-[kreier/T100] 2018-09-25
-[kreier/T100] Initial commit
-[kreier/ar65view] java recognition
-[kreier/ar65view] ignore the archive
-[kreier/ar65view] reorganized
-[kreier/ar65view] Update AR65view.jar
-[kreier/ar65view] Create info.txt
-[kreier/kreier.org-aqi] Update README.md
-[kreier/kreier.org-aqi] Create style.css
-[kreier/kreier.org-aqi] Create index.html
-[kreier/kreier.org-aqi] Initial commit
-[kreier/ar65view] Wikistyle</title></rect></a>
-<a href="https://github.com/kreier/T100/commit/72ab1f14d03ecb50312ab3f4349a504511882baa"><rect x="510" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2018-10-09: 3 entries
-[kreier/T100] Update README.md
-[kreier/T100] robot image
-[kreier/T100] Update README.md</title></rect></a>
+<rect x="510" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-07: 0 entries</title></rect>
+<rect x="510" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-08: 0 entries</title></rect>
+<rect x="510" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-09: 0 entries</title></rect>
 <rect x="510" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-10: 0 entries</title></rect>
 <rect x="510" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-11: 0 entries</title></rect>
-<a href="https://github.com/kreier/rfid/commit/d871b62d90afcc457eba0f47c5e21d13f63ff8b6"><rect x="510" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2018-10-12: 4 entries
-[kreier/rfid] Add files via upload
-[kreier/rfid] Create info.md
-[kreier/T100] Add files via upload
-[kreier/T100] Create info.md</title></rect></a>
-<a href="https://github.com/kreier/T110/commit/e2a32d7f250c961142d5ff5bf6029eb0480c3125"><rect x="510" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2018-10-13: 2 entries
-[kreier/T110] Update README.md
-[kreier/T110] Initial commit</title></rect></a>
+<rect x="510" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-12: 0 entries</title></rect>
+<rect x="510" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-13: 0 entries</title></rect>
 <rect x="522" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-14: 0 entries</title></rect>
-<a href="https://github.com/kreier/T110/commit/e9e4e4e08e4fbf0a91f48685625d103b901140b8"><rect x="522" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2018-10-15: 1 entry
-[kreier/T110] Create T110.ino</title></rect></a>
+<rect x="522" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-15: 0 entries</title></rect>
 <rect x="522" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-16: 0 entries</title></rect>
 <rect x="522" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-17: 0 entries</title></rect>
 <rect x="522" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-18: 0 entries</title></rect>
@@ -349,22 +308,14 @@
 <rect x="522" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-20: 0 entries</title></rect>
 <rect x="534" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-21: 0 entries</title></rect>
 <rect x="534" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-22: 0 entries</title></rect>
-<a href="https://github.com/kreier/T100/commit/7081a775f2cde7e48fc040c6fdfd3770877e6021"><rect x="534" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2018-10-23: 2 entries
-[kreier/T100] Add files via upload
-[kreier/T100] Create info.md</title></rect></a>
-<a href="https://github.com/kreier/T110/commit/f708a6bd954882edb244281ff70f15c788ae34e4"><rect x="534" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2018-10-24: 2 entries
-[kreier/T110] Update README.md
-[kreier/rfid] Update README.md</title></rect></a>
-<a href="https://github.com/kreier/T110/commit/d96585bced796717ec0c730595761cc43fe833ef"><rect x="534" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2018-10-25: 1 entry
-[kreier/T110] Update README.md</title></rect></a>
+<rect x="534" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-23: 0 entries</title></rect>
+<rect x="534" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-24: 0 entries</title></rect>
+<rect x="534" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-25: 0 entries</title></rect>
 <rect x="534" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-26: 0 entries</title></rect>
 <rect x="534" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-27: 0 entries</title></rect>
 <rect x="546" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-28: 0 entries</title></rect>
-<a href="https://github.com/kreier/rfid/commit/929654cae5d7f8c74ac129111b812e0d726e4013"><rect x="546" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2018-10-29: 2 entries
-[kreier/rfid] hd44780 with I2C support uploaded
-[kreier/rfid] Create info.md</title></rect></a>
-<a href="https://github.com/kreier/T100/commit/08d0899f577b13caa9441560ecbc075d4a099078"><rect x="546" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2018-10-30: 1 entry
-[kreier/T100] Add files via upload</title></rect></a>
+<rect x="546" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-29: 0 entries</title></rect>
+<rect x="546" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-30: 0 entries</title></rect>
 <rect x="546" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-10-31: 0 entries</title></rect>
 <rect x="546" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-01: 0 entries</title></rect>
 <rect x="546" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-02: 0 entries</title></rect>
@@ -375,37 +326,19 @@
 <rect x="558" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-06: 0 entries</title></rect>
 <rect x="558" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-07: 0 entries</title></rect>
 <rect x="558" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-08: 0 entries</title></rect>
-<a href="https://github.com/kreier/rfid/commit/5ab8a2fbbe136c30e8e773f1888a18509f8e66db"><rect x="558" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2018-11-09: 2 entries
-[kreier/rfid] wiki linked
-[kreier/rfid] Update README.md</title></rect></a>
+<rect x="558" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-09: 0 entries</title></rect>
 <rect x="558" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-10: 0 entries</title></rect>
 <rect x="570" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-11: 0 entries</title></rect>
 <rect x="570" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-12: 0 entries</title></rect>
-<a href="https://github.com/kreier/rfid/commit/bcf09069a260d097b2798078b72b8eb18787dd9c"><rect x="570" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2018-11-13: 2 entries
-[kreier/rfid] Add files via upload
-[kreier/rfid] hd44780 driver, examples and documentation</title></rect></a>
+<rect x="570" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-13: 0 entries</title></rect>
 <rect x="570" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-14: 0 entries</title></rect>
-<a href="https://github.com/kreier/rfid/commit/fc45c059782aef831e88379cc4f062720291c328"><rect x="570" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2018-11-15: 2 entries
-[kreier/rfid] Create readme.md
-[kreier/rfid] Create readme.md</title></rect></a>
-<a href="https://github.com/kreier/python2018/commit/c6151f7ef7aa8d31ed605a359bbf07f152cdad8c"><rect x="570" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2018-11-16: 11 entries
-[kreier/python2018] Update README.md
-[kreier/python2018] Merge pull request #1 from matthiaskreier/add-license-1
-[kreier/python2018] Create LICENSE
-[kreier/python2018] Update README.md
-[kreier/python2018] Update readme.md
-[kreier/python2018] prime numbers to 1000
-[kreier/python2018] wrong file
-[kreier/python2018] Add files via upload
-[kreier/python2018] Create readme.md
-[kreier/python2018] Create hello-world.py
-[kreier/python2018] Initial commit</title></rect></a>
+<rect x="570" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-15: 0 entries</title></rect>
+<rect x="570" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-16: 0 entries</title></rect>
 <rect x="570" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-17: 0 entries</title></rect>
 <rect x="582" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-18: 0 entries</title></rect>
 <rect x="582" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-19: 0 entries</title></rect>
 <rect x="582" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-20: 0 entries</title></rect>
-<a href="https://github.com/kreier/T100/commit/e6bd3c200a4cc41937255bf290a44825e4f799f2"><rect x="582" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2018-11-21: 1 entry
-[kreier/T100] Update T100.ino</title></rect></a>
+<rect x="582" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-21: 0 entries</title></rect>
 <rect x="582" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-22: 0 entries</title></rect>
 <rect x="582" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-23: 0 entries</title></rect>
 <rect x="582" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-11-24: 0 entries</title></rect>
@@ -436,14 +369,10 @@
 <rect x="630" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-12-18: 0 entries</title></rect>
 <rect x="630" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-12-19: 0 entries</title></rect>
 <rect x="630" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-12-20: 0 entries</title></rect>
-<a href="https://github.com/kreier/python2018/commit/8e06343bf18b78cb41ec27c57cccec329bad26f0"><rect x="630" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2018-12-21: 2 entries
-[kreier/python2018] create 1 octave piano in jupyter
-[kreier/python2018] Add files via upload</title></rect></a>
+<rect x="630" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-12-21: 0 entries</title></rect>
 <rect x="630" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-12-22: 0 entries</title></rect>
 <rect x="642" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-12-23: 0 entries</title></rect>
-<a href="https://github.com/kreier/kreier.org-aqi/commit/abc04669761aee62c3a5c3e5edbaaded2c4fd2ba"><rect x="642" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2018-12-24: 2 entries
-[kreier/kreier.org-aqi] sensor list updated
-[kreier/kreier.org-aqi] index with 3 sensors updated</title></rect></a>
+<rect x="642" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-12-24: 0 entries</title></rect>
 <rect x="642" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-12-25: 0 entries</title></rect>
 <rect x="642" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-12-26: 0 entries</title></rect>
 <rect x="642" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-12-27: 0 entries</title></rect>

@@ -2,7 +2,7 @@
 <text x="5" y="39" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="63" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="87" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
-<a href="https://kreier.github.io/quartz/Diary/2019"><rect x="30" y="42" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2019-01-01: 1 entry
+<a href="https://kreier.github.io/quartz/Diary/2019"><rect x="30" y="42" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2019-01-01: 1 entry
 2019</title></rect></a>
 <rect x="30" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-01-02: 0 entries</title></rect>
 <rect x="30" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-01-03: 0 entries</title></rect>
@@ -57,35 +57,23 @@
 <rect x="114" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-02-19: 0 entries</title></rect>
 <rect x="114" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-02-20: 0 entries</title></rect>
 <rect x="114" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-02-21: 0 entries</title></rect>
-<a href="https://github.com/kreier/T100/commit/0e84236d55704b2979d315ead9c96a81a3a5cbb9"><rect x="114" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-02-22: 4 entries
-[kreier/T100] username shortened to kreier
-[kreier/T200] Add files via upload
-[kreier/T200] Update README.md
-[kreier/T200] Initial commit</title></rect></a>
+<rect x="114" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-02-22: 0 entries</title></rect>
 <rect x="114" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-02-23: 0 entries</title></rect>
 <rect x="126" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-02-24: 0 entries</title></rect>
 <rect x="126" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-02-25: 0 entries</title></rect>
 <rect x="126" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-02-26: 0 entries</title></rect>
-<a href="https://github.com/kreier/T200/commit/d78dd8a89c0c6cd8d398dabda32c7b42e259ae4b"><rect x="126" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-02-27: 1 entry
-[kreier/T200] Arduino Uni, ESP8266 and ESP32 boards</title></rect></a>
+<rect x="126" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-02-27: 0 entries</title></rect>
 <rect x="126" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-02-28: 0 entries</title></rect>
 <rect x="126" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-01: 0 entries</title></rect>
 <rect x="126" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-02: 0 entries</title></rect>
 <text x="138" y="12" font-family="sans-serif" font-size="8" fill="#767676">Mar</text>
 <rect x="138" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-03: 0 entries</title></rect>
 <rect x="138" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-04: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2019/03/05/sciencefair-2019/"><rect x="138" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2019-03-05: 1 entry
+<a href="https://saiht.de/blog/2019/03/05/sciencefair-2019/"><rect x="138" y="42" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2019-03-05: 1 entry
 Sciencefair 2019</title></rect></a>
-<a href="https://github.com/kreier/T80/commit/e70ae10599257310bb3c874eba0f7ac91c8871f3"><rect x="138" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-03-06: 2 entries
-[kreier/T80] motor driver L298N test
-[kreier/T80] Initial commit</title></rect></a>
-<a href="https://github.com/kreier/T80/commit/4bcf3648a71d08af890788b8844af068d1ceb36f"><rect x="138" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-03-07: 4 entries
-[kreier/T80] Update README.md
-[kreier/T80] cropped smaller file
-[kreier/T80] image included
-[kreier/T80] first successful build</title></rect></a>
-<a href="https://github.com/kreier/T80/commit/44fb1cfb10a731675370fc135c8d41ffe454f25b"><rect x="138" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-03-08: 1 entry
-[kreier/T80] Add files via upload</title></rect></a>
+<rect x="138" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-06: 0 entries</title></rect>
+<rect x="138" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-07: 0 entries</title></rect>
+<rect x="138" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-08: 0 entries</title></rect>
 <rect x="138" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-09: 0 entries</title></rect>
 <rect x="150" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-10: 0 entries</title></rect>
 <rect x="150" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-11: 0 entries</title></rect>
@@ -103,75 +91,25 @@ Sciencefair 2019</title></rect></a>
 <rect x="162" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-23: 0 entries</title></rect>
 <rect x="174" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-24: 0 entries</title></rect>
 <rect x="174" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-25: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2019/03/26/ai-und-ml/"><rect x="174" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2019-03-26: 5 entries
-AI und ML
-[kreier/ESP32] included image
-[kreier/ESP32] two ESP32 working
-[kreier/ESP32] Update README.md
-[kreier/ESP32] Initial commit</title></rect></a>
-<a href="https://github.com/kreier/ESP32/commit/ca54986ea877b0a9ee706955c1a9ed5641778272"><rect x="174" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2019-03-27: 19 entries
-[kreier/ESP32] exports all 6 buttons and joystick values to the serial port
-[kreier/ESP32] only 91 lines left from 113
-[kreier/ESP32] Add files via upload
-[kreier/ESP32] Rename GoBLE_reciever_1.0.ino to GoBLE_reciever_0.1.ino
-[kreier/ESP32] Update README.md
-[kreier/ESP32] Update README.md
-[kreier/ESP32] Add files via upload
-[kreier/ESP32] Create README.md
-[kreier/ESP32] Create GoBLE reciever.ino
-[kreier/ESP32] Update README.md
-[kreier/ESP32] Update README.md
-[kreier/ESP32] Add files via upload
-[kreier/ESP32] Add files via upload
-[kreier/ESP32] Add files via upload
-[kreier/ESP32] Add files via upload
-[kreier/ESP32] Delete info.md
-[kreier/ESP32] Add files via upload
-[kreier/ESP32] Create README.md
-[kreier/ESP32] Create info.md</title></rect></a>
+<a href="https://saiht.de/blog/2019/03/26/ai-und-ml/"><rect x="174" y="42" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2019-03-26: 1 entry
+AI und ML</title></rect></a>
+<rect x="174" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-27: 0 entries</title></rect>
 <rect x="174" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-28: 0 entries</title></rect>
-<a href="https://github.com/kreier/T110/commit/679ca1a168ddbe6db5800b54d19eb56989c4f98c"><rect x="174" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-03-29: 5 entries
-[kreier/T110] update regarding slow progress
-[kreier/T100] updated link
-[kreier/T100] enhanced description of the project
-[kreier/T80] Update README.md
-[kreier/T80] Short update</title></rect></a>
+<rect x="174" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-29: 0 entries</title></rect>
 <rect x="174" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-30: 0 entries</title></rect>
 <rect x="186" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-31: 0 entries</title></rect>
-<a href="https://github.com/kreier/T200/commit/b929e8571ade422ef4849103d5ca7011e27276c5"><rect x="186" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-04-01: 2 entries
-[kreier/T200] expanded
-[kreier/T200] Add files via upload</title></rect></a>
-<a href="https://github.com/kreier/T200/commit/cd352430851ae7bba147b80e093cc45cb63b60ca"><rect x="186" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-04-02: 3 entries
-[kreier/T200] Update README.md
-[kreier/T200] bugfix, serial export
-[kreier/T200] realigned pins, code completion, serial export</title></rect></a>
+<rect x="186" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-01: 0 entries</title></rect>
+<rect x="186" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-02: 0 entries</title></rect>
 <rect x="186" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-03: 0 entries</title></rect>
 <rect x="186" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-04: 0 entries</title></rect>
 <rect x="186" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-05: 0 entries</title></rect>
 <rect x="186" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-06: 0 entries</title></rect>
 <text x="198" y="12" font-family="sans-serif" font-size="8" fill="#767676">Apr</text>
-<a href="https://github.com/kreier/T200/commit/43c08f041867808b53bf89cb1b84ce3dd57fc693"><rect x="198" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-04-07: 9 entries
-[kreier/T200] Delete IMG_20190227_192213.jpg
-[kreier/T200] some Arduino Uno, ESP8266 and ESP32
-[kreier/ESP32] Blue LED indicates BLE connection, motor values calculated
-[kreier/ESP32] blinking LED indicates Bluetooth status, Motor values calculated
-[kreier/T200] comments updated, clutter removed
-[kreier/T200] image link fixed
-[kreier/T200] move file
-[kreier/T200] Create README.md
-[kreier/T100] Create readme.md</title></rect></a>
-<a href="https://github.com/kreier/T200/commit/e1bc4d7c7bcf17f16e518eb16fc7e2e153df30fd"><rect x="198" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-04-08: 1 entry
-[kreier/T200] works with DOIT ESP32 DEVKIT v1</title></rect></a>
+<rect x="198" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-07: 0 entries</title></rect>
+<rect x="198" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-08: 0 entries</title></rect>
 <rect x="198" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-09: 0 entries</title></rect>
-<a href="https://github.com/kreier/ESP8266/commit/279d7c6a1eaa2772fbedfc227352a8c75d6346bf"><rect x="198" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-04-10: 4 entries
-[kreier/ESP8266] Add files via upload
-[kreier/ESP8266] Update README.md
-[kreier/ESP8266] Create README.md
-[kreier/ESP8266] Initial commit</title></rect></a>
-<a href="https://github.com/kreier/ESP8266/commit/17884f17c84657e85468b1a2ceac008921f16883"><rect x="198" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-04-11: 3 entries
-[kreier/ESP8266] Create install.php
-[kreier/ESP8266] Create http_post.ino
-[kreier/ESP8266] Create README.md</title></rect></a>
+<rect x="198" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-10: 0 entries</title></rect>
+<rect x="198" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-11: 0 entries</title></rect>
 <rect x="198" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-12: 0 entries</title></rect>
 <rect x="198" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-13: 0 entries</title></rect>
 <rect x="210" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-14: 0 entries</title></rect>
@@ -209,10 +147,7 @@ AI und ML
 <rect x="258" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-05-15: 0 entries</title></rect>
 <rect x="258" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-05-16: 0 entries</title></rect>
 <rect x="258" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-05-17: 0 entries</title></rect>
-<a href="https://github.com/kreier/T100/commit/192129cb4f83c9cf0e5dce63acbb14772ee0e031"><rect x="258" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-05-18: 3 entries
-[kreier/T100] Add files via upload
-[kreier/T100] Add files via upload
-[kreier/T100] timelapse video included</title></rect></a>
+<rect x="258" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-05-18: 0 entries</title></rect>
 <rect x="270" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-05-19: 0 entries</title></rect>
 <rect x="270" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-05-20: 0 entries</title></rect>
 <rect x="270" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-05-21: 0 entries</title></rect>
@@ -315,704 +250,138 @@ AI und ML
 <rect x="426" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-08-23: 0 entries</title></rect>
 <rect x="426" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-08-24: 0 entries</title></rect>
 <rect x="438" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-08-25: 0 entries</title></rect>
-<a href="https://github.com/kreier/asa/commit/c0b528144fc1b0eb9f21f96db1b99a0752378854"><rect x="438" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-08-26: 2 entries
-[kreier/asa] Update README.md
-[kreier/asa] Initial commit</title></rect></a>
+<rect x="438" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-08-26: 0 entries</title></rect>
 <rect x="438" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-08-27: 0 entries</title></rect>
 <rect x="438" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-08-28: 0 entries</title></rect>
 <rect x="438" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-08-29: 0 entries</title></rect>
-<a href="https://github.com/kreier/asa/commit/7368bbd7a26b87a48911e94d80bacdbb6d9c60f9"><rect x="438" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-08-30: 2 entries
-[kreier/asa] Add files via upload
-[kreier/asa] Create README.md</title></rect></a>
+<rect x="438" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-08-30: 0 entries</title></rect>
 <rect x="438" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-08-31: 0 entries</title></rect>
 <text x="450" y="12" font-family="sans-serif" font-size="8" fill="#767676">Sep</text>
 <rect x="450" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-01: 0 entries</title></rect>
 <rect x="450" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-02: 0 entries</title></rect>
 <rect x="450" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-03: 0 entries</title></rect>
-<a href="https://github.com/kreier/asa/commit/f8c51bb41dc2c7162093f04b333c292976ffb59e"><rect x="450" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-04: 2 entries
-[kreier/asa] sample code motor shield
-[kreier/asa] Add files via upload</title></rect></a>
-<a href="https://github.com/kreier/asa/commit/a7d4332e615e28dbf991e0361db9617f3a1f0822"><rect x="450" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-05: 5 entries
-[kreier/asa] Update motorshield_1.ino
-[kreier/asa] Update readme.md
-[kreier/asa] Update and rename motor shield_1.ino to motorshield_1.ino
-[kreier/asa] Create readme.md
-[kreier/asa] Create motor shield_1.ino</title></rect></a>
-<a href="https://github.com/kreier/asa/commit/f3d1f2fd790e0bbb346928f84aa206fcb50d400e"><rect x="450" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-06: 3 entries
-[kreier/asa] Update buzzer_demo
-[kreier/asa] Create README.md
-[kreier/asa] Create buzzer_demo</title></rect></a>
+<rect x="450" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-04: 0 entries</title></rect>
+<rect x="450" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-05: 0 entries</title></rect>
+<rect x="450" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-06: 0 entries</title></rect>
 <rect x="450" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-07: 0 entries</title></rect>
 <rect x="462" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-08: 0 entries</title></rect>
 <rect x="462" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-09: 0 entries</title></rect>
-<a href="https://github.com/kreier/asa/commit/7b9f146d120dc3b18d4d584d5c9b5d8093c508e4"><rect x="462" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-10: 2 entries
-[kreier/asa] Add files via upload
-[kreier/asa] Create README.md</title></rect></a>
+<rect x="462" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-10: 0 entries</title></rect>
 <rect x="462" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-11: 0 entries</title></rect>
 <rect x="462" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-12: 0 entries</title></rect>
 <rect x="462" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-13: 0 entries</title></rect>
 <rect x="462" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-14: 0 entries</title></rect>
 <rect x="474" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-15: 0 entries</title></rect>
-<a href="https://github.com/kreier/asa/commit/dd94e4d51bed23c21964167d67505df3d7a6441e"><rect x="474" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-16: 3 entries
-[kreier/asa] sources for Raspberry Pi included.
-[kreier/asa] Update README.md
-[kreier/asa] Update README.md</title></rect></a>
-<a href="https://github.com/kreier/asa/commit/05d92a4c723c157309b581456c4fdd600170b82d"><rect x="474" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-17: 5 entries
-[kreier/asa] Add files via upload
-[kreier/asa] included image
-[kreier/asa] Update README.md
-[kreier/asa] pins, does not work with Leonardo.
-[kreier/asa] Create PS2X-example.ino</title></rect></a>
-<a href="https://github.com/kreier/asa/commit/b855a680d095e223dd41ef551ef8b4ca58bad473"><rect x="474" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-18: 2 entries
-[kreier/asa] new pin assignment
-[kreier/asa] another working sample</title></rect></a>
+<rect x="474" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-16: 0 entries</title></rect>
+<rect x="474" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-17: 0 entries</title></rect>
+<rect x="474" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-18: 0 entries</title></rect>
 <rect x="474" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-19: 0 entries</title></rect>
-<a href="https://github.com/kreier/asa/commit/882c5a8aa3a177239ecb00c0e68ba4c1df04ca00"><rect x="474" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-20: 3 entries
-[kreier/asa] Update and rename README.md to readme.md
-[kreier/asa] Update README.md
-[kreier/asa] Add files via upload</title></rect></a>
-<a href="https://github.com/kreier/asa/commit/ea17c8eeaef69a01ebad178b1855a2ba1e157541"><rect x="474" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-21: 1 entry
-[kreier/asa] indicate PWM pins</title></rect></a>
+<rect x="474" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-20: 0 entries</title></rect>
+<rect x="474" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-21: 0 entries</title></rect>
 <rect x="486" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-22: 0 entries</title></rect>
-<a href="https://github.com/kreier/T100/commit/f1ec59c110339046ce2d4643a4ea803686c53acd"><rect x="486" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-23: 7 entries
-[kreier/T100] Create readme.md
-[kreier/T100] Create motortest_simple
-[kreier/asa] Add files via upload
-[kreier/asa] pins defined, CH340 update
-[kreier/asa] Update readme.md
-[kreier/asa] Update and rename README.md to readme.md
-[kreier/asa] Add files via upload</title></rect></a>
-<a href="https://github.com/kreier/T100/commit/ee722989a4a26b630b2e16d09b38fb00c9634c2e"><rect x="486" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-24: 1 entry
-[kreier/T100] Add files via upload</title></rect></a>
+<rect x="486" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-23: 0 entries</title></rect>
+<rect x="486" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-24: 0 entries</title></rect>
 <rect x="486" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-25: 0 entries</title></rect>
 <rect x="486" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-26: 0 entries</title></rect>
-<a href="https://github.com/kreier/T100/commit/1fbd8010756f38e2a6326c4a02b22c7ed654d2be"><rect x="486" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-27: 3 entries
-[kreier/T100] Update readme.md
-[kreier/T100] rumble and analog disabled for improved stability
-[kreier/T100] extension updated</title></rect></a>
+<rect x="486" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-27: 0 entries</title></rect>
 <rect x="486" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-28: 0 entries</title></rect>
 <rect x="498" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-29: 0 entries</title></rect>
-<a href="https://github.com/kreier/T100/commit/d55ac11eca31c30bb6961df74b8f63550370fc06"><rect x="498" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-30: 4 entries
-[kreier/T100] video link fixed
-[kreier/T100] video linked
-[kreier/rfid] Update and rename info.md to readme.md
-[kreier/rfid] included more pictures</title></rect></a>
-<a href="https://github.com/kreier/asa/commit/fbab7079713c1da9374ad066b531a3d2f68eccd9"><rect x="498" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-01: 4 entries
-[kreier/asa] move to motorshield folder
-[kreier/asa] renamed folder
-[kreier/asa] Add files via upload
-[kreier/asa] Update readme.md</title></rect></a>
-<a href="https://github.com/kreier/rfid/commit/cc486f625901bf8a4135b62d085104e8aafbcccd"><rect x="498" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-02: 2 entries
-[kreier/rfid] Add files via upload
-[kreier/rfid] Update readme.md</title></rect></a>
-<a href="https://github.com/kreier/rfid/commit/8488b63a10dd75f78db99a7837f878aa030a5dd6"><rect x="498" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-03: 7 entries
-[kreier/rfid] smaller pictures, better arranged
-[kreier/rfid] Update README.md
-[kreier/rfid] Update README.md
-[kreier/rfid] Update readme.md
-[kreier/rfid] Add files via upload
-[kreier/rfid] Update readme.md
-[kreier/rfid] Add files via upload</title></rect></a>
-<a href="https://github.com/kreier/rfid/commit/30dba910dd36cad4261bd8e466486e6b0b90cdfb"><rect x="498" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-04: 2 entries
-[kreier/rfid] added Luke and Katie
-[kreier/rfid] Add files via upload</title></rect></a>
+<rect x="498" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-30: 0 entries</title></rect>
+<rect x="498" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-01: 0 entries</title></rect>
+<rect x="498" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-02: 0 entries</title></rect>
+<rect x="498" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-03: 0 entries</title></rect>
+<rect x="498" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-04: 0 entries</title></rect>
 <rect x="498" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-05: 0 entries</title></rect>
 <text x="510" y="12" font-family="sans-serif" font-size="8" fill="#767676">Oct</text>
 <rect x="510" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-06: 0 entries</title></rect>
-<a href="https://github.com/kreier/407B/commit/7d9de9aad284c3fed73912ba39f2f8309ba8b6e3"><rect x="510" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-07: 3 entries
-[kreier/407B] Create nametag_aisvn.ino
-[kreier/407B] Update README.md
-[kreier/407B] Initial commit</title></rect></a>
-<a href="https://github.com/kreier/407B/commit/cfa6331638cb900fb7c52f6ea3820a56e0a75997"><rect x="510" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-08: 2 entries
-[kreier/407B] Luke and Katie alias added
-[kreier/407B] Update README.md</title></rect></a>
-<a href="https://github.com/kreier/407B/commit/dce48a1d9d0e835775abe3baf150a34897564da3"><rect x="510" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-09: 5 entries
-[kreier/407B] Add files via upload
-[kreier/407B] Create readme.md
-[kreier/407B] image links fixed
-[kreier/407B] image links corrected
-[kreier/407B] Create readme.md</title></rect></a>
-<a href="https://github.com/kreier/407B/commit/c2bbc11fa8c84d626fc288693e0780cd391855bb"><rect x="510" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-10: 4 entries
-[kreier/407B] Create readme.md
-[kreier/rfid] renamed and updated
-[kreier/aqi] Update README.md
-[kreier/aqi] Initial commit</title></rect></a>
-<a href="https://github.com/kreier/aqi/commit/d90400bd7758835b0cfaf3efff169315ddbece64"><rect x="510" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2019-10-11: 15 entries
-[kreier/aqi] included QR code as picture
-[kreier/aqi] Add files via upload
-[kreier/aqi] map data included
-[kreier/aqi] Update readme.md
-[kreier/aqi] Add files via upload
-[kreier/aqi] Add files via upload
-[kreier/aqi] Add files via upload
-[kreier/aqi] Update readme.md
-[kreier/aqi] Create readme.md
-[kreier/aqi] Update README.md
-[kreier/aqi] three sensors added
-[kreier/aqi] programmed in 2015
-[kreier/aqi] Create readme.md
-[kreier/aqi] updated DIY kit
-[kreier/aqi] database sensor updated</title></rect></a>
+<rect x="510" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-07: 0 entries</title></rect>
+<rect x="510" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-08: 0 entries</title></rect>
+<rect x="510" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-09: 0 entries</title></rect>
+<rect x="510" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-10: 0 entries</title></rect>
+<rect x="510" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-11: 0 entries</title></rect>
 <rect x="510" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-12: 0 entries</title></rect>
 <rect x="522" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-13: 0 entries</title></rect>
-<a href="https://github.com/kreier/aqi/commit/35cbae0937df06e5f4a98935ecd343caf1d9d5e4"><rect x="522" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-14: 3 entries
-[kreier/aqi] Create readme.md
-[kreier/aqi] Add files via upload
-[kreier/aqi] Create readme.md</title></rect></a>
-<a href="https://github.com/kreier/407B/commit/a747a433a875a93e8f39332a7d3998580ea96a4d"><rect x="522" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-15: 2 entries
-[kreier/407B] created 2016-01-26 for NaWi AG at Eichenschule Scheessel
-[kreier/407B] created 2016-01-26 in Hofkoh for NaWi-AG in grade 4 &amp; 5 at the Eichenschule</title></rect></a>
-<a href="https://github.com/kreier/407B/commit/965950dc2b26bebbdbfca06f5693ec10e364a1ba"><rect x="522" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-16: 2 entries
-[kreier/407B] progress bar and uptime
-[kreier/rfid] progress bar added</title></rect></a>
-<a href="https://github.com/kreier/407B/commit/1c21cf8953e097eca2ad29239f04a45bb040b746"><rect x="522" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-17: 5 entries
-[kreier/407B] sensors and maps integraded
-[kreier/407B] Add files via upload
-[kreier/407B] Create readme.md
-[kreier/407B] sensors integraded
-[kreier/407B] Create readme.md</title></rect></a>
-<a href="https://github.com/kreier/ultrasonic/commit/5d94dfe8de9bcd0dc58b3cafe50e6bf8960bc88d"><rect x="522" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-18: 10 entries
-[kreier/ultrasonic] Update README.md
-[kreier/ultrasonic] restart after 2016-01-26
-[kreier/ultrasonic] it works!
-[kreier/ultrasonic] created 2016-01-26
-[kreier/ultrasonic] created 2016-01-26
-[kreier/ultrasonic] created 2017-11-20
-[kreier/ultrasonic] created 2015-10-21
-[kreier/ultrasonic] Create readme.md
-[kreier/ultrasonic] Initial commit
-[kreier/aqi] Create readme.md</title></rect></a>
+<rect x="522" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-14: 0 entries</title></rect>
+<rect x="522" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-15: 0 entries</title></rect>
+<rect x="522" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-16: 0 entries</title></rect>
+<rect x="522" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-17: 0 entries</title></rect>
+<rect x="522" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-18: 0 entries</title></rect>
 <rect x="522" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-19: 0 entries</title></rect>
 <rect x="534" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-20: 0 entries</title></rect>
-<a href="https://github.com/kreier/asa/commit/43c3591152d42ed78b9f9b910a145e8e6ff0c73b"><rect x="534" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-21: 10 entries
-[kreier/asa] Instruction to successful BT remote control
-[kreier/asa] BT controlled robot via with 3 speeds
-[kreier/asa] analogWrite(128) is 50%
-[kreier/asa] fixed - works with pin 8 on Leonardo and HC-05
-[kreier/asa] SoftwareSerial needs pin 8
-[kreier/asa] works with HC-05 and Arduino Uno, not Leonardo ...
-[kreier/asa] not yet working with Leonardo
-[kreier/asa] max speed only 50% (128)
-[kreier/asa] pin assignment updated
-[kreier/asa] Pin assignment</title></rect></a>
-<a href="https://github.com/kreier/asa/commit/5d7cb046dbb4e76381c18d5355a07a0ff33ab7df"><rect x="534" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-22: 6 entries
-[kreier/asa] BLE remote controller software added
-[kreier/rfid] bug fix progress bar and nonworking .flush()
-[kreier/407B] .flush() does not work and minor fixes
-[kreier/407B] Add files via upload
-[kreier/aqi] infoboard for students
-[kreier/aqi] overview and conversion of units</title></rect></a>
-<a href="https://github.com/kreier/407B/commit/e5ac62dbedc59194e1d565486c07f326dcd129ab"><rect x="534" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-23: 2 entries
-[kreier/407B] new example
-[kreier/407B] Create readme.md</title></rect></a>
+<rect x="534" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-21: 0 entries</title></rect>
+<rect x="534" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-22: 0 entries</title></rect>
+<rect x="534" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-23: 0 entries</title></rect>
 <rect x="534" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-24: 0 entries</title></rect>
-<a href="https://github.com/kreier/407B/commit/68697c32b1d8c544d8432f924002dd8c8e448bac"><rect x="534" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-25: 3 entries
-[kreier/407B] ultrasonic distance and IR proximity with uptime counter
-[kreier/407B] sketch 2019-10-25 with german comments - unfinished
-[kreier/407B] Sketch from 2019-10-23</title></rect></a>
+<rect x="534" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-25: 0 entries</title></rect>
 <rect x="534" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-26: 0 entries</title></rect>
 <rect x="546" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-27: 0 entries</title></rect>
-<a href="https://github.com/kreier/asa/commit/afd26d93680a41c2d85eb2afba7f1d66ee0eba60"><rect x="546" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-28: 2 entries
-[kreier/asa] Create readme.md
-[kreier/407B] minutes overrun bug fixed in tuptime</title></rect></a>
-<a href="https://github.com/kreier/asa/commit/bcf9ebf567439d35489b5f40b23c01fb99f29227"><rect x="546" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-29: 3 entries
-[kreier/asa] Delete bluetooth-robot_iOS.ino
-[kreier/asa] to be used with BitBlue
-[kreier/asa] to be used with BitBlue</title></rect></a>
-<a href="https://github.com/kreier/aqi/commit/b731d47e75ac7b5ee09397df978208faac55c532"><rect x="546" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-30: 3 entries
-[kreier/aqi] map HCM linked
-[kreier/aqi] map view October 17th, 2019
-[kreier/aqi] compare PM2.5 to AQI in China and US</title></rect></a>
-<a href="https://github.com/kreier/407B/commit/f50efe3165c1ac1a684f7d179b66057b7cd06de5"><rect x="546" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-31: 1 entry
-[kreier/407B] int overflow minutes correction</title></rect></a>
-<a href="https://github.com/kreier/aqi/commit/1b2d18c60b5b1c0a411ab3625b4e33c3227e5274"><rect x="546" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2019-11-01: 11 entries
-[kreier/aqi] sensor table added
-[kreier/aqi] list of sensors 2019-11
-[kreier/aqi] sensor list updated
-[kreier/aqi] created 2019-10-15
-[kreier/asa] software iOS and Android
-[kreier/aqi] export from kaggle
-[kreier/aqi] Update readme.md
-[kreier/aqi] Create analyze2018-1.py
-[kreier/asa] to be used with BLEJoystick
-[kreier/407B] function to return string with uptime
-[kreier/407B] rollover in comparison (2 unsigned long) fixed</title></rect></a>
+<rect x="546" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-28: 0 entries</title></rect>
+<rect x="546" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-29: 0 entries</title></rect>
+<rect x="546" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-30: 0 entries</title></rect>
+<rect x="546" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-31: 0 entries</title></rect>
+<rect x="546" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-01: 0 entries</title></rect>
 <rect x="546" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-02: 0 entries</title></rect>
 <text x="558" y="12" font-family="sans-serif" font-size="8" fill="#767676">Nov</text>
 <rect x="558" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-03: 0 entries</title></rect>
-<a href="https://github.com/kreier/asa/commit/8f784539eb3181973b8c6e1f6c3f84bf6b7c9757"><rect x="558" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-04: 5 entries
-[kreier/asa] correct calculate uptime
-[kreier/asa] logo
-[kreier/asa] updated pin assignment bluetooth
-[kreier/asa] just sweep 30 to 150 degrees, wait at 90
-[kreier/asa] ultrasonic on servo created</title></rect></a>
-<a href="https://github.com/kreier/T100/commit/afe78a542778f25cb71297088b0fb7e06e4d17a4"><rect x="558" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-05: 4 entries
-[kreier/T100] software and key layout
-[kreier/T100] Update readme.md
-[kreier/asa] new servo and ultrasonic
-[kreier/asa] with servo and ultrasonic</title></rect></a>
+<rect x="558" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-04: 0 entries</title></rect>
+<rect x="558" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-05: 0 entries</title></rect>
 <rect x="558" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-06: 0 entries</title></rect>
 <rect x="558" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-07: 0 entries</title></rect>
-<a href="https://github.com/kreier/asa/commit/627a1cef7fbb363386ea8fbeffba8faeffbe784a"><rect x="558" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-08: 1 entry
-[kreier/asa] remote with servo, ultrasonic and acoustic feedback</title></rect></a>
-<a href="https://github.com/kreier/asa/commit/e8913750197fcbda77c5f6b338faadc8a1684f21"><rect x="558" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-09: 1 entry
-[kreier/asa] Set theme jekyll-theme-slate</title></rect></a>
+<rect x="558" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-08: 0 entries</title></rect>
+<rect x="558" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-09: 0 entries</title></rect>
 <rect x="570" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-10: 0 entries</title></rect>
-<a href="https://github.com/kreier/T100/commit/8eca7d6717b76705579b42ba4f3b9d11486d1de0"><rect x="570" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-11: 8 entries
-[kreier/T100] pins and BLE updated
-[kreier/T100] with BLE and pin A0 (14)
-[kreier/T100] 2018-11-18
-[kreier/T100] original November 2018
-[kreier/T100] software update
-[kreier/aqi] Set theme jekyll-theme-slate
-[kreier/kreier.github.io] first cange
-[kreier/kreier.github.io] Initial commit</title></rect></a>
-<a href="https://github.com/kreier/remote/commit/bec7ccb1c98a92727011a556474cc25a3542ff8d"><rect x="570" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2019-11-12: 13 entries
-[kreier/remote] vision expanded
-[kreier/remote] basic files and framework
-[kreier/remote] inspired by Danila Loginov
-[kreier/remote] initial commit
-[kreier/remote] Initial commit
-[kreier/asa] 2019-10-21 led blink if income
-[kreier/asa] 2019-10-21
-[kreier/asa] Print BLE serial to 1602
-[kreier/aqi] DHT sensors
-[kreier/aqi] DHT22 links
-[kreier/kreier.github.io] robot image added
-[kreier/kreier.github.io] some projects and links
-[kreier/kreier.github.io] Set theme jekyll-theme-cayman</title></rect></a>
-<a href="https://github.com/kreier/asa/commit/0b7aa571a3c8fdda32dad0f9e53be1b852f8440e"><rect x="570" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-13: 6 entries
-[kreier/asa] Update _config.yml
-[kreier/asa] Update _config.yml
-[kreier/407B] Update _config.yml
-[kreier/ar65view] Set theme jekyll-theme-cayman
-[kreier/T100] Set theme jekyll-theme-slate
-[kreier/407B] Set theme jekyll-theme-slate</title></rect></a>
+<rect x="570" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-11: 0 entries</title></rect>
+<rect x="570" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-12: 0 entries</title></rect>
+<rect x="570" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-13: 0 entries</title></rect>
 <rect x="570" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-14: 0 entries</title></rect>
-<a href="https://github.com/kreier/impact/commit/4809291af9e5f6bd291705d20242672b0ea447f6"><rect x="570" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-15: 3 entries
-[kreier/impact] 2019-11-15
-[kreier/impact] Inspired 2019-11-15
-[kreier/impact] Initial commit</title></rect></a>
+<rect x="570" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-15: 0 entries</title></rect>
 <rect x="570" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-16: 0 entries</title></rect>
 <rect x="582" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-17: 0 entries</title></rect>
-<a href="https://github.com/kreier/remote/commit/2989cfac915185c4d9133a6020ab6f915678890a"><rect x="582" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-18: 9 entries
-[kreier/remote] Update and rename readme.md to README.md
-[kreier/T300] Set theme jekyll-theme-cayman
-[kreier/T300] Create README.md
-[kreier/T300] Update and rename readme.md to README.md
-[kreier/T300] pins defined as constants
-[kreier/T300] Create test_simple1.ino
-[kreier/asa] name and declaration refined
-[kreier/T300] Basic outline and history
-[kreier/T300] Initial commit</title></rect></a>
-<a href="https://github.com/kreier/T300/commit/13e1b5c5e683eec260aca8db13421c76517241f6"><rect x="582" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-19: 10 entries
-[kreier/T300] Add files via upload
-[kreier/T300] Update README.md
-[kreier/T100] Set theme jekyll-theme-cayman
-[kreier/T100] include code from 2019-11-11
-[kreier/T300] proposed upgrades
-[kreier/T300] Create sweep1.ino
-[kreier/kreier.github.io] Update README.md
-[kreier/kreier.github.io] Add files via upload
-[kreier/kreier.github.io] updated pictures
-[kreier/kreier.github.io] Create README.md</title></rect></a>
-<a href="https://github.com/kreier/T300/commit/fbae91c5ec18f82c2aebfa87981262f73b6020a8"><rect x="582" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2019-11-20: 13 entries
-[kreier/T300] updated file sizes
-[kreier/T300] created October 4th, 2018
-[kreier/T300] link to sciencefair 2019
-[kreier/T300] empty frame, will be designed in spring 2020
-[kreier/T300] image fixed/added
-[kreier/T300] float fix (align)
-[kreier/T300] keys for remote added
-[kreier/T300] integrated recent picture
-[kreier/T300] history and gallery added
-[kreier/T300] created October 2018
-[kreier/T300] Add files via upload
-[kreier/T300] history added
-[kreier/T300] created 2019-11-18</title></rect></a>
-<a href="https://github.com/kreier/T300/commit/6790c5a5173017c6a989846626a957d0f6008f9d"><rect x="582" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-21: 4 entries
-[kreier/T300] three stages autonomous movement
-[kreier/T300] pin and remote updated
-[kreier/T300] update pin assignment, include I2C
-[kreier/T300] pin assignment</title></rect></a>
+<rect x="582" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-18: 0 entries</title></rect>
+<rect x="582" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-19: 0 entries</title></rect>
+<rect x="582" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-20: 0 entries</title></rect>
+<rect x="582" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-21: 0 entries</title></rect>
 <rect x="582" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-22: 0 entries</title></rect>
 <rect x="582" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-23: 0 entries</title></rect>
 <rect x="594" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-24: 0 entries</title></rect>
-<a href="https://github.com/kreier/T300/commit/1dde8039e8adecc4cff72ba8e577d6d419196614"><rect x="594" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2019-11-25: 18 entries
-[kreier/T300] four modes
-[kreier/T300] included example code
-[kreier/T300] Add files via upload
-[kreier/T300] Create README.md
-[kreier/T300] pin assignment updated
-[kreier/T300] Update README.md
-[kreier/T300] it works!
-[kreier/labs] example code from Huy
-[kreier/labs] Huy's example
-[kreier/labs] Set theme jekyll-theme-cayman
-[kreier/labs] first experiment
-[kreier/labs] Initial commit
-[kreier/T300] corrected code
-[kreier/T300] 2019-11-25
-[kreier/T300] Create README.md
-[kreier/T300] 4 lines of code included
-[kreier/T300] Add files via upload
-[kreier/T300] Create README.md</title></rect></a>
-<a href="https://github.com/kreier/T300/commit/d7d00f005e3e940f0f3107bacff234005af06678"><rect x="594" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2019-11-26: 21 entries
-[kreier/T300] Add files via upload
-[kreier/T300] Create T300_20191126.ino
-[kreier/T300] Create README.md
-[kreier/labs] Add files via upload
-[kreier/labs] Create README.md
-[kreier/labs] Update README.md
-[kreier/labs] moved files for consistency
-[kreier/labs] Add files via upload
-[kreier/labs] formula LaTeX rendering works
-[kreier/labs] Update README.md
-[kreier/labs] fix
-[kreier/labs] overview of topics
-[kreier/labs] Add files via upload
-[kreier/labs] Create README.md
-[kreier/labs] 2019/11/25
-[kreier/labs] Update README.md
-[kreier/labs] Add files via upload
-[kreier/labs] Add files via upload
-[kreier/labs] written by Huy 2019-11-24
-[kreier/labs] Add files via upload
-[kreier/labs] Link to Anaconda cloud</title></rect></a>
-<a href="https://github.com/kreier/labs/commit/fc3d3b20d6ec451daed307097df905e9ce707758"><rect x="594" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-27: 2 entries
-[kreier/labs] Update README.md
-[kreier/labs] 35 different length and each 5 trials</title></rect></a>
-<a href="https://github.com/kreier/labs/commit/1899be6b8f5397b9ddef5e95c6c7e1e27c62e354"><rect x="594" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-28: 2 entries
-[kreier/labs] Add files via upload
-[kreier/labs] Create README.md</title></rect></a>
-<a href="https://github.com/kreier/labs/commit/9be4a9b1596c870f955073ff74f9692c444764fe"><rect x="594" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-29: 6 entries
-[kreier/labs] Add files via upload
-[kreier/labs] Create README.md
-[kreier/T300] Add files via upload
-[kreier/impact] rubber duck debugging
-[kreier/impact] Update readme.md
-[kreier/T300] refining remote response RX BT</title></rect></a>
+<rect x="594" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-25: 0 entries</title></rect>
+<rect x="594" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-26: 0 entries</title></rect>
+<rect x="594" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-27: 0 entries</title></rect>
+<rect x="594" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-28: 0 entries</title></rect>
+<rect x="594" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-29: 0 entries</title></rect>
 <rect x="594" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-30: 0 entries</title></rect>
 <text x="606" y="12" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
 <rect x="606" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-01: 0 entries</title></rect>
-<a href="https://github.com/kreier/T300/commit/776f0fdabb6771ee15b002bc2078358504a2612e"><rect x="606" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-12-02: 5 entries
-[kreier/T300] Bluetooth mode selection, display on 1602 I2C
-[kreier/T300] mode selection and I2C display works
-[kreier/T300] controller image linked
-[kreier/T300] layout controller keys
-[kreier/asa] Huy's Android treaked software - week 2</title></rect></a>
-<a href="https://github.com/kreier/labs/commit/c44070966e50885746d5a2ba23edf94461789ba9"><rect x="606" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-12-03: 2 entries
-[kreier/labs] created with colaboratory
-[kreier/T300] Update README.md</title></rect></a>
-<a href="https://github.com/kreier/labs/commit/0db26ebbfa16975381f0015908aeb3c7d0ea4b43"><rect x="606" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-12-04: 1 entry
-[kreier/labs] Add files via upload</title></rect></a>
-<a href="https://github.com/kreier/T400/commit/e7bf8b374a8b188a644667f85666c09fda4ca6e7"><rect x="606" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-12-05: 5 entries
-[kreier/T400] 2019-12-05
-[kreier/T400] Create README.md
-[kreier/T400] Initial commit
-[kreier/T300] direction commands in array
-[kreier/T300] defined array for variables/text</title></rect></a>
-<a href="https://github.com/kreier/remote/commit/79311794ba826a82dcfa1f09759ae515c15f98ec"><rect x="606" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2019-12-06: 23 entries
-[kreier/remote] Update index.html
-[kreier/remote] Create main.js
-[kreier/remote] Create companion.js
-[kreier/remote] Create BluetoothTerminal.js
-[kreier/remote] Create styles.css
-[kreier/remote] Create normalize.css
-[kreier/remote] Create manifest.json
-[kreier/remote] inspired by loginov.rocks/Web-Bluetooth-Terminal
-[kreier/labs] added ODE - ordinary differential equation
-[kreier/labs] science myp picture
-[kreier/labs] from macrovector at freepik.com
-[kreier/labs] logo stemfair included
-[kreier/labs] stemfair.org logo
-[kreier/labs] included 2 pictures
-[kreier/labs] included 2 pictures
-[kreier/labs] Add files via upload
-[kreier/labs] Create README.md
-[kreier/labs] code from 2019-06-08
-[kreier/labs] code sniplet included
-[kreier/labs] evil clown wins
-[kreier/labs] png graphics fixed
-[kreier/labs] Add files via upload
-[kreier/labs] Create README.md</title></rect></a>
+<rect x="606" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-02: 0 entries</title></rect>
+<rect x="606" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-03: 0 entries</title></rect>
+<rect x="606" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-04: 0 entries</title></rect>
+<rect x="606" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-05: 0 entries</title></rect>
+<rect x="606" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-06: 0 entries</title></rect>
 <rect x="606" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-07: 0 entries</title></rect>
 <rect x="618" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-08: 0 entries</title></rect>
-<a href="https://github.com/kreier/T300/commit/81f5658317161253b989b48383d51aa4670a3942"><rect x="618" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-12-09: 8 entries
-[kreier/T300] with ultrasonic stop function under 10cm
-[kreier/T300] issues updated
-[kreier/T300] updated modes
-[kreier/T300] now with optic and acoustic feedback
-[kreier/T300] beeps below 20 centimeters
-[kreier/T300] no errors like LiquidCrystal_I2C
-[kreier/T300] with LiquidCrystal_I2C library
-[kreier/T300] updated definition</title></rect></a>
-<a href="https://github.com/kreier/python2018/commit/39d43726633595d4c877c6b6fbecc64c8d3c1938"><rect x="618" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2019-12-10: 17 entries
-[kreier/python2018] first successful run
-[kreier/python2018] updated results
-[kreier/python2018] 2019-12-10 32807 ms at 80 MHz
-[kreier/python2018] 2019-12-10 7783ms at 240 MHz
-[kreier/python2018] 2019-12-10 18113 ms at 160 MHz
-[kreier/python2018] 2019-12-10 32807 ms at 80 MHz
-[kreier/python2018] 2019-12-10 44427ms at 40MHz
-[kreier/python2018] 2019-12-10 7783ms
-[kreier/python2018] 2019-12-08
-[kreier/python2018] turbo time
-[kreier/python2018] python script
-[kreier/python2018] 2019-12-10
-[kreier/python2018] pin to connect for upload
-[kreier/python2018] Create README.md
-[kreier/python2018] code for micropython
-[kreier/python2018] prime numbers to 1000 with time
-[kreier/python2018] Update README.md</title></rect></a>
-<a href="https://github.com/kreier/T400/commit/561f1f5069550fad06338274cb51fe394ce7eef0"><rect x="618" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2019-12-11: 18 entries
-[kreier/T400] from DOIT Shanghai
-[kreier/T400] 2019/12/12 saved 5 lines
-[kreier/T400] 2019/12/10
-[kreier/T300] specs updated
-[kreier/labs] Update README.md
-[kreier/labs] larger image
-[kreier/labs] rendered in jupyter on Raspberry Pi 4
-[kreier/labs] Add files via upload
-[kreier/labs] Update README.md
-[kreier/labs] Update README.md
-[kreier/labs] created with Mathematica 8.0.0 May 2011
-[kreier/labs] Update README.md
-[kreier/labs] from the cloud
-[kreier/labs] Rendered in colaboratory
-[kreier/labs] Create README.md
-[kreier/labs] Create README.md
-[kreier/python2018] included code, time for Raspberry Pi 4
-[kreier/python2018] first notebook ever with Mathematica</title></rect></a>
-<a href="https://github.com/kreier/T400/commit/1ce310e52aa95db81fce53afb3c7994dec75962f"><rect x="618" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-12-12: 7 entries
-[kreier/T400] Create README.md
-[kreier/T400] Update README.md
-[kreier/T400] simpler
-[kreier/T400] code with reassigned i2c
-[kreier/T400] pin assignment
-[kreier/T300] Merge branch 'master' of https://github.com/kreier/T300
-[kreier/T300] PWM issues fixed, code structured</title></rect></a>
-<a href="https://github.com/kreier/labs/commit/3b8eb04699474123bd8d87926b17a8be27eea92c"><rect x="618" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-12-13: 6 entries
-[kreier/labs] source code from wikipedia 2019-12-13
-[kreier/labs] included source code from wikipedia
-[kreier/T300] Create README.md
-[kreier/T300] pwm control works - without servo and ultrasonic
-[kreier/labs] MYP Science topics expanded
-[kreier/labs] included math calculations</title></rect></a>
+<rect x="618" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-09: 0 entries</title></rect>
+<rect x="618" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-10: 0 entries</title></rect>
+<rect x="618" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-11: 0 entries</title></rect>
+<rect x="618" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-12: 0 entries</title></rect>
+<rect x="618" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-13: 0 entries</title></rect>
 <rect x="618" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-14: 0 entries</title></rect>
-<a href="https://github.com/kreier/T300/commit/232e873e0770aa5c926d23d80525ab69dac4117b"><rect x="630" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-12-15: 2 entries
-[kreier/T300] PWM and servo timer issue fixed with reboot()
-[kreier/T300] servo and sonar removed to investigate PWM issue</title></rect></a>
-<a href="https://github.com/kreier/T100/commit/2542e662da8d17d3dcf703ac5730e14321cc3d68"><rect x="630" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2019-12-16: 12 entries
-[kreier/T100] 2019/12/16 keys compatible with T300
-[kreier/T400] code from Vincent Lacour
-[kreier/T400] SDA D6 and SCL D5 updated
-[kreier/python2018] local webserver in micropython
-[kreier/python2018] copy of SourceCodePro from google, install for all
-[kreier/python2018] copy of upycraft 1.0 from dfrobot
-[kreier/python2018] created 2019-12-16
-[kreier/python2018] webserver works after 10 minutes copy and paste
-[kreier/python2018] copy from https://RandomNerdTutorials.com
-[kreier/python2018] copy from randomnerdtutorials
-[kreier/python2018] basedn on randomnerdtutorials from November 2018
-[kreier/python2018] how to use uPyCraft</title></rect></a>
-<a href="https://github.com/kreier/ar65view/commit/07e5573e61e4c20f7937a283900cf8bf46c5fcd4"><rect x="630" y="42" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2019-12-17: 43 entries
-[kreier/ar65view] removed &lt;import file="nbproject/build-impl.xml"/&gt;
-[kreier/ar65view] removed &lt;import file="jnlp-impl.xml"/&gt;
-[kreier/ar65view] removed extension jnlp-impl.xml
-[kreier/python2018] success in Travis CI
-[kreier/python2018] fixed path
-[kreier/T300] gcc for .ino
-[kreier/python2018] correct path
-[kreier/T300] just latest.ino
-[kreier/impact] review from Travis CI
-[kreier/python2018] just check these three
-[kreier/impact] removed main.py since it is Micropython
-[kreier/python2018] only 104 left
-[kreier/impact] Update .travis.yml
-[kreier/impact] Create prime1000.py
-[kreier/impact] Update .travis.yml
-[kreier/impact] language: python
-[kreier/python2018] still mkl ...
-[kreier/impact] Create .travis.yml
-[kreier/python2018] older version of mkl-fft
-[kreier/impact] Create requirements.txt
-[kreier/python2018] removed menuinst (84)
-[kreier/python2018] removed clyent and ipython, 212 to go ...
-[kreier/python2018] removed jupyter
-[kreier/python2018] removed Conda and anaconda
-[kreier/python2018] Create requirements.txt
-[kreier/python2018] Create requirements.txt
-[kreier/python2018] Delete uPyCraft.exe
-[kreier/python2018] Update .travis.yml
-[kreier/ar65view] Create .travis.yml
-[kreier/python2018] Create .travis.yml
-[kreier/T300] Set theme jekyll-theme-cayman
-[kreier/T300] included hits! (how idiots track success)
-[kreier/T300] Update .travis.yml
-[kreier/T300] two badges
-[kreier/T300] extended with adafruits examples
-[kreier/T300] Create .travis.yml
-[kreier/T300] extended autonomous mode
-[kreier/ESP32] Update README.md
-[kreier/ESP32] copy from circuits4you - temperature 53.33 degree
-[kreier/ESP32] Create README.md
-[kreier/T300] detail images of motor shield
-[kreier/T300] started detailed description
-[kreier/T300] Create README.md</title></rect></a>
-<a href="https://github.com/kreier/ar65view/commit/824e5f207dfe215dcfc27ba6c97be82ff53382e3"><rect x="630" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-12-18: 6 entries
-[kreier/ar65view] updated jnlp description
-[kreier/ar65view] Merge branch 'master' of https://github.com/kreier/ar65view
-[kreier/ar65view] Update README.md
-[kreier/ar65view] successful build with Travis CI
-[kreier/ar65view] updated to 2011/02/01 from SVN sourceforge
-[kreier/ar65view] from SVN 2011/02/01</title></rect></a>
-<a href="https://github.com/kreier/T300/commit/960ad27d39399d3b41cdade244252c4784971430"><rect x="630" y="66" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2019-12-19: 41 entries
-[kreier/T300] Update .travis.yml
-[kreier/aisvn] missing void?
-[kreier/T400] for now only python since machine can't be imported
-[kreier/T400] calculate the prime numbers until 1000
-[kreier/T400] it's so simple
-[kreier/T400] Create README.md
-[kreier/T300] switch to MIT license
-[kreier/T300] reflect adafruits recommendation
-[kreier/aisvn] remove install
-[kreier/aisvn] Update README.md
-[kreier/aisvn] Create .travis.yml
-[kreier/aisvn] Create drive_20191219.ino
-[kreier/aisvn] licence updated
-[kreier/aisvn] Update LICENSE
-[kreier/ar65view] Update LICENSE
-[kreier/ar65view] added info badges
-[kreier/T400] badge for license
-[kreier/T400] Update requirements.txt
-[kreier/T400] Update .travis.yml
-[kreier/T400] micropython?
-[kreier/T400] Micropython is based on python 3.4
-[kreier/T400] added Micropython-machine
-[kreier/T400] included requirements.txt
-[kreier/T400] Create requirements.txt
-[kreier/T400] Update .travis.yml
-[kreier/T400] Update .travis.yml
-[kreier/T400] Create .travis.yml
-[kreier/T400] example to activate travis
-[kreier/T400] Update LICENSE
-[kreier/ar65view] included os, removed sudo (ignored by Travis)
-[kreier/ar65view] link too sourceforge.net
-[kreier/ar65view] screenshot included
-[kreier/ar65view] screenshot Windows Vista in 2008
-[kreier/aisvn] Set theme jekyll-theme-leap-day
-[kreier/aisvn] build update and travis
-[kreier/aisvn] Create README.md
-[kreier/aisvn] Update README.md
-[kreier/aisvn] Update README.md
-[kreier/aisvn] Create README.md
-[kreier/aisvn] Create README.md
-[kreier/aisvn] Initial commit</title></rect></a>
-<a href="https://github.com/kreier/python2018/commit/0d4ed7bdc7122cd93b93608a69eb4a8710199cd8"><rect x="630" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2019-12-20: 24 entries
-[kreier/python2018] added mandelbrot.py
-[kreier/python2018] still fails llvmlite - it's no longer in requirements.txt
-[kreier/python2018] remove satrapy cytoolz llvmlite
-[kreier/python2018] no fft - fast fourier transformations
-[kreier/python2018] let's ignore the requirements.txt
-[kreier/python2018] switch to 3.7 since 3.8 failed
-[kreier/python2018] state linux and python 3.8
-[kreier/python2018] included license
-[kreier/python2018] Update LICENSE
-[kreier/T80] included code and ScienceFair 2019 picture
-[kreier/T80] Add files via upload
-[kreier/T80] badges and license
-[kreier/T80] Update LICENSE
-[kreier/T300] updated license
-[kreier/T300] Create .esp32.test.skip
-[kreier/aisvn] Create .esp32.test.skip
-[kreier/T300] Update .travis.yml
-[kreier/aisvn] Update .travis.yml
-[kreier/aisvn] Create .esp8266.test.skip
-[kreier/aisvn] Update .travis.yml
-[kreier/T300] Update .travis.yml
-[kreier/python2018] copied from the pyboard online example
-[kreier/python2018] with Mandelbrot
-[kreier/aisvn] INSTALL_PLATFORMS limited</title></rect></a>
+<rect x="630" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-15: 0 entries</title></rect>
+<rect x="630" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-16: 0 entries</title></rect>
+<rect x="630" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-17: 0 entries</title></rect>
+<rect x="630" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-18: 0 entries</title></rect>
+<rect x="630" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-19: 0 entries</title></rect>
+<rect x="630" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-20: 0 entries</title></rect>
 <rect x="630" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-21: 0 entries</title></rect>
 <rect x="642" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-22: 0 entries</title></rect>
-<a href="https://github.com/kreier/T400/commit/ebdd1b645b08a4f32f932c0760e6a17d345a6602"><rect x="642" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2019-12-23: 17 entries
-[kreier/T400] relocated
-[kreier/T400] different colors
-[kreier/T400] custom title
-[kreier/T400] Set theme jekyll-theme-cayman
-[kreier/T400] image 2019/12/23
-[kreier/T400] included pictures
-[kreier/T400] Merge branch 'master' of https://github.com/kreier/T400
-[kreier/T400] Update t400plus.jpg
-[kreier/T400] reorganized pictures
-[kreier/T400] sample photos
-[kreier/T400] welcome OLED message
-[kreier/T400] remove codecov, check at least 3 progams
-[kreier/T400] check python3
-[kreier/T400] sort python and micropython
-[kreier/T400] reorganized 2019/12/23
-[kreier/T300] Merge branch 'master' of https://github.com/kreier/T300
-[kreier/T300] different circle</title></rect></a>
+<rect x="642" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-23: 0 entries</title></rect>
 <rect x="642" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-24: 0 entries</title></rect>
-<a href="https://github.com/kreier/T400/commit/b18d257c6e3cd022ab8365e5df9cbde85fb66151"><rect x="642" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-12-25: 4 entries
-[kreier/T400] updated image from T400 lite
-[kreier/T400] created 2019/12/23 and programmed with MicroPython
-[kreier/T400] created 2019/12/23 and programmed with MicroPython
-[kreier/T400] build 2019/12/23</title></rect></a>
-<a href="https://github.com/kreier/kreier.github.io/commit/99e950ebb58046810f83bda555a142cfb85c7f2e"><rect x="642" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2019-12-26: 15 entries
-[kreier/kreier.github.io] link to ar65view fixed
-[kreier/kreier.github.io] link to /docs does not work
-[kreier/kreier.github.io] extended list
-[kreier/kreier.github.io] updated and extended list
-[kreier/kreier.github.io] title and description updated
-[kreier/T400] minor typos
-[kreier/T400] slimmed down table for webpage
-[kreier/aisvn] adopted blue color scheme
-[kreier/T400] list of materials and code included
-[kreier/aisvn] copied from T400
-[kreier/aisvn] switch to cayman
-[kreier/aisvn] expanded history and documentation links
-[kreier/aisvn] project update
-[kreier/T300] materials list as of 2019
-[kreier/T300] material list updated</title></rect></a>
-<a href="https://github.com/kreier/asa2/commit/91e43d4d2a645c337b01e7c25774b06e4ff28672"><rect x="642" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2019-12-27: 21 entries
-[kreier/asa2] bracket fixed
-[kreier/asa2] i2c scan example
-[kreier/asa2] welcome message for OLED
-[kreier/asa2] copy from AdaFruit
-[kreier/asa2] simple I2C scanner 2019/12/27
-[kreier/asa2] Set theme jekyll-theme-cayman
-[kreier/asa2] Update README.md
-[kreier/asa2] Create README.md
-[kreier/asa2] Create README.md
-[kreier/asa2] Initial commit
-[kreier/labs] changed from GPL to MIT
-[kreier/kreier.github.io] Create style.scss
-[kreier/asa] changed GPL to MIT
-[kreier/labs] included picture of bifurcation
-[kreier/aisvn] proper links to work with html
-[kreier/aisvn] licence, more robot cars listed
-[kreier/impact] licence included
-[kreier/impact] switch from GPL to MIT
-[kreier/kreier.github.io] integrated license
-[kreier/kreier.github.io] switch from GPL to MIT
-[kreier/T400] converted to blue style</title></rect></a>
+<rect x="642" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-25: 0 entries</title></rect>
+<rect x="642" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-26: 0 entries</title></rect>
+<rect x="642" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-27: 0 entries</title></rect>
 <rect x="642" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-28: 0 entries</title></rect>
 <rect x="654" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-29: 0 entries</title></rect>
-<a href="https://github.com/kreier/T400/commit/a179e81272f3349a7b7e0b6881f9930c7d86576d"><rect x="654" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-12-30: 2 entries
-[kreier/T400] removed old list
-[kreier/T400] updated materials list</title></rect></a>
-<a href="https://github.com/kreier/T100/commit/8072aeeee76f117451aad42587946f000bb6debe"><rect x="654" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-12-31: 9 entries
-[kreier/T100] switch from GPL to MIT
-[kreier/T100] release and badges integrated
-[kreier/T100] 2019/12/31
-[kreier/ESP32] Set theme jekyll-theme-cayman
-[kreier/ESP32] Update LICENSE
-[kreier/T80] Set theme jekyll-theme-cayman
-[kreier/T80] Set theme jekyll-theme-cayman
-[kreier/impact] Create README.md
-[kreier/impact] Set theme jekyll-theme-cayman</title></rect></a>
+<rect x="654" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-30: 0 entries</title></rect>
+<rect x="654" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-31: 0 entries</title></rect>
 <rect x="30" y="112" width="8" height="8" fill="#30a14e" rx="1" ry="1"/>
 <text x="42" y="119" font-family="sans-serif" font-size="7" fill="#767676">WordPress</text>
 <rect x="100" y="112" width="8" height="8" fill="#e57373" rx="1" ry="1"/>
