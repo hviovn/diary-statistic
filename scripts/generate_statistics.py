@@ -315,7 +315,7 @@ def generate_svg(year, data_by_date):
                 tooltip = f"{date_str}: {count} entry" if count == 1 else f"{date_str}: {count} entries"
                 if count > 0:
                     tooltip += "\n" + "\n".join([e['title'] for e in entries])
-                tooltip = saxutils.escape(tooltip)
+                tooltip = saxutils.escape(tooltip).replace('{', '&#123;').replace('}', '&#125;')
                 rect = f'<rect x="{x}" y="{y}" width="{square_size}" height="{square_size}" fill="{color}" rx="2" ry="2"><title>{tooltip}</title></rect>'
                 if count > 0:
                     link = saxutils.quoteattr(entries[0]["link"])
@@ -410,6 +410,25 @@ def main():
         print(f"Generated {csv_path}")
 
     output = ["# Diary Activity Overview\n"]
+    html_output = [
+        "<!DOCTYPE html>",
+        '<html lang="en">',
+        "<head>",
+        '    <meta charset="UTF-8">',
+        '    <meta name="viewport" content="width=device-width, initial-scale=1.0">',
+        "    <title>Diary Activity Overview</title>",
+        "    <style>",
+        "        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; line-height: 1.6; color: #24292e; max-width: 900px; margin: 0 auto; padding: 20px; }",
+        "        svg { max-width: 100%; height: auto; }",
+        "        .year-section { margin-bottom: 40px; }",
+        "        .stats-section { margin-top: 50px; border-top: 1px solid #e1e4e8; padding-top: 20px; }",
+        "        .source-breakdown { margin-top: 20px; }",
+        "    </style>",
+        "</head>",
+        "<body>",
+        "    <h1>Diary Activity Overview</h1>"
+    ]
+
     for year in range(end_year, start_year - 1, -1):
         year_entries = sum(len(entries) for d, entries in data_by_date.items() if d.startswith(str(year)))
         svg_content = generate_svg(year, data_by_date)
@@ -422,13 +441,33 @@ def main():
         output.append(svg_content)
         output.append(f"\n{year_entries} article{'s' if year_entries != 1 else ''} in {year}\n")
 
+        html_output.append(f'    <div class="year-section">')
+        html_output.append(f"        <h3>{year}</h3>")
+        html_output.append(f"        {svg_content}")
+        html_output.append(f"        <p>{year_entries} article{'s' if year_entries != 1 else ''} in {year}</p>")
+        html_output.append(f'    </div>')
+
     output.append("## Statistics")
+    html_output.append('    <div class="stats-section">')
+    html_output.append("        <h2>Statistics</h2>")
+    html_output.append("        <ul>")
+
     output.append(f"- **Days covered:** {days_covered}")
+    html_output.append(f"            <li><strong>Days covered:</strong> {days_covered}</li>")
     output.append(f"- **Total entries:** {total_articles}")
+    html_output.append(f"            <li><strong>Total entries:</strong> {total_articles}</li>")
     output.append(f"- **Total words:** {total_words}")
+    html_output.append(f"            <li><strong>Total words:</strong> {total_words}</li>")
     output.append(f"- **Total reading time:** {reading_time_str}")
+    html_output.append(f"            <li><strong>Total reading time:</strong> {reading_time_str}</li>")
+
+    html_output.append("        </ul>")
 
     output.append("\n### Breakdown by Source")
+    html_output.append('        <div class="source-breakdown">')
+    html_output.append("            <h3>Breakdown by Source</h3>")
+    html_output.append("            <ul>")
+
     source_names = {
         'wordpress': 'WordPress',
         'quartz': 'Quartz',
@@ -440,6 +479,19 @@ def main():
         count = len(items)
         words = sum(item.get('word_count', 0) for item in items)
         output.append(f"- **{name}:** {count} entries, {words} words")
+        html_output.append(f"                <li><strong>{name}:</strong> {count} entries, {words} words</li>")
+
+    html_output.append("            </ul>")
+    html_output.append("        </div>")
+    html_output.append("    </div>")
+    html_output.append("</body>")
+    html_output.append("</html>")
+
+    # Save index.html
+    index_path = os.path.join(os.path.dirname(script_dir), "docs", "index.html")
+    with open(index_path, "w") as f:
+        f.write("\n".join(html_output))
+    print(f"{index_path} generated.")
 
     readme_path = os.path.join(os.path.dirname(script_dir), "docs", "README.md")
     if not os.path.exists(readme_path):

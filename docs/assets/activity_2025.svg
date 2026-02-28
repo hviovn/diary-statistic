@@ -947,7 +947,7 @@ Teacher day in Vietnam
 <a href="https://github.com/kreier/promised-seed/commit/f1d76fc0fbbeb9ab1624402b741d9dc1133bf2de"><rect x="594" y="42" width="10" height="10" fill="#26a69a" rx="2" ry="2"><title>2025-11-25: 9 entries
 [kreier/promised-seed] restructured, families for Mary and Josephs side
 [kreier/thesis08] Revise README for 2025 diploma thesis updates
-[kreier/thesis08] Remove {% that is interpreted as Liquid tag by Jekyll
+[kreier/thesis08] Remove &#123;% that is interpreted as Liquid tag by Jekyll
 [kreier/thesis08] include images for visualization
 [kreier/thesis08] first successful render 2025-11-25
 [kreier/thesis08] Add README for recreating Diplomarbeit in 2025
