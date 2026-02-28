@@ -28,10 +28,10 @@ Title,Link,Word Count
 "Was ist Freiheit?","https://saiht.de/legacy/projekte/12freiheit.html",745
 "Zeitleiste","https://saiht.de/legacy/projekte/13zeitleiste.html",825
 "Wie lange ist ein Schpfungstag?","https://saiht.de/legacy/projekte/14tag.html",127
-"Statistik zu saiht.de","https://saiht.de/legacy/projekte/umfang.html",960
 "Leerprojekt","https://saiht.de/legacy/projekte/99leer.html",101
 "USA 2013: From Eastcoast to Westcoast - and back! Including Canada","https://saiht.de/legacy/urlaub/2013_usa.html",3177
 "Per Auto quer durch den Osten Nordamerikas","https://saiht.de/legacy/urlaub/2015_usa.html",866
+"Per Auto quer durch den Osten Nordamerikas","https://saiht.de/legacy/urlaub/2014_schottland.html",103
 "Tour durch Westeuropa im sonnigen Herbst - entlang der Côte d`Azur","https://saiht.de/legacy/urlaub/2012_westeuropa.html",1716
 "Städtetour nach Skandinavien - und dann einmal um die Ostsee","https://saiht.de/legacy/urlaub/2011_scandinavien.html",2334
 "Zu Besuch bei den Delegierten aus der Ukraine und Georgien","https://saiht.de/legacy/urlaub/2010_georgien.html",6572
@@ -53,8 +53,7 @@ Title,Link,Word Count
 "mein erster Winterurlaub","https://saiht.de/legacy/urlaub/1996_austria_winter.html",94
 "Liste der besuchten Lnder des saiht","https://saiht.de/legacy/urlaub/liste.html",457
 "die Fahrradseite","https://saiht.de/legacy/freizeit/fahrrad.html",2047
-"Unsere Tschechientouren","https://saiht.de/legacy/freizeit/tschechien.html",6796
-"Informationen zum Tornowsee","https://saiht.de/legacy/freizeit/tornowsee.html",759
+"Kanu, saiht und Natur","https://saiht.de/legacy/freizeit/kanu.html",1229
 "Einzelevents","https://saiht.de/legacy/freizeit/einzelevents.html",1749
 "Die Geschichte Ägyptens","https://saiht.de/legacy/geschichte/aegypten.html",1189
 "Maya","https://saiht.de/legacy/geschichte/maya.html",4298
@@ -85,24 +84,17 @@ AG ELEKTRONISCHE EIGENSCHAFTEN UND SUPRALEITUNG","https://saiht.de/legacy/physik
 "Detailinformationen zur Diplomarbeit","https://saiht.de/legacy/physik/thesis/diplomae.html",955
 "vir2qti.cpp","https://saiht.de/legacy/physik/program/vir2qti.cpp",805
 "vir2qti.java","https://saiht.de/legacy/physik/program/vir2qti.java",861
-"das Bibelleseprogramm im ersten Jahr","https://saiht.de/legacy/projekte/bibel/bibel1.html",6803
 "das Bibelleseprogramm im zweiten Jahr","https://saiht.de/legacy/projekte/bibel/bibel2.html",8203
+"das Bibelleseprogramm im dritten Jahr","https://saiht.de/legacy/projekte/bibel/bibel3.html",8441
 "Beispiel einer extremen (und beiderseits falschen) Bibelauslegung (Rmer 10:2)","https://saiht.de/legacy/projekte/auslegung.html",769
 "Zeitleiste horizontal","https://saiht.de/legacy/projekte/zeitleiste/zeit2.html",295
 "Zeitleiste horizontal","https://saiht.de/legacy/projekte/zeitleiste/zeit3.html",165
 "Zeitleiste horizontal","https://saiht.de/legacy/projekte/zeitleiste/zeit4.html",165
-"Sitemap","https://saiht.de/legacy/logfeile/sitemap.html",970
 "Per Auto quer durch den Osten Nordamerikas","https://saiht.de/legacy/urlaub/2013_usa_plan.html",886
-"Mit dem Auto nach Jordanien","https://saiht.de/legacy/urlaub/2009_jordan_bilder.html",441
 "Die Ostküste der USA: Florida und New York","https://saiht.de/legacy/urlaub/2008_usa_bilder.html",210
 "Winterurlaub Dolomiten","https://saiht.de/legacy/urlaub/1998_italy_winter.html",24
 "Thailand & Malaysia - nur die Bilder","https://saiht.de/legacy/urlaub/1998_thailand_pic.html",14
 "tote Verweisseite","https://saiht.de/legacy/urlaub/1997.html",242
-"Unsere Tschechientouren","https://saiht.de/legacy/freizeit/bilder.html",215
-"Unsere Tschechientouren","https://saiht.de/legacy/freizeit/tschechien00.html",1151
-"Unsere Tschechientouren","https://saiht.de/legacy/freizeit/einladungen.html",479
-"Teilnehmer der Tschechientouren","https://saiht.de/legacy/freizeit/teilnehmer.html",206
-"Unsere Tschechientouren","https://saiht.de/legacy/freizeit/witz.html",52
 "Anmerkung","https://saiht.de/legacy/computer/anmerkung.html",86
 "Impressum","https://saiht.de/legacy/lite/impressum.html",575
 "Projekte des saiht","https://saiht.de/legacy/lite/projekte/projekte.html",1357

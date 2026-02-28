@@ -2,7 +2,7 @@
 <text x="5" y="39" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="63" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="87" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
-<a href="https://kreier.github.io/quartz/Diary/2013"><rect x="30" y="42" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2013-01-01: 1 entry
+<a href="https://kreier.github.io/quartz/Diary/2013"><rect x="30" y="42" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2013-01-01: 1 entry
 2013</title></rect></a>
 <rect x="30" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-02: 0 entries</title></rect>
 <rect x="30" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-03: 0 entries</title></rect>
@@ -10,11 +10,10 @@
 <rect x="30" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-05: 0 entries</title></rect>
 <text x="42" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect x="42" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-06: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/2012_westeuropa.html"><rect x="42" y="30" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2013-01-07: 1 entry
+<a href="https://saiht.de/legacy/urlaub/2012_westeuropa.html"><rect x="42" y="30" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2013-01-07: 1 entry
 Tour durch Westeuropa im sonnigen Herbst - entlang der Côte d`Azur</title></rect></a>
 <rect x="42" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-08: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/umfang.html"><rect x="42" y="54" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2013-01-09: 1 entry
-Statistik zu saiht.de</title></rect></a>
+<rect x="42" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-09: 0 entries</title></rect>
 <rect x="42" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-10: 0 entries</title></rect>
 <rect x="42" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-11: 0 entries</title></rect>
 <rect x="42" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-12: 0 entries</title></rect>
@@ -167,7 +166,7 @@ Statistik zu saiht.de</title></rect></a>
 <rect x="294" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-03: 0 entries</title></rect>
 <rect x="294" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-04: 0 entries</title></rect>
 <rect x="294" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-05: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2013/06/06/baumhaus-ebene-eins/"><rect x="294" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2013-06-06: 1 entry
+<a href="https://saiht.de/blog/2013/06/06/baumhaus-ebene-eins/"><rect x="294" y="66" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2013-06-06: 1 entry
 Baumhaus &amp;#8211; Ebene eins</title></rect></a>
 <rect x="294" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-07: 0 entries</title></rect>
 <rect x="294" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-08: 0 entries</title></rect>
@@ -184,7 +183,7 @@ Baumhaus &amp;#8211; Ebene eins</title></rect></a>
 <rect x="318" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-19: 0 entries</title></rect>
 <rect x="318" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-20: 0 entries</title></rect>
 <rect x="318" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-21: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/urlaub/urlaub.html"><rect x="318" y="90" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2013-06-22: 1 entry
+<a href="https://saiht.de/legacy/urlaub/urlaub.html"><rect x="318" y="90" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2013-06-22: 1 entry
 Wo war der saiht im Urlaub?</title></rect></a>
 <rect x="330" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-23: 0 entries</title></rect>
 <rect x="330" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-24: 0 entries</title></rect>
@@ -254,7 +253,7 @@ Wo war der saiht im Urlaub?</title></rect></a>
 <rect x="438" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-08-25: 0 entries</title></rect>
 <rect x="438" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-08-26: 0 entries</title></rect>
 <rect x="438" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-08-27: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2013/08/28/projektbeginn-baumhaus/"><rect x="438" y="54" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2013-08-28: 1 entry
+<a href="https://saiht.de/blog/2013/08/28/projektbeginn-baumhaus/"><rect x="438" y="54" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2013-08-28: 1 entry
 Projektbeginn Baumhaus</title></rect></a>
 <rect x="438" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-08-29: 0 entries</title></rect>
 <rect x="438" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-08-30: 0 entries</title></rect>
@@ -391,6 +390,6 @@ Projektbeginn Baumhaus</title></rect></a>
 <text x="112" y="119" font-family="sans-serif" font-size="7" fill="#767676">Quartz</text>
 <rect x="170" y="112" width="8" height="8" fill="#64b5f6" rx="1" ry="1"/>
 <text x="182" y="119" font-family="sans-serif" font-size="7" fill="#767676">Legacy HTML</text>
-<rect x="240" y="112" width="8" height="8" fill="#4db6ac" rx="1" ry="1"/>
+<rect x="240" y="112" width="8" height="8" fill="#ffa726" rx="1" ry="1"/>
 <text x="252" y="119" font-family="sans-serif" font-size="7" fill="#767676">GitHub</text>
 </svg>

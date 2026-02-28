@@ -2,7 +2,7 @@
 <text x="5" y="39" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="63" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="87" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
-<a href="https://kreier.github.io/quartz/Diary/2016"><rect x="30" y="78" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2016-01-01: 1 entry
+<a href="https://kreier.github.io/quartz/Diary/2016"><rect x="30" y="78" width="10" height="10" fill="#ef9a9a" rx="2" ry="2"><title>2016-01-01: 1 entry
 2016</title></rect></a>
 <rect x="30" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-01-02: 0 entries</title></rect>
 <text x="42" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
@@ -65,7 +65,7 @@
 <rect x="126" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-02-27: 0 entries</title></rect>
 <rect x="138" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-02-28: 0 entries</title></rect>
 <rect x="138" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-02-29: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2016/03/01/stirlingmotor/"><rect x="138" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-03-01: 1 entry
+<a href="https://saiht.de/blog/2016/03/01/stirlingmotor/"><rect x="138" y="42" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-03-01: 1 entry
 Stirlingmotor</title></rect></a>
 <rect x="138" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-03-02: 0 entries</title></rect>
 <rect x="138" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-03-03: 0 entries</title></rect>
@@ -103,7 +103,7 @@ Stirlingmotor</title></rect></a>
 <text x="198" y="12" font-family="sans-serif" font-size="8" fill="#767676">Apr</text>
 <rect x="198" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-03: 0 entries</title></rect>
 <rect x="198" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-04: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2016/04/05/musteraufgaben-klasse-10-vorlaeufig/"><rect x="198" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-04-05: 1 entry
+<a href="https://saiht.de/blog/2016/04/05/musteraufgaben-klasse-10-vorlaeufig/"><rect x="198" y="42" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-04-05: 1 entry
 Musteraufgaben Physik 10</title></rect></a>
 <rect x="198" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-06: 0 entries</title></rect>
 <rect x="198" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-07: 0 entries</title></rect>
@@ -122,7 +122,7 @@ Musteraufgaben Physik 10</title></rect></a>
 <rect x="222" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-20: 0 entries</title></rect>
 <rect x="222" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-21: 0 entries</title></rect>
 <rect x="222" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-22: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2016/04/23/lagerfeuer-und-lightpainting/"><rect x="222" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-04-23: 1 entry
+<a href="https://saiht.de/blog/2016/04/23/lagerfeuer-und-lightpainting/"><rect x="222" y="90" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-04-23: 1 entry
 Lagerfeuer und Lightpainting</title></rect></a>
 <rect x="234" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-24: 0 entries</title></rect>
 <rect x="234" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-25: 0 entries</title></rect>
@@ -229,34 +229,34 @@ Lagerfeuer und Lightpainting</title></rect></a>
 <rect x="402" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-01: 0 entries</title></rect>
 <rect x="402" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-02: 0 entries</title></rect>
 <rect x="402" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-03: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2016/08/04/ankunft-ho-chi-minh-city/"><rect x="402" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-08-04: 1 entry
+<a href="https://saiht.de/blog/2016/08/04/ankunft-ho-chi-minh-city/"><rect x="402" y="66" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-04: 1 entry
 Ankunft Ho Chi Minh City</title></rect></a>
-<a href="https://saiht.de/blog/2016/08/05/neue-wohnung/"><rect x="402" y="78" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-08-05: 1 entry
+<a href="https://saiht.de/blog/2016/08/05/neue-wohnung/"><rect x="402" y="78" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-05: 1 entry
 neue Wohnung</title></rect></a>
-<a href="https://saiht.de/blog/2016/08/06/nicos-hochzeit/"><rect x="402" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-08-06: 1 entry
+<a href="https://saiht.de/blog/2016/08/06/nicos-hochzeit/"><rect x="402" y="90" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-06: 1 entry
 Nico&amp;#8217;s Hochzeit</title></rect></a>
 <text x="414" y="12" font-family="sans-serif" font-size="8" fill="#767676">Aug</text>
-<a href="https://saiht.de/blog/2016/08/07/shoppen-am-sonntag/"><rect x="414" y="18" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-08-07: 1 entry
+<a href="https://saiht.de/blog/2016/08/07/shoppen-am-sonntag/"><rect x="414" y="18" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-07: 1 entry
 Shoppen am Sonntag</title></rect></a>
-<a href="https://saiht.de/blog/2016/08/08/bankkonto-1-standard-chartered/"><rect x="414" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-08-08: 1 entry
+<a href="https://saiht.de/blog/2016/08/08/bankkonto-1-standard-chartered/"><rect x="414" y="30" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-08: 1 entry
 Bankkonto 1: Standard Chartered</title></rect></a>
-<a href="https://saiht.de/blog/2016/08/09/bankkonto-2-sc-vn-die-zweite/"><rect x="414" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-08-09: 1 entry
+<a href="https://saiht.de/blog/2016/08/09/bankkonto-2-sc-vn-die-zweite/"><rect x="414" y="42" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-09: 1 entry
 Bankkonto 2: sc.vn die Zweite</title></rect></a>
-<a href="https://saiht.de/blog/2016/08/10/ankunft-saigon/"><rect x="414" y="54" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-08-10: 1 entry
+<a href="https://saiht.de/blog/2016/08/10/ankunft-saigon/"><rect x="414" y="54" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-10: 1 entry
 Übergangswohnung und neu mit FTTH</title></rect></a>
-<a href="https://saiht.de/blog/2016/08/11/fuehrungszeugnis-konsulat/"><rect x="414" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-08-11: 1 entry
+<a href="https://saiht.de/blog/2016/08/11/fuehrungszeugnis-konsulat/"><rect x="414" y="66" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-11: 1 entry
 Führungszeugnis Konsulat</title></rect></a>
-<a href="https://saiht.de/blog/2016/08/12/reifendruckkontrolle-auf-vietnamesisch/"><rect x="414" y="78" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-08-12: 1 entry
+<a href="https://saiht.de/blog/2016/08/12/reifendruckkontrolle-auf-vietnamesisch/"><rect x="414" y="78" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-12: 1 entry
 Reifendruckkontrolle auf vietnamesisch</title></rect></a>
-<a href="https://saiht.de/blog/2016/08/13/willkommen-in-hanoi/"><rect x="414" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-08-13: 1 entry
+<a href="https://saiht.de/blog/2016/08/13/willkommen-in-hanoi/"><rect x="414" y="90" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-13: 1 entry
 Willkommen in Hanoi</title></rect></a>
-<a href="https://saiht.de/blog/2016/08/14/ha-long-bucht/"><rect x="426" y="18" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-08-14: 1 entry
+<a href="https://saiht.de/blog/2016/08/14/ha-long-bucht/"><rect x="426" y="18" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-14: 1 entry
 Ha-Long Bucht</title></rect></a>
-<a href="https://saiht.de/blog/2016/08/15/wasserpuppentheater-hanoi/"><rect x="426" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-08-15: 1 entry
+<a href="https://saiht.de/blog/2016/08/15/wasserpuppentheater-hanoi/"><rect x="426" y="30" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-15: 1 entry
 Wasserpuppentheater Hanoi</title></rect></a>
-<a href="https://saiht.de/blog/2016/08/16/rfid-fuer-die-tiefgarage/"><rect x="426" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-08-16: 1 entry
+<a href="https://saiht.de/blog/2016/08/16/rfid-fuer-die-tiefgarage/"><rect x="426" y="42" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-16: 1 entry
 RFID für die Tiefgarage</title></rect></a>
-<a href="https://saiht.de/blog/2016/08/17/bankkonto-3-bidv-und-vietin/"><rect x="426" y="54" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-08-17: 1 entry
+<a href="https://saiht.de/blog/2016/08/17/bankkonto-3-bidv-und-vietin/"><rect x="426" y="54" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-17: 1 entry
 Bankkonto 3: BIDV und Vietin</title></rect></a>
 <rect x="426" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-18: 0 entries</title></rect>
 <rect x="426" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-19: 0 entries</title></rect>
@@ -266,19 +266,19 @@ Bankkonto 3: BIDV und Vietin</title></rect></a>
 <rect x="438" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-23: 0 entries</title></rect>
 <rect x="438" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-24: 0 entries</title></rect>
 <rect x="438" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-25: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2016/08/26/erster-schultag/"><rect x="438" y="78" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-08-26: 1 entry
+<a href="https://saiht.de/blog/2016/08/26/erster-schultag/"><rect x="438" y="78" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-26: 1 entry
 Erster Schultag</title></rect></a>
-<a href="https://saiht.de/blog/2016/08/27/ueberschwemmte-schule/"><rect x="438" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-08-27: 1 entry
+<a href="https://saiht.de/blog/2016/08/27/ueberschwemmte-schule/"><rect x="438" y="90" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-27: 1 entry
 überschwemmte Schule</title></rect></a>
 <rect x="450" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-28: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2016/08/29/vier-klassen-in-einer-klasse/"><rect x="450" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-08-29: 1 entry
+<a href="https://saiht.de/blog/2016/08/29/vier-klassen-in-einer-klasse/"><rect x="450" y="30" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-29: 1 entry
 Vier Klassen in einer Klasse?</title></rect></a>
 <rect x="450" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-30: 0 entries</title></rect>
 <rect x="450" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-31: 0 entries</title></rect>
 <rect x="450" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-01: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2016/09/02/holzbestellung-fuer-die-holzwerkstatt/"><rect x="450" y="78" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-09-02: 1 entry
+<a href="https://saiht.de/blog/2016/09/02/holzbestellung-fuer-die-holzwerkstatt/"><rect x="450" y="78" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-09-02: 1 entry
 Holzbestellung für die Holzwerkstatt</title></rect></a>
-<a href="https://saiht.de/blog/2016/09/03/topcase-fuer-das-motorrad/"><rect x="450" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-09-03: 1 entry
+<a href="https://saiht.de/blog/2016/09/03/topcase-fuer-das-motorrad/"><rect x="450" y="90" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-09-03: 1 entry
 Topcase für das Motorrad</title></rect></a>
 <text x="462" y="12" font-family="sans-serif" font-size="8" fill="#767676">Sep</text>
 <rect x="462" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-04: 0 entries</title></rect>
@@ -286,19 +286,19 @@ Topcase für das Motorrad</title></rect></a>
 <rect x="462" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-06: 0 entries</title></rect>
 <rect x="462" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-07: 0 entries</title></rect>
 <rect x="462" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-08: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2016/09/09/holzwerkstatt-1-regal-in-timelapse/"><rect x="462" y="78" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-09-09: 2 entries
+<a href="https://saiht.de/blog/2016/09/09/holzwerkstatt-1-regal-in-timelapse/"><rect x="462" y="78" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2016-09-09: 2 entries
 Holzwerkstatt 1 &amp;#8211; Regal in TimeLapse
 Fahrt zur Schule mit der GoPro (Yi Xiaomi)</title></rect></a>
 <rect x="462" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-10: 0 entries</title></rect>
 <rect x="474" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-11: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2016/09/12/langsames-internet/"><rect x="474" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-09-12: 1 entry
+<a href="https://saiht.de/blog/2016/09/12/langsames-internet/"><rect x="474" y="30" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-09-12: 1 entry
 Langsames Internet</title></rect></a>
 <rect x="474" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-13: 0 entries</title></rect>
 <rect x="474" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-14: 0 entries</title></rect>
 <rect x="474" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-15: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2016/09/16/ernaehrungsumstellung/"><rect x="474" y="78" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-09-16: 1 entry
+<a href="https://saiht.de/blog/2016/09/16/ernaehrungsumstellung/"><rect x="474" y="78" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-09-16: 1 entry
 Ernährungsumstellung</title></rect></a>
-<a href="https://saiht.de/blog/2016/09/17/am-strand-von-vung-tau/"><rect x="474" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2016-09-17: 1 entry
+<a href="https://saiht.de/blog/2016/09/17/am-strand-von-vung-tau/"><rect x="474" y="90" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-09-17: 1 entry
 Am Strand von Vũng Tàu</title></rect></a>
 <rect x="486" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-18: 0 entries</title></rect>
 <rect x="486" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-19: 0 entries</title></rect>
@@ -381,7 +381,7 @@ Am Strand von Vũng Tàu</title></rect></a>
 <rect x="606" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-12-03: 0 entries</title></rect>
 <text x="618" y="12" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
 <rect x="618" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-12-04: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/computer/benchmark.html"><rect x="618" y="30" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2016-12-05: 1 entry
+<a href="https://saiht.de/legacy/computer/benchmark.html"><rect x="618" y="30" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2016-12-05: 1 entry
 Kleine Benchmarkseite des saiht</title></rect></a>
 <rect x="618" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-12-06: 0 entries</title></rect>
 <rect x="618" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-12-07: 0 entries</title></rect>
@@ -415,6 +415,6 @@ Kleine Benchmarkseite des saiht</title></rect></a>
 <text x="112" y="119" font-family="sans-serif" font-size="7" fill="#767676">Quartz</text>
 <rect x="170" y="112" width="8" height="8" fill="#64b5f6" rx="1" ry="1"/>
 <text x="182" y="119" font-family="sans-serif" font-size="7" fill="#767676">Legacy HTML</text>
-<rect x="240" y="112" width="8" height="8" fill="#4db6ac" rx="1" ry="1"/>
+<rect x="240" y="112" width="8" height="8" fill="#ffa726" rx="1" ry="1"/>
 <text x="252" y="119" font-family="sans-serif" font-size="7" fill="#767676">GitHub</text>
 </svg>

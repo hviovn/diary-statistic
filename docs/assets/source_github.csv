@@ -1,4 +1,6 @@
 Title,Link,Word Count
+"[hviovn/new-vocabulary] Add .DS_Store to .gitignore for Synology Diskstation","https://github.com/hviovn/new-vocabulary/commit/ef0bda50caa96e1b11d44679661cf6cfbecd089f",7
+"[hviovn/diary-statistic] Merge pull request #9 from hviovn/fix-jekyll-error-and-split-output-15352974587547767671","https://github.com/hviovn/diary-statistic/commit/a7eaf53fc644c7b5d3a38ae901036485e5459ab6",25
 "[hviovn/diary-statistic] Update README for clarity and grammar","https://github.com/hviovn/diary-statistic/commit/1e4ed8aff877707087715ef491a471690f85386b",6
 "[kreier/quartz] fix typos, more benchmark from penta server","https://github.com/kreier/quartz/commit/252c674695144c355f7a5e30b602a02ef5211b41",7
 "[kreier/quartz] fixed server error message","https://github.com/kreier/quartz/commit/5d5046355d432bfa5f97f270b17cca832d0e3d83",4
@@ -985,17 +987,705 @@ Title,Link,Word Count
 "[kreier/jetson] compiling for CUDA up to 34%","https://github.com/kreier/jetson/commit/7588d335287b2db14c76fba8d62426355ca522b2",6
 "[kreier/jetson] expand documentation","https://github.com/kreier/jetson/commit/6250cf6bf6303de9fea31b98ec933bcd26287303",2
 "[kreier/jetson] include pictures for documentation","https://github.com/kreier/jetson/commit/5254adb32ec9ccfd1aaefe9fb5132c4287af497d",4
-"[kreier/jetson] initial documentation","https://github.com/kreier/jetson/commit/6aa4ed5488c66ddb76823112baab52e41aad706f",2
-"[kreier/jetson] include 3070 Ti for comparison","https://github.com/kreier/jetson/commit/fd1a3883bc8162109644682afccc7d6b2d1d9050",5
-"[kreier/ml] include smaller model","https://github.com/kreier/ml/commit/1d9e452531a784afaab23d55b20ff97356a5c10f",3
-"[kreier/jetson] benchmark results","https://github.com/kreier/jetson/commit/68ff3867d7a47e1169404160f2d068880924762c",2
-"[kreier/ml] new domain: ggml-org","https://github.com/kreier/ml/commit/222215dd02f87425ed88b16598e42f83eb82e48f",4
-"[kreier/ml] improve readability","https://github.com/kreier/ml/commit/1f2030b6accb743f9e29cc9371ccf5048f00769b",2
-"[kreier/jetson] successful build llama.cpp with libCURL support","https://github.com/kreier/jetson/commit/c2779ab50921987245d95305a17be052f4c3414c",7
-"[kreier/jetson] successful build llama.cpp","https://github.com/kreier/jetson/commit/ea05641234db18a6a5a4419fca763bdf4772cd2f",4
-"[kreier/click-classifier] new v1.2.1 of the ml library is out","https://github.com/kreier/click-classifier/commit/3680f074adec74c50633baeaf39af7e4a280dcb7",10
-"[kreier/click-classifier] improved version 2025-03-25","https://github.com/kreier/click-classifier/commit/129eec54c760e078446b6cbc0e69c82ed4c45e77",5
-"[kreier/click-classifier] Update README.md","https://github.com/kreier/click-classifier/commit/0d8c7a4fc5b9bfa77c011f7bea5fa81fc4de8b53",3
-"[kreier/click-classifier] Create README.md","https://github.com/kreier/click-classifier/commit/5329ee0ba52e0e9dfdd7fd4c6867be6455520bda",3
-"[kreier/timeline] create framework for timeline25 editions","https://github.com/kreier/timeline/commit/388618f6e518cc1af875a1dfd25b053bc10831df",5
-"[kreier/timeline] adjust kingdom lines for images fiverr1 and fiverr2","https://github.com/kreier/timeline/commit/094c01d7d81200d4dad86e5727950b89b1397d17",8
+"[kreier/T100] switch from GPL to MIT","https://github.com/kreier/T100/commit/8072aeeee76f117451aad42587946f000bb6debe",5
+"[kreier/T100] release and badges integrated","https://github.com/kreier/T100/commit/53269a649a2970c09834d48d620a26812045a868",4
+"[kreier/T100] 2019/12/31","https://github.com/kreier/T100/commit/f92c778fed03c71e689f968618c6957965c4a896",3
+"[kreier/ESP32] Set theme jekyll-theme-cayman","https://github.com/kreier/ESP32/commit/9b39fdd94bc8d654d76fda093d583379be84d889",5
+"[kreier/ESP32] Update LICENSE","https://github.com/kreier/ESP32/commit/a39b4d1523a511f93029a9c8cdde86dffbb77b84",2
+"[kreier/T80] Set theme jekyll-theme-cayman","https://github.com/kreier/T80/commit/6c60eae3b6857866833cebd69765286f2fd91aad",5
+"[kreier/T80] Set theme jekyll-theme-cayman","https://github.com/kreier/T80/commit/5e4a6c999840407ba58f1b9d5751f23f7078be43",5
+"[kreier/impact] Create README.md","https://github.com/kreier/impact/commit/4a9955cd1d2fe0a7786fa49a990d5d98b5a0323d",3
+"[kreier/impact] Set theme jekyll-theme-cayman","https://github.com/kreier/impact/commit/27445a1940aec8358e4a7eb372cceaf3c39a0667",5
+"[kreier/T400] removed old list","https://github.com/kreier/T400/commit/a179e81272f3349a7b7e0b6881f9930c7d86576d",3
+"[kreier/T400] updated materials list","https://github.com/kreier/T400/commit/d1130a0b821f130392d743bb92a81c39b35f7b8c",3
+"[kreier/asa2] bracket fixed","https://github.com/kreier/asa2/commit/91e43d4d2a645c337b01e7c25774b06e4ff28672",2
+"[kreier/asa2] i2c scan example","https://github.com/kreier/asa2/commit/6f39c4ed12496990eb41fb1694d6c520af8abb30",3
+"[kreier/asa2] welcome message for OLED","https://github.com/kreier/asa2/commit/7fbcad15c2ac27e9e53fc9da744477a05bf83542",4
+"[kreier/asa2] copy from AdaFruit","https://github.com/kreier/asa2/commit/7f3579b88fd96e8af03161b86f6efa95f3d77d7d",3
+"[kreier/asa2] simple I2C scanner 2019/12/27","https://github.com/kreier/asa2/commit/620898e49bbe7c1fc54311628fc4b6bbe35972a3",6
+"[kreier/asa2] Set theme jekyll-theme-cayman","https://github.com/kreier/asa2/commit/9e698971c59d0abfdfd8a466692913c8ac655c06",5
+"[kreier/asa2] Update README.md","https://github.com/kreier/asa2/commit/cd7e002491162d62582fd830fa3ebebcf4e63bf1",3
+"[kreier/asa2] Create README.md","https://github.com/kreier/asa2/commit/ab9b379f3fc0c1bb7348e26816224182fb9e4018",3
+"[kreier/asa2] Create README.md","https://github.com/kreier/asa2/commit/8ee5dc0759defa8c50150c12e8c2bbed3435d059",3
+"[kreier/asa2] Initial commit","https://github.com/kreier/asa2/commit/34c7cec9ceb38a4e643ba227f9dff3681e455359",2
+"[kreier/labs] changed from GPL to MIT","https://github.com/kreier/labs/commit/54e080d5bb28dbe107e2fa74ad5d12800933d1eb",5
+"[kreier/kreier.github.io] Create style.scss","https://github.com/kreier/kreier.github.io/commit/82c8ae6d904c44c19044897b8c952973a98e6e60",3
+"[kreier/asa] changed GPL to MIT","https://github.com/kreier/asa/commit/29ab08e28653ff146fec24ae2541f11721f607bf",4
+"[kreier/labs] included picture of bifurcation","https://github.com/kreier/labs/commit/a4f29f613d8e7e3faa8208e60d1bfa31fe693624",4
+"[kreier/aisvn] proper links to work with html","https://github.com/kreier/aisvn/commit/e036dad910c1c106516c2efa22709cb8773df212",6
+"[kreier/aisvn] licence, more robot cars listed","https://github.com/kreier/aisvn/commit/e83aa5b90f47b3122c47a3c4c3ff93ffef0d6137",5
+"[kreier/impact] licence included","https://github.com/kreier/impact/commit/c8c6ad54dd7af731ed1bacf1a3587b0ead0d5a02",2
+"[kreier/impact] switch from GPL to MIT","https://github.com/kreier/impact/commit/309f51756a0d9936aab07f1ed1e4fb8b6cf2876d",5
+"[kreier/kreier.github.io] integrated license","https://github.com/kreier/kreier.github.io/commit/429bf0baaa0a0b186025ebae738655508c7d921f",2
+"[kreier/kreier.github.io] switch from GPL to MIT","https://github.com/kreier/kreier.github.io/commit/5966efa4c162c9260ddce9f4848c1b5e4caf5562",5
+"[kreier/T400] converted to blue style","https://github.com/kreier/T400/commit/d3165e4d5219f9d0c4487f20f557101a37d43742",4
+"[kreier/kreier.github.io] link to ar65view fixed","https://github.com/kreier/kreier.github.io/commit/99e950ebb58046810f83bda555a142cfb85c7f2e",4
+"[kreier/kreier.github.io] link to /docs does not work","https://github.com/kreier/kreier.github.io/commit/f2e2deb612159292b9bcb7eeb9e31fdbaaa16e95",6
+"[kreier/kreier.github.io] extended list","https://github.com/kreier/kreier.github.io/commit/04524995d4e55b1cfc459197b2c289da15c0af7f",2
+"[kreier/kreier.github.io] updated and extended list","https://github.com/kreier/kreier.github.io/commit/cd3d8751b2d6b75f7fde74571f3309df3a772239",4
+"[kreier/kreier.github.io] title and description updated","https://github.com/kreier/kreier.github.io/commit/c864bc38a0b56eca1ea837dc222f6a82f83b3aea",4
+"[kreier/T400] minor typos","https://github.com/kreier/T400/commit/44310e673c813c1ef37246bfc7930946fd483810",2
+"[kreier/T400] slimmed down table for webpage","https://github.com/kreier/T400/commit/2d84ea4108329b4fb2f1aa6a034053946154217d",5
+"[kreier/aisvn] adopted blue color scheme","https://github.com/kreier/aisvn/commit/e44ef005bcbfca1e96e6778824d536198ede7ff4",4
+"[kreier/T400] list of materials and code included","https://github.com/kreier/T400/commit/a44a99cbe99da6129991b16ae25cf2f47a596a01",6
+"[kreier/aisvn] copied from T400","https://github.com/kreier/aisvn/commit/90ef2b7df489d9dac8db2ad32329d3d31b321802",3
+"[kreier/aisvn] switch to cayman","https://github.com/kreier/aisvn/commit/19c39a00427aac8febf34cf6f1f0dafb347d0af3",3
+"[kreier/aisvn] expanded history and documentation links","https://github.com/kreier/aisvn/commit/b89fe22fbf569cff9b1ec07efd1bac02a8bb9533",5
+"[kreier/aisvn] project update","https://github.com/kreier/aisvn/commit/c16f94f1c8402acf78dfe736414de30cfa1b801d",2
+"[kreier/T300] materials list as of 2019","https://github.com/kreier/T300/commit/cf878dab14357a36a422528e75eeeb0e0cb94fbb",5
+"[kreier/T300] material list updated","https://github.com/kreier/T300/commit/70cb7820a8af112b032b568f6b62942db436e67b",3
+"[kreier/T400] updated image from T400 lite","https://github.com/kreier/T400/commit/b18d257c6e3cd022ab8365e5df9cbde85fb66151",5
+"[kreier/T400] created 2019/12/23 and programmed with MicroPython","https://github.com/kreier/T400/commit/6fc1a0222d6bcb581f9db6aaf6dc4e2a00adedc7",8
+"[kreier/T400] created 2019/12/23 and programmed with MicroPython","https://github.com/kreier/T400/commit/8848240e852615ec15228a47c840942c030de9de",8
+"[kreier/T400] build 2019/12/23","https://github.com/kreier/T400/commit/94ba12c6f4dc4076648ef99a7284d557b7d00dfa",4
+"[kreier/T400] relocated","https://github.com/kreier/T400/commit/ebdd1b645b08a4f32f932c0760e6a17d345a6602",1
+"[kreier/T400] different colors","https://github.com/kreier/T400/commit/790be1edc4c51dc7d9a80a66fd5f06f45d7512cb",2
+"[kreier/T400] custom title","https://github.com/kreier/T400/commit/61ac2d4ecb9240a9734d1da812b9bb64af5ccd8c",2
+"[kreier/T400] Set theme jekyll-theme-cayman","https://github.com/kreier/T400/commit/ae0e4e89bc595e74a92e85d55d038d6ee303c0ee",5
+"[kreier/T400] image 2019/12/23","https://github.com/kreier/T400/commit/bc57fb8640e3ec1356ccfeb7ec6dbc4b206aaafc",4
+"[kreier/T400] included pictures","https://github.com/kreier/T400/commit/9ba6bf87323fe667b535469a3014a576a438a303",2
+"[kreier/T400] Merge branch 'master' of https://github.com/kreier/T400","https://github.com/kreier/T400/commit/31ca7189981d4bb740bba5fcdfde66bc6776ab8b",9
+"[kreier/T400] Update t400plus.jpg","https://github.com/kreier/T400/commit/b3574775ba829065e9d968db112e50cf2f1e2488",3
+"[kreier/T400] reorganized pictures","https://github.com/kreier/T400/commit/03237b4e6c80a28b001ccb67724c861b48ee270e",2
+"[kreier/T400] sample photos","https://github.com/kreier/T400/commit/cd97f048a62925eb0e19843d5b1d9833094f7c5a",2
+"[kreier/T400] welcome OLED message","https://github.com/kreier/T400/commit/fc6126b55c75d0814bfe8bc9fe96c2ef9d8b11ad",3
+"[kreier/T400] remove codecov, check at least 3 progams","https://github.com/kreier/T400/commit/99c1db78f3300fc81e933653a378917e7efcf7b5",7
+"[kreier/T400] check python3","https://github.com/kreier/T400/commit/b4f9da763bc0a459298a277a60ce7a58b3dc1bee",2
+"[kreier/T400] sort python and micropython","https://github.com/kreier/T400/commit/be2163cb7ba018a7ca0349263c1d942f09bd1a88",4
+"[kreier/T400] reorganized 2019/12/23","https://github.com/kreier/T400/commit/8d827701fe088209a8afa22eac142d477778c061",4
+"[kreier/T300] Merge branch 'master' of https://github.com/kreier/T300","https://github.com/kreier/T300/commit/35a1a4dc4231a10e119f54f440927c96f1d641a9",9
+"[kreier/T300] different circle","https://github.com/kreier/T300/commit/ad7c0996d809c730c17c5dc466063241bb2ba4c0",2
+"[kreier/python2018] added mandelbrot.py","https://github.com/kreier/python2018/commit/0d4ed7bdc7122cd93b93608a69eb4a8710199cd8",3
+"[kreier/python2018] still fails llvmlite - it's no longer in requirements.txt","https://github.com/kreier/python2018/commit/e569431cd806e16479d36bbb57910f58d7cd2d99",10
+"[kreier/python2018] remove satrapy cytoolz llvmlite","https://github.com/kreier/python2018/commit/9a618da7d62e5983a3193d729f35622f62efafb7",4
+"[kreier/python2018] no fft - fast fourier transformations","https://github.com/kreier/python2018/commit/ee41a31ca136d3249a68081dcc74a24a1154ad55",5
+"[kreier/python2018] let's ignore the requirements.txt","https://github.com/kreier/python2018/commit/18165da2a737fceefdcf531b9dd81f60f6333948",6
+"[kreier/python2018] switch to 3.7 since 3.8 failed","https://github.com/kreier/python2018/commit/d56cfa17cf0c20c3d5ce4b72c42aeda43561b614",8
+"[kreier/python2018] state linux and python 3.8","https://github.com/kreier/python2018/commit/7db4d4b11ff2599b66bae0d0336f394a18074995",6
+"[kreier/python2018] included license","https://github.com/kreier/python2018/commit/31e956e5d66db84bc9cd29e9a59b86630d0700dd",2
+"[kreier/python2018] Update LICENSE","https://github.com/kreier/python2018/commit/60bf0c03c26e5cf7e1329ff6d9087c5b3d64d495",2
+"[kreier/T80] included code and ScienceFair 2019 picture","https://github.com/kreier/T80/commit/f20bcf17f4fb43713b8f46e6b033db455f832583",6
+"[kreier/T80] Add files via upload","https://github.com/kreier/T80/commit/794a9d1b945933482706ab48c36588c6a56157f9",4
+"[kreier/T80] badges and license","https://github.com/kreier/T80/commit/909cf2c9e131582fb09a7d93efd5709654208e3a",3
+"[kreier/T80] Update LICENSE","https://github.com/kreier/T80/commit/08a6314188fa5f452544d7ea24bf5bbd488a7a1d",2
+"[kreier/T300] updated license","https://github.com/kreier/T300/commit/5157be47c9eba4773bef52cbb0f33ec3393e82c3",2
+"[kreier/T300] Create .esp32.test.skip","https://github.com/kreier/T300/commit/9c640b5f77c0b021d8bb9cc7ac65f7e9af2b7f9a",4
+"[kreier/aisvn] Create .esp32.test.skip","https://github.com/kreier/aisvn/commit/e1d8248284f9befb842be5089389a0eb22c1f321",4
+"[kreier/T300] Update .travis.yml","https://github.com/kreier/T300/commit/2b0e7d1aebc57549f0a7b8961322372201635c1f",3
+"[kreier/aisvn] Update .travis.yml","https://github.com/kreier/aisvn/commit/80623efde7f18a34837170008a9bec1f3ab66c6d",3
+"[kreier/aisvn] Create .esp8266.test.skip","https://github.com/kreier/aisvn/commit/141c3bc791fe4369919ac0872660a2303b3dd383",4
+"[kreier/aisvn] Update .travis.yml","https://github.com/kreier/aisvn/commit/f4281e2f1e671ece3bed73e1efe36f8c0cd784d5",3
+"[kreier/T300] Update .travis.yml","https://github.com/kreier/T300/commit/632da4d9b5bf2311452d20ad4adefa1c42adc5b7",3
+"[kreier/python2018] copied from the pyboard online example","https://github.com/kreier/python2018/commit/0d8626df1e74ed968786f64b7540cbec5666a29e",6
+"[kreier/python2018] with Mandelbrot","https://github.com/kreier/python2018/commit/e9daad0bc9edbe8e9276700fe53e3c1c25f43c24",2
+"[kreier/aisvn] INSTALL_PLATFORMS limited","https://github.com/kreier/aisvn/commit/bd7069d88dc08c72ba4d7a0c382b09484dd784e7",2
+"[kreier/T300] Update .travis.yml","https://github.com/kreier/T300/commit/960ad27d39399d3b41cdade244252c4784971430",3
+"[kreier/aisvn] missing void?","https://github.com/kreier/aisvn/commit/ca6d4dc2173dfbec38c3cc28b7f664c9c7eceb76",2
+"[kreier/T400] for now only python since machine can't be imported","https://github.com/kreier/T400/commit/cc99baecd005d54f424212829f01eb66cf924b21",10
+"[kreier/T400] calculate the prime numbers until 1000","https://github.com/kreier/T400/commit/40f494a571c91e1361aad45c1273732b40d2ac69",6
+"[kreier/T400] it's so simple","https://github.com/kreier/T400/commit/0546e0dd83525edbf6b327f68d0494850b40fbf2",4
+"[kreier/T400] Create README.md","https://github.com/kreier/T400/commit/13a6b100a13514394148b192a36ca7fff1c62310",3
+"[kreier/T300] switch to MIT license","https://github.com/kreier/T300/commit/8681ffece35ade064afe4969f752138f0e30461f",4
+"[kreier/T300] reflect adafruits recommendation","https://github.com/kreier/T300/commit/bd44adf09f545028c26d8c0414dd1ff9284de87b",3
+"[kreier/aisvn] remove install","https://github.com/kreier/aisvn/commit/839d803f5f65c2d92b200f270b887a4f82856b8a",2
+"[kreier/aisvn] Update README.md","https://github.com/kreier/aisvn/commit/c5188836deffcfa0e234901b50faa9f4e410af75",3
+"[kreier/aisvn] Create .travis.yml","https://github.com/kreier/aisvn/commit/c90364d0712c0c814fcacc2b3170c04c61cfad57",3
+"[kreier/aisvn] Create drive_20191219.ino","https://github.com/kreier/aisvn/commit/bcb9a261314cc2f6b5a6e5bccc7d96596c24a28e",3
+"[kreier/aisvn] licence updated","https://github.com/kreier/aisvn/commit/98f25dd79afc52ce5d01209577798e0406cab6a4",2
+"[kreier/aisvn] Update LICENSE","https://github.com/kreier/aisvn/commit/8b8a4d364e1b6ef6b355e07eb5f02fa31ade7ba9",2
+"[kreier/ar65view] Update LICENSE","https://github.com/kreier/ar65view/commit/98443c4c52962c7a650f19cf296a20fe3a0231e6",2
+"[kreier/ar65view] added info badges","https://github.com/kreier/ar65view/commit/4e815821d68dd450e37b6cfc037e8e356ccfe51e",3
+"[kreier/T400] badge for license","https://github.com/kreier/T400/commit/11c7b53dc0ffe42d0ab22e96c1971b44cb269068",3
+"[kreier/T400] Update requirements.txt","https://github.com/kreier/T400/commit/210c98988fb1f5b5cb09af75da13b0d2f9910ec8",3
+"[kreier/T400] Update .travis.yml","https://github.com/kreier/T400/commit/a8002456a832513d3b154a674415da8571f667ad",3
+"[kreier/T400] micropython?","https://github.com/kreier/T400/commit/612318f5fc8e2a162da3a6d48f3cd0407832647f",1
+"[kreier/T400] Micropython is based on python 3.4","https://github.com/kreier/T400/commit/9f7a693bd4f5389e0f6759fb7752e4d6bf20ff16",7
+"[kreier/T400] added Micropython-machine","https://github.com/kreier/T400/commit/489d9d35cbdd5e922f6c904c34e9711a0abcfa63",3
+"[kreier/T400] included requirements.txt","https://github.com/kreier/T400/commit/1b802b6fecd676921fc5680fb17eefcb53d41f00",3
+"[kreier/T400] Create requirements.txt","https://github.com/kreier/T400/commit/fde4e742c9e377a181b78b76d97f6f69c6655567",3
+"[kreier/T400] Update .travis.yml","https://github.com/kreier/T400/commit/2e4c62d0e05729f6172ddf47c142803d68324b60",3
+"[kreier/T400] Update .travis.yml","https://github.com/kreier/T400/commit/5cdbbb8b3f64902f4dbe7bb180c0112ff10174d0",3
+"[kreier/T400] Create .travis.yml","https://github.com/kreier/T400/commit/b18282b65c64db18f5e961d858ab19626483ef11",3
+"[kreier/T400] example to activate travis","https://github.com/kreier/T400/commit/31e2e59ded26e1ad97d23f0ce33e768d7885f977",4
+"[kreier/T400] Update LICENSE","https://github.com/kreier/T400/commit/9f26260f8615bf93ba1594380571e3316f189103",2
+"[kreier/ar65view] included os, removed sudo (ignored by Travis)","https://github.com/kreier/ar65view/commit/3dce2ad44b0b8e4f1493e34d5c79c98a2a96856a",7
+"[kreier/ar65view] link too sourceforge.net","https://github.com/kreier/ar65view/commit/a58c4123064945e4a38ec9c6ee3add698704f4e7",4
+"[kreier/ar65view] screenshot included","https://github.com/kreier/ar65view/commit/8343812301b5dad5ef93ccf1deb57294f2477a6a",2
+"[kreier/ar65view] screenshot Windows Vista in 2008","https://github.com/kreier/ar65view/commit/c9eadb7308d69b581ebac899d607567b81e3ceca",5
+"[kreier/aisvn] Set theme jekyll-theme-leap-day","https://github.com/kreier/aisvn/commit/4a593f06412c2686fb5ca0d87235f98e61591b2b",6
+"[kreier/aisvn] build update and travis","https://github.com/kreier/aisvn/commit/1fe61fd536d78144ebe94b1f7b036f0a22e919b8",4
+"[kreier/aisvn] Create README.md","https://github.com/kreier/aisvn/commit/2e2ae51d1b4a9097795fdd99d860dc6635ad2a6c",3
+"[kreier/aisvn] Update README.md","https://github.com/kreier/aisvn/commit/c580301fc677f51f884dbec54d5fd409031fbfb8",3
+"[kreier/aisvn] Update README.md","https://github.com/kreier/aisvn/commit/41d3015041fbb0345923f141a1c2680b13005f5d",3
+"[kreier/aisvn] Create README.md","https://github.com/kreier/aisvn/commit/ceff8a8dd868be254d79209f43bc56bffb0056b8",3
+"[kreier/aisvn] Create README.md","https://github.com/kreier/aisvn/commit/eaba1cf482f24da3a4bc9724996910a30c87155a",3
+"[kreier/aisvn] Initial commit","https://github.com/kreier/aisvn/commit/09fdb1dd53437ddba91dd4b3cd5333b4ad85ec38",2
+"[kreier/ar65view] updated jnlp description","https://github.com/kreier/ar65view/commit/824e5f207dfe215dcfc27ba6c97be82ff53382e3",3
+"[kreier/ar65view] Merge branch 'master' of https://github.com/kreier/ar65view","https://github.com/kreier/ar65view/commit/1528e6bb29436b29f4e8fa4c785f66e73b1a3a2d",9
+"[kreier/ar65view] Update README.md","https://github.com/kreier/ar65view/commit/54f552cc5bac599deb885d8a40c7d9787df4fae6",3
+"[kreier/ar65view] successful build with Travis CI","https://github.com/kreier/ar65view/commit/22087a73023622490d10e6c333d6e4537909c3dd",5
+"[kreier/ar65view] updated to 2011/02/01 from SVN sourceforge","https://github.com/kreier/ar65view/commit/0e78aa0db5c6cd2988a03f744a753195ef6c6d6d",8
+"[kreier/ar65view] from SVN 2011/02/01","https://github.com/kreier/ar65view/commit/aaa83e934e9a60266c85892d2efa99f18b9a9dec",5
+"[kreier/ar65view] removed <import file=""nbproject/build-impl.xml""/>","https://github.com/kreier/ar65view/commit/07e5573e61e4c20f7937a283900cf8bf46c5fcd4",1
+"[kreier/ar65view] removed <import file=""jnlp-impl.xml""/>","https://github.com/kreier/ar65view/commit/27905e2cc97571ec6d4e39599472d3cbae471ab0",1
+"[kreier/ar65view] removed extension jnlp-impl.xml","https://github.com/kreier/ar65view/commit/8e5d8d859a5e693db378b25f6e1116a273620a0c",5
+"[kreier/python2018] success in Travis CI","https://github.com/kreier/python2018/commit/d45354ba4b7cfb9d410f5697d85ff5cfd64d0ce2",4
+"[kreier/python2018] fixed path","https://github.com/kreier/python2018/commit/46db01c157c7b8d506f552b66ff22f39f3c26a27",2
+"[kreier/T300] gcc for .ino","https://github.com/kreier/T300/commit/a17e69aead2daa1416145b8bd192689dd4030ca8",3
+"[kreier/python2018] correct path","https://github.com/kreier/python2018/commit/56e33553c614cc2518745f5497c35865b4505fa7",2
+"[kreier/T300] just latest.ino","https://github.com/kreier/T300/commit/38089efba0cf7ba793634af46f0bd5c20a5f8b44",3
+"[kreier/impact] review from Travis CI","https://github.com/kreier/impact/commit/1a5548041aba1ea6a50b4ce23c5fb59d3606f087",4
+"[kreier/python2018] just check these three","https://github.com/kreier/python2018/commit/4fadef391313b8ba4d463e379278aa43a8492487",4
+"[kreier/impact] removed main.py since it is Micropython","https://github.com/kreier/impact/commit/6cb8a1d593640fbfc6c5054a8f2d194743725d86",7
+"[kreier/python2018] only 104 left","https://github.com/kreier/python2018/commit/b08ab8ada945cec6ef6f5fbcc03e2a175cb7740b",3
+"[kreier/impact] Update .travis.yml","https://github.com/kreier/impact/commit/78baa3e00cdac9f7e8c544863979074fba2358bd",3
+"[kreier/impact] Create prime1000.py","https://github.com/kreier/impact/commit/5328661df8db2fb42e487877ea914e1d1fd07374",3
+"[kreier/impact] Update .travis.yml","https://github.com/kreier/impact/commit/8c41fc24d262660589daeeb89755a9e0f999b746",3
+"[kreier/impact] language: python","https://github.com/kreier/impact/commit/87cc911167290fa2ce811ddd442503f2a1bfc903",2
+"[kreier/python2018] still mkl ...","https://github.com/kreier/python2018/commit/ce2a5b7a445671c67b8d6016b6fe9e257f99af75",2
+"[kreier/impact] Create .travis.yml","https://github.com/kreier/impact/commit/5d4be81c0c7739e9e87cb83a8647593aa1828ca7",3
+"[kreier/python2018] older version of mkl-fft","https://github.com/kreier/python2018/commit/0acfdd1e896a11d23b18df72c6b03c23e0c1c225",5
+"[kreier/impact] Create requirements.txt","https://github.com/kreier/impact/commit/4789b631337aab9c0cc29468f44549dd831be2c7",3
+"[kreier/python2018] removed menuinst (84)","https://github.com/kreier/python2018/commit/ce867b2a9338abf9785e3f3db364e60db78f47db",3
+"[kreier/python2018] removed clyent and ipython, 212 to go ...","https://github.com/kreier/python2018/commit/3c876c5926a1ddafd332ef19962155aab38551c6",7
+"[kreier/python2018] removed jupyter","https://github.com/kreier/python2018/commit/3370be7065f24016fd757165145d993975cb704d",2
+"[kreier/python2018] removed Conda and anaconda","https://github.com/kreier/python2018/commit/cfdb23e1bae276e89c18ff4ece8dfb7ef567c99d",4
+"[kreier/python2018] Create requirements.txt","https://github.com/kreier/python2018/commit/3655e39bc90643019c86b4dcfb8ef82f77e85262",3
+"[kreier/python2018] Create requirements.txt","https://github.com/kreier/python2018/commit/5779497230b7ce29bd6a1ca02eb93166ed52b75a",3
+"[kreier/python2018] Delete uPyCraft.exe","https://github.com/kreier/python2018/commit/fe186e1282da67322e9c3b9d306050cdeb3f7d0a",3
+"[kreier/python2018] Update .travis.yml","https://github.com/kreier/python2018/commit/1b1959b936ca754c82c819b10f634b832dc85f33",3
+"[kreier/ar65view] Create .travis.yml","https://github.com/kreier/ar65view/commit/4c36d572285147e95f44f9601776eecfe61fce78",3
+"[kreier/python2018] Create .travis.yml","https://github.com/kreier/python2018/commit/a55ca5958773335d4a908fd4aadd3d7451709caa",3
+"[kreier/T300] Set theme jekyll-theme-cayman","https://github.com/kreier/T300/commit/c17c132f38b8580780d4df76ac5b0b3e2abddfeb",5
+"[kreier/T300] included hits! (how idiots track success)","https://github.com/kreier/T300/commit/38d159b91fa4c1854704bcb75d4410ebbf471400",6
+"[kreier/T300] Update .travis.yml","https://github.com/kreier/T300/commit/52eb345dcab2e3dc96db1604f4636b434dfe9ace",3
+"[kreier/T300] two badges","https://github.com/kreier/T300/commit/ea624c68467b55f588c39858f7ec5dfbb535b50f",2
+"[kreier/T300] extended with adafruits examples","https://github.com/kreier/T300/commit/5ee071dd90aa5297cb5825b2a0ad673a83e7b5ab",4
+"[kreier/T300] Create .travis.yml","https://github.com/kreier/T300/commit/c9f3e9378059b3097722db153fe1e37ea8a7b440",3
+"[kreier/T300] extended autonomous mode","https://github.com/kreier/T300/commit/e2197732c0e537ee304e3263105c4248c4017948",3
+"[kreier/ESP32] Update README.md","https://github.com/kreier/ESP32/commit/1a64673f383428fd8963b9a612d131a61570bf06",3
+"[kreier/ESP32] copy from circuits4you - temperature 53.33 degree","https://github.com/kreier/ESP32/commit/f347f04c2aa843920b7c28f31878639d1dee25e5",7
+"[kreier/ESP32] Create README.md","https://github.com/kreier/ESP32/commit/9aaddc737b796560edceafd37961cbf2f7f4532b",3
+"[kreier/T300] detail images of motor shield","https://github.com/kreier/T300/commit/2499f487324f60792b0d1b7eada04d9adc5305d0",5
+"[kreier/T300] started detailed description","https://github.com/kreier/T300/commit/85495694ad97577fcd9698cc07f21701b391de85",3
+"[kreier/T300] Create README.md","https://github.com/kreier/T300/commit/a3386b1b4dcad3ac900ecc4e3de4d3ae1cc30a69",3
+"[kreier/T100] 2019/12/16 keys compatible with T300","https://github.com/kreier/T100/commit/2542e662da8d17d3dcf703ac5730e14321cc3d68",7
+"[kreier/T400] code from Vincent Lacour","https://github.com/kreier/T400/commit/6a0bd4114d187134de9d1301c9cb6b45d678435b",4
+"[kreier/T400] SDA D6 and SCL D5 updated","https://github.com/kreier/T400/commit/818b4eb046d9d06775f4b75c1e262d6c3ecd3f78",6
+"[kreier/python2018] local webserver in micropython","https://github.com/kreier/python2018/commit/7304a219a603640562ffe6edf386b5982893e661",4
+"[kreier/python2018] copy of SourceCodePro from google, install for all","https://github.com/kreier/python2018/commit/8af52fc3ecdf4f727d2cf5632bf3da53c5e091ce",8
+"[kreier/python2018] copy of upycraft 1.0 from dfrobot","https://github.com/kreier/python2018/commit/1dfb056f1ef64103579d6d4db9612127fdbe3ddd",7
+"[kreier/python2018] created 2019-12-16","https://github.com/kreier/python2018/commit/d3aa8f38cf58d3f78e2e07315bd5cb5ac6048deb",4
+"[kreier/python2018] webserver works after 10 minutes copy and paste","https://github.com/kreier/python2018/commit/df41fb37f26f88ead363ec4b624422d5cffadb79",8
+"[kreier/python2018] copy from https://RandomNerdTutorials.com","https://github.com/kreier/python2018/commit/cd5255caca8eff501b1483edff6001dfb963296b",5
+"[kreier/python2018] copy from randomnerdtutorials","https://github.com/kreier/python2018/commit/179234cf48858e9607a9a5dfae558b67d403aa6f",3
+"[kreier/python2018] basedn on randomnerdtutorials from November 2018","https://github.com/kreier/python2018/commit/a7be58d4cd948b47e8913bb5ae3632e8ce1c51b4",6
+"[kreier/python2018] how to use uPyCraft","https://github.com/kreier/python2018/commit/209b3981a582d972ad4bfeade7db653bb918284d",4
+"[kreier/T300] PWM and servo timer issue fixed with reboot()","https://github.com/kreier/T300/commit/232e873e0770aa5c926d23d80525ab69dac4117b",8
+"[kreier/T300] servo and sonar removed to investigate PWM issue","https://github.com/kreier/T300/commit/9120b65f05dbed79689ace062c7e0bd53209d858",8
+"[kreier/labs] source code from wikipedia 2019-12-13","https://github.com/kreier/labs/commit/3b8eb04699474123bd8d87926b17a8be27eea92c",7
+"[kreier/labs] included source code from wikipedia","https://github.com/kreier/labs/commit/bb803f9f3e826bbf4195b98745bb510035ee2bda",5
+"[kreier/T300] Create README.md","https://github.com/kreier/T300/commit/6c7824efc200fc2e87d6b3e72c85d9fa8ca0d607",3
+"[kreier/T300] pwm control works - without servo and ultrasonic","https://github.com/kreier/T300/commit/03410a84f1641ee60d558359e117cb25da2a1fc2",7
+"[kreier/labs] MYP Science topics expanded","https://github.com/kreier/labs/commit/2aade4f79b5e828220c4ae31e9a50bf032f1ec5d",4
+"[kreier/labs] included math calculations","https://github.com/kreier/labs/commit/f8cad933b30d86a469b937d150c5a3bc37101ed2",3
+"[kreier/T400] from DOIT Shanghai","https://github.com/kreier/T400/commit/561f1f5069550fad06338274cb51fe394ce7eef0",3
+"[kreier/T400] Create README.md","https://github.com/kreier/T400/commit/1ce310e52aa95db81fce53afb3c7994dec75962f",3
+"[kreier/T400] Update README.md","https://github.com/kreier/T400/commit/942fef2236a101c29712f60cecee0d13255b1d07",3
+"[kreier/T400] 2019/12/12 saved 5 lines","https://github.com/kreier/T400/commit/24132eb1f1640504375609435d28eac457ef5397",6
+"[kreier/T400] simpler","https://github.com/kreier/T400/commit/f823a4af896e145bde9bdce9e54775b71afc5852",1
+"[kreier/T400] code with reassigned i2c","https://github.com/kreier/T400/commit/82c5ab27ba16deed85e1da6b7e1e418e8120eabf",4
+"[kreier/T400] 2019/12/10","https://github.com/kreier/T400/commit/b471eabaf487685f7c802ec9cd35bf99bf7c63da",3
+"[kreier/T400] pin assignment","https://github.com/kreier/T400/commit/d6dad25ce783b17ed662233689fe9f547ab56967",2
+"[kreier/T300] Merge branch 'master' of https://github.com/kreier/T300","https://github.com/kreier/T300/commit/219432baf1d8071393ad61ed51779e8a0a7ad203",9
+"[kreier/T300] PWM issues fixed, code structured","https://github.com/kreier/T300/commit/ea9bafc6e570217fcc97b93ca9e2e7c3eb0146cc",5
+"[kreier/T300] specs updated","https://github.com/kreier/T300/commit/ea0d80bfb6753a111f96e5c324bf67b2da63dc99",2
+"[kreier/labs] Update README.md","https://github.com/kreier/labs/commit/02d128560cd5f60d8334b733685f2aa245760384",3
+"[kreier/labs] larger image","https://github.com/kreier/labs/commit/861d2ef753abbf57a1bc2e6dd85fe7d93b594aba",2
+"[kreier/labs] rendered in jupyter on Raspberry Pi 4","https://github.com/kreier/labs/commit/52123ea9339376874529299c45dcb785a7f81613",7
+"[kreier/labs] Add files via upload","https://github.com/kreier/labs/commit/17a254f5ad84df330b09c8021bf4610ee0dba50a",4
+"[kreier/labs] Update README.md","https://github.com/kreier/labs/commit/5fb41ef5be1e92c67d82028afdd68ca37fe555a6",3
+"[kreier/labs] Update README.md","https://github.com/kreier/labs/commit/b4af20203d8e77b546d96e4050e0e278bb2041d0",3
+"[kreier/labs] created with Mathematica 8.0.0 May 2011","https://github.com/kreier/labs/commit/a775f282d8e5af726724370c46ebbb77ba0d9275",8
+"[kreier/labs] Update README.md","https://github.com/kreier/labs/commit/638d9a0acfc56e80136739710fee33312c5f77fd",3
+"[kreier/labs] from the cloud","https://github.com/kreier/labs/commit/12a9cee79984be50054175559cb2d1d2552ee581",3
+"[kreier/labs] Rendered in colaboratory","https://github.com/kreier/labs/commit/bbfff83064522e7649c4ab6e049823561bebc070",3
+"[kreier/labs] Create README.md","https://github.com/kreier/labs/commit/d2698b874ef15a1ad55695f6668bc42587b0d7de",3
+"[kreier/labs] Create README.md","https://github.com/kreier/labs/commit/7d99e33976d9f48a0beddedf0b1f2b8d0655ec53",3
+"[kreier/python2018] included code, time for Raspberry Pi 4","https://github.com/kreier/python2018/commit/52af691964a26073334cec44b6df37255fb60d28",7
+"[kreier/python2018] first notebook ever with Mathematica","https://github.com/kreier/python2018/commit/72d9fce9f03d392d6e3b67b45abb81ed2a95740c",5
+"[kreier/python2018] first successful run","https://github.com/kreier/python2018/commit/39d43726633595d4c877c6b6fbecc64c8d3c1938",3
+"[kreier/python2018] updated results","https://github.com/kreier/python2018/commit/d14c223c8d9fe65083f89e44090207374918ba66",2
+"[kreier/python2018] 2019-12-10 32807 ms at 80 MHz","https://github.com/kreier/python2018/commit/b8e008b3594ba0c2b178afc6a40baf4e4319e9dc",8
+"[kreier/python2018] 2019-12-10 7783ms at 240 MHz","https://github.com/kreier/python2018/commit/014facfa9f926809906e22d1a51201e3dc8cfc72",7
+"[kreier/python2018] 2019-12-10 18113 ms at 160 MHz","https://github.com/kreier/python2018/commit/997d543bd4e0f5eda3b08c50e8d07d6023faa06d",8
+"[kreier/python2018] 2019-12-10 32807 ms at 80 MHz","https://github.com/kreier/python2018/commit/fb726cebc704ae94ad28b042f71b07b939216075",8
+"[kreier/python2018] 2019-12-10 44427ms at 40MHz","https://github.com/kreier/python2018/commit/d10248fd8c9db2bffdd1194d321759845e1e1dd9",6
+"[kreier/python2018] 2019-12-10 7783ms","https://github.com/kreier/python2018/commit/5cc1a7ef2dd194c1d2284b8f926ff3450aa3e567",4
+"[kreier/python2018] 2019-12-08","https://github.com/kreier/python2018/commit/ef8cb4bb62dd85959e3d1813045058d352f10f63",3
+"[kreier/python2018] turbo time","https://github.com/kreier/python2018/commit/148920d9e83b482a5897d197ce04e57548096ba1",2
+"[kreier/python2018] python script","https://github.com/kreier/python2018/commit/9318c0990b25cb52c112ccdb26b3abed0742ac72",2
+"[kreier/python2018] 2019-12-10","https://github.com/kreier/python2018/commit/8154237998f8a19e8317066d5b72ac510eb96a55",3
+"[kreier/python2018] pin to connect for upload","https://github.com/kreier/python2018/commit/7b6dd5bea90cdeba059cb8ed0c8e3702ad22cfde",5
+"[kreier/python2018] Create README.md","https://github.com/kreier/python2018/commit/1640cc5c2d6d7c0e1d8f42a4ef90a48932b38d6d",3
+"[kreier/python2018] code for micropython","https://github.com/kreier/python2018/commit/712a9e1c15b88e1816982bcabce5129134322c83",3
+"[kreier/python2018] prime numbers to 1000 with time","https://github.com/kreier/python2018/commit/a50215d5a87a81ac91d467e76460ea06cd0bc20a",6
+"[kreier/python2018] Update README.md","https://github.com/kreier/python2018/commit/545b76bc8b16ed0e12855d78806531c1b5134608",3
+"[kreier/T300] with ultrasonic stop function under 10cm","https://github.com/kreier/T300/commit/81f5658317161253b989b48383d51aa4670a3942",6
+"[kreier/T300] issues updated","https://github.com/kreier/T300/commit/1310a7b58c9694442b2a3e0d034d5e8a403a77c9",2
+"[kreier/T300] updated modes","https://github.com/kreier/T300/commit/720466c71f3c91ee0cc6523d3223ec8474bfede0",2
+"[kreier/T300] now with optic and acoustic feedback","https://github.com/kreier/T300/commit/b0b6bb4d4e2f7b591570de4fc3f1338c43b02d9d",6
+"[kreier/T300] beeps below 20 centimeters","https://github.com/kreier/T300/commit/fe0200fb542241097484c874110530bef9ba1608",4
+"[kreier/T300] no errors like LiquidCrystal_I2C","https://github.com/kreier/T300/commit/a90db667fb2845d155402a98eb327cc44d2648a2",4
+"[kreier/T300] with LiquidCrystal_I2C library","https://github.com/kreier/T300/commit/b9813de81cf5c105d1dbaf0a3e0ce098062ed04a",3
+"[kreier/T300] updated definition","https://github.com/kreier/T300/commit/15c45e6d90ec173ebf723b10ecd85d7aefe03ae6",2
+"[kreier/remote] Update index.html","https://github.com/kreier/remote/commit/79311794ba826a82dcfa1f09759ae515c15f98ec",3
+"[kreier/remote] Create main.js","https://github.com/kreier/remote/commit/77e011b19d44ae9870ae2233e4a7528a3b8c0708",3
+"[kreier/remote] Create companion.js","https://github.com/kreier/remote/commit/f874a5cc6bbca122fdcfc6a9c463ba6ad03a0fb5",3
+"[kreier/remote] Create BluetoothTerminal.js","https://github.com/kreier/remote/commit/c4d57786448835b6fb0638d6342b1b72783cdff9",3
+"[kreier/remote] Create styles.css","https://github.com/kreier/remote/commit/371d041287e46a84f7baa5c20737c733bdb80d9d",3
+"[kreier/remote] Create normalize.css","https://github.com/kreier/remote/commit/848c5427f4804809811baed4703d1e367b271bc0",3
+"[kreier/remote] Create manifest.json","https://github.com/kreier/remote/commit/36a94e45f115f60abd6e9a6d96a3544f23b1acd7",3
+"[kreier/remote] inspired by loginov.rocks/Web-Bluetooth-Terminal","https://github.com/kreier/remote/commit/ac9c6f9ce5cdca8c9e83725853557f6d96e45291",7
+"[kreier/labs] added ODE - ordinary differential equation","https://github.com/kreier/labs/commit/a81c818fe32943c6137be41687e0084db6fea691",5
+"[kreier/labs] science myp picture","https://github.com/kreier/labs/commit/a4acc1a65989381f5e3aac630f5358df7d0086f1",3
+"[kreier/labs] from macrovector at freepik.com","https://github.com/kreier/labs/commit/5a8a0c7448d42436ebd09414220e1ce700f3762c",5
+"[kreier/labs] logo stemfair included","https://github.com/kreier/labs/commit/3be17df2ab8d01f2f5f5e544dc8f277e2adac216",3
+"[kreier/labs] stemfair.org logo","https://github.com/kreier/labs/commit/590336f98fc8adfe6b14d3d1c1b2cdb5eda3c813",3
+"[kreier/labs] included 2 pictures","https://github.com/kreier/labs/commit/1b5daee0b0b7860a6eb8a99df17464209f07eed7",3
+"[kreier/labs] included 2 pictures","https://github.com/kreier/labs/commit/1fb33c6c8883222acce3718064f47f6594abe311",3
+"[kreier/labs] Add files via upload","https://github.com/kreier/labs/commit/3bb3a4a0bf3ea708fa467af9039653a272d11d56",4
+"[kreier/labs] Create README.md","https://github.com/kreier/labs/commit/0bf671a33baca3f6f7fbe8a03f481e612b9eabc8",3
+"[kreier/labs] code from 2019-06-08","https://github.com/kreier/labs/commit/b5fcbb11ed9a6c2486f0e6c5ee20809135b1213e",5
+"[kreier/labs] code sniplet included","https://github.com/kreier/labs/commit/d53fe7f165d10d4d9a7f386d7cf7713bb878d0a5",3
+"[kreier/labs] evil clown wins","https://github.com/kreier/labs/commit/033b9fd85a62b2b28b6ccd4682357a6b27a52ad1",3
+"[kreier/labs] png graphics fixed","https://github.com/kreier/labs/commit/9561f254227962a1e99c5c37546bae9af9ccdbc7",3
+"[kreier/labs] Add files via upload","https://github.com/kreier/labs/commit/23d47f4d61bb43e3501082b4f92d58db2b29d58c",4
+"[kreier/labs] Create README.md","https://github.com/kreier/labs/commit/8a941c02ec7742194ca5b94db6f949c58f0d3a46",3
+"[kreier/T400] 2019-12-05","https://github.com/kreier/T400/commit/e7bf8b374a8b188a644667f85666c09fda4ca6e7",3
+"[kreier/T400] Create README.md","https://github.com/kreier/T400/commit/0d466e2362de3677972d4adb0a37540ddffe5ff8",3
+"[kreier/T400] Initial commit","https://github.com/kreier/T400/commit/76fffb5bc33412c297181b61e60b9ce8e27c3770",2
+"[kreier/T300] direction commands in array","https://github.com/kreier/T300/commit/d15134a85eab5a84cfde23f1b7c2ecef832ee7cd",4
+"[kreier/T300] defined array for variables/text","https://github.com/kreier/T300/commit/271001d19da7d37c1427ce6833d0b3c83b13967e",5
+"[kreier/labs] Add files via upload","https://github.com/kreier/labs/commit/0db26ebbfa16975381f0015908aeb3c7d0ea4b43",4
+"[kreier/labs] created with colaboratory","https://github.com/kreier/labs/commit/c44070966e50885746d5a2ba23edf94461789ba9",3
+"[kreier/T300] Update README.md","https://github.com/kreier/T300/commit/bb9e15ea92f5e29db737949464a06ba1cb08c598",3
+"[kreier/T300] Bluetooth mode selection, display on 1602 I2C","https://github.com/kreier/T300/commit/776f0fdabb6771ee15b002bc2078358504a2612e",7
+"[kreier/T300] mode selection and I2C display works","https://github.com/kreier/T300/commit/8d3f3c518cc1b406e4f96af5e94898b46e986bc1",6
+"[kreier/T300] controller image linked","https://github.com/kreier/T300/commit/6cf4cf324dd4df5778b372c2f555bdc0d708365d",3
+"[kreier/T300] layout controller keys","https://github.com/kreier/T300/commit/9ca460eb68702ce16d8c158594c67edf4c821150",3
+"[kreier/asa] Huy's Android treaked software - week 2","https://github.com/kreier/asa/commit/90a3e62042bf5fce486233c28affb3e39b37cbea",7
+"[kreier/labs] Add files via upload","https://github.com/kreier/labs/commit/9be4a9b1596c870f955073ff74f9692c444764fe",4
+"[kreier/labs] Create README.md","https://github.com/kreier/labs/commit/ecd66b8f11d0bf6ac16380219bd2ae82f5400de1",3
+"[kreier/T300] Add files via upload","https://github.com/kreier/T300/commit/a1f30c911c05244ec151a55ca24362aab3ce2db5",4
+"[kreier/impact] rubber duck debugging","https://github.com/kreier/impact/commit/ce1b6245e48a0d2197c8664ce8980989935c591e",3
+"[kreier/impact] Update readme.md","https://github.com/kreier/impact/commit/69ea67d77337a4a9eb2bee405514f8776291df99",3
+"[kreier/T300] refining remote response RX BT","https://github.com/kreier/T300/commit/2aa5ca03a447ebdf954bc65d80de8663ce9344b9",5
+"[kreier/labs] Add files via upload","https://github.com/kreier/labs/commit/1899be6b8f5397b9ddef5e95c6c7e1e27c62e354",4
+"[kreier/labs] Create README.md","https://github.com/kreier/labs/commit/2e24df8a8fc27974232fb6a871e5ff77a41d51e5",3
+"[kreier/labs] Update README.md","https://github.com/kreier/labs/commit/fc3d3b20d6ec451daed307097df905e9ce707758",3
+"[kreier/labs] 35 different length and each 5 trials","https://github.com/kreier/labs/commit/965c90ef12707d84cd843a1284a9933888adeb32",19
+"[kreier/T300] Add files via upload","https://github.com/kreier/T300/commit/d7d00f005e3e940f0f3107bacff234005af06678",4
+"[kreier/T300] Create T300_20191126.ino","https://github.com/kreier/T300/commit/32c12bddaee1afa0fc27ab25eeb874758d78cd32",3
+"[kreier/T300] Create README.md","https://github.com/kreier/T300/commit/f03ec6912c08f4ac1a55e394fa85cb1653a091fc",3
+"[kreier/labs] Add files via upload","https://github.com/kreier/labs/commit/8256b9b605ce811d6f035d1c57785e5232d24711",4
+"[kreier/labs] Create README.md","https://github.com/kreier/labs/commit/ca1008a9f3570ea0fc4592418b321e053f3d7610",3
+"[kreier/labs] Update README.md","https://github.com/kreier/labs/commit/3fa0a0c06df6a3c359a724299006b3b583566761",3
+"[kreier/labs] moved files for consistency","https://github.com/kreier/labs/commit/1ff9f3b0aaaa28b6e511d275b7783088f5d55db0",4
+"[kreier/labs] Add files via upload","https://github.com/kreier/labs/commit/615d4d969c3d52ffbaa6ad755c6dea474ff5fa0d",4
+"[kreier/labs] formula LaTeX rendering works","https://github.com/kreier/labs/commit/64424be7bfe81e62c651c5f5188b0eb2654aa261",4
+"[kreier/labs] Update README.md","https://github.com/kreier/labs/commit/7bf32341a9af59330f918448f6838cbcfc9fdecf",3
+"[kreier/labs] fix","https://github.com/kreier/labs/commit/a80c23fffdf40c000283d9acb47a242084dd9cb5",1
+"[kreier/labs] overview of topics","https://github.com/kreier/labs/commit/74eef786b5107e396fe5f449b450443d8c7734a2",3
+"[kreier/labs] Add files via upload","https://github.com/kreier/labs/commit/c1d2d2a6132c29eee8b749f1652c4ed1bd5e311f",4
+"[kreier/labs] Create README.md","https://github.com/kreier/labs/commit/a50a4a8606c6b65f9edd127f37a39df8722811c2",3
+"[kreier/labs] 2019/11/25","https://github.com/kreier/labs/commit/c661924ec71f193bffd385a9042a162eca8ee3d8",3
+"[kreier/labs] Update README.md","https://github.com/kreier/labs/commit/c6615521efc801501d6b257884e100740d4384bb",3
+"[kreier/labs] Add files via upload","https://github.com/kreier/labs/commit/9e056ffa270a0b190e021960f3e45a57143e5dda",4
+"[kreier/labs] Add files via upload","https://github.com/kreier/labs/commit/3ef82f8286d5ce141f2731a1bf117065ab5c5ddd",4
+"[kreier/labs] written by Huy 2019-11-24","https://github.com/kreier/labs/commit/4994b998d1d2a5299e947c5e5b65fe191d604aea",6
+"[kreier/labs] Add files via upload","https://github.com/kreier/labs/commit/f536f8bf4f9cbe528cd9373dcb50dda5d7e325dd",4
+"[kreier/labs] Link to Anaconda cloud","https://github.com/kreier/labs/commit/b1b7e6812ce0fcc82b8d6be5b2ae864f4c8c8d36",4
+"[kreier/T300] four modes","https://github.com/kreier/T300/commit/1dde8039e8adecc4cff72ba8e577d6d419196614",2
+"[kreier/T300] included example code","https://github.com/kreier/T300/commit/b817b1d5e7b79bea3c0fb48d1f71dbce6c5bd6fc",3
+"[kreier/T300] Add files via upload","https://github.com/kreier/T300/commit/ca8b3f942b7131c6ec71e2dc1f04569d97558798",4
+"[kreier/T300] Create README.md","https://github.com/kreier/T300/commit/956e06708bee7cb4a2be59c59da8158640ee01ea",3
+"[kreier/T300] pin assignment updated","https://github.com/kreier/T300/commit/08686af6e8dc623e8a9505921764d6e9246d3cbd",3
+"[kreier/T300] Update README.md","https://github.com/kreier/T300/commit/bdec45a6f4d576b881a17d99d6f2006c06794b06",3
+"[kreier/T300] it works!","https://github.com/kreier/T300/commit/6f8e83a9260de00a4daf5e63ca76698f5500d89e",2
+"[kreier/labs] example code from Huy","https://github.com/kreier/labs/commit/2b29f262d71c39b0702c7e12eefa350493c9bc24",4
+"[kreier/labs] Huy's example","https://github.com/kreier/labs/commit/b5cfb2288e78e8074d96d034f97807dd6374b6dd",3
+"[kreier/labs] Set theme jekyll-theme-cayman","https://github.com/kreier/labs/commit/32eab754121fc2ef9061c2b6728657e964eefb76",5
+"[kreier/labs] first experiment","https://github.com/kreier/labs/commit/a2b228a81cc072f7b70d1c561ee42f5cefe9be25",2
+"[kreier/labs] Initial commit","https://github.com/kreier/labs/commit/4fcd2972f02814db176d50b6231a888d72318277",2
+"[kreier/T300] corrected code","https://github.com/kreier/T300/commit/bfffed216a21b6dd48e17e6ccf16fcbe0827205c",2
+"[kreier/T300] 2019-11-25","https://github.com/kreier/T300/commit/6ec7d1e7c5217527a23b55e00dbcd64f75338fcf",3
+"[kreier/T300] Create README.md","https://github.com/kreier/T300/commit/3435a8602417bad6a28da947cf194dea28e567a3",3
+"[kreier/T300] 4 lines of code included","https://github.com/kreier/T300/commit/c6fdb5a3b17b1702abb6d0db65a368c671bac328",5
+"[kreier/T300] Add files via upload","https://github.com/kreier/T300/commit/0f5db35ae9fc523a67d8733e4dd0fe95d9663748",4
+"[kreier/T300] Create README.md","https://github.com/kreier/T300/commit/f81b6580e230a38632110a03fefbf616d499ddf4",3
+"[kreier/T300] three stages autonomous movement","https://github.com/kreier/T300/commit/6790c5a5173017c6a989846626a957d0f6008f9d",4
+"[kreier/T300] pin and remote updated","https://github.com/kreier/T300/commit/957901ea815184b0b966f0c7adbc12271d1e577b",4
+"[kreier/T300] update pin assignment, include I2C","https://github.com/kreier/T300/commit/3e399c8435f7f94f3671bb279a340b728099766d",5
+"[kreier/T300] pin assignment","https://github.com/kreier/T300/commit/c4b00e1c000d9ac58e9c8cc01657bb0dd5e259a9",2
+"[kreier/T300] updated file sizes","https://github.com/kreier/T300/commit/fbae91c5ec18f82c2aebfa87981262f73b6020a8",3
+"[kreier/T300] created October 4th, 2018","https://github.com/kreier/T300/commit/17f91a10284c7a47a22fee3785f2f8999badc3e4",4
+"[kreier/T300] link to sciencefair 2019","https://github.com/kreier/T300/commit/bb5adcab517c2f66fcfee3dcb88b0b020eb08df6",4
+"[kreier/T300] empty frame, will be designed in spring 2020","https://github.com/kreier/T300/commit/2f6a5fe5232d0d60cee7aca0644e03b6e2bb50b3",8
+"[kreier/T300] image fixed/added","https://github.com/kreier/T300/commit/856da8917116ea5b277398a38cc87b0b47fbb26d",3
+"[kreier/T300] float fix (align)","https://github.com/kreier/T300/commit/cbfb4159ea67ddde1e4e6ea0589ae933b851d4a0",3
+"[kreier/T300] keys for remote added","https://github.com/kreier/T300/commit/3c4bd2016621491cbacd69045366616c358eb3d9",4
+"[kreier/T300] integrated recent picture","https://github.com/kreier/T300/commit/7a5064ceb5babfea9bec82130d9f9f2c9c97e648",3
+"[kreier/T300] history and gallery added","https://github.com/kreier/T300/commit/79172744d79fe698df3e0080157b09beb02fa5b2",4
+"[kreier/T300] created October 2018","https://github.com/kreier/T300/commit/4f7f7acfd9969f415261c732b08f9ea64f507b81",3
+"[kreier/T300] Add files via upload","https://github.com/kreier/T300/commit/96d0b4190d459b4365983c6cc22a04e6fd124891",4
+"[kreier/T300] history added","https://github.com/kreier/T300/commit/522c9b9d08f92740785efb758d88c4b80efae4ef",2
+"[kreier/T300] created 2019-11-18","https://github.com/kreier/T300/commit/e45b9c6d567fc0abf1ae3dd5c6278a6d2b3415b2",4
+"[kreier/T300] Add files via upload","https://github.com/kreier/T300/commit/13e1b5c5e683eec260aca8db13421c76517241f6",4
+"[kreier/T300] Update README.md","https://github.com/kreier/T300/commit/dc6827f278c8c10f93bd9bb988855be93bc8c58f",3
+"[kreier/T100] Set theme jekyll-theme-cayman","https://github.com/kreier/T100/commit/b2d9110fd1b9d4a16b37655cc0ff7e854e4f5d80",5
+"[kreier/T100] include code from 2019-11-11","https://github.com/kreier/T100/commit/e281e888a68506ae15817f99983a6dda06f7f75b",6
+"[kreier/T300] proposed upgrades","https://github.com/kreier/T300/commit/e2388e7e53ab71d21349935b27913f6be64f09fc",2
+"[kreier/T300] Create sweep1.ino","https://github.com/kreier/T300/commit/9a6942072573c26ba21743359d193d7a035ecfa2",3
+"[kreier/kreier.github.io] Update README.md","https://github.com/kreier/kreier.github.io/commit/45210d4644bf555dd13f74358bb7e74bc01109c9",3
+"[kreier/kreier.github.io] Add files via upload","https://github.com/kreier/kreier.github.io/commit/a44eea2069468e1e11b3fd0ad3db4778cfc214ba",4
+"[kreier/kreier.github.io] updated pictures","https://github.com/kreier/kreier.github.io/commit/7c8fcf67b47a167900195f66f4d0142f9003574f",2
+"[kreier/kreier.github.io] Create README.md","https://github.com/kreier/kreier.github.io/commit/d6f09bf6360dc5bc3b1f6a3a2d08316976a691ea",3
+"[kreier/remote] Update and rename readme.md to README.md","https://github.com/kreier/remote/commit/2989cfac915185c4d9133a6020ab6f915678890a",8
+"[kreier/T300] Set theme jekyll-theme-cayman","https://github.com/kreier/T300/commit/14ebe230e2f40dbceddcd75e066809064fed6176",5
+"[kreier/T300] Create README.md","https://github.com/kreier/T300/commit/5e619a54b0bc1ebaba5004fde74bb01922158843",3
+"[kreier/T300] Update and rename readme.md to README.md","https://github.com/kreier/T300/commit/de61002cedf755ee5f587467dd11de09f7777919",8
+"[kreier/T300] pins defined as constants","https://github.com/kreier/T300/commit/d3056ad0646f6acb5eba5d1ccb98b624296d3d4b",4
+"[kreier/T300] Create test_simple1.ino","https://github.com/kreier/T300/commit/6af9e0d3aaa1967565d3cd6b618de012cb971062",3
+"[kreier/asa] name and declaration refined","https://github.com/kreier/asa/commit/13af9439955ccc7693c066eb5b7dc429a9e9f611",4
+"[kreier/T300] Basic outline and history","https://github.com/kreier/T300/commit/6acde6cddd0fe4fc56bb62353ee5b454190201f0",4
+"[kreier/T300] Initial commit","https://github.com/kreier/T300/commit/f289fd3f44bec2e4b9a97325d6b14288ec340861",2
+"[kreier/impact] 2019-11-15","https://github.com/kreier/impact/commit/4809291af9e5f6bd291705d20242672b0ea447f6",3
+"[kreier/impact] Inspired 2019-11-15","https://github.com/kreier/impact/commit/81fc8ed423f122741f44e6ea3242899b6bba7b04",4
+"[kreier/impact] Initial commit","https://github.com/kreier/impact/commit/2ae99f61690357f21f7ad79fadcf672082dbbabd",2
+"[kreier/asa] Update _config.yml","https://github.com/kreier/asa/commit/0b7aa571a3c8fdda32dad0f9e53be1b852f8440e",3
+"[kreier/asa] Update _config.yml","https://github.com/kreier/asa/commit/77cf31dedc3c39bd0e8c92ccd202d2e8802a1562",3
+"[kreier/407B] Update _config.yml","https://github.com/kreier/407B/commit/dcc977852def53f7881bbd0378dcce3210e5d415",3
+"[kreier/ar65view] Set theme jekyll-theme-cayman","https://github.com/kreier/ar65view/commit/ceb03752fe33815ab433c26e67ea34430e6f736d",5
+"[kreier/T100] Set theme jekyll-theme-slate","https://github.com/kreier/T100/commit/5ac0ae2eac1180ddbf9124d80ce9d9b06667666f",5
+"[kreier/407B] Set theme jekyll-theme-slate","https://github.com/kreier/407B/commit/b128703175b5305303cce6188decd9ad7c18ab9f",5
+"[kreier/remote] vision expanded","https://github.com/kreier/remote/commit/bec7ccb1c98a92727011a556474cc25a3542ff8d",2
+"[kreier/remote] basic files and framework","https://github.com/kreier/remote/commit/6724317eaa950c740ad7155275935d6ed676fd58",4
+"[kreier/remote] inspired by Danila Loginov","https://github.com/kreier/remote/commit/c4a2fca38d91079d1a6cb7c6e163036803b34eb2",4
+"[kreier/remote] initial commit","https://github.com/kreier/remote/commit/ea0147613a65f7d6096a86c314c628716eef2891",2
+"[kreier/remote] Initial commit","https://github.com/kreier/remote/commit/465a33f0c424669c28a7d353237753d6b7e7d3f7",2
+"[kreier/asa] 2019-10-21 led blink if income","https://github.com/kreier/asa/commit/b0ec5507c15b6d5c14985faeacb8c0e0281510ed",7
+"[kreier/asa] 2019-10-21","https://github.com/kreier/asa/commit/d130fc180243d38e84086bca3daaec67f5008381",3
+"[kreier/asa] Print BLE serial to 1602","https://github.com/kreier/asa/commit/ceed7c189807a391eb75534aa9a1c88a522fda76",5
+"[kreier/aqi] DHT sensors","https://github.com/kreier/aqi/commit/6fdd41b7b2f4c6f1b736cb36ad8f7de2d684ad3b",2
+"[kreier/aqi] DHT22 links","https://github.com/kreier/aqi/commit/f30cfca431cc83fbfa43e5f9ac450d5518c3f9f0",2
+"[kreier/kreier.github.io] robot image added","https://github.com/kreier/kreier.github.io/commit/8aa72d7df10de3e712b93adfc28e703477e723c6",3
+"[kreier/kreier.github.io] some projects and links","https://github.com/kreier/kreier.github.io/commit/abd36b093a78360ef06775d31b16bffba02ba891",4
+"[kreier/kreier.github.io] Set theme jekyll-theme-cayman","https://github.com/kreier/kreier.github.io/commit/ba61d50c65c2e50121f3ef1b9cc958a4eccf08e1",5
+"[kreier/T100] pins and BLE updated","https://github.com/kreier/T100/commit/8eca7d6717b76705579b42ba4f3b9d11486d1de0",4
+"[kreier/T100] with BLE and pin A0 (14)","https://github.com/kreier/T100/commit/ac0811d04ea5547dce05f5a5170ce301e168d1d2",6
+"[kreier/T100] 2018-11-18","https://github.com/kreier/T100/commit/e32d79053888e3c4bdbe49669833dd5baeafbb9b",3
+"[kreier/T100] original November 2018","https://github.com/kreier/T100/commit/966444453ff052a42d4e5e900bb39028bc6359e3",3
+"[kreier/T100] software update","https://github.com/kreier/T100/commit/4c8a74373e10466f5bfbf22bcd4acbbf5af42125",2
+"[kreier/aqi] Set theme jekyll-theme-slate","https://github.com/kreier/aqi/commit/11a11ac30d41f975f5f536110b69801dfa146262",5
+"[kreier/kreier.github.io] first cange","https://github.com/kreier/kreier.github.io/commit/1a512ce4dc849031dcda807cacd2e840f5a4e8dd",2
+"[kreier/kreier.github.io] Initial commit","https://github.com/kreier/kreier.github.io/commit/394af2de5b1206362af0eee37921f783b8a71e5e",2
+"[kreier/asa] Set theme jekyll-theme-slate","https://github.com/kreier/asa/commit/e8913750197fcbda77c5f6b338faadc8a1684f21",5
+"[kreier/asa] remote with servo, ultrasonic and acoustic feedback","https://github.com/kreier/asa/commit/627a1cef7fbb363386ea8fbeffba8faeffbe784a",7
+"[kreier/T100] software and key layout","https://github.com/kreier/T100/commit/afe78a542778f25cb71297088b0fb7e06e4d17a4",4
+"[kreier/T100] Update readme.md","https://github.com/kreier/T100/commit/e925425163b0d1986785f7fe4d04afe3811b06d9",3
+"[kreier/asa] new servo and ultrasonic","https://github.com/kreier/asa/commit/a6da1d8de75a02509fa2066ebcba1f743284a53f",4
+"[kreier/asa] with servo and ultrasonic","https://github.com/kreier/asa/commit/9a71ba2a723794702379d0b3baa7ba80095e1872",4
+"[kreier/asa] correct calculate uptime","https://github.com/kreier/asa/commit/8f784539eb3181973b8c6e1f6c3f84bf6b7c9757",3
+"[kreier/asa] logo","https://github.com/kreier/asa/commit/f2f4084dce61ae804d6ecb321f57b8029ed98540",1
+"[kreier/asa] updated pin assignment bluetooth","https://github.com/kreier/asa/commit/7434401ce606c817247c78d2acab8ea01b60e444",4
+"[kreier/asa] just sweep 30 to 150 degrees, wait at 90","https://github.com/kreier/asa/commit/cdbdf5058b052b197c79ae026930ec52a2281035",9
+"[kreier/asa] ultrasonic on servo created","https://github.com/kreier/asa/commit/134a5d3e415ddcf583d704ad397e857c736cf34c",4
+"[kreier/aqi] sensor table added","https://github.com/kreier/aqi/commit/1b2d18c60b5b1c0a411ab3625b4e33c3227e5274",3
+"[kreier/aqi] list of sensors 2019-11","https://github.com/kreier/aqi/commit/b1358781d6810f9045d4b98b4be788b97ff1938b",5
+"[kreier/aqi] sensor list updated","https://github.com/kreier/aqi/commit/585cdfee6a8d532bb61c643de467cafe4439e87d",3
+"[kreier/aqi] created 2019-10-15","https://github.com/kreier/aqi/commit/901025ba795ddd1a8db568ac592aeca01425ef57",4
+"[kreier/asa] software iOS and Android","https://github.com/kreier/asa/commit/17868dbffdc05070792be46c8da26685e3590265",4
+"[kreier/aqi] export from kaggle","https://github.com/kreier/aqi/commit/72722f62afaac39001d56671bf98ad2f1a492065",3
+"[kreier/aqi] Update readme.md","https://github.com/kreier/aqi/commit/4436b60ee7cb0ef682f9d162abf9aeb68e4dba47",3
+"[kreier/aqi] Create analyze2018-1.py","https://github.com/kreier/aqi/commit/6fb26488964642f3985415734b8090d1b2a4b9de",4
+"[kreier/asa] to be used with BLEJoystick","https://github.com/kreier/asa/commit/0b5252f53f6cca6661638869e91f641cc7a4b950",5
+"[kreier/407B] function to return string with uptime","https://github.com/kreier/407B/commit/fde0989a59b217e16c04296541bc2d3816cbb283",6
+"[kreier/407B] rollover in comparison (2 unsigned long) fixed","https://github.com/kreier/407B/commit/f984dac8ce27bae8a4bf493c9fe1d47c1467698e",7
+"[kreier/407B] int overflow minutes correction","https://github.com/kreier/407B/commit/f50efe3165c1ac1a684f7d179b66057b7cd06de5",4
+"[kreier/aqi] map HCM linked","https://github.com/kreier/aqi/commit/b731d47e75ac7b5ee09397df978208faac55c532",3
+"[kreier/aqi] map view October 17th, 2019","https://github.com/kreier/aqi/commit/758fe36adbb3d70998e3bec35b5f413e53ca4bf1",5
+"[kreier/aqi] compare PM2.5 to AQI in China and US","https://github.com/kreier/aqi/commit/20fdc1cd1b44e6298d1fb260af0df668e8931d97",9
+"[kreier/asa] Delete bluetooth-robot_iOS.ino","https://github.com/kreier/asa/commit/bcf9ebf567439d35489b5f40b23c01fb99f29227",4
+"[kreier/asa] to be used with BitBlue","https://github.com/kreier/asa/commit/d4ed544171385f4f403cdb5b771f3938da03f9bf",5
+"[kreier/asa] to be used with BitBlue","https://github.com/kreier/asa/commit/a9d73a21d22e7cda2e2550737a189ffdd08dc7fe",5
+"[kreier/asa] Create readme.md","https://github.com/kreier/asa/commit/afd26d93680a41c2d85eb2afba7f1d66ee0eba60",3
+"[kreier/407B] minutes overrun bug fixed in tuptime","https://github.com/kreier/407B/commit/676bc63d1ee5b6e04f0d76c18b1e51fbb9c77b99",6
+"[kreier/407B] ultrasonic distance and IR proximity with uptime counter","https://github.com/kreier/407B/commit/68697c32b1d8c544d8432f924002dd8c8e448bac",8
+"[kreier/407B] sketch 2019-10-25 with german comments - unfinished","https://github.com/kreier/407B/commit/748e433eb54b0556f93d8c6fe0da86118c11a40d",8
+"[kreier/407B] Sketch from 2019-10-23","https://github.com/kreier/407B/commit/ceefbdd664f0c4942fd0579df4e544241827da2e",5
+"[kreier/407B] new example","https://github.com/kreier/407B/commit/e5ac62dbedc59194e1d565486c07f326dcd129ab",2
+"[kreier/407B] Create readme.md","https://github.com/kreier/407B/commit/7841fd8b1c973ab91930354284fa89f7e61c9e0d",3
+"[kreier/asa] BLE remote controller software added","https://github.com/kreier/asa/commit/5d7cb046dbb4e76381c18d5355a07a0ff33ab7df",5
+"[kreier/rfid] bug fix progress bar and nonworking .flush()","https://github.com/kreier/rfid/commit/2cf3ea23ce202a6f5117cb7b8667e4b0fb582ba4",7
+"[kreier/407B] .flush() does not work and minor fixes","https://github.com/kreier/407B/commit/708639409d40ce62d004310cc95a6cc7ea7e6817",7
+"[kreier/407B] Add files via upload","https://github.com/kreier/407B/commit/fd858ae6e9352243592d1ee4237c8792082d510b",4
+"[kreier/aqi] infoboard for students","https://github.com/kreier/aqi/commit/e049e27dbb98c5fc04abc63f1a2383872386651e",3
+"[kreier/aqi] overview and conversion of units","https://github.com/kreier/aqi/commit/e8930100d50e5330f448ecfe8362b58bb18f6289",5
+"[kreier/asa] Instruction to successful BT remote control","https://github.com/kreier/asa/commit/43c3591152d42ed78b9f9b910a145e8e6ff0c73b",6
+"[kreier/asa] BT controlled robot via with 3 speeds","https://github.com/kreier/asa/commit/afb5c07c90ca68e0d755e58c3584a9e93ce6553f",7
+"[kreier/asa] analogWrite(128) is 50%","https://github.com/kreier/asa/commit/7d817e86e1c1154bd75829c0b798c273b7a1b2c6",4
+"[kreier/asa] fixed - works with pin 8 on Leonardo and HC-05","https://github.com/kreier/asa/commit/34b5a92b3051b2794e7fdc43d12d82d4e64e260a",10
+"[kreier/asa] SoftwareSerial needs pin 8","https://github.com/kreier/asa/commit/304dd60be18a0cfedab4b3e90e597376a88b4cdd",4
+"[kreier/asa] works with HC-05 and Arduino Uno, not Leonardo ...","https://github.com/kreier/asa/commit/709fa31f9111f4be9b2ff612491fa4fb2448cf3d",9
+"[kreier/asa] not yet working with Leonardo","https://github.com/kreier/asa/commit/e2b3847276e7a89b5fc2c94e71890a539362646a",5
+"[kreier/asa] max speed only 50% (128)","https://github.com/kreier/asa/commit/cbb5ca71d1a399fc123af138012a8a32576f65c8",5
+"[kreier/asa] pin assignment updated","https://github.com/kreier/asa/commit/5217dc7a2f63d558df1af25fac9dab9e5dc1f517",3
+"[kreier/asa] Pin assignment","https://github.com/kreier/asa/commit/1226a2fe5bc2dfce6b92d41a212ca53bff6e1d1e",2
+"[kreier/ultrasonic] Update README.md","https://github.com/kreier/ultrasonic/commit/5d94dfe8de9bcd0dc58b3cafe50e6bf8960bc88d",3
+"[kreier/ultrasonic] restart after 2016-01-26","https://github.com/kreier/ultrasonic/commit/676dbd0acf8f3a630fbacf25cdce016e24fe1da9",5
+"[kreier/ultrasonic] it works!","https://github.com/kreier/ultrasonic/commit/67767b4c2e7c23bd862e5a4a25391be75b93cffa",2
+"[kreier/ultrasonic] created 2016-01-26","https://github.com/kreier/ultrasonic/commit/846aede3f17c42162df477fe5addaf1aae90187b",4
+"[kreier/ultrasonic] created 2016-01-26","https://github.com/kreier/ultrasonic/commit/47dbf7ed3654eb0573c4f30b2e75ecc1cf4f4ec5",4
+"[kreier/ultrasonic] created 2017-11-20","https://github.com/kreier/ultrasonic/commit/9ac4e0cd5c260c95d0b7bf2b10b53931b35c8202",4
+"[kreier/ultrasonic] created 2015-10-21","https://github.com/kreier/ultrasonic/commit/0c5e05bdda5ea5bc0cd65ead668cecb1cf5a449d",4
+"[kreier/ultrasonic] Create readme.md","https://github.com/kreier/ultrasonic/commit/3d67adeceac0c08f5f7c59ac1c6b65d92a35cba3",3
+"[kreier/ultrasonic] Initial commit","https://github.com/kreier/ultrasonic/commit/802570bbf2d57b00d727c0d369285868e49901fb",2
+"[kreier/aqi] Create readme.md","https://github.com/kreier/aqi/commit/ef97f6e1233aaaeb3e7efecb0a623b7b0cf56155",3
+"[kreier/407B] sensors and maps integraded","https://github.com/kreier/407B/commit/1c21cf8953e097eca2ad29239f04a45bb040b746",4
+"[kreier/407B] Add files via upload","https://github.com/kreier/407B/commit/54f21473a158c2f39ef117652ca7e5cc570bb1ce",4
+"[kreier/407B] Create readme.md","https://github.com/kreier/407B/commit/79cefc3d0f19498943e195c6f6033f63957ca955",3
+"[kreier/407B] sensors integraded","https://github.com/kreier/407B/commit/6930da99c5822f2505132779b25e58a0c276ee0f",2
+"[kreier/407B] Create readme.md","https://github.com/kreier/407B/commit/a796d36b1c59ad6df0962f1d0e969fe2bfe2eb61",3
+"[kreier/407B] progress bar and uptime","https://github.com/kreier/407B/commit/965950dc2b26bebbdbfca06f5693ec10e364a1ba",4
+"[kreier/rfid] progress bar added","https://github.com/kreier/rfid/commit/5a3786d9c5548ef0e8164d9712123e9168aeb722",3
+"[kreier/407B] created 2016-01-26 for NaWi AG at Eichenschule Scheessel","https://github.com/kreier/407B/commit/a747a433a875a93e8f39332a7d3998580ea96a4d",10
+"[kreier/407B] created 2016-01-26 in Hofkoh for NaWi-AG in grade 4 & 5 at the Eichenschule","https://github.com/kreier/407B/commit/0b75d533b7ca888bb04ae571f71d71e9bae2dcdf",16
+"[kreier/aqi] Create readme.md","https://github.com/kreier/aqi/commit/35cbae0937df06e5f4a98935ecd343caf1d9d5e4",3
+"[kreier/aqi] Add files via upload","https://github.com/kreier/aqi/commit/363dc6d3571b8f0b63599ac1fba91e2a230d4f9f",4
+"[kreier/aqi] Create readme.md","https://github.com/kreier/aqi/commit/9810a24ac65e4d274bebc4c73e16ca3dca03f6db",3
+"[kreier/aqi] included QR code as picture","https://github.com/kreier/aqi/commit/d90400bd7758835b0cfaf3efff169315ddbece64",5
+"[kreier/aqi] Add files via upload","https://github.com/kreier/aqi/commit/c3ef6d46311e3ceb3caa34a522f454be301dbf71",4
+"[kreier/aqi] map data included","https://github.com/kreier/aqi/commit/63fb74a48b9a1d47362937b1e578d93c72e3247d",3
+"[kreier/aqi] Update readme.md","https://github.com/kreier/aqi/commit/2673a7cb8d2aebc194d57cb9a90921c79bb12c06",3
+"[kreier/aqi] Add files via upload","https://github.com/kreier/aqi/commit/891fc0e9065dc7ce28e8ac146e5b72b25f6a4bdb",4
+"[kreier/aqi] Add files via upload","https://github.com/kreier/aqi/commit/dbb7c23c7b46176a7cffe340849e95adef546580",4
+"[kreier/aqi] Add files via upload","https://github.com/kreier/aqi/commit/5cf360bc7006b2e44dc65b0efbb8164ed3e6d714",4
+"[kreier/aqi] Update readme.md","https://github.com/kreier/aqi/commit/fab25d96f048fd46804860431014d418bde8a468",3
+"[kreier/aqi] Create readme.md","https://github.com/kreier/aqi/commit/727e7eb08188d27e2c4e701ecef4356842e0803b",3
+"[kreier/aqi] Update README.md","https://github.com/kreier/aqi/commit/0bc515cc9fd8ecb6cac796c56567edb5115023a9",3
+"[kreier/aqi] three sensors added","https://github.com/kreier/aqi/commit/eb27e85f5f26b48d74021415b16213b062b0ef91",3
+"[kreier/aqi] programmed in 2015","https://github.com/kreier/aqi/commit/31ca2a0d58e565d9ca904d349a9f2092f927c8fc",3
+"[kreier/aqi] Create readme.md","https://github.com/kreier/aqi/commit/f1ea45d3a105d856c3e9853a3d4ccbd5e13ce898",3
+"[kreier/aqi] updated DIY kit","https://github.com/kreier/aqi/commit/f5321949acf5346006f64f3dd95e30bd5898ff82",3
+"[kreier/aqi] database sensor updated","https://github.com/kreier/aqi/commit/0614acc64291370501b371bd94fca746097055f0",3
+"[kreier/407B] Create readme.md","https://github.com/kreier/407B/commit/c2bbc11fa8c84d626fc288693e0780cd391855bb",3
+"[kreier/rfid] renamed and updated","https://github.com/kreier/rfid/commit/cb8a498b3f28a4d7e65764a6fb2ac6715db47078",3
+"[kreier/aqi] Update README.md","https://github.com/kreier/aqi/commit/33073a7da56b7495f6dce7fdc7ea5350983d7030",3
+"[kreier/aqi] Initial commit","https://github.com/kreier/aqi/commit/c749feb663e8c358eb7cb60ca2edbc2ba295eae4",2
+"[kreier/407B] Add files via upload","https://github.com/kreier/407B/commit/dce48a1d9d0e835775abe3baf150a34897564da3",4
+"[kreier/407B] Create readme.md","https://github.com/kreier/407B/commit/9f63ca85b15e7220e19e363f35da00f0e0c7a935",3
+"[kreier/407B] image links fixed","https://github.com/kreier/407B/commit/59baf9fd6f2a8145faa18917753b452b5a735738",3
+"[kreier/407B] image links corrected","https://github.com/kreier/407B/commit/7b19d680fca9538af48df377cea114a62446e1d1",3
+"[kreier/407B] Create readme.md","https://github.com/kreier/407B/commit/db420af4387ce30a11280fa002635a2ce92c6236",3
+"[kreier/407B] Luke and Katie alias added","https://github.com/kreier/407B/commit/cfa6331638cb900fb7c52f6ea3820a56e0a75997",5
+"[kreier/407B] Update README.md","https://github.com/kreier/407B/commit/30915a385cfb16bdb5453ca60180c405b68f3378",3
+"[kreier/407B] Create nametag_aisvn.ino","https://github.com/kreier/407B/commit/7d9de9aad284c3fed73912ba39f2f8309ba8b6e3",3
+"[kreier/407B] Update README.md","https://github.com/kreier/407B/commit/1d15b8e380cc4ce2f47cb5f13ee10d418aa072bc",3
+"[kreier/407B] Initial commit","https://github.com/kreier/407B/commit/4e52446fd372cb949e582132ca6375aaff981af7",2
+"[kreier/rfid] added Luke and Katie","https://github.com/kreier/rfid/commit/30dba910dd36cad4261bd8e466486e6b0b90cdfb",4
+"[kreier/rfid] Add files via upload","https://github.com/kreier/rfid/commit/1ece808ec9e3905eacd134683820f582e04eb9e0",4
+"[kreier/rfid] smaller pictures, better arranged","https://github.com/kreier/rfid/commit/8488b63a10dd75f78db99a7837f878aa030a5dd6",4
+"[kreier/rfid] Update README.md","https://github.com/kreier/rfid/commit/1c55960cc2f8d4d2ead66ce3d10a422888628c31",3
+"[kreier/rfid] Update README.md","https://github.com/kreier/rfid/commit/82be6b0673a851c055099c4e14313f8f2b0dcc67",3
+"[kreier/rfid] Update readme.md","https://github.com/kreier/rfid/commit/e974c5ffa4080aaf92a357f259b3f0351cafe913",3
+"[kreier/rfid] Add files via upload","https://github.com/kreier/rfid/commit/a3d1b6dcbdcca0bea9b04d07bb2d2cd93d533425",4
+"[kreier/rfid] Update readme.md","https://github.com/kreier/rfid/commit/a445d19c9e2b4eb614c36f7c81a72fb63a57c351",3
+"[kreier/rfid] Add files via upload","https://github.com/kreier/rfid/commit/2f9e8b82873947b2033b3ce785bfc1876678ff5c",4
+"[kreier/rfid] Add files via upload","https://github.com/kreier/rfid/commit/cc486f625901bf8a4135b62d085104e8aafbcccd",4
+"[kreier/rfid] Update readme.md","https://github.com/kreier/rfid/commit/a4fc7f577f62a092f3e03d0af8f009a531dcb136",3
+"[kreier/asa] move to motorshield folder","https://github.com/kreier/asa/commit/fbab7079713c1da9374ad066b531a3d2f68eccd9",4
+"[kreier/asa] renamed folder","https://github.com/kreier/asa/commit/21db8a610e414b18588abbcbeca576c1473a2c0d",2
+"[kreier/asa] Add files via upload","https://github.com/kreier/asa/commit/a414f1872b2969b7c52c389748efd365470bab11",4
+"[kreier/asa] Update readme.md","https://github.com/kreier/asa/commit/25614f99cac47afb746ce05cad2a46df3273f373",3
+"[kreier/T100] video link fixed","https://github.com/kreier/T100/commit/d55ac11eca31c30bb6961df74b8f63550370fc06",3
+"[kreier/T100] video linked","https://github.com/kreier/T100/commit/e27c60bc05829ee1205f558152d6bf25c7ad486c",2
+"[kreier/rfid] Update and rename info.md to readme.md","https://github.com/kreier/rfid/commit/01c68fa1428878fa17a3fea72591c202185f97ee",8
+"[kreier/rfid] included more pictures","https://github.com/kreier/rfid/commit/8e4a95c597ad72ea8f8b6775b08150ad5fb6dbaf",3
+"[kreier/T100] Update readme.md","https://github.com/kreier/T100/commit/1fbd8010756f38e2a6326c4a02b22c7ed654d2be",3
+"[kreier/T100] rumble and analog disabled for improved stability","https://github.com/kreier/T100/commit/c9f3967b48867e059487bb955bbb32ae189ee651",7
+"[kreier/T100] extension updated","https://github.com/kreier/T100/commit/2ab5c1b1c269bd764116360c3365d2d02ea68dff",2
+"[kreier/T100] Add files via upload","https://github.com/kreier/T100/commit/ee722989a4a26b630b2e16d09b38fb00c9634c2e",4
+"[kreier/T100] Create readme.md","https://github.com/kreier/T100/commit/f1ec59c110339046ce2d4643a4ea803686c53acd",3
+"[kreier/T100] Create motortest_simple","https://github.com/kreier/T100/commit/2fa63c88d3b5364d2c3212c1920d35283724a595",2
+"[kreier/asa] Add files via upload","https://github.com/kreier/asa/commit/3c73892e7cd4c13c0e115d08f1f319af53ac8888",4
+"[kreier/asa] pins defined, CH340 update","https://github.com/kreier/asa/commit/f3abf2bcc8f4ce1902109520da27662d2356af28",4
+"[kreier/asa] Update readme.md","https://github.com/kreier/asa/commit/947c004aaed92454e39da3211feb8b962cf8ced6",3
+"[kreier/asa] Update and rename README.md to readme.md","https://github.com/kreier/asa/commit/46edcdaa5759a88e592c604caf81bdc49f359cec",8
+"[kreier/asa] Add files via upload","https://github.com/kreier/asa/commit/442504498053abd5bc0aee06c9c75a6e9f05821c",4
+"[kreier/asa] indicate PWM pins","https://github.com/kreier/asa/commit/ea17c8eeaef69a01ebad178b1855a2ba1e157541",3
+"[kreier/asa] Update and rename README.md to readme.md","https://github.com/kreier/asa/commit/882c5a8aa3a177239ecb00c0e68ba4c1df04ca00",8
+"[kreier/asa] Update README.md","https://github.com/kreier/asa/commit/61b120fe3c28c8aa2fa2c1fd316120c720d0edd2",3
+"[kreier/asa] Add files via upload","https://github.com/kreier/asa/commit/df7e43fea76e0a9693b92da8269965d9563a9412",4
+"[kreier/asa] new pin assignment","https://github.com/kreier/asa/commit/b855a680d095e223dd41ef551ef8b4ca58bad473",3
+"[kreier/asa] another working sample","https://github.com/kreier/asa/commit/69310ed71b5dd69691c883d58e38725ee89dccc0",3
+"[kreier/asa] Add files via upload","https://github.com/kreier/asa/commit/05d92a4c723c157309b581456c4fdd600170b82d",4
+"[kreier/asa] included image","https://github.com/kreier/asa/commit/901921259b9febce3c9c5fbd678d7f4f8ff84318",2
+"[kreier/asa] Update README.md","https://github.com/kreier/asa/commit/4f84ba60382681aaf4a9f9d463dd3780324d9c55",3
+"[kreier/asa] pins, does not work with Leonardo.","https://github.com/kreier/asa/commit/8421a707d07b11e1e1fa63e3e0769f1900981c1b",6
+"[kreier/asa] Create PS2X-example.ino","https://github.com/kreier/asa/commit/4c3fba33b2285a6a148b0ed2997e35e84fec25de",4
+"[kreier/asa] sources for Raspberry Pi included.","https://github.com/kreier/asa/commit/dd94e4d51bed23c21964167d67505df3d7a6441e",5
+"[kreier/asa] Update README.md","https://github.com/kreier/asa/commit/36d575406c3b56f17cb95932b177aef509039646",3
+"[kreier/asa] Update README.md","https://github.com/kreier/asa/commit/cdcc1dc24560e3f3052a8815438493397559a17f",3
+"[kreier/asa] Add files via upload","https://github.com/kreier/asa/commit/7b9f146d120dc3b18d4d584d5c9b5d8093c508e4",4
+"[kreier/asa] Create README.md","https://github.com/kreier/asa/commit/d60104f220565bdb602b8167b19c681ec2421d46",3
+"[kreier/asa] Update buzzer_demo","https://github.com/kreier/asa/commit/f3d1f2fd790e0bbb346928f84aa206fcb50d400e",2
+"[kreier/asa] Create README.md","https://github.com/kreier/asa/commit/bb549a6775afe27b16a36c6a71fdf3714ab55e22",3
+"[kreier/asa] Create buzzer_demo","https://github.com/kreier/asa/commit/085e86e64ee331d3e01628ec319491aff02be60a",2
+"[kreier/asa] Update motorshield_1.ino","https://github.com/kreier/asa/commit/a7d4332e615e28dbf991e0361db9617f3a1f0822",3
+"[kreier/asa] Update readme.md","https://github.com/kreier/asa/commit/ce2a94bbd15c0dfce7357f4c18454cf1674df0be",3
+"[kreier/asa] Update and rename motor shield_1.ino to motorshield_1.ino","https://github.com/kreier/asa/commit/e27a9d9e1e628b6307ea701a2b65607da4c9b085",9
+"[kreier/asa] Create readme.md","https://github.com/kreier/asa/commit/5e5ff67dbb28f63cf4d3f5c2a2f6c3414e5a4985",3
+"[kreier/asa] Create motor shield_1.ino","https://github.com/kreier/asa/commit/dea96c9312d0f912c481cd7b89c2a3c72b6d66e8",4
+"[kreier/asa] sample code motor shield","https://github.com/kreier/asa/commit/f8c51bb41dc2c7162093f04b333c292976ffb59e",4
+"[kreier/asa] Add files via upload","https://github.com/kreier/asa/commit/c049be5860c2ebd874b53e935bc2feaa57a3801b",4
+"[kreier/asa] Add files via upload","https://github.com/kreier/asa/commit/7368bbd7a26b87a48911e94d80bacdbb6d9c60f9",4
+"[kreier/asa] Create README.md","https://github.com/kreier/asa/commit/61666abde6b79efdca5e67bc1e2421c490f55995",3
+"[kreier/asa] Update README.md","https://github.com/kreier/asa/commit/c0b528144fc1b0eb9f21f96db1b99a0752378854",3
+"[kreier/asa] Initial commit","https://github.com/kreier/asa/commit/34d9ae85999a97c8ebb379949a6f0c67cffac491",2
+"[kreier/T100] Add files via upload","https://github.com/kreier/T100/commit/192129cb4f83c9cf0e5dce63acbb14772ee0e031",4
+"[kreier/T100] Add files via upload","https://github.com/kreier/T100/commit/5259d7188c37960454ed19eb17cb729d8a849799",4
+"[kreier/T100] timelapse video included","https://github.com/kreier/T100/commit/ab9a5a9f73286c1fe5a9b01963509d87d608057f",3
+"[kreier/ESP8266] Create install.php","https://github.com/kreier/ESP8266/commit/17884f17c84657e85468b1a2ceac008921f16883",3
+"[kreier/ESP8266] Create http_post.ino","https://github.com/kreier/ESP8266/commit/1cf06c20ea2b481fded302728e677c1c278046d2",3
+"[kreier/ESP8266] Create README.md","https://github.com/kreier/ESP8266/commit/a39239eab1379903e80dfa5b8b71f941070ea76c",3
+"[kreier/ESP8266] Add files via upload","https://github.com/kreier/ESP8266/commit/279d7c6a1eaa2772fbedfc227352a8c75d6346bf",4
+"[kreier/ESP8266] Update README.md","https://github.com/kreier/ESP8266/commit/5a068579a158da290c5bc9797c9ceca04098f5db",3
+"[kreier/ESP8266] Create README.md","https://github.com/kreier/ESP8266/commit/35738d4e1bd58ae3acae9619f1c201a5d2e6a69d",3
+"[kreier/ESP8266] Initial commit","https://github.com/kreier/ESP8266/commit/87b1b5444bc9856cf89da2e4ca7ac63978ae8a69",2
+"[kreier/T200] works with DOIT ESP32 DEVKIT v1","https://github.com/kreier/T200/commit/e1bc4d7c7bcf17f16e518eb16fc7e2e153df30fd",6
+"[kreier/T200] Delete IMG_20190227_192213.jpg","https://github.com/kreier/T200/commit/43c08f041867808b53bf89cb1b84ce3dd57fc693",3
+"[kreier/T200] some Arduino Uno, ESP8266 and ESP32","https://github.com/kreier/T200/commit/9254686a6dbba33ae85ab64c3ba2ff536be655db",6
+"[kreier/ESP32] Blue LED indicates BLE connection, motor values calculated","https://github.com/kreier/ESP32/commit/2a91fe2062f3f7fb4423c671c934e52199f377ea",8
+"[kreier/ESP32] blinking LED indicates Bluetooth status, Motor values calculated","https://github.com/kreier/ESP32/commit/ffa3587b36f6e6141766b5c3a486767ada37761e",8
+"[kreier/T200] comments updated, clutter removed","https://github.com/kreier/T200/commit/bc214159401f871133ed19259ebb9fd58b53ba9b",4
+"[kreier/T200] image link fixed","https://github.com/kreier/T200/commit/95d6030aa2851939aeb7a14652382dcb284f414b",3
+"[kreier/T200] move file","https://github.com/kreier/T200/commit/33e40156e387124085d2ef37d965009f4537d785",2
+"[kreier/T200] Create README.md","https://github.com/kreier/T200/commit/24a4fafddbbb994d23cd39c8c1ce01dd16d0c69a",3
+"[kreier/T100] Create readme.md","https://github.com/kreier/T100/commit/762761854b1e3a2b761f6c50fb9a50ddab87022f",3
+"[kreier/T200] Update README.md","https://github.com/kreier/T200/commit/cd352430851ae7bba147b80e093cc45cb63b60ca",3
+"[kreier/T200] bugfix, serial export","https://github.com/kreier/T200/commit/44863ad286b2b0e9ce0ccfd641d42a33857f7962",16
+"[kreier/T200] realigned pins, code completion, serial export","https://github.com/kreier/T200/commit/485e6333ae75e5c1a87a0ca234709b16e02bee0a",6
+"[kreier/T200] expanded","https://github.com/kreier/T200/commit/b929e8571ade422ef4849103d5ca7011e27276c5",1
+"[kreier/T200] Add files via upload","https://github.com/kreier/T200/commit/98b9776a7b8d1ffa8fa484b04929a31c4ecab68c",4
+"[kreier/T110] update regarding slow progress","https://github.com/kreier/T110/commit/679ca1a168ddbe6db5800b54d19eb56989c4f98c",4
+"[kreier/T100] updated link","https://github.com/kreier/T100/commit/da519018a9ec1e6c95122c829504fbb78d96cd3d",2
+"[kreier/T100] enhanced description of the project","https://github.com/kreier/T100/commit/36977c4951e27e6ce500de75ea2831aad6f3f574",5
+"[kreier/T80] Update README.md","https://github.com/kreier/T80/commit/cb78c1fdb26cf02913ab2b3030a4bde0fd9bc567",3
+"[kreier/T80] Short update","https://github.com/kreier/T80/commit/4ecf56705ed5600f1289888137dd5972b0e45c48",2
+"[kreier/ESP32] exports all 6 buttons and joystick values to the serial port","https://github.com/kreier/ESP32/commit/ca54986ea877b0a9ee706955c1a9ed5641778272",11
+"[kreier/ESP32] only 91 lines left from 113","https://github.com/kreier/ESP32/commit/d928eb2ff982e819d57748fb73eac18339affc97",6
+"[kreier/ESP32] Add files via upload","https://github.com/kreier/ESP32/commit/79748243ee76fa231165bbb12da986fb13dd745b",4
+"[kreier/ESP32] Rename GoBLE_reciever_1.0.ino to GoBLE_reciever_0.1.ino","https://github.com/kreier/ESP32/commit/f9bd598c13f56be7286a6c4bc25b7fd20f650302",8
+"[kreier/ESP32] Update README.md","https://github.com/kreier/ESP32/commit/f57eced1e91b7934c58bcbd78f5370f862a5b335",3
+"[kreier/ESP32] Update README.md","https://github.com/kreier/ESP32/commit/18d37912850eb8e85291811a8c6a7b93d1c2dc04",3
+"[kreier/ESP32] Add files via upload","https://github.com/kreier/ESP32/commit/68bdfe87044414266e8e29fd5f49183474cc6d79",4
+"[kreier/ESP32] Create README.md","https://github.com/kreier/ESP32/commit/90e99168de34a1ddd2d379008b216b41e7513563",3
+"[kreier/ESP32] Create GoBLE reciever.ino","https://github.com/kreier/ESP32/commit/920cafac31cb3f523f7c98e8e1fe195d07a9fcd7",4
+"[kreier/ESP32] Update README.md","https://github.com/kreier/ESP32/commit/5e84139095cefefbc4ce520718d2959d62632e4e",3
+"[kreier/ESP32] Update README.md","https://github.com/kreier/ESP32/commit/5a492b55543590e28069dd46d2e71274f2877ba9",3
+"[kreier/ESP32] Add files via upload","https://github.com/kreier/ESP32/commit/6b22cb25f5051808edb1c88c9df9f00f8dc7e678",4
+"[kreier/ESP32] Add files via upload","https://github.com/kreier/ESP32/commit/cefe68b59cfc648a323a34fc6c982559a5c19d5a",4
+"[kreier/ESP32] Add files via upload","https://github.com/kreier/ESP32/commit/4bd80814d0fc672194292c137e1e85a4ffb48bb1",4
+"[kreier/ESP32] Add files via upload","https://github.com/kreier/ESP32/commit/22c35393d127dc16a001466ddc97b1c57cdf0742",4
+"[kreier/ESP32] Delete info.md","https://github.com/kreier/ESP32/commit/5873a4e7ed01651a9bcd00763db5950f67750e3d",3
+"[kreier/ESP32] Add files via upload","https://github.com/kreier/ESP32/commit/2b5af976c602851c65b71a148994c75b8fddd644",4
+"[kreier/ESP32] Create README.md","https://github.com/kreier/ESP32/commit/7f40162c57c33043da6bfc8d3cf672821924a8ca",3
+"[kreier/ESP32] Create info.md","https://github.com/kreier/ESP32/commit/74835d23e2bd9a8224cc814d4446bc0f4aa812d9",3
+"[kreier/ESP32] included image","https://github.com/kreier/ESP32/commit/e2c21c4e4cf91a92cb987934b03c5f9a7730983c",2
+"[kreier/ESP32] two ESP32 working","https://github.com/kreier/ESP32/commit/966a5b2f263fed47aa71f118f523f47612d6e4f9",3
+"[kreier/ESP32] Update README.md","https://github.com/kreier/ESP32/commit/ce4489bbf58cae2eae1c8d748e6dc65692986f59",3
+"[kreier/ESP32] Initial commit","https://github.com/kreier/ESP32/commit/5aa9a8f7fa30f7ca40bbe374a6fecca13a4db56f",2
+"[kreier/T80] Add files via upload","https://github.com/kreier/T80/commit/44fb1cfb10a731675370fc135c8d41ffe454f25b",4
+"[kreier/T80] Update README.md","https://github.com/kreier/T80/commit/4bcf3648a71d08af890788b8844af068d1ceb36f",3
+"[kreier/T80] cropped smaller file","https://github.com/kreier/T80/commit/7e3bbc72c6f979c28cf9fad723f36e4545ce07e4",3
+"[kreier/T80] image included","https://github.com/kreier/T80/commit/5808aa42a580601a9acdf21231f15630475a2699",2
+"[kreier/T80] first successful build","https://github.com/kreier/T80/commit/695dd73d3e55de4293fff47140240a37023f9e69",3
+"[kreier/T80] motor driver L298N test","https://github.com/kreier/T80/commit/e70ae10599257310bb3c874eba0f7ac91c8871f3",4
+"[kreier/T80] Initial commit","https://github.com/kreier/T80/commit/aa55aa28cfebb009f9860eec92e2fd5b5e5289a8",2
+"[kreier/T200] Arduino Uni, ESP8266 and ESP32 boards","https://github.com/kreier/T200/commit/d78dd8a89c0c6cd8d398dabda32c7b42e259ae4b",6
+"[kreier/T100] username shortened to kreier","https://github.com/kreier/T100/commit/0e84236d55704b2979d315ead9c96a81a3a5cbb9",4
+"[kreier/T200] Add files via upload","https://github.com/kreier/T200/commit/1b01687b04d4ecb24417babcd14fad2693cea4d2",4
+"[kreier/T200] Update README.md","https://github.com/kreier/T200/commit/57b67cc220432e8555758badd269d1f2e38ba877",3
+"[kreier/T200] Initial commit","https://github.com/kreier/T200/commit/851e479bf60c6c4c6b69dca7945c4b3f9b43ea7f",2
+"[kreier/kreier.org-aqi] sensor list updated","https://github.com/kreier/kreier.org-aqi/commit/abc04669761aee62c3a5c3e5edbaaded2c4fd2ba",3
+"[kreier/kreier.org-aqi] index with 3 sensors updated","https://github.com/kreier/kreier.org-aqi/commit/00242cc8d8333a2b097e44e81908433bad6da602",5
+"[kreier/python2018] create 1 octave piano in jupyter","https://github.com/kreier/python2018/commit/8e06343bf18b78cb41ec27c57cccec329bad26f0",19
+"[kreier/python2018] Add files via upload","https://github.com/kreier/python2018/commit/f06d5b05b949d09ccde6588c39c019834c196007",4
+"[kreier/T100] Update T100.ino","https://github.com/kreier/T100/commit/e6bd3c200a4cc41937255bf290a44825e4f799f2",3
+"[kreier/python2018] Update README.md","https://github.com/kreier/python2018/commit/c6151f7ef7aa8d31ed605a359bbf07f152cdad8c",3
+"[kreier/python2018] Merge pull request #1 from matthiaskreier/add-license-1","https://github.com/kreier/python2018/commit/4b1db168180cbd354178f7c876fe04d587fa817e",11
+"[kreier/python2018] Create LICENSE","https://github.com/kreier/python2018/commit/b057d0fabe011b991c8b17b362c650fdb07685d2",2
+"[kreier/python2018] Update README.md","https://github.com/kreier/python2018/commit/8cc75a32033edbcfe7e1919840d40175c68a64c0",3
+"[kreier/python2018] Update readme.md","https://github.com/kreier/python2018/commit/4910a6e98490bdc729325aaa5b59eeeff6f195bc",3
+"[kreier/python2018] prime numbers to 1000","https://github.com/kreier/python2018/commit/ca86e364a8da400cdfa284626b3b2a474a08a7cb",4
+"[kreier/python2018] wrong file","https://github.com/kreier/python2018/commit/06e289d3f9cf0c014ccee9eb2c1344fbe3cf3670",2
+"[kreier/python2018] Add files via upload","https://github.com/kreier/python2018/commit/570125e8b0601a9920f97fc74f89d546d6ec9375",4
+"[kreier/python2018] Create readme.md","https://github.com/kreier/python2018/commit/ed7950d93e9bf792f511a30dce64522cd8ea8cfd",3
+"[kreier/python2018] Create hello-world.py","https://github.com/kreier/python2018/commit/cb0d209e1960139a83b38f044e8f94f3d04ed05c",4
+"[kreier/python2018] Initial commit","https://github.com/kreier/python2018/commit/2e43465760feabc2b3387b95bfd98e0c16cf3101",2
+"[kreier/rfid] Create readme.md","https://github.com/kreier/rfid/commit/fc45c059782aef831e88379cc4f062720291c328",3
+"[kreier/rfid] Create readme.md","https://github.com/kreier/rfid/commit/89a4a93d1be3c3d217de92ab3b59806dc9970a92",3
+"[kreier/rfid] Add files via upload","https://github.com/kreier/rfid/commit/bcf09069a260d097b2798078b72b8eb18787dd9c",4
+"[kreier/rfid] hd44780 driver, examples and documentation","https://github.com/kreier/rfid/commit/42cb449ea4a67f54d6713aa139674cd33b149a17",20
+"[kreier/rfid] wiki linked","https://github.com/kreier/rfid/commit/5ab8a2fbbe136c30e8e773f1888a18509f8e66db",2
+"[kreier/rfid] Update README.md","https://github.com/kreier/rfid/commit/a8515c8fbd88252604f3f1b981bf6dde43fbdc5b",3
+"[kreier/T100] Add files via upload","https://github.com/kreier/T100/commit/08d0899f577b13caa9441560ecbc075d4a099078",4
+"[kreier/rfid] hd44780 with I2C support uploaded","https://github.com/kreier/rfid/commit/929654cae5d7f8c74ac129111b812e0d726e4013",5
+"[kreier/rfid] Create info.md","https://github.com/kreier/rfid/commit/45318e9563a92ae05ac79e731e5496907f9a13d5",3
+"[kreier/T110] Update README.md","https://github.com/kreier/T110/commit/d96585bced796717ec0c730595761cc43fe833ef",3
+"[kreier/T110] Update README.md","https://github.com/kreier/T110/commit/f708a6bd954882edb244281ff70f15c788ae34e4",3
+"[kreier/rfid] Update README.md","https://github.com/kreier/rfid/commit/f0dc40fe45c4f2891ed5e5f5c84215cbe8a8465a",3
+"[kreier/T100] Add files via upload","https://github.com/kreier/T100/commit/7081a775f2cde7e48fc040c6fdfd3770877e6021",4
+"[kreier/T100] Create info.md","https://github.com/kreier/T100/commit/27ffb0c1302437dc9eed17a311432a54a5275d9e",3
+"[kreier/T110] Create T110.ino","https://github.com/kreier/T110/commit/e9e4e4e08e4fbf0a91f48685625d103b901140b8",3
+"[kreier/T110] Update README.md","https://github.com/kreier/T110/commit/e2a32d7f250c961142d5ff5bf6029eb0480c3125",3
+"[kreier/T110] Initial commit","https://github.com/kreier/T110/commit/3d3b41d3f9c09eca5f9a8c474f18fa9989b311e1",2
+"[kreier/rfid] Add files via upload","https://github.com/kreier/rfid/commit/d871b62d90afcc457eba0f47c5e21d13f63ff8b6",4
+"[kreier/rfid] Create info.md","https://github.com/kreier/rfid/commit/e69a7459650291419ae7edbd3c2802046bff7db5",3
+"[kreier/T100] Add files via upload","https://github.com/kreier/T100/commit/0ba73bbd6c7a71bfbbcdb1ea583c8106839ec060",4
+"[kreier/T100] Create info.md","https://github.com/kreier/T100/commit/7294ee5c18b44ef5d4b7b2f20db435ef9ec78981",3
+"[kreier/T100] Update README.md","https://github.com/kreier/T100/commit/72ab1f14d03ecb50312ab3f4349a504511882baa",3
+"[kreier/T100] robot image","https://github.com/kreier/T100/commit/79a169299c497790fcbde54b78ae8efc81ee4753",2
+"[kreier/T100] Update README.md","https://github.com/kreier/T100/commit/e3785003632a5d4009be51c0d4d437765752ac25",3
+"[kreier/rfid] working sample","https://github.com/kreier/rfid/commit/5534dfeb295f0c618b8a83ea17002075d8c5935e",2
+"[kreier/rfid] Create SimpleRFID125_1602","https://github.com/kreier/rfid/commit/efecbb1c0dadf2a67e3f83e9a6a72efff256fd2b",2
+"[kreier/rfid] read and serial output","https://github.com/kreier/rfid/commit/002d0c370d7d93d7096e432e85805d8b2181aeb7",4
+"[kreier/rfid] Initial commit","https://github.com/kreier/rfid/commit/1d94fa7c2574515caa3b69a5f43ec94805af011e",2
+"[kreier/T100] corrected comments","https://github.com/kreier/T100/commit/85bc7a366c06f12930d0f7565f7733585320592d",2
+"[kreier/T100] Rename T-100_v2.ino to T100.ino","https://github.com/kreier/T100/commit/66fa4c8cafb74525311494810af59dfd82732ed0",7
+"[kreier/T100] 2018-09-25","https://github.com/kreier/T100/commit/de2201668d26f2e148cd5412030f28ba91a058e4",3
+"[kreier/T100] Initial commit","https://github.com/kreier/T100/commit/ba0fa5cacb461d1c6602230bc21e7db9a9c5ac4e",2
+"[kreier/ar65view] java recognition","https://github.com/kreier/ar65view/commit/03a2d4f102958bfac32069a415c47eb1428f7abd",8
+"[kreier/ar65view] ignore the archive","https://github.com/kreier/ar65view/commit/fe88be2fd11394543fa6fb8b875aadd14173980f",10
+"[kreier/ar65view] reorganized","https://github.com/kreier/ar65view/commit/192764568c8cfc4d980d4c6ffef3130be22dc06a",1
+"[kreier/ar65view] Update AR65view.jar","https://github.com/kreier/ar65view/commit/6ac617323daf41a48b987b3c10bf7c68132b2088",3
+"[kreier/ar65view] Create info.txt","https://github.com/kreier/ar65view/commit/ef2eb8154efa81b24b52c6828ba2772b7a922756",3
+"[kreier/kreier.org-aqi] Update README.md","https://github.com/kreier/kreier.org-aqi/commit/428669b1cb123bda71a24c4393d7ce471eb477bc",3
+"[kreier/kreier.org-aqi] Create style.css","https://github.com/kreier/kreier.org-aqi/commit/55cf2959a2b1e61cbe6b943c1bc36989ad1a04df",3
+"[kreier/kreier.org-aqi] Create index.html","https://github.com/kreier/kreier.org-aqi/commit/ff611d980a2cf425984adbe10cb34150a32d6c6f",5
+"[kreier/kreier.org-aqi] Initial commit","https://github.com/kreier/kreier.org-aqi/commit/bed025ae697dcb3bd758b3fb6d69e18873246ce0",2
+"[kreier/ar65view] Wikistyle","https://github.com/kreier/ar65view/commit/d753afea4d3a318a555cf3df6f40af21ddc0a967",1
+"[kreier/ar65view] Merge pull request #4 from matthiaskreier/0.2.11.2","https://github.com/kreier/ar65view/commit/63639560022bebc7c318a7664bcd40a4966b02a5",15
+"[kreier/ar65view] latest software version February 2011","https://github.com/kreier/ar65view/commit/88f2e469baaed8324a1fc3d531b53633d203c717",24
+"[kreier/ar65view] Sourcefiles February 2011","https://github.com/kreier/ar65view/commit/0be7489a2b6cd7fb38bcb887feb1a3e32192fffe",3
+"[kreier/ar65view] Merge pull request #3 from matthiaskreier/0.2.11.1","https://github.com/kreier/ar65view/commit/e0220f478d46f0c21f3bd62b852e1c3e7a259e28",16
+"[kreier/ar65view] Shirley background update, Look 'n' Feel","https://github.com/kreier/ar65view/commit/9a9489e36017e67a57d59cd664fbe76b6118a3da",27
+"[kreier/ar65view] Merge pull request #2 from matthiaskreier/0.1.08.04","https://github.com/kreier/ar65view/commit/09482dcd6b6a3833f38356f10228852ac187fa4c",16
+"[kreier/ar65view] Sourcefiles April 2008 and sample data.","https://github.com/kreier/ar65view/commit/9faa72223984c44a61068389efcaf4286483767e",16
+"[kreier/ar65view] Merge pull request #1 from matthiaskreier/0.1.07.12","https://github.com/kreier/ar65view/commit/ae5a75b9a0c05a34af4998331073032056980d53",16
+"[kreier/ar65view] Initial edition from end of 2007","https://github.com/kreier/ar65view/commit/0cb73926609339df0d0067fc66721fd07bca0469",58
+"[kreier/ar65view] Update README.md","https://github.com/kreier/ar65view/commit/5d8c9526249ede9b1066b3b49a969e506f3cba37",3
+"[kreier/ar65view] Update README.md","https://github.com/kreier/ar65view/commit/9a00bb90f4cc4b5746368b562b06103845f88b58",3
+"[kreier/ar65view] Update README.md","https://github.com/kreier/ar65view/commit/b28e4ebf4c6b097aeeda6a373be80a369cb9e6eb",8
+"[kreier/ar65view] Initial commit","https://github.com/kreier/ar65view/commit/f8e742d925fb70bae25b779a2fab3a0f8460d466",2

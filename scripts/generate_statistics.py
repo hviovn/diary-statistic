@@ -142,45 +142,46 @@ def fetch_quartz(base_url):
 def fetch_github(username):
     print(f"Fetching GitHub commits for user: {username}...")
     all_commits = []
-    page = 1
     per_page = 100
+    current_year = date.today().year
 
-    # We use the search API to find commits by the user.
-    # Note: This requires specific headers and might be subject to lower rate limits.
-    while page <= 10: # Limit to 10 pages to avoid deep paging issues and stay within reasonable limits
-        # Sort by committer-date to get a consistent order
-        url = f"https://api.github.com/search/commits?q=author:{username}&sort=committer-date&order=desc&page={page}&per_page={per_page}"
-        headers = {
-            'User-Agent': 'Mozilla/5.0',
-            'Accept': 'application/vnd.github.cloak-preview' # Required for commit search API
-        }
-        try:
-            req = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(req, timeout=15) as response:
-                content = response.read().decode('utf-8', errors='ignore')
-                data = json.loads(content)
+    for year in range(current_year, 2010, -1):
+        print(f"  Fetching year {year}...")
+        page = 1
+        while page <= 10:
+            query = f"author:{username} committer-date:{year}-01-01..{year}-12-31"
+            url = f"https://api.github.com/search/commits?q={urllib.parse.quote(query)}&sort=committer-date&order=desc&page={page}&per_page={per_page}"
+            headers = {
+                'User-Agent': 'Mozilla/5.0',
+                'Accept': 'application/vnd.github.cloak-preview'
+            }
+            try:
+                req = urllib.request.Request(url, headers=headers)
+                with urllib.request.urlopen(req, timeout=15) as response:
+                    content = response.read().decode('utf-8', errors='ignore')
+                    data = json.loads(content)
 
-                if not data.get('items'):
-                    break
+                    if not data.get('items'):
+                        break
 
-                for item in data['items']:
-                    commit_date = item['commit']['author']['date'].split('T')[0]
-                    repo_name = item['repository']['full_name']
-                    msg = item['commit']['message'].split('\n')[0]
-                    all_commits.append({
-                        'date': commit_date,
-                        'title': f"[{repo_name}] {msg}",
-                        'link': item['html_url'],
-                        'content': item['commit']['message'], # Use message as content for word count
-                        'source_type': 'github'
-                    })
+                    for item in data['items']:
+                        commit_date = item['commit']['author']['date'].split('T')[0]
+                        repo_name = item['repository']['full_name']
+                        msg = item['commit']['message'].split('\n')[0]
+                        all_commits.append({
+                            'date': commit_date,
+                            'title': f"[{repo_name}] {msg}",
+                            'link': item['html_url'],
+                            'content': item['commit']['message'],
+                            'source_type': 'github'
+                        })
 
-                if len(data['items']) < per_page or len(all_commits) >= 1000: # Limit to 1000 for now to avoid hitting limits
-                    break
-                page += 1
-        except Exception as e:
-            print(f"Error fetching GitHub commits: {e}")
-            break
+                    if len(data['items']) < per_page:
+                        break
+                    page += 1
+            except Exception as e:
+                print(f"Error fetching GitHub commits for {year} page {page}: {e}")
+                break
 
     return all_commits
 
@@ -260,6 +261,12 @@ def generate_svg(year, data_by_date):
     end_date = date(year, 12, 31)
     first_sunday = start_date - timedelta(days=(start_date.weekday() + 1) % 7)
 
+    # Calculate max count for the year for intensity reset
+    max_count = 0
+    for d, entries in data_by_date.items():
+        if d.startswith(str(year)):
+            max_count = max(max_count, len(entries))
+
     square_size = 10
     square_margin = 2
     width = 53 * (square_size + square_margin) + 40
@@ -289,27 +296,29 @@ def generate_svg(year, data_by_date):
                 count = len(entries)
                 color = "#ebedf0"
                 if count > 0:
+                    # Intensity level relative to max_count
+                    level = math.ceil((count / max_count) * 4) if max_count > 0 else 1
                     source_type = entries[0].get('source_type', 'wordpress')
                     if source_type == 'wordpress': # Green
-                        if count == 1: color = "#9be9a8"
-                        elif count == 2: color = "#40c463"
-                        elif count == 3: color = "#30a14e"
+                        if level == 1: color = "#9be9a8"
+                        elif level == 2: color = "#40c463"
+                        elif level == 3: color = "#30a14e"
                         else: color = "#216e39"
                     elif source_type == 'quartz': # Red
-                        if count == 1: color = "#ffcdd2"
-                        elif count == 2: color = "#ef9a9a"
-                        elif count == 3: color = "#e57373"
+                        if level == 1: color = "#ffcdd2"
+                        elif level == 2: color = "#ef9a9a"
+                        elif level == 3: color = "#e57373"
                         else: color = "#ef5350"
                     elif source_type == 'legacy_html': # Blue
-                        if count == 1: color = "#bbdefb"
-                        elif count == 2: color = "#90caf9"
-                        elif count == 3: color = "#64b5f6"
+                        if level == 1: color = "#bbdefb"
+                        elif level == 2: color = "#90caf9"
+                        elif level == 3: color = "#64b5f6"
                         else: color = "#42a5f5"
-                    elif source_type == 'github': # Teal
-                        if count == 1: color = "#b2dfdb"
-                        elif count == 2: color = "#80cbc4"
-                        elif count == 3: color = "#4db6ac"
-                        else: color = "#26a69a"
+                    elif source_type == 'github': # Orange
+                        if level == 1: color = "#fff3e0"
+                        elif level == 2: color = "#ffcc80"
+                        elif level == 3: color = "#ffa726"
+                        else: color = "#fb8c00"
                 x = week * (square_size + square_margin) + 30
                 y = day * (square_size + square_margin) + 18
                 tooltip = f"{date_str}: {count} entry" if count == 1 else f"{date_str}: {count} entries"
@@ -332,7 +341,7 @@ def generate_svg(year, data_by_date):
         ("WordPress", "#30a14e"),
         ("Quartz", "#e57373"),
         ("Legacy HTML", "#64b5f6"),
-        ("GitHub", "#4db6ac")
+        ("GitHub", "#ffa726")
     ]
     for label, color in sources_info:
         svg_parts.append(f'<rect x="{legend_x}" y="{legend_y}" width="8" height="8" fill="{color}" rx="1" ry="1"/>')
@@ -375,8 +384,8 @@ def main():
 
     total_articles = len(all_data)
     days_covered = len(data_by_date)
-    reading_time_minutes = total_words / 200
-    reading_time_str = f"{math.floor(reading_time_minutes / 60)}h {math.ceil(reading_time_minutes % 60)}m"
+    reading_time_total_minutes = math.ceil(total_words / 200)
+    reading_time_str = f"{reading_time_total_minutes // 60}h {reading_time_total_minutes % 60}m"
 
     dates = sorted(data_by_date.keys())
     start_year = 2006 # Default start year
@@ -429,22 +438,45 @@ def main():
         "    <h1>Diary Activity Overview</h1>"
     ]
 
+    source_names = {
+        'wordpress': 'WordPress',
+        'quartz': 'Quartz',
+        'legacy_html': 'Legacy HTML',
+        'github': 'GitHub'
+    }
+
     for year in range(end_year, start_year - 1, -1):
-        year_entries = sum(len(entries) for d, entries in data_by_date.items() if d.startswith(str(year)))
+        year_data = [item for d, entries in data_by_date.items() if d.startswith(str(year)) for item in entries]
+        year_entries = len(year_data)
+        if year_entries == 0: continue
+
         svg_content = generate_svg(year, data_by_date)
         svg_filename = f"activity_{year}.svg"
         svg_path = os.path.join(assets_dir, svg_filename)
         with open(svg_path, "w") as f:
             f.write(svg_content)
 
+        # Category breakdown for the year
+        year_breakdown = {}
+        for item in year_data:
+            st = item.get('source_type', 'unknown')
+            year_breakdown[st] = year_breakdown.get(st, 0) + 1
+
+        breakdown_parts = []
+        for st in sorted(year_breakdown.keys()):
+            name = source_names.get(st, st)
+            breakdown_parts.append(f"{year_breakdown[st]} {name}")
+        breakdown_str = ": " + ", ".join(breakdown_parts) if breakdown_parts else ""
+
         output.append(f"### {year}")
         output.append(svg_content)
-        output.append(f"\n{year_entries} article{'s' if year_entries != 1 else ''} in {year}\n")
+        year_summary = f"{year_entries} article{'s' if year_entries != 1 else ''} in {year}{breakdown_str}"
+        output.append(f"\n{year_summary}\n")
 
         html_output.append(f'    <div class="year-section">')
         html_output.append(f"        <h3>{year}</h3>")
         html_output.append(f"        {svg_content}")
-        html_output.append(f"        <p>{year_entries} article{'s' if year_entries != 1 else ''} in {year}</p>")
+        html_output.append(f"        <p>{year_summary}</p>")
         html_output.append(f'    </div>')
 
     output.append("## Statistics")
@@ -468,18 +500,34 @@ def main():
     html_output.append("            <h3>Breakdown by Source</h3>")
     html_output.append("            <ul>")
 
-    source_names = {
-        'wordpress': 'WordPress',
-        'quartz': 'Quartz',
-        'legacy_html': 'Legacy HTML',
-        'github': 'GitHub'
-    }
     for st, items in sorted(sources_data.items()):
         name = source_names.get(st, st)
         count = len(items)
         words = sum(item.get('word_count', 0) for item in items)
-        output.append(f"- **{name}:** {count} entries, {words} words")
-        html_output.append(f"                <li><strong>{name}:</strong> {count} entries, {words} words</li>")
+        rt_total_min = math.ceil(words / 200)
+        rt_str = f"{rt_total_min // 60}h {rt_total_min % 60}m"
+        output.append(f"- **{name}:** {count} entries, {words} words, {rt_str} reading time")
+        html_output.append(f"                <li><strong>{name}:</strong> {count} entries, {words} words, {rt_str} reading time</li>")
+
+    html_output.append("            </ul>")
+    html_output.append("        </div>")
+
+    output.append("\n### Longest 3 articles by source")
+    html_output.append('        <div class="longest-articles">')
+    html_output.append("            <h3>Longest 3 articles by source</h3>")
+    html_output.append("            <ul>")
+
+    for st, items in sorted(sources_data.items()):
+        name = source_names.get(st, st)
+        top_3 = sorted(items, key=lambda x: x.get('word_count', 0), reverse=True)[:3]
+        for i, item in enumerate(top_3):
+            title = item['title']
+            link = item['link']
+            wc = item['word_count']
+            rt_total_min = math.ceil(wc / 200)
+            rt_str = f"{rt_total_min // 60}h {rt_total_min % 60}m"
+            output.append(f"- {name} #{i+1}: [{title}]({link}) ({wc} words, {rt_str} reading time)")
+            html_output.append(f'                <li>{name} #{i+1}: <a href="{link}">{saxutils.escape(title)}</a> ({wc} words, {rt_str} reading time)</li>')
 
     html_output.append("            </ul>")
     html_output.append("        </div>")

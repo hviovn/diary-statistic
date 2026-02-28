@@ -2,7 +2,7 @@
 <text x="5" y="39" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="63" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="87" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
-<a href="https://kreier.github.io/quartz/Diary/2015"><rect x="30" y="66" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2015-01-01: 1 entry
+<a href="https://kreier.github.io/quartz/Diary/2015"><rect x="30" y="66" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2015-01-01: 1 entry
 2015</title></rect></a>
 <rect x="30" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-01-02: 0 entries</title></rect>
 <rect x="30" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-01-03: 0 entries</title></rect>
@@ -13,7 +13,7 @@
 <rect x="42" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-01-07: 0 entries</title></rect>
 <rect x="42" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-01-08: 0 entries</title></rect>
 <rect x="42" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-01-09: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2015/01/10/physik-aufgabe-4-fuer-klasse-9b/"><rect x="42" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2015-01-10: 1 entry
+<a href="https://saiht.de/blog/2015/01/10/physik-aufgabe-4-fuer-klasse-9b/"><rect x="42" y="90" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-01-10: 1 entry
 Physik Aufgabe 4 für Klasse 9B</title></rect></a>
 <rect x="54" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-01-11: 0 entries</title></rect>
 <rect x="54" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-01-12: 0 entries</title></rect>
@@ -63,7 +63,7 @@ Physik Aufgabe 4 für Klasse 9B</title></rect></a>
 <rect x="126" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-02-24: 0 entries</title></rect>
 <rect x="126" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-02-25: 0 entries</title></rect>
 <rect x="126" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-02-26: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2015/02/27/didacta-2015-das-digitale-klassenzimmer/"><rect x="126" y="78" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2015-02-27: 1 entry
+<a href="https://saiht.de/blog/2015/02/27/didacta-2015-das-digitale-klassenzimmer/"><rect x="126" y="78" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-02-27: 1 entry
 Didacta 2015 &amp;#8211; Das digitale Klassenzimmer</title></rect></a>
 <rect x="126" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-02-28: 0 entries</title></rect>
 <text x="138" y="12" font-family="sans-serif" font-size="8" fill="#767676">Mar</text>
@@ -127,7 +127,7 @@ Didacta 2015 &amp;#8211; Das digitale Klassenzimmer</title></rect></a>
 <rect x="234" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-04-26: 0 entries</title></rect>
 <rect x="234" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-04-27: 0 entries</title></rect>
 <rect x="234" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-04-28: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2015/04/29/reaktionsschema-nach-passig/"><rect x="234" y="54" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2015-04-29: 1 entry
+<a href="https://saiht.de/blog/2015/04/29/reaktionsschema-nach-passig/"><rect x="234" y="54" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-04-29: 1 entry
 Reaktionsschema nach Passig</title></rect></a>
 <rect x="234" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-04-30: 0 entries</title></rect>
 <rect x="234" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-05-01: 0 entries</title></rect>
@@ -162,7 +162,7 @@ Reaktionsschema nach Passig</title></rect></a>
 <rect x="282" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-05-29: 0 entries</title></rect>
 <rect x="282" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-05-30: 0 entries</title></rect>
 <rect x="294" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-05-31: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2015/06/01/musteraufgaben-mathematik-7/"><rect x="294" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2015-06-01: 1 entry
+<a href="https://saiht.de/blog/2015/06/01/musteraufgaben-mathematik-7/"><rect x="294" y="30" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-06-01: 1 entry
 Musteraufgaben Mathematik 7</title></rect></a>
 <rect x="294" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-06-02: 0 entries</title></rect>
 <rect x="294" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-06-03: 0 entries</title></rect>
@@ -172,7 +172,7 @@ Musteraufgaben Mathematik 7</title></rect></a>
 <text x="306" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jun</text>
 <rect x="306" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-06-07: 0 entries</title></rect>
 <rect x="306" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-06-08: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2015/06/09/medienkonsum-die-zweite/"><rect x="306" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2015-06-09: 1 entry
+<a href="https://saiht.de/blog/2015/06/09/medienkonsum-die-zweite/"><rect x="306" y="42" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-06-09: 1 entry
 Medienkonsum die Zweite</title></rect></a>
 <rect x="306" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-06-10: 0 entries</title></rect>
 <rect x="306" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-06-11: 0 entries</title></rect>
@@ -205,7 +205,7 @@ Medienkonsum die Zweite</title></rect></a>
 <rect x="354" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-07-07: 0 entries</title></rect>
 <rect x="354" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-07-08: 0 entries</title></rect>
 <rect x="354" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-07-09: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2015/07/10/regenparty-hofkoh/"><rect x="354" y="78" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2015-07-10: 1 entry
+<a href="https://saiht.de/blog/2015/07/10/regenparty-hofkoh/"><rect x="354" y="78" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-07-10: 1 entry
 Regenparty Hofkoh</title></rect></a>
 <rect x="354" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-07-11: 0 entries</title></rect>
 <rect x="366" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-07-12: 0 entries</title></rect>
@@ -243,7 +243,7 @@ Regenparty Hofkoh</title></rect></a>
 <rect x="414" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-12: 0 entries</title></rect>
 <rect x="414" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-13: 0 entries</title></rect>
 <rect x="414" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-14: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2015/08/15/wetter-live-blitze/"><rect x="414" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2015-08-15: 1 entry
+<a href="https://saiht.de/blog/2015/08/15/wetter-live-blitze/"><rect x="414" y="90" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-08-15: 1 entry
 Wetter live: Blitze</title></rect></a>
 <rect x="426" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-16: 0 entries</title></rect>
 <rect x="426" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-17: 0 entries</title></rect>
@@ -253,14 +253,14 @@ Wetter live: Blitze</title></rect></a>
 <rect x="426" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-21: 0 entries</title></rect>
 <rect x="426" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-22: 0 entries</title></rect>
 <rect x="438" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-23: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2015/08/24/die-eigene-cloud/"><rect x="438" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2015-08-24: 1 entry
+<a href="https://saiht.de/blog/2015/08/24/die-eigene-cloud/"><rect x="438" y="30" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-08-24: 1 entry
 Die eigene Cloud</title></rect></a>
 <rect x="438" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-25: 0 entries</title></rect>
 <rect x="438" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-26: 0 entries</title></rect>
 <rect x="438" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-27: 0 entries</title></rect>
 <rect x="438" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-28: 0 entries</title></rect>
 <rect x="438" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-29: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2015/08/30/globalisierung-fuer-privatkunden/"><rect x="450" y="18" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2015-08-30: 1 entry
+<a href="https://saiht.de/blog/2015/08/30/globalisierung-fuer-privatkunden/"><rect x="450" y="18" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-08-30: 1 entry
 Globalisierung für Privatkunden</title></rect></a>
 <rect x="450" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-31: 0 entries</title></rect>
 <rect x="450" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-09-01: 0 entries</title></rect>
@@ -309,7 +309,7 @@ Globalisierung für Privatkunden</title></rect></a>
 <rect x="522" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-10-12: 0 entries</title></rect>
 <rect x="522" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-10-13: 0 entries</title></rect>
 <rect x="522" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-10-14: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2015/10/15/360-grad-video/"><rect x="522" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2015-10-15: 1 entry
+<a href="https://saiht.de/blog/2015/10/15/360-grad-video/"><rect x="522" y="66" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-10-15: 1 entry
 360° VR Video</title></rect></a>
 <rect x="522" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-10-16: 0 entries</title></rect>
 <rect x="522" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-10-17: 0 entries</title></rect>
@@ -333,27 +333,27 @@ Globalisierung für Privatkunden</title></rect></a>
 <rect x="558" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-03: 0 entries</title></rect>
 <rect x="558" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-04: 0 entries</title></rect>
 <rect x="558" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-05: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2015/11/06/physik-10-klasse/"><rect x="558" y="78" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2015-11-06: 1 entry
+<a href="https://saiht.de/blog/2015/11/06/physik-10-klasse/"><rect x="558" y="78" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-11-06: 1 entry
 Physik 10. Klasse</title></rect></a>
 <rect x="558" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-07: 0 entries</title></rect>
 <rect x="570" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-08: 0 entries</title></rect>
 <rect x="570" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-09: 0 entries</title></rect>
 <rect x="570" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-10: 0 entries</title></rect>
 <rect x="570" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-11: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2015/11/12/revolution-in-der-bildung/"><rect x="570" y="66" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2015-11-12: 1 entry
+<a href="https://saiht.de/blog/2015/11/12/revolution-in-der-bildung/"><rect x="570" y="66" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-11-12: 1 entry
 Revolution in der Bildung?</title></rect></a>
 <rect x="570" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-13: 0 entries</title></rect>
 <rect x="570" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-14: 0 entries</title></rect>
 <rect x="582" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-15: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2015/11/16/kinematik-physik-10/"><rect x="582" y="30" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2015-11-16: 1 entry
+<a href="https://saiht.de/blog/2015/11/16/kinematik-physik-10/"><rect x="582" y="30" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-11-16: 1 entry
 Kinematik &amp;#8211; Physik 10</title></rect></a>
 <rect x="582" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-17: 0 entries</title></rect>
 <rect x="582" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-18: 0 entries</title></rect>
 <rect x="582" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-19: 0 entries</title></rect>
 <rect x="582" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-20: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2015/11/21/lightpainting/"><rect x="582" y="90" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2015-11-21: 1 entry
+<a href="https://saiht.de/blog/2015/11/21/lightpainting/"><rect x="582" y="90" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-11-21: 1 entry
 Lightpainting</title></rect></a>
-<a href="https://saiht.de/blog/2015/11/22/fortschritte-baumbausprojekt/"><rect x="594" y="18" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2015-11-22: 1 entry
+<a href="https://saiht.de/blog/2015/11/22/fortschritte-baumbausprojekt/"><rect x="594" y="18" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-11-22: 1 entry
 Fortschritte Baumhausprojekt</title></rect></a>
 <rect x="594" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-23: 0 entries</title></rect>
 <rect x="594" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-24: 0 entries</title></rect>
@@ -378,7 +378,7 @@ Fortschritte Baumhausprojekt</title></rect></a>
 <rect x="618" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-12-12: 0 entries</title></rect>
 <rect x="630" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-12-13: 0 entries</title></rect>
 <rect x="630" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-12-14: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2015/12/15/sternbilder-im-winter/"><rect x="630" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2015-12-15: 1 entry
+<a href="https://saiht.de/blog/2015/12/15/sternbilder-im-winter/"><rect x="630" y="42" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-12-15: 1 entry
 Sternbilder im Winter</title></rect></a>
 <rect x="630" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-12-16: 0 entries</title></rect>
 <rect x="630" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-12-17: 0 entries</title></rect>
@@ -402,6 +402,6 @@ Sternbilder im Winter</title></rect></a>
 <text x="112" y="119" font-family="sans-serif" font-size="7" fill="#767676">Quartz</text>
 <rect x="170" y="112" width="8" height="8" fill="#64b5f6" rx="1" ry="1"/>
 <text x="182" y="119" font-family="sans-serif" font-size="7" fill="#767676">Legacy HTML</text>
-<rect x="240" y="112" width="8" height="8" fill="#4db6ac" rx="1" ry="1"/>
+<rect x="240" y="112" width="8" height="8" fill="#ffa726" rx="1" ry="1"/>
 <text x="252" y="119" font-family="sans-serif" font-size="7" fill="#767676">GitHub</text>
 </svg>
