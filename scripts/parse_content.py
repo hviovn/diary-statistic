@@ -16,7 +16,7 @@ def process_statistics(source_type):
     os.makedirs('data', exist_ok=True)
     sources_file = os.path.join('data', f"sources_{source_type}.csv")
     content_file = os.path.join('data', f"content_{source_type}.csv")
-    output_file = os.path.join('data', f"statistics_{source_type}.csv")
+    output_file = os.path.join('data', f"source_{source_type}.csv")
 
     if not os.path.exists(sources_file) or not os.path.exists(content_file):
         print(f"Required files for {source_type} not found.")

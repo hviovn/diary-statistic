@@ -109,7 +109,7 @@ def main():
     sources = ['wordpress', 'quartz', 'legacy_html', 'github']
 
     for st in sources:
-        stats_file = os.path.join(data_dir, f"statistics_{st}.csv")
+        stats_file = os.path.join(data_dir, f"source_{st}.csv")
         if not os.path.exists(stats_file):
             continue
         with open(stats_file, 'r', encoding='utf-8') as f:
