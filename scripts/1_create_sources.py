@@ -182,6 +182,11 @@ def fetch_github(username):
 
     # Add README entries for each repo
     for repo_name, last_date in repos.items():
+        # We need the default branch to construct the link to README.md in the root
+        # Or we can just use the repo URL + /blob/main/README.md as a guess,
+        # but let's try to get it properly if we can.
+        # To keep it simple and follow "link to the latest README.md in the root file"
+        # I'll use the API to get the repository information
         print(f"  Fetching README info for {repo_name}...")
         repo_url = f"https://api.github.com/repos/{repo_name}"
         headers = {'User-Agent': 'Mozilla/5.0'}
@@ -268,8 +273,9 @@ def fetch_legacy_html(base_url):
 
     return posts
 
-def save_to_csv(data, filename, data_dir):
-    filepath = os.path.join(data_dir, filename)
+def save_to_csv(data, filename):
+    os.makedirs('../data', exist_ok=True)
+    filepath = os.path.join('../data', filename)
     with open(filepath, 'w', newline='', encoding='utf-8') as csvfile:
         fieldnames = ['Link', 'Date', 'Title', 'Type']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -285,7 +291,7 @@ def save_to_csv(data, filename, data_dir):
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    data_dir = os.path.join(os.path.dirname(script_dir), "data")
+    data_dir = os.path.join(os.path.dirname(script_dir), "../data")
     os.makedirs(data_dir, exist_ok=True)
 
     sources_file = os.path.join(script_dir, "sources.json")

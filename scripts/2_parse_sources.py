@@ -134,7 +134,7 @@ def process_csv(source_type, data_dir):
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    data_dir = os.path.join(os.path.dirname(script_dir), "data")
+    data_dir = os.path.join(os.path.dirname(script_dir), "../data")
     os.makedirs(data_dir, exist_ok=True)
 
     sources = ['wordpress', 'quartz', 'legacy_html', 'github']
