@@ -4,44 +4,56 @@ import re
 import os
 import csv
 import html
+import sys
+
+# Increase the CSV field size limit for large content
+csv.field_size_limit(sys.maxsize)
+
+def get_encoding(response):
+    """Detect encoding from response headers."""
+    content_type = response.headers.get('Content-Type', '')
+    if 'charset=' in content_type:
+        return content_type.split('charset=')[-1].strip()
+    return 'utf-8'
 
 def fetch_url(url):
+    """Fetch content from URL and decode using appropriate encoding."""
     try:
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         with urllib.request.urlopen(req, timeout=10) as response:
-            return response.read().decode('utf-8', errors='ignore')
+            encoding = get_encoding(response)
+            raw_data = response.read()
+            try:
+                return raw_data.decode(encoding)
+            except (UnicodeDecodeError, LookupError):
+                # Fallback to common encodings
+                for fallback in ['utf-8', 'iso-8859-1', 'cp1252']:
+                    try:
+                        return raw_data.decode(fallback)
+                    except UnicodeDecodeError:
+                        continue
+                return raw_data.decode('utf-8', errors='ignore')
     except Exception as e:
         print(f"Error fetching {url}: {e}")
         return None
 
 def strip_html(text):
+    """Remove HTML markers and unescape entities."""
     if not text:
         return ""
     # Remove script and style tags and their content
-    text = re.sub(r'<(script|style).*?>.*?</\1>', '', text, flags=re.DOTALL | re.IGNORECASE)
-    # Remove other HTML tags
-    text = re.sub('<[^<]+?>', '', text)
-    # Unescape common entities
+    text = re.sub(r'<(script|style).*?>.*?</\1>', ' ', text, flags=re.DOTALL | re.IGNORECASE)
+    # Remove other HTML tags, replacing them with a space
+    text = re.sub('<[^<]+?>', ' ', text)
+    # Unescape HTML entities
     text = html.unescape(text)
+    # Normalize whitespace
+    text = re.sub(r'\s+', ' ', text).strip()
     return text
 
-def fetch_wordpress_content(link):
-    # For wordpress, the content might be easier to get via the API if we had the ID,
-    # but we can also just fetch the page and try to extract it, or use the link which might be a REST URL or a web page.
-    # Given the previous script, 'link' is the web page.
-    # However, to be efficient, we could have saved the content in the first step.
-    # But the instructions said: "Each of these contain a link to a source, a date, a title and the type."
-    # AND "The second script... will then parse the four generated csv files... Each of these also contain the link and date, but the next column is the cleaned up text."
-    # So I must fetch it here.
-    content = fetch_url(link)
-    return strip_html(content)
-
 def fetch_github_content(link, source_type):
+    """Extract content from GitHub commits or READMEs with rate limiting check."""
     if source_type == 'github commit':
-        # For a commit link like https://github.com/user/repo/commit/hash
-        # We can try to get the raw patch or just the commit message.
-        # The original script used the API to get the message.
-        # Since we only have the link now, we can try to use the API if we can parse the link.
         match = re.search(r'github\.com/([^/]+/[^/]+)/commit/([0-9a-f]+)', link)
         if match:
             repo = match.group(1)
@@ -54,22 +66,32 @@ def fetch_github_content(link, source_type):
             try:
                 req = urllib.request.Request(api_url, headers=headers)
                 with urllib.request.urlopen(req, timeout=10) as response:
+                    # Check for rate limiting in headers if possible
+                    remaining = response.headers.get('X-RateLimit-Remaining')
+                    if remaining and int(remaining) == 0:
+                        print(f"Warning: GitHub API rate limit reached.")
+                        return ""
                     data = json.loads(response.read().decode('utf-8'))
                     return data['commit']['message']
+            except urllib.error.HTTPError as e:
+                if e.code == 403:
+                    print(f"GitHub API Error 403: Possibly rate limited.")
+                else:
+                    print(f"Error fetching github commit content for {link}: {e}")
+                return ""
             except Exception as e:
-                print(f"Error fetching github commit content: {e}")
+                print(f"Error fetching github commit content for {link}: {e}")
+                return ""
     elif source_type == 'github readme':
-        # For a readme link like https://github.com/user/repo/blob/branch/README.md
-        # We can convert it to raw.githubusercontent.com
         raw_link = link.replace('github.com', 'raw.githubusercontent.com').replace('/blob/', '/')
-        return fetch_url(raw_link)
-
+        content = fetch_url(raw_link)
+        return strip_html(content)
     return ""
 
-def process_csv(source_type):
-    os.makedirs('data', exist_ok=True)
-    input_file = os.path.join('data', f"sources_{source_type}.csv")
-    output_file = os.path.join('data', f"content_{source_type}.csv")
+def process_csv(source_type, data_dir):
+    """Read sources CSV and generate content CSV."""
+    input_file = os.path.join(data_dir, f"sources_{source_type}.csv")
+    output_file = os.path.join(data_dir, f"content_{source_type}.csv")
 
     if not os.path.exists(input_file):
         print(f"Input file {input_file} not found.")
@@ -81,25 +103,29 @@ def process_csv(source_type):
         reader = csv.DictReader(csvfile)
         for row in reader:
             link = row['Link']
-            date = row['Date']
             row_type = row['Type']
+            title = row.get('Title', '')
 
-            print(f"  Fetching content for {link}...")
+            print(f"  Processing {link}...")
             content = ""
-            if source_type == 'wordpress' or source_type == 'quartz' or source_type == 'legacy_html':
-                content = fetch_url(link)
-                content = strip_html(content)
+            if source_type in ['wordpress', 'quartz', 'legacy_html']:
+                raw_content = fetch_url(link)
+                content = strip_html(raw_content)
             elif source_type == 'github':
-                content = fetch_github_content(link, row_type)
+                if row_type == 'github commit':
+                    # Use commit message from title to avoid API rate limiting
+                    # Title format: "[repo] message"
+                    content = re.sub(r'^\[.*?\]\s*', '', title)
+                else:
+                    content = fetch_github_content(link, row_type)
 
             results.append({
-                'Link': link,
-                'Date': date,
-                'Cleaned Text': content
+                'link': link,
+                'content': content
             })
 
     with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['Link', 'Date', 'Cleaned Text']
+        fieldnames = ['link', 'content']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         for row in results:
@@ -107,9 +133,13 @@ def process_csv(source_type):
     print(f"Saved to {output_file}")
 
 def main():
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    data_dir = os.path.join(os.path.dirname(script_dir), "../data")
+    os.makedirs(data_dir, exist_ok=True)
+
     sources = ['wordpress', 'quartz', 'legacy_html', 'github']
     for source in sources:
-        process_csv(source)
+        process_csv(source, data_dir)
 
 if __name__ == "__main__":
     main()
