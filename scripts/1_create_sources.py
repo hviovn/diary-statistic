@@ -141,91 +141,116 @@ def fetch_quartz(base_url):
     return posts
 
 def fetch_github(username):
-    print(f"Fetching GitHub data for user: {username}...")
-    all_entries = []
-    repos = {} # name -> latest_date
-    per_page = 100
-    current_year = date.today().year
+    import time
 
+    print(f"Fetching GitHub data for user: {username} (per-repo mode)...")
     token = os.environ.get('GITHUB_TOKEN')
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    if token:
+        headers['Authorization'] = f'token {token}'
 
-    # Fetch commits
-    for year in range(current_year, 2010, -1):
-        print(f"  Fetching commits for year {year}...")
-        page = 1
-        while page <= 10:
-            query = f"author:{username} committer-date:{year}-01-01..{year}-12-31"
-            url = f"https://api.github.com/search/commits?q={urllib.parse.quote(query)}&sort=committer-date&order=desc&page={page}&per_page={per_page}"
-            headers = {
-                'User-Agent': 'Mozilla/5.0',
-                'Accept': 'application/vnd.github.cloak-preview'
-            }
-            if token:
-                headers['Authorization'] = f'token {token}'
-            try:
-                req = urllib.request.Request(url, headers=headers)
-                with urllib.request.urlopen(req, timeout=15) as response:
-                    content = response.read().decode('utf-8', errors='ignore')
-                    data = json.loads(content)
-
-                    if not data.get('items'):
-                        break
-
-                    for item in data['items']:
-                        commit_date = item['commit']['author']['date'].split('T')[0]
-                        repo_name = item['repository']['full_name']
-                        msg = item['commit']['message'].split('\n')[0]
-
-                        all_entries.append({
-                            'link': item['html_url'],
-                            'date': commit_date,
-                            'title': f"[{repo_name}] {msg}",
-                            'type': 'github commit'
-                        })
-
-                        if repo_name not in repos or commit_date > repos[repo_name]:
-                            repos[repo_name] = commit_date
-
-                    if len(data['items']) < per_page:
-                        break
-                    page += 1
-            except Exception as e:
-                print(f"Error fetching GitHub commits for {year} page {page}: {e}")
-                break
-
-    # Add README entries for each repo
-    for repo_name, last_date in repos.items():
-        # We need the default branch to construct the link to README.md in the root
-        # Or we can just use the repo URL + /blob/main/README.md as a guess,
-        # but let's try to get it properly if we can.
-        # To keep it simple and follow "link to the latest README.md in the root file"
-        # I'll use the API to get the repository information
-        print(f"  Fetching README info for {repo_name}...")
-        repo_url = f"https://api.github.com/repos/{repo_name}"
-        headers = {'User-Agent': 'Mozilla/5.0'}
-        if token:
-            headers['Authorization'] = f'token {token}'
+    def request_json(url, accept_header=None):
+        req_headers = dict(headers)
+        if accept_header:
+            req_headers['Accept'] = accept_header
+        req = urllib.request.Request(url, headers=req_headers)
         try:
-            req = urllib.request.Request(repo_url, headers=headers)
-            with urllib.request.urlopen(req, timeout=10) as response:
-                repo_data = json.loads(response.read().decode('utf-8'))
-                default_branch = repo_data.get('default_branch', 'main')
-                readme_link = f"https://github.com/{repo_name}/blob/{default_branch}/README.md"
-                all_entries.append({
-                    'link': readme_link,
-                    'date': last_date,
-                    'title': f"[{repo_name}] README.md",
-                    'type': 'github readme'
-                })
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                text = resp.read().decode('utf-8', errors='ignore')
+                return json.loads(text), resp
         except Exception as e:
-            print(f"  Error fetching repo info for {repo_name}: {e}")
-            # Fallback
-            all_entries.append({
-                'link': f"https://github.com/{repo_name}/blob/main/README.md",
-                'date': last_date,
-                'title': f"[{repo_name}] README.md",
-                'type': 'github readme'
-            })
+            raise
+
+    # 1) List repos for the user (paginated)
+    repos = []
+    page = 1
+    per_page = 100
+    while True:
+        url = f"https://api.github.com/users/{username}/repos?per_page={per_page}&page={page}"
+        try:
+            data, resp = request_json(url)
+        except Exception as e:
+            print(f"Error listing repos for {username}: {e}")
+            break
+        if not data:
+            break
+        repos.extend(data)
+        if len(data) < per_page:
+            break
+        page += 1
+        try:
+            remaining = int(resp.getheader('X-RateLimit-Remaining') or 0)
+            reset = int(resp.getheader('X-RateLimit-Reset') or 0)
+            if remaining <= 1:
+                wait = max(0, reset - int(time.time())) + 1
+                print(f"Rate limit reached, sleeping {wait}s")
+                time.sleep(wait)
+        except Exception:
+            pass
+
+    all_entries = []
+    repos_latest = {}
+
+    # 2) For each repo, list commits by the user
+    for repo in repos:
+        repo_name = repo.get('full_name')
+        if not repo_name:
+            continue
+        print(f"  Fetching commits for repo: {repo_name}...")
+        page = 1
+        while True:
+            commits_url = (f"https://api.github.com/repos/{repo_name}/commits"
+                           f"?author={urllib.parse.quote(username)}&per_page={per_page}&page={page}")
+            try:
+                items, resp = request_json(commits_url)
+            except Exception as e:
+                print(f"    Error fetching commits for {repo_name} page {page}: {e}")
+                break
+            if not items:
+                break
+            for item in items:
+                try:
+                    commit_date = item['commit']['author']['date'].split('T')[0]
+                    msg = item['commit']['message'].split('\n')[0]
+                    all_entries.append({
+                        'link': item.get('html_url'),
+                        'date': commit_date,
+                        'title': f"[{repo_name}] {msg}",
+                        'type': 'github commit'
+                    })
+                    if repo_name not in repos_latest or commit_date > repos_latest[repo_name]:
+                        repos_latest[repo_name] = commit_date
+                except Exception:
+                    continue
+
+            if len(items) < per_page:
+                break
+            page += 1
+
+            try:
+                remaining = int(resp.getheader('X-RateLimit-Remaining') or 0)
+                reset = int(resp.getheader('X-RateLimit-Reset') or 0)
+                if remaining <= 1:
+                    wait = max(0, reset - int(time.time())) + 1
+                    print(f"Rate limit reached, sleeping {wait}s")
+                    time.sleep(wait)
+            except Exception:
+                pass
+
+    # 3) Add README links for each repo using repo info from listing
+    for repo in repos:
+        repo_name = repo.get('full_name')
+        if not repo_name:
+            continue
+        last_date = repos_latest.get(repo_name, repo.get('pushed_at', '')[:10] if repo.get('pushed_at') else '')
+        default_branch = repo.get('default_branch', 'main')
+        readme_link = f"https://github.com/{repo_name}/blob/{default_branch}/README.md"
+        all_entries.append({
+            'link': readme_link,
+            'date': last_date,
+            'title': f"[{repo_name}] README.md",
+            'type': 'github readme'
+        })
 
     return all_entries
 
