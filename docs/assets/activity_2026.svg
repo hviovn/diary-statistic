@@ -390,17 +390,19 @@ Hiking in Vietnam
 [kreier/quartz] README.md</title></rect></a>
 <a href="https://github.com/hviovn/diary-statistic/commit/1e4ed8aff877707087715ef491a471690f85386b"><rect x="126" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-27: 1 entry
 [hviovn/diary-statistic] Update README for clarity and grammar</title></rect></a>
-<a href="https://github.com/hviovn/new-vocabulary/commit/73c94681760209bfee2ffd1a8d1875d38332f50e"><rect x="126" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-02-28: 8 entries
+<a href="https://github.com/hviovn/new-vocabulary/commit/7325b9519280b7699d59a04db2b0b2bbd0565cf3"><rect x="126" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-02-28: 8 entries
+[hviovn/new-vocabulary] Merge pull request #2 from hviovn/feature/clickable-thumbnails-844169335408701926
 [hviovn/new-vocabulary] Parse first example.
 [hviovn/new-vocabulary] match image names to content
 [hviovn/new-vocabulary] cleanup
 [hviovn/new-vocabulary] import picture sources
 [hviovn/new-vocabulary] Add .DS_Store to .gitignore for Synology Diskstation
 [hviovn/diary-statistic] Merge pull request #9 from hviovn/fix-jekyll-error-and-split-output-15352974587547767671
-[hviovn/new-vocabulary] README.md
 [hviovn/diary-statistic] README.md</title></rect></a>
 <text x="138" y="12" font-family="sans-serif" font-size="8" fill="#767676">Mar</text>
-<rect x="138" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-01: 0 entries</title></rect>
+<a href="https://github.com/hviovn/new-vocabulary/commit/268b562063bbfd31add802a8495ca9f534c6f565"><rect x="138" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-03-01: 2 entries
+[hviovn/new-vocabulary] the dates were all wrong
+[hviovn/new-vocabulary] README.md</title></rect></a>
 <rect x="138" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-02: 0 entries</title></rect>
 <rect x="138" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-03: 0 entries</title></rect>
 <rect x="138" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-04: 0 entries</title></rect>

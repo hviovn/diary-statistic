@@ -399,17 +399,19 @@ Hiking in Vietnam
 [kreier/quartz] README.md</title></rect></a>
 <a href="https://github.com/hviovn/diary-statistic/commit/1e4ed8aff877707087715ef491a471690f85386b"><rect x="126" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-27: 1 entry
 [hviovn/diary-statistic] Update README for clarity and grammar</title></rect></a>
-<a href="https://github.com/hviovn/new-vocabulary/commit/73c94681760209bfee2ffd1a8d1875d38332f50e"><rect x="126" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-02-28: 8 entries
+<a href="https://github.com/hviovn/new-vocabulary/commit/7325b9519280b7699d59a04db2b0b2bbd0565cf3"><rect x="126" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-02-28: 8 entries
+[hviovn/new-vocabulary] Merge pull request #2 from hviovn/feature/clickable-thumbnails-844169335408701926
 [hviovn/new-vocabulary] Parse first example.
 [hviovn/new-vocabulary] match image names to content
 [hviovn/new-vocabulary] cleanup
 [hviovn/new-vocabulary] import picture sources
 [hviovn/new-vocabulary] Add .DS_Store to .gitignore for Synology Diskstation
 [hviovn/diary-statistic] Merge pull request #9 from hviovn/fix-jekyll-error-and-split-output-15352974587547767671
-[hviovn/new-vocabulary] README.md
 [hviovn/diary-statistic] README.md</title></rect></a>
 <text x="138" y="12" font-family="sans-serif" font-size="8" fill="#767676">Mar</text>
-<rect x="138" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-01: 0 entries</title></rect>
+<a href="https://github.com/hviovn/new-vocabulary/commit/268b562063bbfd31add802a8495ca9f534c6f565"><rect x="138" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-03-01: 2 entries
+[hviovn/new-vocabulary] the dates were all wrong
+[hviovn/new-vocabulary] README.md</title></rect></a>
 <rect x="138" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-02: 0 entries</title></rect>
 <rect x="138" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-03: 0 entries</title></rect>
 <rect x="138" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-04: 0 entries</title></rect>
@@ -735,7 +737,7 @@ Hiking in Vietnam
 <text x="252" y="119" font-family="sans-serif" font-size="7" fill="#767676">GitHub</text>
 </svg>
 
-337 articles in 2026: 323 GitHub, 14 Quartz
+339 articles in 2026: 325 GitHub, 14 Quartz
 
 ### 2025
 <svg width="676" height="124" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
@@ -1534,7 +1536,7 @@ Reactivated 2025
 [kreier/saiht-parser] typos, grammar</title></rect></a>
 <a href="https://saiht.de/blog/2025/10/19/12-years-down-four-more-years-to-go/"><rect x="534" y="18" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2025-10-19: 17 entries
 12 years down &amp;#8211; four more years to go
-[kreier/saiht-parser] Merge pull request #4 from kreier/alpha
+[kreier/saiht-parser] Merge pull request #4 from kreier/alpha 
 [kreier/saiht-parser] some work from 2015
 [kreier/saiht-parser] Rename index.html to index_old.html
 [kreier/saiht-parser] Merge pull request #3 from kreier/alpha
@@ -6320,7 +6322,8 @@ Temperatur in Hofkoh</title></rect></a>
 <a href="https://saiht.de/legacy/urlaub/2012_westeuropa.html"><rect x="42" y="30" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2013-01-07: 1 entry
 Tour durch Westeuropa im sonnigen Herbst - entlang der Côte d`Azur</title></rect></a>
 <rect x="42" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-08: 0 entries</title></rect>
-<rect x="42" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-09: 0 entries</title></rect>
+<a href="https://saiht.de/legacy/projekte/umfang.html"><rect x="42" y="54" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2013-01-09: 1 entry
+Statistik zu saiht.de</title></rect></a>
 <rect x="42" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-10: 0 entries</title></rect>
 <rect x="42" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-11: 0 entries</title></rect>
 <rect x="42" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-12: 0 entries</title></rect>
@@ -6701,7 +6704,7 @@ Projektbeginn Baumhaus</title></rect></a>
 <text x="252" y="119" font-family="sans-serif" font-size="7" fill="#767676">GitHub</text>
 </svg>
 
-5 articles in 2013: 2 Legacy HTML, 1 Quartz, 2 WordPress
+6 articles in 2013: 3 Legacy HTML, 1 Quartz, 2 WordPress
 
 ### 2012
 <svg width="676" height="124" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
@@ -7047,7 +7050,8 @@ Liste der besuchten Lnder des saiht</title></rect></a>
 <rect x="570" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-17: 0 entries</title></rect>
 <rect x="582" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-18: 0 entries</title></rect>
 <rect x="582" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-19: 0 entries</title></rect>
-<rect x="582" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-20: 0 entries</title></rect>
+<a href="https://saiht.de/legacy/computer/history.html"><rect x="582" y="42" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2012-11-20: 1 entry
+die saiht-Computergeschichte</title></rect></a>
 <rect x="582" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-21: 0 entries</title></rect>
 <rect x="582" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-22: 0 entries</title></rect>
 <rect x="582" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-23: 0 entries</title></rect>
@@ -7101,7 +7105,7 @@ Sommerschule in der Ukraine</title></rect></a>
 <text x="252" y="119" font-family="sans-serif" font-size="7" fill="#767676">GitHub</text>
 </svg>
 
-5 articles in 2012: 3 Legacy HTML, 1 Quartz, 1 WordPress
+6 articles in 2012: 4 Legacy HTML, 1 Quartz, 1 WordPress
 
 ### 2011
 <svg width="676" height="124" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
@@ -7928,8 +7932,9 @@ Herbsturlaub in der Hohen Tatra
 <rect x="54" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-17: 0 entries</title></rect>
 <rect x="66" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-18: 0 entries</title></rect>
 <rect x="66" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-19: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/projekte.html"><rect x="66" y="42" width="10" height="10" fill="#64b5f6" rx="2" ry="2"><title>2009-01-20: 2 entries
+<a href="https://saiht.de/legacy/projekte/projekte.html"><rect x="66" y="42" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2009-01-20: 3 entries
 Projekte des saiht
+Festplattentausch am Toshiba NB-100
 Unsere Tschechientouren</title></rect></a>
 <rect x="66" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-21: 0 entries</title></rect>
 <rect x="66" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-22: 0 entries</title></rect>
@@ -8316,7 +8321,7 @@ Weiterer Server</title></rect></a>
 <text x="252" y="119" font-family="sans-serif" font-size="7" fill="#767676">GitHub</text>
 </svg>
 
-24 articles in 2009: 16 Legacy HTML, 1 Quartz, 7 WordPress
+25 articles in 2009: 17 Legacy HTML, 1 Quartz, 7 WordPress
 
 ### 2008
 <svg width="676" height="124" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
@@ -8980,7 +8985,8 @@ Impressum</title></rect></a>
 <rect x="402" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-09: 0 entries</title></rect>
 <rect x="402" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-10: 0 entries</title></rect>
 <rect x="402" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-11: 0 entries</title></rect>
-<rect x="414" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-12: 0 entries</title></rect>
+<a href="https://saiht.de/legacy/logfeile/sitemap.html"><rect x="414" y="18" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2007-08-12: 1 entry
+Sitemap</title></rect></a>
 <rect x="414" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-13: 0 entries</title></rect>
 <rect x="414" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-14: 0 entries</title></rect>
 <rect x="414" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-15: 0 entries</title></rect>
@@ -9142,7 +9148,7 @@ russischer Vortrag über Studienergebnisse</title></rect></a>
 <text x="252" y="119" font-family="sans-serif" font-size="7" fill="#767676">GitHub</text>
 </svg>
 
-11 articles in 2007: 5 Legacy HTML, 1 Quartz, 5 WordPress
+12 articles in 2007: 6 Legacy HTML, 1 Quartz, 5 WordPress
 
 ### 2006
 <svg width="676" height="124" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
@@ -10031,7 +10037,8 @@ Sommerschule in der Ukraine</title></rect></a>
 <rect x="42" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-05: 0 entries</title></rect>
 <rect x="42" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-06: 0 entries</title></rect>
 <rect x="42" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-07: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/lite/projekte/auslegung.html"><rect x="42" y="66" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2004-01-08: 1 entry
+<a href="https://saiht.de/legacy/projekte/auslegung.html"><rect x="42" y="66" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2004-01-08: 2 entries
+Beispiel einer extremen (und beiderseits falschen) Bibelauslegung (Rmer 10:2)
 Beispiel einer extremen (und beiderseits falschen) Bibelauslegung (Rmer 10:2)</title></rect></a>
 <rect x="42" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-09: 0 entries</title></rect>
 <rect x="42" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-10: 0 entries</title></rect>
@@ -10419,7 +10426,7 @@ USA - der Westen</title></rect></a>
 <text x="252" y="119" font-family="sans-serif" font-size="7" fill="#767676">GitHub</text>
 </svg>
 
-9 articles in 2004: 8 Legacy HTML, 1 Quartz
+10 articles in 2004: 9 Legacy HTML, 1 Quartz
 
 ### 2003
 <svg width="676" height="124" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
@@ -11772,7 +11779,7 @@ Angkor Wat</title></rect></a>
 <rect x="282" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-05-21: 0 entries</title></rect>
 <rect x="282" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-05-22: 0 entries</title></rect>
 <rect x="282" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-05-23: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/11freundschaft.html"><rect x="282" y="54" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2000-05-24: 2 entries
+<a href="https://saiht.de/legacy/projekte/11freundschaft.html"><rect x="282" y="54" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2000-05-24: 2 entries
 Freundschaft
 Freundschaft</title></rect></a>
 <rect x="282" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-05-25: 0 entries</title></rect>
@@ -11788,7 +11795,7 @@ Freundschaft</title></rect></a>
 <text x="306" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jun</text>
 <rect x="306" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-04: 0 entries</title></rect>
 <rect x="306" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-05: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/computer/crazy.html"><rect x="306" y="42" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2000-06-06: 6 entries
+<a href="https://saiht.de/legacy/computer/crazy.html"><rect x="306" y="42" width="10" height="10" fill="#64b5f6" rx="2" ry="2"><title>2000-06-06: 6 entries
 Wie man selbst gesund bleibt und dabei andere Leute in den Wahnsinn treibt:!
 das Bibelleseprogramm im zweiten Jahr
 das Bibelleseprogramm im dritten Jahr
@@ -11813,7 +11820,7 @@ das Bibelleseprogramm im dritten Jahr</title></rect></a>
 Linux schaltet den ATX-Rechner nicht aus
 Anmerkung
 Linux schaltet den ATX-Rechner nicht aus</title></rect></a>
-<a href="https://saiht.de/legacy/computer/inder.html"><rect x="330" y="66" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2000-06-22: 2 entries
+<a href="https://saiht.de/legacy/computer/inder.html"><rect x="330" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2000-06-22: 2 entries
 InderNet
 InderNet</title></rect></a>
 <rect x="330" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-23: 0 entries</title></rect>
@@ -11822,9 +11829,11 @@ InderNet</title></rect></a>
 <rect x="342" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-26: 0 entries</title></rect>
 <rect x="342" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-27: 0 entries</title></rect>
 <rect x="342" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-28: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/projekte/10wahrheit.html"><rect x="342" y="66" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2000-06-29: 6 entries
+<a href="https://saiht.de/legacy/projekte/10wahrheit.html"><rect x="342" y="66" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2000-06-29: 8 entries
 Was ist Wahrheit?
 Psychologie
+Die Geschichte Ägyptens
+Maya
 Was ist Wahrheit?
 Psychologie
 die Geschichte gyptens
@@ -11937,7 +11946,7 @@ Maya</title></rect></a>
 <rect x="522" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-10-09: 0 entries</title></rect>
 <rect x="522" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-10-10: 0 entries</title></rect>
 <rect x="522" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-10-11: 0 entries</title></rect>
-<a href="https://saiht.de/legacy/physik/reform.html"><rect x="522" y="66" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2000-10-12: 2 entries
+<a href="https://saiht.de/legacy/physik/reform.html"><rect x="522" y="66" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2000-10-12: 2 entries
 Mathematikunterricht nach der Bildungsreform
 Mathematikunterricht nach der Bildungsreform</title></rect></a>
 <rect x="522" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-10-13: 0 entries</title></rect>
@@ -12031,7 +12040,7 @@ Mathematikunterricht nach der Bildungsreform</title></rect></a>
 <text x="252" y="119" font-family="sans-serif" font-size="7" fill="#767676">GitHub</text>
 </svg>
 
-22 articles in 2000: 21 Legacy HTML, 1 Quartz
+24 articles in 2000: 23 Legacy HTML, 1 Quartz
 
 ### 1999
 <svg width="676" height="124" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
@@ -21916,28 +21925,28 @@ der saiht im web</title></rect></a>
 1 article in 1975: 1 Quartz
 
 ## Statistics
-- **Days covered:** 442
-- **Total entries:** 1410
-- **Total words:** 424436
-- **Total reading time:** 35h 23m
+- **Days covered:** 446
+- **Total entries:** 1419
+- **Total words:** 471386
+- **Total reading time:** 39h 17m
 
 ### Breakdown by Source
-- **GitHub:** 1054 entries, 64894 words, 5h 25m reading time
-- **Legacy HTML:** 166 entries, 253244 words, 21h 7m reading time
-- **Quartz:** 95 entries, 85076 words, 7h 6m reading time
-- **WordPress:** 95 entries, 21222 words, 1h 47m reading time
+- **GitHub:** 1056 entries, 68434 words, 5h 43m reading time
+- **Legacy HTML:** 173 entries, 293765 words, 24h 29m reading time
+- **Quartz:** 95 entries, 87758 words, 7h 19m reading time
+- **WordPress:** 95 entries, 21429 words, 1h 48m reading time
 
 ### Longest 3 articles by source
-- GitHub #1: [[kreier/llama.cpp-jetson] README.md](https://github.com/kreier/llama.cpp-jetson/blob/main/README.md) (6969 words, 0h 35m reading time)
-- GitHub #2: [[kreier/solarmeter] README.md](https://github.com/kreier/solarmeter/blob/main/README.md) (4969 words, 0h 25m reading time)
-- GitHub #3: [[kreier/ml] README.md](https://github.com/kreier/ml/blob/main/README.md) (4609 words, 0h 24m reading time)
-- Legacy HTML #1: [vir2qti.exe](https://saiht.de/legacy/physik/thesis/data/vir2qti.exe) (33605 words, 2h 49m reading time)
+- GitHub #1: [[kreier/llama.cpp-jetson] README.md](https://github.com/kreier/llama.cpp-jetson/blob/main/README.md) (6618 words, 0h 34m reading time)
+- GitHub #2: [[kreier/solarmeter] README.md](https://github.com/kreier/solarmeter/blob/main/README.md) (4814 words, 0h 25m reading time)
+- GitHub #3: [[kreier/ml] README.md](https://github.com/kreier/ml/blob/main/README.md) (4404 words, 0h 23m reading time)
+- Legacy HTML #1: [vir2qti.exe](https://saiht.de/legacy/physik/thesis/data/vir2qti.exe) (59835 words, 5h 0m reading time)
 - Legacy HTML #2: [das Bibelleseprogramm im dritten Jahr](https://saiht.de/legacy/projekte/bibel/bibel3.html) (8441 words, 0h 43m reading time)
 - Legacy HTML #3: [das Bibelleseprogramm im dritten Jahr](https://saiht.de/legacy/lite/projekte/bibel/bibel3.html) (8441 words, 0h 43m reading time)
-- Quartz #1: [2025](https://kreier.github.io/quartz/Diary/2025) (6267 words, 0h 32m reading time)
-- Quartz #2: [Penta-GPU server i3-6100](https://kreier.github.io/quartz/Projects/Computer/Penta-GPU-server-i3-6100) (3952 words, 0h 20m reading time)
-- Quartz #3: [2026](https://kreier.github.io/quartz/Diary/2026) (1725 words, 0h 9m reading time)
-- WordPress #1: [12 years down &#8211; four more years to go](https://saiht.de/blog/2025/10/19/12-years-down-four-more-years-to-go/) (1731 words, 0h 9m reading time)
-- WordPress #2: [History of course 615](https://saiht.de/blog/2025/12/19/history-of-course-615/) (1283 words, 0h 7m reading time)
-- WordPress #3: [Bankkonto 1: Standard Chartered](https://saiht.de/blog/2016/08/08/bankkonto-1-standard-chartered/) (620 words, 0h 4m reading time)
+- Quartz #1: [2025](https://kreier.github.io/quartz/Diary/2025) (6331 words, 0h 32m reading time)
+- Quartz #2: [Penta-GPU server i3-6100](https://kreier.github.io/quartz/Projects/Computer/Penta-GPU-server-i3-6100) (4120 words, 0h 21m reading time)
+- Quartz #3: [2026](https://kreier.github.io/quartz/Diary/2026) (1758 words, 0h 9m reading time)
+- WordPress #1: [12 years down &#8211; four more years to go](https://saiht.de/blog/2025/10/19/12-years-down-four-more-years-to-go/) (1736 words, 0h 9m reading time)
+- WordPress #2: [History of course 615](https://saiht.de/blog/2025/12/19/history-of-course-615/) (1307 words, 0h 7m reading time)
+- WordPress #3: [Bankkonto 1: Standard Chartered](https://saiht.de/blog/2016/08/08/bankkonto-1-standard-chartered/) (625 words, 0h 4m reading time)
 <!-- END_STATS -->
