@@ -1,6 +1,5 @@
 # Synology Diskstation
 .DS_Store
-data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

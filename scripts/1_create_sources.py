@@ -274,8 +274,8 @@ def fetch_legacy_html(base_url):
     return posts
 
 def save_to_csv(data, filename):
-    os.makedirs('data', exist_ok=True)
-    filepath = os.path.join('data', filename)
+    os.makedirs('../data', exist_ok=True)
+    filepath = os.path.join('../data', filename)
     with open(filepath, 'w', newline='', encoding='utf-8') as csvfile:
         fieldnames = ['Link', 'Date', 'Title', 'Type']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
