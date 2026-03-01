@@ -6,6 +6,19 @@ from datetime import datetime, date, timedelta
 import os
 import csv
 import html
+import sys
+import platform
+
+try:
+    import msvcrt
+except Exception:
+    msvcrt = None
+try:
+    import tty
+    import termios
+except Exception:
+    tty = None
+    termios = None
 
 def fetch_url(url):
     try:
@@ -128,91 +141,143 @@ def fetch_quartz(base_url):
     return posts
 
 def fetch_github(username):
-    print(f"Fetching GitHub data for user: {username}...")
-    all_entries = []
-    repos = {} # name -> latest_date
-    per_page = 100
-    current_year = date.today().year
+    import time
 
+    print(f"Fetching GitHub data for user: {username} (per-repo mode)...")
     token = os.environ.get('GITHUB_TOKEN')
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    if token:
+        headers['Authorization'] = f'token {token}'
 
-    # Fetch commits
-    for year in range(current_year, 2010, -1):
-        print(f"  Fetching commits for year {year}...")
-        page = 1
-        while page <= 10:
-            query = f"author:{username} committer-date:{year}-01-01..{year}-12-31"
-            url = f"https://api.github.com/search/commits?q={urllib.parse.quote(query)}&sort=committer-date&order=desc&page={page}&per_page={per_page}"
-            headers = {
-                'User-Agent': 'Mozilla/5.0',
-                'Accept': 'application/vnd.github.cloak-preview'
-            }
-            if token:
-                headers['Authorization'] = f'token {token}'
+    import urllib.error
+
+    def request_json(url, accept_header=None, max_rate_wait=3600):
+        """Request JSON, retrying on GitHub rate-limit HTTP errors by sleeping until reset.
+
+        If a non-rate-limit HTTP error occurs the exception is raised.
+        """
+        attempts = 0
+        while True:
+            req_headers = dict(headers)
+            if accept_header:
+                req_headers['Accept'] = accept_header
+            req = urllib.request.Request(url, headers=req_headers)
             try:
-                req = urllib.request.Request(url, headers=headers)
-                with urllib.request.urlopen(req, timeout=15) as response:
-                    content = response.read().decode('utf-8', errors='ignore')
-                    data = json.loads(content)
+                with urllib.request.urlopen(req, timeout=15) as resp:
+                    text = resp.read().decode('utf-8', errors='ignore')
+                    return json.loads(text), resp
+            except urllib.error.HTTPError as e:
+                # Check for rate limit headers; GitHub may return 403 when rate limited
+                try:
+                    remaining = int(e.headers.get('X-RateLimit-Remaining') or 0)
+                    reset = int(e.headers.get('X-RateLimit-Reset') or 0)
+                except Exception:
+                    remaining = 0
+                    reset = 0
 
-                    if not data.get('items'):
-                        break
+                if (e.code in (403, 429)) and remaining == 0 and reset:
+                    wait = max(0, reset - int(time.time())) + 1
+                    if wait > max_rate_wait:
+                        wait = max_rate_wait
+                    attempts += 1
+                    print(f"Rate limit hit (HTTP {e.code}). Sleeping {wait}s (attempt {attempts}) before retrying {url}")
+                    time.sleep(wait)
+                    continue
+                else:
+                    raise
+            except Exception:
+                raise
 
-                    for item in data['items']:
-                        commit_date = item['commit']['author']['date'].split('T')[0]
-                        repo_name = item['repository']['full_name']
-                        msg = item['commit']['message'].split('\n')[0]
-
-                        all_entries.append({
-                            'link': item['html_url'],
-                            'date': commit_date,
-                            'title': f"[{repo_name}] {msg}",
-                            'type': 'github commit'
-                        })
-
-                        if repo_name not in repos or commit_date > repos[repo_name]:
-                            repos[repo_name] = commit_date
-
-                    if len(data['items']) < per_page:
-                        break
-                    page += 1
-            except Exception as e:
-                print(f"Error fetching GitHub commits for {year} page {page}: {e}")
-                break
-
-    # Add README entries for each repo
-    for repo_name, last_date in repos.items():
-        # We need the default branch to construct the link to README.md in the root
-        # Or we can just use the repo URL + /blob/main/README.md as a guess,
-        # but let's try to get it properly if we can.
-        # To keep it simple and follow "link to the latest README.md in the root file"
-        # I'll use the API to get the repository information
-        print(f"  Fetching README info for {repo_name}...")
-        repo_url = f"https://api.github.com/repos/{repo_name}"
-        headers = {'User-Agent': 'Mozilla/5.0'}
-        if token:
-            headers['Authorization'] = f'token {token}'
+    # 1) List repos for the user (paginated)
+    repos = []
+    page = 1
+    per_page = 100
+    while True:
+        url = f"https://api.github.com/users/{username}/repos?per_page={per_page}&page={page}"
         try:
-            req = urllib.request.Request(repo_url, headers=headers)
-            with urllib.request.urlopen(req, timeout=10) as response:
-                repo_data = json.loads(response.read().decode('utf-8'))
-                default_branch = repo_data.get('default_branch', 'main')
-                readme_link = f"https://github.com/{repo_name}/blob/{default_branch}/README.md"
-                all_entries.append({
-                    'link': readme_link,
-                    'date': last_date,
-                    'title': f"[{repo_name}] README.md",
-                    'type': 'github readme'
-                })
+            data, resp = request_json(url)
         except Exception as e:
-            print(f"  Error fetching repo info for {repo_name}: {e}")
-            # Fallback
-            all_entries.append({
-                'link': f"https://github.com/{repo_name}/blob/main/README.md",
-                'date': last_date,
-                'title': f"[{repo_name}] README.md",
-                'type': 'github readme'
-            })
+            print(f"Error listing repos for {username}: {e}")
+            break
+        if not data:
+            break
+        repos.extend(data)
+        if len(data) < per_page:
+            break
+        page += 1
+        try:
+            remaining = int(resp.getheader('X-RateLimit-Remaining') or 0)
+            reset = int(resp.getheader('X-RateLimit-Reset') or 0)
+            if remaining <= 1:
+                wait = max(0, reset - int(time.time())) + 1
+                print(f"Rate limit reached, sleeping {wait}s")
+                time.sleep(wait)
+        except Exception:
+            pass
+
+    all_entries = []
+    repos_latest = {}
+
+    # 2) For each repo, list commits by the user
+    for repo in repos:
+        repo_name = repo.get('full_name')
+        if not repo_name:
+            continue
+        print(f"  Fetching commits for repo: {repo_name}...")
+        page = 1
+        while True:
+            commits_url = (f"https://api.github.com/repos/{repo_name}/commits"
+                           f"?author={urllib.parse.quote(username)}&per_page={per_page}&page={page}")
+            try:
+                items, resp = request_json(commits_url)
+            except Exception as e:
+                print(f"    Error fetching commits for {repo_name} page {page}: {e}")
+                break
+            if not items:
+                break
+            for item in items:
+                try:
+                    commit_date = item['commit']['author']['date'].split('T')[0]
+                    msg = item['commit']['message'].split('\n')[0]
+                    all_entries.append({
+                        'link': item.get('html_url'),
+                        'date': commit_date,
+                        'title': f"[{repo_name}] {msg}",
+                        'type': 'github commit'
+                    })
+                    if repo_name not in repos_latest or commit_date > repos_latest[repo_name]:
+                        repos_latest[repo_name] = commit_date
+                except Exception:
+                    continue
+
+            if len(items) < per_page:
+                break
+            page += 1
+
+            try:
+                remaining = int(resp.getheader('X-RateLimit-Remaining') or 0)
+                reset = int(resp.getheader('X-RateLimit-Reset') or 0)
+                if remaining <= 1:
+                    wait = max(0, reset - int(time.time())) + 1
+                    print(f"Rate limit reached, sleeping {wait}s")
+                    time.sleep(wait)
+            except Exception:
+                pass
+
+    # 3) Add README links for each repo using repo info from listing
+    for repo in repos:
+        repo_name = repo.get('full_name')
+        if not repo_name:
+            continue
+        last_date = repos_latest.get(repo_name, repo.get('pushed_at', '')[:10] if repo.get('pushed_at') else '')
+        default_branch = repo.get('default_branch', 'main')
+        readme_link = f"https://github.com/{repo_name}/blob/{default_branch}/README.md"
+        all_entries.append({
+            'link': readme_link,
+            'date': last_date,
+            'title': f"[{repo_name}] README.md",
+            'type': 'github readme'
+        })
 
     return all_entries
 
@@ -222,6 +287,12 @@ def fetch_legacy_html(base_url):
     to_visit = [base_url]
     visited = set()
     posts = []
+    seen_links = set()
+
+    # Only allow these text-like extensions; directories (paths ending with '/') are allowed
+    allowed_text_exts = {'.html', '.htm', '.txt', '.md'}
+    # Explicit blacklist for common non-text/code/binary extensions
+    blacklist_exts = {'.jpg', '.jpeg', '.png', '.gif', '.pdf', '.zip', '.doc', '.docx', '.exe', '.class', '.java', '.cpp', '.bin', '.o', '.so', '.dll', '.jar', '.tar', '.gz'}
 
     date_patterns = [
         (r'\b(\d{4}-\d{2}-\d{2})\b', '%Y-%m-%d'),
@@ -257,25 +328,53 @@ def fetch_legacy_html(base_url):
         title = html.unescape(title)
 
         if found_date_str and not url_no_frag.endswith(('index.html', 'navigator.html', 'rechts.html')):
-            posts.append({
-                'link': url_no_frag,
-                'date': found_date_str,
-                'title': title,
-                'type': 'legacy_html'
-            })
+            # normalize and filter by extension to include only text files
+            parsed = urllib.parse.urlparse(url_no_frag)
+            path = parsed.path or ''
+            if path.endswith('/'):
+                allow_post = True
+            else:
+                ext = os.path.splitext(path)[1].lower()
+                if not ext:
+                    allow_post = False
+                elif ext in blacklist_exts:
+                    allow_post = False
+                else:
+                    allow_post = ext in allowed_text_exts
+
+            if allow_post:
+                norm = url_no_frag.rstrip('/').lower()
+                if norm not in seen_links:
+                    seen_links.add(norm)
+                    posts.append({
+                        'link': url_no_frag,
+                        'date': found_date_str,
+                        'title': title,
+                        'type': 'legacy_html'
+                    })
 
         links = re.findall(r'href=["\'](.*?)["\']', content)
         for link in links:
             abs_link = urllib.parse.urljoin(url_no_frag, link).split('#')[0]
             if abs_link.startswith(base_url) and abs_link not in visited:
-                if not abs_link.lower().endswith(('.jpg', '.jpeg', '.png', '.gif', '.pdf', '.zip', '.doc', '.css', '.js')):
+                # continue crawling directories and HTML-like pages; skip common binary/media files
+                lower = abs_link.lower()
+                if not lower.endswith(('.jpg', '.jpeg', '.png', '.gif', '.pdf', '.zip', '.doc', '.css', '.js', '.exe', '.class', '.java', '.cpp', '.bin', '.o', '.so', '.dll')):
                     to_visit.append(abs_link)
 
     return posts
 
 def save_to_csv(data, filename):
-    os.makedirs('../data', exist_ok=True)
-    filepath = os.path.join('../data', filename)
+    # Delegate to save_to_csv_with_dir with the repo-root data directory
+    data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data')
+    save_to_csv_with_dir(data, filename, data_dir)
+
+
+def save_to_csv_with_dir(data, filename, data_dir=None):
+    if not data_dir:
+        data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data')
+    os.makedirs(data_dir, exist_ok=True)
+    filepath = os.path.join(data_dir, filename)
     with open(filepath, 'w', newline='', encoding='utf-8') as csvfile:
         fieldnames = ['Link', 'Date', 'Title', 'Type']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -291,14 +390,28 @@ def save_to_csv(data, filename):
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    data_dir = os.path.join(os.path.dirname(script_dir), "../data")
+    # place data directory at the repository root (same level as `scripts`)
+    data_dir = os.path.join(os.path.dirname(script_dir), "data")
     os.makedirs(data_dir, exist_ok=True)
 
     sources_file = os.path.join(script_dir, "sources.json")
     with open(sources_file, "r") as f:
         sources = json.load(f)
 
-    for source in sources:
+    # CLI arg handling: if called with 'all', process all sources
+    selected_sources = []
+    if len(sys.argv) > 1 and sys.argv[1].lower() == 'all':
+        selected_sources = sources
+    else:
+        # Build menu items
+        menu_items = [f"{s.get('type')} - {s.get('url')}" for s in sources]
+        sel = interactive_menu(menu_items, title="Select a source to fetch (Enter to confirm)")
+        if sel is None:
+            print("No selection made. Exiting.")
+            return
+        selected_sources = [sources[sel]]
+
+    for source in selected_sources:
         type_name = source['type']
         data = []
         if type_name == 'wordpress':
@@ -310,7 +423,73 @@ def main():
         elif type_name == 'github':
             data = fetch_github(source['url'])
 
-        save_to_csv(data, f"sources_{type_name}.csv", data_dir)
+        save_to_csv_with_dir(data, f"sources_{type_name}.csv", data_dir)
+
+
+def _getch():
+    if msvcrt:
+        return msvcrt.getch()
+    else:
+        fd = sys.stdin.fileno()
+        old_settings = termios.tcgetattr(fd)
+        try:
+            tty.setraw(sys.stdin.fileno())
+            ch = sys.stdin.read(1)
+            return ch.encode()
+        finally:
+            termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
+
+
+def interactive_menu(options, title=None):
+    idx = 0
+    while True:
+        # clear screen
+        if os.name == 'nt':
+            os.system('cls')
+        else:
+            os.system('clear')
+
+        if title:
+            print(title)
+        print('Use Up/Down arrows and Enter to select. Ctrl-C to cancel.')
+        for i, opt in enumerate(options):
+            prefix = '=> ' if i == idx else '   '
+            print(f"{prefix}{opt}")
+
+        try:
+            ch = _getch()
+        except Exception:
+            print('\nInput error; falling back to numeric selection.')
+            for i, opt in enumerate(options):
+                print(f"{i+1}. {opt}")
+            try:
+                choice = int(input('Enter number: ')) - 1
+                if 0 <= choice < len(options):
+                    return choice
+            except Exception:
+                return None
+
+        # Windows msvcrt returns b'\r' for Enter, arrow keys are two-byte sequences
+        if msvcrt:
+            if ch in (b'\r', b'\n'):
+                return idx
+            if ch in (b'\x00', b'\xe0'):
+                ch2 = msvcrt.getch()
+                if ch2 == b'H':
+                    idx = (idx - 1) % len(options)
+                elif ch2 == b'P':
+                    idx = (idx + 1) % len(options)
+        else:
+            # Unix: arrow sequences start with ESC (27)
+            if ch == b'\n' or ch == b'\r':
+                return idx
+            if ch == b'\x1b':
+                # read two more
+                rest = sys.stdin.read(2)
+                if rest == '[A':
+                    idx = (idx - 1) % len(options)
+                elif rest == '[B':
+                    idx = (idx + 1) % len(options)
 
 if __name__ == "__main__":
     main()

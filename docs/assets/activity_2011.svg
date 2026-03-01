@@ -2,7 +2,7 @@
 <text x="5" y="39" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="63" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="87" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
-<a href="https://kreier.github.io/quartz/Diary/2011"><rect x="30" y="90" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2011-01-01: 1 entry
+<a href="https://kreier.github.io/quartz/Diary/2011"><rect x="30" y="90" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2011-01-01: 1 entry
 2011</title></rect></a>
 <text x="42" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect x="42" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-01-02: 0 entries</title></rect>
@@ -35,8 +35,17 @@
 <rect x="78" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-01-29: 0 entries</title></rect>
 <rect x="90" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-01-30: 0 entries</title></rect>
 <rect x="90" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-01-31: 0 entries</title></rect>
-<rect x="90" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-02-01: 0 entries</title></rect>
-<rect x="90" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-02-02: 0 entries</title></rect>
+<a href="https://github.com/kreier/ar65view-svn/commit/a42d2af15b077f87e7e0abeb8de4595e9532afdf"><rect x="90" y="42" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2011-02-01: 5 entries
+[kreier/ar65view-svn] 
+[kreier/ar65view-svn] 
+[kreier/ar65view-svn] 
+[kreier/ar65view-svn] 
+[kreier/ar65view-svn] </title></rect></a>
+<a href="https://github.com/kreier/ar65view-svn/commit/203a67d7d51cd0aa04de455743bab20fb1ac8881"><rect x="90" y="54" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2011-02-02: 4 entries
+[kreier/ar65view-svn] latest compressed signed JAR-file
+[kreier/ar65view-svn] remove more UTF-8 errors
+[kreier/ar65view-svn] remove ISO - UTF-8 errors
+[kreier/ar65view-svn] remove UTF-8 errors</title></rect></a>
 <rect x="90" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-02-03: 0 entries</title></rect>
 <rect x="90" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-02-04: 0 entries</title></rect>
 <rect x="90" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-02-05: 0 entries</title></rect>
