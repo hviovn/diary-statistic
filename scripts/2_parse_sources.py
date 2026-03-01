@@ -104,14 +104,20 @@ def process_csv(source_type, data_dir):
         for row in reader:
             link = row['Link']
             row_type = row['Type']
+            title = row.get('Title', '')
 
-            print(f"  Fetching content for {link}...")
+            print(f"  Processing {link}...")
             content = ""
             if source_type in ['wordpress', 'quartz', 'legacy_html']:
                 raw_content = fetch_url(link)
                 content = strip_html(raw_content)
             elif source_type == 'github':
-                content = fetch_github_content(link, row_type)
+                if row_type == 'github commit':
+                    # Use commit message from title to avoid API rate limiting
+                    # Title format: "[repo] message"
+                    content = re.sub(r'^\[.*?\]\s*', '', title)
+                else:
+                    content = fetch_github_content(link, row_type)
 
             results.append({
                 'link': link,
