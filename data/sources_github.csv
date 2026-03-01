@@ -1,4 +1,19 @@
 Link,Date,Title,Type
+https://github.com/kreier/quartz/commit/e7356a535db9b8778519737d8a693f581a412304,2026-03-01,[kreier/quartz] Some reflection on 1997,github commit
+https://github.com/hviovn/diary-statistic/commit/f51bbe9984b472fd8d3dbaf079ebe4f30f6a6e8f,2026-03-01,[hviovn/diary-statistic] Merge pull request #16 from hviovn/split,github commit
+https://github.com/hviovn/diary-statistic/commit/cf04cdf21914c59112414c191f568bb2d99c4a30,2026-03-01,[hviovn/diary-statistic] fix final step,github commit
+https://github.com/hviovn/diary-statistic/commit/67834431426925ed8491e0f917b8bea7349630a6,2026-03-01,[hviovn/diary-statistic] Fixed step 2 and 3,github commit
+https://github.com/kreier/ml/commit/b73b3cddf38d318147d3c1189c4912afdef46eb7,2026-03-01,[kreier/ml] Update rollup version to 2.80.0,github commit
+https://github.com/kreier/dictionary/commit/d78ab5f94cee1e72aa0830680e0d2ead7a11e1d5,2026-03-01,[kreier/dictionary] visualize example,github commit
+https://github.com/kreier/dictionary/commit/b541f2735a7a9f4c5626edff79eacf22e35aeb73,2026-03-01,[kreier/dictionary] Enhance README with project details and goals,github commit
+https://github.com/kreier/dictionary/commit/fcd9482bd451e4408065342985e336d0d2c339d8,2026-03-01,[kreier/dictionary] Add README for submitted JSON files,github commit
+https://github.com/kreier/dictionary/commit/4067318e9e7732d7ef493949c6d8b61d8c5f645a,2026-03-01,[kreier/dictionary] Boilerplate from Claude,github commit
+https://github.com/kreier/dictionary/commit/fda098c7001a76956bc4546deb504ae2be6aca18,2026-03-01,[kreier/dictionary] creating data foundation,github commit
+https://github.com/kreier/dictionary/commit/63eb3b026f421ebce9c61467e6ea7a4a83b2ec1f,2026-03-01,[kreier/dictionary] Add .DS_Store to .gitignore for Synology Diskstation,github commit
+https://github.com/kreier/dictionary/commit/9244414512326bb1c0fd4b3e39f968aaed2bbbe4,2026-03-01,[kreier/dictionary] Initial commit,github commit
+https://github.com/hviovn/diary-statistic/commit/0a53862a7e093ef7ea80a96e461506ce773ace39,2026-03-01,[hviovn/diary-statistic] include tested simple parse,github commit
+https://github.com/hviovn/diary-statistic/commit/f5427b0f188aacd0b25f437328dff9f237a7b5de,2026-03-01,[hviovn/diary-statistic] Merge pull request #14 from hviovn/add-parse-website-words-script-196253020999008363,github commit
+https://github.com/hviovn/diary-statistic/commit/0265da5ba256759868703e759884f5ef8d607bd8,2026-03-01,[hviovn/diary-statistic] manual split of responsibilities,github commit
 https://github.com/hviovn/new-vocabulary/commit/268b562063bbfd31add802a8495ca9f534c6f565,2026-03-01,[hviovn/new-vocabulary] the dates were all wrong,github commit
 https://github.com/hviovn/new-vocabulary/commit/7325b9519280b7699d59a04db2b0b2bbd0565cf3,2026-02-28,[hviovn/new-vocabulary] Merge pull request #2 from hviovn/feature/clickable-thumbnails-844169335408701926,github commit
 https://github.com/hviovn/new-vocabulary/commit/73c94681760209bfee2ffd1a8d1875d38332f50e,2026-02-28,[hviovn/new-vocabulary] Parse first example.,github commit
@@ -893,109 +908,11 @@ https://github.com/kreier/llama.cpp-jetson/commit/3845de83abcc216f5925e347728592
 https://github.com/kreier/llama.cpp-jetson/commit/3da6b6a272eec29ae7c00b02a90499c8cd27cdbc,2025-04-14,[kreier/llama.cpp-jetson] short description in 11 steps,github commit
 https://github.com/kreier/llama.cpp-jetson/commit/5fbbdacf5063a24e3479a10ea2f7e509715c998a,2025-04-13,[kreier/llama.cpp-jetson] Overview of patches in the introduction,github commit
 https://github.com/kreier/llama.cpp-jetson/commit/33aea20b6e0171a0db49b145f244a77dd1b2ca6b,2025-04-13,[kreier/llama.cpp-jetson] restructured patches,github commit
-https://github.com/kreier/llama.cpp-jetson.nano/commit/b06384871ddfb9bf8be34b67365b8692e8500afe,2025-04-13,[kreier/llama.cpp-jetson.nano] switch to bash since source is not available in sh,github commit
-https://github.com/kreier/llama.cpp-jetson.nano/commit/d5bf0cb59ad58713c18bcc13b2636bdf68d29920,2025-04-13,[kreier/llama.cpp-jetson.nano] include newer library for GCC 9.4,github commit
-https://github.com/kreier/llama.cpp-jetson.nano/commit/6bf07790b429e4061a99704c49e98ce074ed5dbf,2025-04-12,[kreier/llama.cpp-jetson.nano] build 5113 2025-04-11 with gcc 9.4,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/766e39ebfac4eb4332ab3b9b9338252fb7110e96,2025-04-11,[kreier/llama.cpp-jetson] fix details for b4400 and others,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/e0e2cfc9027608afb83af4f84b4b423fe796b197,2025-04-11,"[kreier/llama.cpp-jetson] updated graphs TinyLlama inference speed, minor fixes",github commit
-https://github.com/kreier/llama.cpp-jetson/commit/90bee2b7bcc2e88d73054a388ad5fdd79154800d,2025-04-11,[kreier/llama.cpp-jetson] Merge branch 'main' of https://github.com/kreier/llama.cpp-jetson,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/010c86a8bd90e790376832b3d8af38c2bb5e35db,2025-04-11,[kreier/llama.cpp-jetson] updated graph speed comparison,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/0c476df91d7e309934ea9e9b81d6955e9586158b,2025-04-11,[kreier/llama.cpp-jetson] times for gcc 9.4 8.4 and 8.5,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/5abd73ac3027f7e73c38c74eaa5f6a0f6fe3c374,2025-04-11,[kreier/llama.cpp-jetson] fix and document cmake installation,github commit
-https://github.com/kreier/jetson/commit/508d4f8aa0d5ab22e9c10967fa281ea7bd845507,2025-04-11,[kreier/jetson] include build 5050 2025-04-05,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/b0d6ef59ee95bbf1b5879bed2580f4e066375cd5,2025-04-11,[kreier/llama.cpp-jetson] include installation of build 5050 in 1 minute,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/1eb83966b2a9cc268037d1b5e929e05bd0bb024d,2025-04-11,[kreier/llama.cpp-jetson] fix jtop installation,github commit
-https://github.com/kreier/jetson/commit/35769ec322f4e380084cf793980ab7ccd0b441e4,2025-04-11,"[kreier/jetson] first start relocated, fixed jtop installation",github commit
-https://github.com/kreier/llama.cpp-jetson.nano/commit/480424128d568850e2c2e93be3ac4b3d7c1c4e6c,2025-04-11,[kreier/llama.cpp-jetson.nano] update library path with script,github commit
-https://github.com/kreier/llama.cpp-jetson.nano/commit/30677c4e417a00993b9791da89e7a282b1ed955a,2025-04-11,[kreier/llama.cpp-jetson.nano] First startup is 7 minutes,github commit
-https://github.com/kreier/llama.cpp-jetson.nano/commit/19d4aee1a4aeafec882c2ef28ba831cacf7eb1cc,2025-04-11,[kreier/llama.cpp-jetson.nano] include 4 more necessary libraries,github commit
-https://github.com/kreier/jetson/commit/a5c5a7127f02232f11f15b01214d276b86af2879,2025-04-11,"[kreier/jetson] document first start, setup and time",github commit
-https://github.com/kreier/jetson/commit/ddd4092c5aa39808672ea054f5c7b384fba60800,2025-04-10,[kreier/jetson] activate links of Overview,github commit
-https://github.com/kreier/jetson/commit/bb4b2ddebca271e846e6efbaf789f534586f41d5,2025-04-10,[kreier/jetson] structured and reorganized documentation,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/bfa01a9df0d38ae37e77558811b68de634e75820,2025-04-10,[kreier/llama.cpp-jetson] exported layers speed up - graph and explanantion,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/e10c1473f03914ba98fe18ef9ed1a75870790c01,2025-04-10,[kreier/llama.cpp-jetson] Merge branch 'main' of https://github.com/kreier/llama.cpp-jetson,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/561b654962d8baf04f9ad5b3319e1a51f0187639,2025-04-10,[kreier/llama.cpp-jetson] speed dependence on exported layers GPU,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/bf662b155c9984a54a3bd147a3200bbfbde5f8d8,2025-04-10,[kreier/llama.cpp-jetson] include graph for prompt processing speed dependence,github commit
-https://github.com/kreier/llama.cpp-jetson.nano/commit/0f86ce54d24730cd6834c4a721421aea70dc7dac,2025-04-10,"[kreier/llama.cpp-jetson.nano] fixed description, explained 71 files",github commit
-https://github.com/kreier/llama.cpp-jetson/commit/0082d52c725bb240118682426a6ad3ef94cd72ef,2025-04-10,[kreier/llama.cpp-jetson] faster prompt processing with longer prompts,github commit
-https://github.com/kreier/llama.cpp-jetson.nano/commit/f91888f5afeeb0de2fe4147aeb5a8b466090b21e,2025-04-10,[kreier/llama.cpp-jetson.nano] build 5050 from 2025-04-05,github commit
-https://github.com/kreier/llama.cpp-jetson.nano/commit/913924d4d40c4faa8b3bb1b0d137ca6b00b7958a,2025-04-10,[kreier/llama.cpp-jetson.nano] Update README.md,github commit
-https://github.com/kreier/llama.cpp-jetson.nano/commit/7627dc8e80bc9ad2d746fbb737b69d4593c773ce,2025-04-10,[kreier/llama.cpp-jetson.nano] example answer from llama-server,github commit
-https://github.com/kreier/llama.cpp-jetson.nano/commit/3d1f831aebb6e3210b99ed7e3a3b5f8064057ca2,2025-04-10,[kreier/llama.cpp-jetson.nano] fix file location,github commit
-https://github.com/kreier/llama.cpp-jetson.nano/commit/aec302a27cb832c72cfc87d8082fba8c51ac0563,2025-04-10,[kreier/llama.cpp-jetson.nano] using temporary directory for install,github commit
-https://github.com/kreier/llama.cpp-jetson.nano/commit/63f7d5b173bae1db9c5d3ac4e91fa852b244e13e,2025-04-09,[kreier/llama.cpp-jetson.nano] fix #1 mkdir error,github commit
-https://github.com/kreier/llama.cpp-jetson.nano/commit/45df7d9cb066d49473d8214fd68833f3902e254b,2025-04-09,[kreier/llama.cpp-jetson.nano] include available() and require(),github commit
-https://github.com/kreier/llama.cpp-jetson.nano/commit/12071f23bf3d80827cd6db0b8bdcaf65fb637650,2025-04-09,[kreier/llama.cpp-jetson.nano] fix INSTALL_DIR path,github commit
-https://github.com/kreier/llama.cpp-jetson.nano/commit/a4d3258f5c3b50e6701af9b0471a17a30de3d461,2025-04-09,[kreier/llama.cpp-jetson.nano] build 5050 from April 2025,github commit
-https://github.com/kreier/llama.cpp-jetson.nano/commit/3031ea699e2522125efe96f57b454899a4ba0077,2025-04-09,[kreier/llama.cpp-jetson.nano] Initial commit,github commit
-https://github.com/kreier/aa/commit/b12cb6216783fcfa514daae4220c35f3b0bba01f,2025-04-09,[kreier/aa] Merge branch 'main' of https://github.com/kreier/aa,github commit
-https://github.com/kreier/aa/commit/820f6037d028d6b1a358687bd10a5c5125b8c4ae,2025-04-09,[kreier/aa] expand cross-references,github commit
-https://github.com/kreier/aa/commit/74f83466e88c8d24add94c31bc6df99189cee0d4,2025-04-09,[kreier/aa] include reference link and some images,github commit
-https://github.com/kreier/aa/commit/b0416486e715451eaaf53aadfb1d4d6e78a9af50,2025-04-09,[kreier/aa] Merge branch 'main' of https://github.com/kreier/aa,github commit
-https://github.com/kreier/aa/commit/ea20cb1a272b546d8de31f6aa3189117c7515a02,2025-04-09,[kreier/aa] include standards,github commit
-https://github.com/kreier/aa/commit/7b48eaef4963005fa6c6ecf826751208f5e49474,2025-04-09,[kreier/aa] include badges,github commit
-https://github.com/kreier/aa/commit/8c94cb12f8ddf34efb87894104b3966eeb53f3ed,2025-04-09,[kreier/aa] documentation 2022-2023,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/4698e643ff902ca33b1073f9421750fd16654ced,2025-04-08,"[kreier/llama.cpp-jetson] explain relevance, include graph vor comparison",github commit
-https://github.com/kreier/llama.cpp-jetson/commit/a8c83f1afde370f806fff29fec263a55d86b7e6e,2025-04-08,[kreier/llama.cpp-jetson] patches from early 2024,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/4593b62ef6720cc218a1c130c1fe77d8d6679820,2025-04-08,"[kreier/llama.cpp-jetson] include more benchmarks, links to data and visualizations",github commit
-https://github.com/kreier/llama.cpp-jetson/commit/6ac74b8c7b36d0a1e864380ad00d42526ba8847a,2025-04-08,[kreier/llama.cpp-jetson] results of 11 different prompts with 3 llm processors,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/5ea7e121dc5e6e397bb914110feb40367e22f1be,2025-04-07,[kreier/llama.cpp-jetson] updated graphics and metrics,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/20aa0921357b5e74a802ae96f1b74932645d2935,2025-04-07,[kreier/llama.cpp-jetson] optimized screenshots,github commit
-https://github.com/kreier/jetson/commit/025c61eaf7424c7aff6cc904b3b694dff2822388,2025-04-07,[kreier/jetson] optimized screenshots,github commit
-https://github.com/kreier/jetson/commit/8051c35020c0703ab33efc7080fea69f49d71aed,2025-04-07,[kreier/jetson] updated graph,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/031e37366b9005f39828b994d77db3354cebca7f,2025-04-07,[kreier/llama.cpp-jetson] updated graph and details,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/419f4337fc18a7f7c1485341459bdc3bfa8e80a2,2025-04-06,[kreier/llama.cpp-jetson] fix Gemma3 4b benchmark results,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/9d524ea0003b374a8e76599e4a758f046f28b93e,2025-04-06,[kreier/llama.cpp-jetson] applications and Gemma3 4B,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/d56cb54391e4948bfa13a5a364660475134651cc,2025-04-05,[kreier/llama.cpp-jetson] Create install.sh,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/41ee7204a5e752ab527dc4691b0bc6509a3fee7e,2025-04-05,[kreier/llama.cpp-jetson] reference this repository,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/86982887b8356af498c2dbfb90a69a503ad5e397,2025-04-05,[kreier/llama.cpp-jetson] move documentation from gist to repository,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/9498bdb1e1d88abc18da3d776baef25f630e7758,2025-04-05,[kreier/llama.cpp-jetson] successfully compiled 2025-04-05,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/0fd24402325a9b2c58ff208b957e9cbf0d925287,2025-04-05,[kreier/llama.cpp-jetson] Update .gitignore for Synology,github commit
-https://github.com/kreier/jetson/commit/e5a8cea1ef9c1c59b4b9e075af731905671a3d70,2025-04-05,[kreier/jetson] Merge branch 'main' of https://github.com/kreier/jetson,github commit
-https://github.com/kreier/jetson/commit/634526b91c4e81d3c7aab94589968b6f9f11cc4e,2025-04-05,[kreier/jetson] screenshot from the actual compilation,github commit
-https://github.com/kreier/llama.cpp-jetson/commit/e9acb80396cbba4086c806d12dc857ec3bf89a91,2025-04-05,[kreier/llama.cpp-jetson] Initial commit,github commit
-https://github.com/kreier/jetson/commit/0acc712fdf800f33c4c0deb8bcfe8e5eb3a57bf8,2025-04-05,[kreier/jetson] improved documentation,github commit
-https://github.com/kreier/jetson/commit/606899502f293493a3fadd0dcf52571ddaf21f73,2025-04-05,[kreier/jetson] expand on prerequisites,github commit
-https://github.com/kreier/jetson/commit/567b4f0346481d85c1f137fe513859953077d5da,2025-04-05,[kreier/jetson] timestamp compiling b5050,github commit
-https://github.com/kreier/jetson/commit/0d8cdf4bf346d192d40285cbd22a62963f2d2d03,2025-04-04,[kreier/jetson] include latest benchmarks with b5043,github commit
-https://github.com/kreier/jetson/commit/1f55abb2fc37a2a56480a809341704a9601df117,2025-04-04,[kreier/jetson] latest run with gemma3:1b and llama.cpp 5043 CUDA,github commit
-https://github.com/kreier/jetson/commit/07a2a1a125df0412f5392fadbffebddabe1d5346,2025-04-04,[kreier/jetson] patch for b5050,github commit
-https://github.com/kreier/jetson/commit/95a97678cace98f108340a9645f5141cfd90f30e,2025-04-04,[kreier/jetson] visuals for TinyLlama,github commit
-https://github.com/kreier/jetson/commit/4d1be82620bd6113c137ff975a26d49b1431e63c,2025-04-04,[kreier/jetson] optimize graphics,github commit
-https://github.com/kreier/jetson/commit/0ed91dfa6fd82ab38349c244ad2014bc05a29395,2025-04-04,[kreier/jetson] compare speed with Gemma3,github commit
-https://github.com/kreier/jetson/commit/a86a448ef09a3bda0a2fff0f74837c4386229ff3,2025-04-03,[kreier/jetson] restructured instructions to compile with CUDA support,github commit
-https://github.com/kreier/jetson/commit/7916adccfbe52b1b21036d7a0345f4fc11dcfc91,2025-04-03,[kreier/jetson] Old document from March 2025,github commit
-https://github.com/kreier/jetson/commit/c494bb06d3ca0b8fac5fa9df8d90460381360bc2,2025-04-03,[kreier/jetson] Merge branch 'main' of https://github.com/kreier/jetson,github commit
-https://github.com/kreier/jetson/commit/5166f120ad5c52fecae91004e042976d2aec027b,2025-04-03,[kreier/jetson] document GPU usage,github commit
-https://github.com/kreier/jetson/commit/83648668fd12293145f0c75ed341f0fa0f3592aa,2025-04-03,[kreier/jetson] include recend instructions,github commit
-https://github.com/kreier/ml/commit/a1221831b6600dea66f5519366bfd3616e0d841c,2025-04-03,"[kreier/ml] fix toolkit 12.8.1 installation, including WSL",github commit
-https://github.com/kreier/jetson/commit/a9328b66e5735cbebaeee6ba6b78dd67ecc1e4ef,2025-04-03,[kreier/jetson] Update benchmark.md,github commit
-https://github.com/kreier/jetson/commit/27b66ca354e252bf1b325fc14e066dbb9dc14624,2025-04-02,[kreier/jetson] result with b4400 from Dec 2024,github commit
-https://github.com/kreier/jetson/commit/262436c720be350baae467c118a11bf556f1cad4,2025-04-02,[kreier/jetson] even newer version of llama.cpp from end 2024,github commit
-https://github.com/kreier/jetson/commit/13cb2ee475e435d814ca59f3d76ecc53d9969312,2025-04-01,[kreier/jetson] results for b1618 with gcc 8.5.0,github commit
-https://github.com/kreier/jetson/commit/08620b763aae4614994a767524558217e77426e8,2025-04-01,"[kreier/jetson] fixed instructions, finally working",github commit
-https://github.com/kreier/jetson/commit/d15836f72c9007f7940d2d61ff24a381e28bed38,2025-04-01,[kreier/jetson] fixed install script,github commit
-https://github.com/kreier/jetson/commit/c4384c3f726abe92d4aaf42ace8f784bc488fdfc,2025-04-01,[kreier/jetson] restructure for cmake and gcc-8,github commit
-https://github.com/kreier/jetson/commit/45207407225e7bdb9bc85e1216a236cd3634da7f,2025-03-31,[kreier/jetson] document new installation,github commit
-https://github.com/kreier/jetson/commit/2e8f8ccc7aa985ac434a681ade157d41503e040b,2025-03-30,[kreier/jetson] some ideas for automated installation and time requirements,github commit
-https://github.com/kreier/timeline/commit/85e2a0d1a2ebffa1eea98688e625dd8c3de0bef0,2025-03-29,[kreier/timeline] document history and cleanup,github commit
-https://github.com/kreier/jetson/commit/4ab40900ad4b59458fd37ae3129c3ed6cd71f514,2025-03-29,[kreier/jetson] Merge branch 'main' of https://github.com/kreier/jetson,github commit
-https://github.com/kreier/jetson/commit/f40a48f488b6da747aa2ce7959a54020bafcd67a,2025-03-29,[kreier/jetson] results from GPU runs,github commit
-https://github.com/kreier/jetson/commit/0aa8bf49049c5bd78f837e33d2c46df4ebecd64f,2025-03-29,[kreier/jetson] Update benchmark.md,github commit
-https://github.com/kreier/jetson/commit/2edcbe7b77ea782c7fd810b46a7b4525b39dbac2,2025-03-29,[kreier/jetson] GPU actually used!,github commit
-https://github.com/kreier/jetson/commit/fdecf3b1e4ebe44c00c98e0b863fa350208444b7,2025-03-28,[kreier/jetson] document 8x pp512 speed with old GPU build,github commit
-https://github.com/kreier/jetson/commit/8426384f82a4f322b09b8774cb5fa73194f57084,2025-03-28,[kreier/jetson] move images from private to public,github commit
-https://github.com/kreier/jetson/commit/4843eab6bb7879159e3688dd2a75b1e554921386,2025-03-28,[kreier/jetson] Create benchmark.md with some GPU accelerated 1 year old versions,github commit
-https://github.com/kreier/jetson/commit/f791f732e199b514c2b4a2c4c2e6c7a6ecb4bdae,2025-03-28,[kreier/jetson] compute_80 not supported,github commit
-https://github.com/kreier/jetson/commit/1caa548e8ee849ad1e41e57dc94f0d2508e6016e,2025-03-28,"[kreier/jetson] Instructions to compile for gcc-8, gcc-9 and CUDA 10.2",github commit
-https://github.com/kreier/timeline/commit/c787687d6a079f01e70ff215513512552f4d6a51,2025-03-28,[kreier/timeline] update table with statistics,github commit
-https://github.com/kreier/timeline/commit/4775c58e8842c7ddbeceb1faaa3b116e64c6d983,2025-03-28,[kreier/timeline] Merge pull request #63 from kreier/5.3,github commit
-https://github.com/kreier/jetson/commit/7588d335287b2db14c76fba8d62426355ca522b2,2025-03-28,[kreier/jetson] compiling for CUDA up to 34%,github commit
-https://github.com/kreier/jetson/commit/6250cf6bf6303de9fea31b98ec933bcd26287303,2025-03-27,[kreier/jetson] expand documentation,github commit
-https://github.com/kreier/jetson/commit/5254adb32ec9ccfd1aaefe9fb5132c4287af497d,2025-03-27,[kreier/jetson] include pictures for documentation,github commit
+https://github.com/kreier/quartz/blob/v4/README.md,2026-03-01,[kreier/quartz] README.md,github readme
+https://github.com/hviovn/diary-statistic/blob/main/README.md,2026-03-01,[hviovn/diary-statistic] README.md,github readme
+https://github.com/kreier/ml/blob/main/README.md,2026-03-01,[kreier/ml] README.md,github readme
+https://github.com/kreier/dictionary/blob/main/README.md,2026-03-01,[kreier/dictionary] README.md,github readme
 https://github.com/hviovn/new-vocabulary/blob/main/README.md,2026-03-01,[hviovn/new-vocabulary] README.md,github readme
-https://github.com/hviovn/diary-statistic/blob/main/README.md,2026-02-28,[hviovn/diary-statistic] README.md,github readme
-https://github.com/kreier/quartz/blob/v4/README.md,2026-02-26,[kreier/quartz] README.md,github readme
 https://github.com/kreier/obsidian/blob/main/README.md,2026-02-25,[kreier/obsidian] README.md,github readme
 https://github.com/kreier/homelab/blob/main/README.md,2026-02-24,[kreier/homelab] README.md,github readme
 https://github.com/kreier/llama.cpp-jetson/blob/main/README.md,2026-02-24,[kreier/llama.cpp-jetson] README.md,github readme
@@ -1014,7 +931,6 @@ https://github.com/ssis-aa/collaborative-code/blob/main/README.md,2026-02-09,[ss
 https://github.com/hviovn/hello-world/blob/main/README.md,2026-02-08,[hviovn/hello-world] README.md,github readme
 https://github.com/kreier/location24/blob/main/README.md,2026-02-05,[kreier/location24] README.md,github readme
 https://github.com/kreier/hv.io.vn/blob/main/README.md,2026-02-03,[kreier/hv.io.vn] README.md,github readme
-https://github.com/kreier/ml/blob/main/README.md,2026-02-02,[kreier/ml] README.md,github readme
 https://github.com/kreier/swagger/blob/main/README.md,2026-01-21,[kreier/swagger] README.md,github readme
 https://github.com/kreier/picow/blob/main/README.md,2026-01-21,[kreier/picow] README.md,github readme
 https://github.com/kreier/igshcmc/blob/main/README.md,2026-01-20,[kreier/igshcmc] README.md,github readme
@@ -1054,4 +970,3 @@ https://github.com/kreier/jetson/blob/main/README.md,2025-05-09,[kreier/jetson] 
 https://github.com/kreier/cuda/blob/main/README.md,2025-04-26,[kreier/cuda] README.md,github readme
 https://github.com/kreier/llama.cpp-jetson.nano/blob/main/README.md,2025-04-20,[kreier/llama.cpp-jetson.nano] README.md,github readme
 https://github.com/kreier/hacks/blob/main/README.md,2025-04-19,[kreier/hacks] README.md,github readme
-https://github.com/kreier/aa/blob/main/README.md,2025-04-09,[kreier/aa] README.md,github readme
