@@ -125,7 +125,7 @@ def process_csv(source_type, data_dir):
             })
 
     with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['link', 'content']
+        fieldnames = ['Link', 'Content']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         for row in results:
@@ -134,7 +134,7 @@ def process_csv(source_type, data_dir):
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    data_dir = os.path.join(os.path.dirname(script_dir), "../data")
+    data_dir = os.path.join(os.path.dirname(script_dir), "data")
     os.makedirs(data_dir, exist_ok=True)
 
     sources = ['wordpress', 'quartz', 'legacy_html', 'github']

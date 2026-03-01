@@ -1,0 +1,1057 @@
+Link,Date,Title,Word Count,Character Count
+https://github.com/hviovn/new-vocabulary/commit/268b562063bbfd31add802a8495ca9f534c6f565,2026-03-01,[hviovn/new-vocabulary] the dates were all wrong,5,24
+https://github.com/hviovn/new-vocabulary/commit/7325b9519280b7699d59a04db2b0b2bbd0565cf3,2026-02-28,[hviovn/new-vocabulary] Merge pull request #2 from hviovn/feature/clickable-thumbnails-844169335408701926,10,81
+https://github.com/hviovn/new-vocabulary/commit/73c94681760209bfee2ffd1a8d1875d38332f50e,2026-02-28,[hviovn/new-vocabulary] Parse first example.,3,20
+https://github.com/hviovn/new-vocabulary/commit/b8ac453d7d12dae0d535e194a24d5a40571324e1,2026-02-28,[hviovn/new-vocabulary] match image names to content,5,28
+https://github.com/hviovn/new-vocabulary/commit/e318d008f88480964c47b170e9b32d819181fb59,2026-02-28,[hviovn/new-vocabulary] cleanup,1,7
+https://github.com/hviovn/new-vocabulary/commit/a66224d926a4058edf83b8b2be5c55cf120e8b85,2026-02-28,[hviovn/new-vocabulary] import picture sources,3,22
+https://github.com/hviovn/new-vocabulary/commit/ef0bda50caa96e1b11d44679661cf6cfbecd089f,2026-02-28,[hviovn/new-vocabulary] Add .DS_Store to .gitignore for Synology Diskstation,7,52
+https://github.com/hviovn/diary-statistic/commit/a7eaf53fc644c7b5d3a38ae901036485e5459ab6,2026-02-28,[hviovn/diary-statistic] Merge pull request #9 from hviovn/fix-jekyll-error-and-split-output-15352974587547767671,13,88
+https://github.com/hviovn/diary-statistic/commit/1e4ed8aff877707087715ef491a471690f85386b,2026-02-27,[hviovn/diary-statistic] Update README for clarity and grammar,6,37
+https://github.com/kreier/quartz/commit/252c674695144c355f7a5e30b602a02ef5211b41,2026-02-26,"[kreier/quartz] fix typos, more benchmark from penta server",7,43
+https://github.com/kreier/quartz/commit/5d5046355d432bfa5f97f270b17cca832d0e3d83,2026-02-26,[kreier/quartz] fixed server error message,4,26
+https://github.com/kreier/quartz/commit/b3b0fe97ad2e29dec8bb9aff92509ff4b93a4fa3,2026-02-26,[kreier/quartz] Hardware collection and other history artifacts,6,47
+https://github.com/kreier/quartz/commit/1e023eaa9ff97a0adceec3fa727a99e2346f0f44,2026-02-25,[kreier/quartz] Tschechientour update,2,21
+https://github.com/kreier/quartz/commit/ce28da3789bd2b4f7fa91ac247fb5e9a16fec577,2026-02-25,"[kreier/quartz] Quartz sync: Feb 25, 2026, 4:29 PM",8,34
+https://github.com/kreier/obsidian/commit/ab4f8f561c1cfdd1fbcd4fbe9fa93398f9e2b594,2026-02-25,[kreier/obsidian] step two in automated syncing,5,29
+https://github.com/kreier/obsidian/commit/ea79d2272f9f4f165bcf6aabd3d6151f1c878768,2026-02-25,[kreier/obsidian] sync: update vault/saiht from quartz/content (2026-02-25),10,57
+https://github.com/kreier/obsidian/commit/056f5502203d8c7ab35981a4c1102242830434d2,2026-02-25,[kreier/obsidian] start automated workflow,3,24
+https://github.com/kreier/obsidian/commit/27fe2ef6a506a3084f8779452177888a65e04c77,2026-02-25,[kreier/obsidian] Add 'vault/saiht/' from commit '8facfbedf07014a37b4cc6c6ef7a1756492e5795',6,73
+https://github.com/kreier/obsidian/commit/13fd581c7b7e6cd7ca54f70e149025d80fb23dc7,2026-02-25,[kreier/obsidian] Move saiht to saiht_old to clear path for subtree,9,49
+https://github.com/kreier/obsidian/commit/8facfbedf07014a37b4cc6c6ef7a1756492e5795,2026-02-25,[kreier/obsidian] branch for Obsidian content,4,27
+https://github.com/kreier/obsidian/commit/eb49403b0fd6801a178747670cb6d51cff8bc91b,2026-02-25,[kreier/obsidian] prepare complete history import,4,31
+https://github.com/kreier/homelab/commit/6e8ac409c1eb36ba6a74723c08eb89388ac9dd54,2026-02-24,[kreier/homelab] fix idle shutdown,3,17
+https://github.com/kreier/quartz/commit/edd894aff027adbea5caa74e22940db0d74edec8,2026-02-24,[kreier/quartz] some llama.cpp tests,4,20
+https://github.com/kreier/obsidian/commit/69e14bef4a86c7571565216612fef7117265b8a9,2026-02-24,[kreier/obsidian] some llama.cpp tests,4,20
+https://github.com/kreier/llama.cpp-jetson/commit/cba793e345442fc9f542f3418ae4b0070bd37b06,2026-02-24,[kreier/llama.cpp-jetson] Add LFM2.5-1.2B-Thinking section to README,9,42
+https://github.com/kreier/llama.cpp-jetson/commit/15ba3a7a08957049eb06cb91c75b0d46c9f519a9,2026-02-24,[kreier/llama.cpp-jetson] Can we compile for Liquid?,5,26
+https://github.com/kreier/homelab/commit/9880d0fde596bebb18c3b2090a4d8913640e123d,2026-02-23,[kreier/homelab] first iteration - some crashes,4,30
+https://github.com/kreier/wob/commit/b2064a5a0505b0d9af7a5e029d5f4cee9a2be8b8,2026-02-23,"[kreier/wob] code examples, cleanup",3,22
+https://github.com/kreier/wob/commit/ce19b314caa3c0ddc9cf1bb69ddd62d5456e67c8,2026-02-23,[kreier/wob] cleanup,1,7
+https://github.com/kreier/wob/commit/e02f339e893183b54d790e5996d3116b943debc5,2026-02-23,[kreier/wob] Enhance README with project details and examples,7,48
+https://github.com/kreier/wob/commit/f0c80636686206cd228274a8980c9a318ba0c444,2026-02-23,[kreier/wob] rough outline,2,13
+https://github.com/kreier/wob/commit/b8573052fb4ad89a96049cd58520c4b1fc8da3ba,2026-02-23,[kreier/wob] Add wake_penta.py to wake Penta-GPU server,8,42
+https://github.com/kreier/wob/commit/6cc2fba011fa39ff3b1b2c103fb64d7ce0954c89,2026-02-23,[kreier/wob] starting outline,2,16
+https://github.com/kreier/wob/commit/f7a7f6cab2d38d47b00cdb8a74287c65a1a4d746,2026-02-23,[kreier/wob] Update .gitignore to include .DS_Store,5,38
+https://github.com/kreier/wob/commit/85c5f11dbeeca8cecd992d2fd3e90bb3bb10c71d,2026-02-23,[kreier/wob] Initial commit,2,14
+https://github.com/kreier/quartz/commit/2b386e7836ea2c99e2983b3cb9b9d62f29311693,2026-02-23,[kreier/quartz] include some hiking experience,4,30
+https://github.com/kreier/obsidian/commit/eb32b620c60e7f7744f70fab264d36b1360f1d6b,2026-02-23,[kreier/obsidian] include some hiking experience,4,30
+https://github.com/kreier/quartz/commit/ea65c769a316c765de8d8c465884846e8fbc44f8,2026-02-21,[kreier/quartz] include Black Virgin Mountain,4,29
+https://github.com/kreier/obsidian/commit/1a08ff84daa51602cbd1481b2b789bd819b52fb2,2026-02-21,[kreier/obsidian] include Black Virgin Mountain,4,29
+https://github.com/kreier/T100/commit/27c4c1da00a1d7529810fa39416a9e558667d80d,2026-02-21,[kreier/T100] Add BLE project details and Bluetooth module history,8,52
+https://github.com/kreier/quartz/commit/aac21671276305370fa75788509711a6b73a37d0,2026-02-20,[kreier/quartz] document ar65view and related events,5,36
+https://github.com/kreier/obsidian/commit/263368b3b544998193998a4c2d582bf283e127f1,2026-02-20,[kreier/obsidian] document ar65view and related events,5,36
+https://github.com/kreier/ar65view-svn/commit/5d0def8d78d9f57abeea03aad15182f679d8ae97,2026-02-20,[kreier/ar65view-svn] Initialize README.md with project information,6,45
+https://github.com/kreier/ar65view-svn/commit/b296a1efee3d027c3c9a1464fca6e7654fb3a081,2026-02-20,[kreier/ar65view-svn] Add .DS_Store to .gitignore for Synology Diskstation,7,52
+https://github.com/kreier/ar65view-svn/commit/ad6cdbcdb8d9f8a046d0eb41e6cf536e55b91b32,2026-02-20,[kreier/ar65view-svn] Add GNU General Public License v2,6,33
+https://github.com/kreier/ar65view/commit/96585b5aa1e8ceb6b3508467ba4ab75958f0afef,2026-02-20,[kreier/ar65view] Update build status badge in README.md,7,38
+https://github.com/kreier/ar65view/commit/dde31eb19ce598a1f8a9f80ceca13e01e5a314b2,2026-02-20,[kreier/ar65view] Remove HitCount badge from README,5,33
+https://github.com/kreier/quartz/commit/7eb48e4011f5eefece9bd0fbf56c6c9e212df31e,2026-02-20,[kreier/quartz] expand on Penta-GPU server,5,26
+https://github.com/kreier/obsidian/commit/4404c54574d9e73d76623d347c25213674c096ec,2026-02-20,[kreier/obsidian] expand on Penta-GPU server,5,26
+https://github.com/kreier/homelab/commit/9d76bdf990320fa87307ef635dc227eed0ff6c60,2026-02-20,[kreier/homelab] Merge branch 'main' of https://github.com/kreier/homelab,9,56
+https://github.com/kreier/homelab/commit/5ea573abdcd860e86afaef4ff793beebff8bfb03,2026-02-20,[kreier/homelab] progress on Tuya integration,4,28
+https://github.com/kreier/homelab/commit/070e74306f5fecec4522ec68f165aaf428c9552b,2026-02-19,[kreier/homelab] Rename repository and update README content,6,43
+https://github.com/kreier/benchmark/commit/8a9ac10ccbd51652bd9f4c34227f692144df13d3,2026-02-19,[kreier/benchmark] updated benchmark results 1 year later,6,38
+https://github.com/kreier/homelab/commit/f3dcb6cf0956057c742232201c7df632eb4bfedc,2026-02-19,[kreier/homelab] Add mkdocs-glightbox to installation dependencies,6,49
+https://github.com/kreier/homelab/commit/32efc0c25de465d0c18ce07cc255a674f816ccef,2026-02-19,[kreier/homelab] Updated structure,2,17
+https://github.com/kreier/quartz/commit/1cb95a0a612b98bff0d3d6a44ce5d0014f204b03,2026-02-19,[kreier/quartz] Laptops 2020 and Penta-GPU server,6,33
+https://github.com/kreier/obsidian/commit/a42b109d9aba9eb8703f564827bfe523915f833d,2026-02-19,[kreier/obsidian] Laptops 2020 and Penta-GPU server,6,33
+https://github.com/kreier/benchmark/commit/aaecfcde9613db993ee2dc0a76cf20624a8f50fa,2026-02-19,[kreier/benchmark] expand on 64 bit,4,16
+https://github.com/kreier/benchmark/commit/b217d89dc2b0b22daef118234c9a46e415b711f7,2026-02-19,[kreier/benchmark] updated benchmarks with new P104-100 GPU and different slots in Z170 mainboard,13,78
+https://github.com/kreier/quartz/commit/ebb1cb19f5db97ad57058614cdad8bdd8392ca9e,2026-02-19,[kreier/quartz] Penta-GPU server is running,5,27
+https://github.com/kreier/obsidian/commit/c0c7bb0802059e7342385d0a55b17c4a10ea9290,2026-02-19,[kreier/obsidian] Penta-GPU server is running,5,27
+https://github.com/kreier/quartz/commit/3d48c6ed1be790f74cd5536fc21bb884c090c392,2026-02-18,[kreier/quartz] hardware update documentation,3,29
+https://github.com/kreier/obsidian/commit/8521fb2c2854335d5099bb6ff13d1c171025304c,2026-02-18,[kreier/obsidian] hardware update documentation,3,29
+https://github.com/kreier/benchmark/commit/6ac58321a211879100b2a67e3efbaaef754bc9ea,2026-02-18,[kreier/benchmark] Update GPU performance metrics in README,6,40
+https://github.com/kreier/benchmark/commit/303ee0b7ff5f7ab3345aea36ab2b7b956f21eeb1,2026-02-15,[kreier/benchmark] got a new P104-100 to benchmark,7,31
+https://github.com/kreier/quartz/commit/5bfea3f5516531b44d8d0603b4e3c65fe87facfb,2026-02-13,[kreier/quartz] Document both Raspberrys Pi3 and Pi4,6,36
+https://github.com/kreier/obsidian/commit/797c7b617b0eafbabcd3c273b6109617dd1d934e,2026-02-13,[kreier/obsidian] Document both Raspberrys Pi3 and Pi4,6,36
+https://github.com/kreier/timeline/commit/adab2d8eb7dbe5239b7f360b5f4538ea1909d074,2026-02-12,[kreier/timeline] Merge pull request #82 from kreier/6.02,8,39
+https://github.com/timeline24/timeline24.github.io/commit/3d9c41e59e414e7115dee4d968fb07a78c4bc4e0,2026-02-12,[timeline24/timeline24.github.io] version 6.02 from 2026-02-12,7,28
+https://github.com/kreier/timeline/commit/aff4a62e1090927b69379d95e7369fa150162c07,2026-02-12,"[kreier/timeline] batch processed PDF generation, 5 new languages",7,47
+https://github.com/timeline24/timeline24.github.io/commit/4595f121bd10272ec9304a372465cb046b63f9b6,2026-02-12,[timeline24/timeline24.github.io] Revise language versions and print links,6,40
+https://github.com/kreier/timeline/commit/20f931c8d291df35fa7fb44033695cfb321ccbb6,2026-02-12,[kreier/timeline] converted from float year values to YYYY-MM-DD,9,46
+https://github.com/kreier/timeline/commit/80f2028eac220ccbed728e312bf9b96a25c13c73,2026-02-12,[kreier/timeline] replaced 21 locations where color was *256 since no longer needed,11,65
+https://github.com/kreier/timeline/commit/3adb282fbb45eaa06f78f977645ccb071c69e662,2026-02-12,"[kreier/timeline] move daniel2_shift to deprecated, include wikipedia link",7,56
+https://github.com/kreier/timeline/commit/0a9885e76a3559d40c64d382c884557ac9c3d4f0,2026-02-12,"[kreier/timeline] update Korean, visualize editor",4,31
+https://github.com/kreier/timeline/commit/ca987e5cf6467e2a532fc7299aff5633cc77794a,2026-02-12,"[kreier/timeline] Updated editor, Check with Korean",5,33
+https://github.com/kreier/timeline/commit/c65950e677d0ff9363c0f8ea0740367b4ec62a35,2026-02-12,[kreier/timeline] Merge pull request #81 from kreier/6.02,8,39
+https://github.com/kreier/timeline/commit/67e69c6d7d8aa0143307654bf0133191e4d46652,2026-02-12,[kreier/timeline] include image shift and scale for Daniel 2 image,9,48
+https://github.com/kreier/timeline/commit/b10c0d967f5202845544eed3e6ce7c6dbdedc09e,2026-02-12,[kreier/timeline] updated web editor,3,18
+https://github.com/kreier/timeline/commit/cd0318951d6628121b3aed133c1181f75997702e,2026-02-12,[kreier/timeline] include first edition of web edit for dictionary,8,48
+https://github.com/kreier/timeline/commit/254dc489f59cf9c0ac3af68c352ca72545a9ef51,2026-02-12,[kreier/timeline] align 42 translations of 571 entries,6,36
+https://github.com/kreier/timeline/commit/20e5d82a76fab9b663d699bbc28d8ef439a146a1,2026-02-12,[kreier/timeline] include 6.01 translations,4,25
+https://github.com/kreier/timeline/commit/8115f6b52ed175391fc6fcdaf190c766398e79df,2026-02-12,[kreier/timeline] updated translation for 6.02,5,28
+https://github.com/kreier/timeline/commit/454da40dd3202c5d2145593c464b4f7fd9d5a841,2026-02-11,[kreier/timeline] updated run of auto-translate.py,6,32
+https://github.com/kreier/timeline/commit/4a3af9ababa569c7d8376ee5f4fe5c67d1b5df4f,2026-02-11,[kreier/timeline] Update for new dictionary setup in Google Sheets,8,48
+https://github.com/kreier/timeline/commit/bd0657b07df42a0aae80b3614e3b66132d48b2d9,2026-02-11,[kreier/timeline] Merge pull request #80 from kreier/6.02,8,39
+https://github.com/kreier/timeline/commit/e939993b49a8cc20c5373f49a1950ee9f019b1f8,2026-02-11,[kreier/timeline] document current state with Google Apps Script,7,46
+https://github.com/kreier/timeline/commit/af64b00ef9f471397318f03ed913d160ad063bcc,2026-02-11,[kreier/timeline] cleanup and organize some clutter after 2.5 years,9,49
+https://github.com/kreier/timeline/commit/bd868cc32d626727f3728060b6df1e211ce9e4d6,2026-02-10,[kreier/timeline] small fix for digital edition printout,6,38
+https://github.com/kreier/timeline/commit/f39d08e4108e85dc761422715be2d1fba54e6e93,2026-02-10,[kreier/timeline] realign with CSV export pattern of Pandas,7,41
+https://github.com/kreier/quartz/commit/9b0baa73eb2be5cf8bc9ab5f41a1667fbd5b9330,2026-02-10,[kreier/quartz] Include mining and the Triple GPU server,7,40
+https://github.com/kreier/obsidian/commit/86226fa28b1751ce94a240c0c2f45a2b8822f56a,2026-02-10,[kreier/obsidian] Include mining and the Triple GPU server,7,40
+https://github.com/kreier/impact/commit/bfa93181b978821645280cfe5fd96e4f8b387421,2026-02-10,[kreier/impact] Merge pull request #3 from kreier/dependabot/pip/nbconvert-7.17.0,12,65
+https://github.com/kreier/python2018/commit/12f7a8b6dc18a83d1dd259dc74627ba7aec04151,2026-02-10,[kreier/python2018] Merge pull request #42 from kreier/dependabot/pip/distributed-2026.1.1,12,70
+https://github.com/kreier/python2018/commit/08e35f65d98a3be584c9a0b54fc306d8db30e750,2026-02-10,[kreier/python2018] Merge pull request #43 from kreier/dependabot/pip/nbconvert-7.17.0,12,66
+https://github.com/kreier/quartz/commit/0cac00af3075f78dc59876432f9438051fea679e,2026-02-10,[kreier/quartz] Update quartz landing page,4,26
+https://github.com/kreier/obsidian/commit/078af7156ca04f6c9e47aec6a5ac823655bf809e,2026-02-10,[kreier/obsidian] Update quartz landing page,4,26
+https://github.com/kreier/quartz/commit/15946ddfae49bc484705f057782a863b5a7ece8f,2026-02-10,[kreier/quartz] document 3 PCs and one M590 mouse fix,8,37
+https://github.com/kreier/obsidian/commit/48928d483c16b9eda71ac1d033cd9ded6e00948d,2026-02-10,[kreier/obsidian] document 3 PCs and one M590 mouse fix,8,37
+https://github.com/kreier/quartz/commit/5950441a7e72e62731ed1a1abeaef0a00d00845f,2026-02-09,[kreier/quartz] more history of Vietnam 2024-12-26,7,34
+https://github.com/kreier/obsidian/commit/e5ce44163edea529275a12b1a3044426457940cc,2026-02-09,[kreier/obsidian] more history of Vietnam 2024-12-26,7,34
+https://github.com/kreier/timeline/commit/1081f3f43e8e43cb55a7db971c9b648cdeded747,2026-02-09,[kreier/timeline] minor updates in preparation for 6.02,7,37
+https://github.com/kreier/bilder/commit/f45ded15dec45f98f6a7a6925001069058b24e7a,2026-02-09,[kreier/bilder] create summary and details for target location,7,46
+https://github.com/kreier/prime/commit/00ead6097651e5a30270e5cded98093ee290b7aa,2026-02-09,[kreier/prime] finished benchmarks after 2 days,5,32
+https://github.com/kreier/quartz/commit/a1e167afd8b011d414ebf2c5d9827afd96047407,2026-02-09,"[kreier/quartz] Quartz sync: Feb 9, 2026, 1:15 AM",8,33
+https://github.com/kreier/obsidian/commit/c8ab443a094650ef9b238c4c5702684b6ec07d3e,2026-02-09,"[kreier/obsidian] Quartz sync: Feb 9, 2026, 1:15 AM",8,33
+https://github.com/kreier/quartz/commit/3aaf3c918241e0564fc962755f63c6d9bd9d8fa8,2026-02-09,[kreier/quartz] Merge branch 'v4' of https://github.com/jackyzha0/quartz into v4,11,64
+https://github.com/ssis-aa/collaborative-code/commit/1052bc9b64de5fc78b7941ee11d4588990298321,2026-02-09,[ssis-aa/collaborative-code] Update README with p5.js version details,7,40
+https://github.com/hviovn/hello-world/commit/1d196a920c19cf602377a2f6a7900721622a6809,2026-02-08,"[hviovn/hello-world] Add hello.c to print 'Hello, World!'",7,36
+https://github.com/hviovn/hello-world/commit/ddb801b88ba31cd1792ebcefbb574f177c858d34,2026-02-08,"[hviovn/hello-world] cleanup, include Java",3,21
+https://github.com/kreier/homelab/commit/54f8c05d048b5716a3ff3e47baffed9f990c78f3,2026-02-07,[kreier/homelab] updated WOL problem,3,19
+https://github.com/kreier/homelab/commit/487d92bf283bdbe07f6fab75c709608e3c226d65,2026-02-07,[kreier/homelab] updated Tuya network,3,20
+https://github.com/kreier/prime/commit/9f562553cc253dd7a63692e15c8f2fabdf92d6c4,2026-02-06,[kreier/prime] v5.6.2026 with fixed time measurement,7,37
+https://github.com/kreier/prime/commit/cf17386725b7747045ef474ff655966878ecb95a,2026-02-06,[kreier/prime] preliminary results for 32bit,4,29
+https://github.com/kreier/quartz/commit/0de8d39f703b1024ced659e9881235b8605da4f6,2026-02-06,[kreier/quartz] some homelab updates,3,20
+https://github.com/kreier/obsidian/commit/1a5045e8a8b023dc549727c25550ee70edb28de6,2026-02-06,[kreier/obsidian] some homelab updates,3,20
+https://github.com/kreier/prime/commit/b4f0c1f2333f69aa4bfc1d384e9192207756be18,2026-02-05,[kreier/prime] results from May 2025,4,21
+https://github.com/kreier/homelab/commit/d92258a3dcc152653ac402cbed77579e232a3722,2026-02-05,[kreier/homelab] fix typos in setup,4,18
+https://github.com/kreier/homelab/commit/ae693205d779a2ec9a56720c816c4ea0f9ea56a8,2026-02-05,[kreier/homelab] glightbox was not used regardless,5,33
+https://github.com/kreier/homelab/commit/d6469b395de7870cf902c2b0437a7f2a9447f177,2026-02-05,[kreier/homelab] update navigation,2,17
+https://github.com/kreier/homelab/commit/f0363b2f474005214bbe54129f15553224378f48,2026-02-05,[kreier/homelab] updated navigation,2,18
+https://github.com/kreier/homelab/commit/1b11472462eeca35161d424143be2139ad171381,2026-02-05,[kreier/homelab] Refactor image paths in README.md,6,33
+https://github.com/kreier/homelab/commit/ccd48da011460510c6524bfd621c7e988f51b699,2026-02-05,[kreier/homelab] Merge pull request #2 from kreier/kreier-patch-1,9,48
+https://github.com/kreier/homelab/commit/e7b3abaad7a2176eb4cc495f0de818ea348be895,2026-02-05,[kreier/homelab] Enhance documentation formatting for homelab setup,6,50
+https://github.com/kreier/homelab/commit/dcb4e45333b5f17841366a747bdb5849ee798698,2026-02-05,[kreier/homelab] toggle dark/light mode,4,22
+https://github.com/kreier/homelab/commit/8a77f90b93a959faf9168e893a681a03435e9273,2026-02-05,[kreier/homelab] suggestions from Gemini,3,23
+https://github.com/kreier/homelab/commit/66d972ad6d463d4227e9d96281f54f7c89f5678b,2026-02-05,[kreier/homelab] fixed name of project,4,21
+https://github.com/kreier/homelab/commit/c687c1bccf76406e5e9407a76a95736542fd815c,2026-02-05,[kreier/homelab] Update CI workflow for GitHub Pages deployment,7,46
+https://github.com/kreier/homelab/commit/edfb0e6e6b110f969fc6f3fcda03f6c9a7e2db7d,2026-02-05,[kreier/homelab] Add CI workflow for deploying documentation,6,43
+https://github.com/kreier/homelab/commit/f3a0301a7bb1b4f3188b95d3b534563fd3296ed1,2026-02-05,[kreier/homelab] outline mkdocs,2,14
+https://github.com/kreier/homelab/commit/8fe8533fed18375f9787dfb2895a1d1a241bdeb7,2026-02-05,[kreier/homelab] Merge branch 'main' of https://github.com/kreier/homeserver,9,59
+https://github.com/kreier/homelab/commit/1e899952ec27c88160c89747afe475c730be15a4,2026-02-05,[kreier/homelab] prepare for MkDocs,3,18
+https://github.com/kreier/location24/commit/fdaeb5bcf6455e319f0b25a14c7f3b0e612814ad,2026-02-05,[kreier/location24] Implement geolocation fetching from API,5,39
+https://github.com/kreier/location24/commit/ec0d2beb2dd58127ea2eddc239f33f83e2d9f3d9,2026-02-05,[kreier/location24] Create Cargo.toml with package and dependencies,7,47
+https://github.com/kreier/homelab/commit/85bd678bf7091b31ade575064bce455984ce6312,2026-02-05,[kreier/homelab] Fix formatting and headings in README.md,7,40
+https://github.com/kreier/homelab/commit/90a51e3440e09cfb4fe5fdb70e0fda28355284c1,2026-02-05,[kreier/homelab] added details of the setup,5,26
+https://github.com/kreier/hv.io.vn/commit/cafb117ce697c186fb0b2447f2880fda389beee9,2026-02-03,[kreier/hv.io.vn] Enhance documentation with badges and server details,7,52
+https://github.com/kreier/hv.io.vn/commit/9e8d95fd29ef721e987e08ef1908cd4f2861b5e7,2026-02-03,[kreier/hv.io.vn] include visual of nvtop,4,23
+https://github.com/kreier/hv.io.vn/commit/e0036df8bd9ae0f1a0d3456df66831ceda092787,2026-02-03,"[kreier/hv.io.vn] nicer layout, setup",3,19
+https://github.com/kreier/hv.io.vn/commit/7daa6471c4bf07ea83e51f409c4e83ae00130236,2026-02-03,[kreier/hv.io.vn] Merge branch 'main' of https://github.com/kreier/hv.io.vn,11,57
+https://github.com/kreier/hv.io.vn/commit/a4fd601a6382c015124297ad6d6b71275c8cf721,2026-02-03,[kreier/hv.io.vn] switch to mkdocs,3,16
+https://github.com/kreier/hv.io.vn/commit/2adce5cb411c0ab2d3baa66885d1ec3790f3f35a,2026-02-03,[kreier/hv.io.vn] Fix href attributes in certificate links,6,40
+https://github.com/kreier/hv.io.vn/commit/93c3eb17e6053684ba4e319924d0285c09ee43bf,2026-02-02,[kreier/hv.io.vn] Add hyperlinks for certificates and new links,7,45
+https://github.com/kreier/hv.io.vn/commit/2c3b9e4d97c01c25fa2a7018814f428b238c6c29,2026-02-02,[kreier/hv.io.vn] Create CNAME,2,12
+https://github.com/kreier/hv.io.vn/commit/f6f6c3795ffcdcbff9d167c5c8e39d8ebac54dda,2026-02-02,[kreier/hv.io.vn] Delete CNAME,2,12
+https://github.com/kreier/hv.io.vn/commit/df329306d49f2d27e80a0b0ce078880f0d1a56df,2026-02-02,[kreier/hv.io.vn] Create CNAME,2,12
+https://github.com/kreier/hv.io.vn/commit/2c9e5d912c2622a9ae1349c896602d7222e5feaa,2026-02-02,[kreier/hv.io.vn] Delete CNAME,2,12
+https://github.com/kreier/hv.io.vn/commit/349ac7b102d454a245fd0ac37927ecc12e572378,2026-02-02,[kreier/hv.io.vn] Create CNAME,2,12
+https://github.com/kreier/hv.io.vn/commit/43c82be00500bbc42cf6a1bc834505aea8ad9527,2026-02-02,[kreier/hv.io.vn] Delete CNAME,2,12
+https://github.com/kreier/hv.io.vn/commit/aa9afcf3d499e454aeb75de031cd08e3bfaad964,2026-02-02,[kreier/hv.io.vn] Create CNAME,2,12
+https://github.com/kreier/hv.io.vn/commit/fd16b0049a6072ce87d210e6d8ebbe858b54d82e,2026-02-02,[kreier/hv.io.vn] Delete CNAME,2,12
+https://github.com/kreier/hv.io.vn/commit/7403f9edd0d2f608708ed8c15152ff5a7f11ad0e,2026-02-02,[kreier/hv.io.vn] Create CNAME,2,12
+https://github.com/kreier/homelab/commit/498e774c43a687e76138cff0b696786e2abd6358,2026-02-02,[kreier/homelab] Revise GPU specs and performance details in README,8,50
+https://github.com/kreier/homelab/commit/1b3b94792b92ec138e588a4d1edd2d7f7baec4d9,2026-02-02,[kreier/homelab] updated documentation,2,21
+https://github.com/kreier/hv.io.vn/commit/c4f8e212474f8465500ab9ec59a59f0e75f72105,2026-02-02,[kreier/hv.io.vn] starting templates,2,18
+https://github.com/kreier/prime/commit/297749079b51de99166d1580fc1498ded0932f65,2026-02-02,[kreier/prime] updated to CircuitPython 10.0,5,29
+https://github.com/kreier/hv.io.vn/commit/2444ccafcd75db6b8bf9626a72e80a7a54752dee,2026-02-02,[kreier/hv.io.vn] Add .DS_Store to .gitignore for Synology Diskstation,7,52
+https://github.com/kreier/hv.io.vn/commit/b75bcfa528689ab3c96fa9ff944fd5d3d6e40813,2026-02-02,[kreier/hv.io.vn] Initial commit,2,14
+https://github.com/kreier/ml/commit/debd14fd674799f61aed7696c608a58dd08462c1,2026-02-02,[kreier/ml] Remove front matter from README,5,31
+https://github.com/kreier/ml/commit/4bb031def90ec055a4b2a8edc0f5ba67bcad8366,2026-02-02,[kreier/ml] Enhance README with Mermaid diagram and updates,7,47
+https://github.com/kreier/ml/commit/d96c211356e6ff7428271c56ed443b1156a95d32,2026-02-02,[kreier/ml] Add remote theme and enable mermaid support,7,43
+https://github.com/kreier/ml/commit/3f5b4694fef214eaf9c2d56afece490fa0968ee7,2026-02-02,[kreier/ml] replace image since Anandtech main page is down in 2026,10,55
+https://github.com/kreier/homelab/commit/4ecd92cdd05d0db1e16bb67b916007f9c99d00d2,2026-02-02,[kreier/homelab] Merge branch 'main' of https://github.com/kreier/homeserver,9,59
+https://github.com/kreier/homelab/commit/e45616ab90b5b2a19e6dd731f34902c5304d6e05,2026-02-02,[kreier/homelab] setting up pi3 and pi4 in the network,8,37
+https://github.com/kreier/homelab/commit/83459c9bdaf849e3ec1deb5730d4d624425f3bee,2026-02-02,[kreier/homelab] Revise README with hardware specs and Docker setup,8,50
+https://github.com/kreier/homelab/commit/c378b1ad95be356bec31fa6792b7a0c4ba3503ed,2026-02-02,[kreier/homelab] visualize server-side and user-side,6,35
+https://github.com/kreier/prime/commit/b0d8d498ebf3c925baa058e8775d1aa652e57606,2026-01-30,[kreier/prime] updated results from Pi4 run on C,7,33
+https://github.com/kreier/homelab/commit/7a9cb8526dc5b94698d9d62e3211c63f1e6ba550,2026-01-30,[kreier/homelab] Merge branch 'main' of https://github.com/kreier/homeserver,9,59
+https://github.com/kreier/homelab/commit/fc737ca546ad0eed38b69501d8dae831702152af,2026-01-30,[kreier/homelab] traefik and certificate chain to enable https in local network,10,62
+https://github.com/kreier/homelab/commit/0f9b857a3330bb469f095b090ead703253a985bb,2026-01-30,[kreier/homelab] Add Synology Diskstation to .gitignore,5,38
+https://github.com/kreier/homelab/commit/a45bf5ec75a291a17e72ca62848f2a35d9ac765e,2026-01-30,[kreier/homelab] Enhance README with homeserver details and setup,7,48
+https://github.com/kreier/homelab/commit/6a82497302c805b8e7e0fa84a97d2448289e5529,2026-01-30,[kreier/homelab] Initial commit,2,14
+https://github.com/kreier/prime/commit/e71f5c08b6fc07ff63c49e97438ed3e66fbafef3,2026-01-30,[kreier/prime] preliminary results 2026-01-30,5,30
+https://github.com/kreier/prime/commit/df6d8aaaccafca3bee85b55e7b492278ecef59b8,2026-01-30,[kreier/prime] results from 2026-01-30,5,23
+https://github.com/kreier/prime/commit/8809df2795adb82ce9663e2d95337938a309c54b,2026-01-30,[kreier/prime] run 2025-05-11 to 2025-06-29,8,28
+https://github.com/kreier/timeline/commit/d2237b68312388d41c74cc5ce5f908224ff11562,2026-01-28,"[kreier/timeline] Order deprecated to follow reference, export JavaScript matches PANDAS",9,70
+https://github.com/kreier/timeline/commit/9e940a285058c0da9e307dd0c78298b8b89aafb8,2026-01-27,[kreier/timeline] small fixes in Spanish,4,22
+https://github.com/kreier/bilder/commit/ed25d5d2ba0ba365c9afdd91ec2d87d5d4873d64,2026-01-25,[kreier/bilder] organize cloud storage,3,22
+https://github.com/kreier/bilder/commit/ca421128271dcf03bb6d5ae5b7373ea124aaa640,2026-01-23,[kreier/bilder] target network folder,3,21
+https://github.com/kreier/bilder/commit/28598972f5e276219ea5c6970b821a6925816ac5,2026-01-23,[kreier/bilder] include support for Excel,4,25
+https://github.com/kreier/swagger/commit/7e005a6ced7b4be66eb0dd43546b820a96aae394,2026-01-21,[kreier/swagger] Create CNAME,2,12
+https://github.com/kreier/swagger/commit/0763e9e56574a708b559f39f79a096f1fbdfabc1,2026-01-21,[kreier/swagger] Enhance README with badges and project details,7,46
+https://github.com/kreier/swagger/commit/fae44d0955dfbe585463264851a615713292cbc0,2026-01-21,[kreier/swagger] start installation,2,18
+https://github.com/kreier/swagger/commit/91cf3713576c67ab72f3cefaaf2bc0fe18ce5bb9,2026-01-21,[kreier/swagger] Update .gitignore to include .DS_Store,5,38
+https://github.com/kreier/swagger/commit/31fd07cab1d1bad4971761525cfbf7b20895f467,2026-01-21,[kreier/swagger] Initial commit,2,14
+https://github.com/kreier/picow/commit/b21ee1b0546ad049468c0991fa6a937b2182f101,2026-01-21,[kreier/picow] Create CNAME,2,12
+https://github.com/kreier/picow/commit/03ab818ddfeca2781b64492845f73420b246af41,2026-01-21,[kreier/picow] Merge branch 'main' of https://github.com/kreier/picow,9,54
+https://github.com/kreier/picow/commit/537b68589b4877236e13dc03c8c9b293e0ceec95,2026-01-21,[kreier/picow] prepare for kreier.eu.org,5,25
+https://github.com/kreier/picow/commit/76a14a87d4219c98f5841faf388c73b3d1f355c4,2026-01-21,[kreier/picow] Delete CNAME,2,12
+https://github.com/kreier/picow/commit/707e3e62152c3e68a2b436df6f3413298a1eb60c,2026-01-21,[kreier/picow] Revise README with project title and badges,7,43
+https://github.com/kreier/picow/commit/9634c9ec23005bde90a1167754693c162096ee1a,2026-01-21,[kreier/picow] Create CNAME,2,12
+https://github.com/kreier/igshcmc/commit/f88fc38e6b8c65efe7117028eed91dfc41016f08,2026-01-20,[kreier/igshcmc] Create CNAME,2,12
+https://github.com/kreier/igshcmc/commit/1bfb3b94d8ad0c41c08299ee3a28a3dd91c1dce5,2026-01-20,[kreier/igshcmc] old saiht.org page from 2010,6,28
+https://github.com/kreier/igshcmc/commit/ec864d6bf44df298297ecdc037c43f309da06b2c,2026-01-20,[kreier/igshcmc] starting framework,2,18
+https://github.com/kreier/igshcmc/commit/404b6cd680d6b7539eea87d114105d3b35e07b94,2026-01-20,[kreier/igshcmc] Initial commit,2,14
+https://github.com/kreier/tl/commit/6ae25e0be4ba3560915c4959376eaa85d5159977,2026-01-20,"[kreier/tl] simplified html, new folder",4,27
+https://github.com/kreier/tl/commit/3317e5c24a6bf666a6d8db7efd69e69652f7c962,2026-01-20,[kreier/tl] extract CSS and JS from HTML file,7,33
+https://github.com/kreier/timeline/commit/f4c92f0d6dbc20c1ff130eb33ac87c63240d68b3,2026-01-20,[kreier/timeline] render special characters,3,25
+https://github.com/kreier/tl/commit/701b449d9e3115f76418f71837b78cc22505b358,2026-01-20,"[kreier/tl] convert pdf to svg, rasterized images downsampled to 300 dpi",10,60
+https://github.com/kreier/statistics-diary/commit/23c3a4226c9ac6ec5f4bcda8e1dfb563f7f31751,2026-01-20,[kreier/statistics-diary] Change commit message for update workflow,6,41
+https://github.com/kreier/quartz/commit/974ccdf59cb9dc7b2bcc0ed675fa11806d1f5ff4,2026-01-20,"[kreier/quartz] Quartz sync: Jan 20, 2026, 1:35 AM",8,34
+https://github.com/kreier/obsidian/commit/3c63764ae62e6ba524d32a42187c26d96b70be8e,2026-01-20,"[kreier/obsidian] Quartz sync: Jan 20, 2026, 1:35 AM",8,34
+https://github.com/kreier/statistics-diary/commit/d9738cc1c77ef22f5400eebd12e1f60f710f3e74,2026-01-20,[kreier/statistics-diary] Rename workflow and update scripts for statistics,7,49
+https://github.com/kreier/statistics-diary/commit/40192b3b8bba777733a53b718cae64367cf50b9b,2026-01-20,[kreier/statistics-diary] update Github description and process,5,37
+https://github.com/kreier/statistics-diary/commit/4a8f3ca909bbb0270e87d8b64a93fdc2adac8d8e,2026-01-20,[kreier/statistics-diary] Revise README with updated statistics and project details,8,57
+https://github.com/kreier/tl/commit/49dd2cac59a5e8389b44650719359b2262a8eee3,2026-01-19,[kreier/tl] Revise README with project title and images,7,43
+https://github.com/kreier/tl/commit/576cfdfc735e2143a5c950a6a997d1c71a08a1cd,2026-01-19,[kreier/tl] document progress,2,17
+https://github.com/kreier/tl/commit/4337224d03036846d7f40e4d88f62c3d894dab1b,2026-01-19,[kreier/tl] include pinch & zoom,3,20
+https://github.com/kreier/timeline/commit/4644f40ce599e404e95a91239042955e574f7de8,2026-01-19,[kreier/timeline] include a v6.01 image from 2026,7,31
+https://github.com/kreier/tl/commit/ed9cc80c7fc8aebc42558e807a713c9b2dac762d,2026-01-19,[kreier/tl] first fixed zoom edition,4,24
+https://github.com/kreier/tl/commit/77b0448651dfa48c922ba2d3890e5293e1f41772,2026-01-19,[kreier/tl] Update .gitignore to include .DS_Store,5,38
+https://github.com/kreier/tl/commit/8615b6f446f9a0dc26e1c63b6e26aade9f877d20,2026-01-19,[kreier/tl] Initial commit,2,14
+https://github.com/kreier/logo/commit/2932141a6220b73344018070bcacabd1976df519,2026-01-19,[kreier/logo] Include TL timeline logo,4,24
+https://github.com/kreier/logo/commit/695e96ab7fdb758ac23943884191cf984e1b4c82,2026-01-19,[kreier/logo] new logo for timeline subdomain,5,31
+https://github.com/kreier/logo/commit/0100dbd2a928cb02ff36db7efff55222d79cdeb9,2026-01-17,[kreier/logo] Adjust image width in README.md,6,31
+https://github.com/kreier/timeline/commit/396055814605a9ce0c9b135d78b5a017064007a7,2026-01-17,[kreier/timeline] updated statistics on translation progress,5,42
+https://github.com/kreier/timeline/commit/891d983c4cd664e2b4fed75605a70ab81a501e92,2026-01-17,[kreier/timeline] Merge pull request #79 from kreier/6.01,8,39
+https://github.com/kreier/timeline/commit/4e389c9abad22c71e630b8a3694b23d27ff3edec,2026-01-17,[kreier/timeline] Merge branch '6.01' of https://github.com/kreier/timeline into 6.01,13,67
+https://github.com/kreier/timeline/commit/59a390da3d7cbdc5b1a9eb1eae26d03fc674a518,2026-01-17,"[kreier/timeline] update Spanish and Vietnamese, fix location error bug",8,53
+https://github.com/kreier/timeline/commit/da6e59201cc6160f38e36de1937d2c47065a06ca,2026-01-17,[kreier/timeline] Merge pull request #78 from kreier/main,7,39
+https://github.com/kreier/timeline/commit/ef53cfd2cbff5509946adeb7557a7b4ef8b16504,2026-01-16,"[kreier/timeline] update English and German, minor fix",6,36
+https://github.com/kreier/timeline/commit/0f7e6cd768dc84cdff5663126848e82f28d2725e,2026-01-16,"[kreier/timeline] Include 7 generations of Cain's family tree, plus 13 persons",11,60
+https://github.com/kreier/timeline/commit/ad6925bd6adc9bdab5ccb6c8de1a036134ef7364,2026-01-16,[kreier/timeline] clean-up January 2026,4,21
+https://github.com/kreier/timeline/commit/0b8a7768321eb39ca026fb4ff8e2657f43e1536f,2026-01-16,[kreier/timeline] updated 31 languages with automated translation,6,47
+https://github.com/kreier/timeline/commit/518411e4409f7151f80248aefa1ceb36c91f927b,2026-01-16,"[kreier/timeline] auto-translate to find missing values, then translate",8,53
+https://github.com/kreier/timeline/commit/fc9bf4f63e1078cbc532e0f9d2a6f5e4e76c0adb,2026-01-16,[kreier/timeline] updated 40 dictionaries with a script,6,37
+https://github.com/kreier/timeline/commit/0c45afffe2a7d43d3ac516f0eb19701e5a4497aa,2026-01-16,[kreier/timeline] Automatically update 11 dictionaries,4,36
+https://github.com/kreier/timeline/commit/774e8830121d7da550cf72feffe0a0fbe3baef85,2026-01-16,[kreier/timeline] automatically update English reference column,5,45
+https://github.com/kreier/timeline/commit/7e747f49ea3b0eb0a8884e299099653d090da054,2026-01-16,[kreier/timeline] match version number and date,5,29
+https://github.com/kreier/timeline/commit/de7cc6f2d49e727eed80f1b493bd44e85618e5c5,2026-01-15,"[kreier/timeline] show which lines have tag changed, mark as unchecked",9,52
+https://github.com/kreier/timeline/commit/9b46dfd9d38db29585e67ce02fa4e6c7e25acf65,2026-01-15,[kreier/timeline] removed redundant C.E. entries,5,30
+https://github.com/kreier/timeline/commit/67bb9b242aa0c2fd957eae020b79dc274e9953d0,2026-01-15,"[kreier/timeline] updated German translation, rendering",4,37
+https://github.com/vex-ssis/2026/commit/d728f1f44fb827e55c24239692f6b5e34eb967f1,2026-01-15,[vex-ssis/2026] Add details for January V5RC event in Vietnam,8,45
+https://github.com/kreier/calendar/commit/4ba9ff8936dfb993f28e9c99aa3752e2fd1fa416,2026-01-15,[kreier/calendar] Expand for my Diary 1989-2028,6,29
+https://github.com/kreier/obsidian/commit/6b0399b8edcd90590071d779167d7251c5608bd8,2026-01-15,[kreier/obsidian] parsing artifact from 2025/12/21,6,32
+https://github.com/kreier/obsidian/commit/30a62ac78181d564543b386b709e60edb907ee68,2026-01-15,[kreier/obsidian] Make comparison between vaults easier,5,37
+https://github.com/kreier/obsidian/commit/4a078ff6edd4bee62627d741bffd8d38577f3837,2026-01-15,[kreier/obsidian] Update early January 2026,4,25
+https://github.com/kreier/quartz/commit/707d2a67b758db4bfc4e641e73eb9b495fa895dd,2026-01-15,"[kreier/quartz] Quartz sync: Jan 15, 2026, 6:35 PM",8,34
+https://github.com/kreier/obsidian/commit/d3eb5355ff0b16565d642d0406932680c723598d,2026-01-15,"[kreier/obsidian] Quartz sync: Jan 15, 2026, 6:35 PM",8,34
+https://github.com/timeline24/timeline24.github.io/commit/45d11cd6854f37938e4f11bab9d25046ccc71e70,2026-01-14,[timeline24/timeline24.github.io] Revise dimensions for digital and print editions,7,48
+https://github.com/kreier/timeline/commit/2ffd7dc772f62d7effdec0694d28a75900507774,2026-01-14,[kreier/timeline] fix encoding and links,4,22
+https://github.com/kreier/python2018/commit/dc1d242c00a9b9ab43dcfcab2dbbf36b22f42714,2026-01-14,"[kreier/python2018] fix typo from 2019, update statistics",6,37
+https://github.com/kreier/python2018/commit/94ad05173100b169180ee62d57e36c7af95d4e0a,2026-01-14,[kreier/python2018] Merge pull request #41 from kreier/dependabot/pip/filelock-3.20.3,12,65
+https://github.com/kreier/python2018/commit/1a20b7865d3ef5038529b34fb4cc3a7a1e92e509,2026-01-14,[kreier/python2018] Add artifact upload step to GitHub Pages workflow with correct path,11,67
+https://github.com/kreier/python2018/commit/955bd2e4b07175ac0431472151dcd9afdac09664,2026-01-13,[kreier/python2018] Merge pull request #40 from kreier/dependabot/pip/bokeh-3.8.2,12,61
+https://github.com/kreier/quartz/commit/f99c30e297b93d46037b14c5c2eb5a1a6aeccd57,2026-01-13,[kreier/quartz] Merge pull request #22 from kreier/dependabot/npm_and_yarn/production-dependencies-623566deaf,11,93
+https://github.com/kreier/quartz/commit/ee259afb7492e72d5e6a70d5bd2ce9362e31795d,2026-01-13,"[kreier/quartz] Quartz sync: Jan 13, 2026, 5:36 PM",8,34
+https://github.com/kreier/quartz/commit/2e5633db67c04210ba99572d7d543c0889e93c79,2026-01-13,[kreier/quartz] Merge branch 'v4' of https://github.com/jackyzha0/quartz into v4,11,64
+https://github.com/kreier/timeline/commit/037f4fa019f1368bd0830cb39e292fab4ba12c4a,2026-01-09,[kreier/timeline] updated statistics with tags,4,28
+https://github.com/kreier/timeline/commit/fc6944581471510545945fb902e6d64ce006f01e,2026-01-08,[kreier/timeline] Colored breakdown of the contribution for each category for each language,11,73
+https://github.com/kreier/timeline/commit/17c201d8b4edae673225a0e13078500346c97085,2026-01-08,[kreier/timeline] Newly rendered U+02B9 as ʹ (modifier letter prime) with NotoSans and Aptos mixed,14,80
+https://github.com/kreier/timeline/commit/9fbc9e7bd5c6c956bea8bfaf5ba24dcf6bed5451,2026-01-08,"[kreier/timeline] BCE and CE are automatically checked, dictionary updated",8,56
+https://github.com/kreier/timeline/commit/9f5060462e1bc757ed7e758481a0a561cfaa8d7a,2026-01-08,"[kreier/timeline] extra values labelled ""deprecated"", no downcast Pandas warning",8,62
+https://github.com/kreier/timeline/commit/82c4f72e79f45c4f470d0a36365828de7d7b4056,2026-01-08,"[kreier/timeline] reflection on the translation effort, grouped by tags",8,53
+https://github.com/kreier/timeline/commit/603e36a0d3a44f5d333a9c6bc94e93a4a8a60ada,2026-01-08,"[kreier/timeline] add tags to each entry, determine translation efford",8,52
+https://github.com/kreier/timeline/commit/7eb180d03814788e3977b577127ee2542bae37a5,2026-01-08,"[kreier/timeline] sort dictionary, include tag",4,28
+https://github.com/kreier/timeline/commit/a6540b3f6e7b7cb732b77b7db9dfbf191524a463,2026-01-07,[kreier/timeline] first steps in key comparison of dictionaries,7,45
+https://github.com/kreier/timeline/commit/7e1832b8b24fac86b3e9f7c41147963f032cea80,2026-01-07,"[kreier/timeline] cleaned English version and reference dictionary, 529 left",8,58
+https://github.com/kreier/timeline/commit/a41ea77c5f45062b14b52c4462a97886eb057656,2026-01-07,[kreier/timeline] text for periods left/center/right specified,7,44
+https://github.com/kreier/timeline/commit/567fea7cb591fb809e38469f8c0e7c1e6788edf8,2026-01-07,"[kreier/timeline] check dictionaries for unused entries, reduce translation work",8,62
+https://github.com/kreier/timeline/commit/c043494c2990854958453df9a86f9bf0bb35263e,2026-01-07,"[kreier/timeline] include pronunciation hints for several names, restructured columns",8,67
+https://github.com/kreier/timeline/commit/f8b933a87da3c2d3ff0be795ef093933eebc7806,2026-01-07,[kreier/timeline] Replace Aptos with NotoSans if modifier letter prime is found in string,12,71
+https://github.com/kreier/timeline/commit/46e5ba379f54ff5fc5fc0830b6c4f5af79382f6b,2026-01-06,[kreier/timeline] fix the name change in dictionary_reference.csv,7,47
+https://github.com/kreier/timeline/commit/3b1d67f0d8629a29fc2eb749079beca779eb9c89,2026-01-06,[kreier/timeline] make the fpdf2 version the main 6000.py program,9,47
+https://github.com/kreier/timeline/commit/c0b1e1ee385a08dcf0f0dc793459b88ec9d94304,2026-01-06,[kreier/timeline] move the reportlab version on a parking position,8,48
+https://github.com/kreier/timeline/commit/3341427b1e473afd076170675c2467561b2579d3,2026-01-06,[kreier/timeline] preparing for 6.01,4,18
+https://github.com/kreier/timeline/commit/119a1bda466f4631f1c050ca78d52b388abe8e5c,2026-01-06,[kreier/timeline] introduce tags for each key in the dictionary,8,45
+https://github.com/kreier/timeline/commit/c0acefbf283a123234a830991be160af2f741ca0,2026-01-05,"[kreier/timeline] fix graph, now languages shown, and data values",8,47
+https://github.com/kreier/timeline/commit/612896c5f85e1e28e7c95e53bc43f4a073e5781a,2026-01-05,[kreier/timeline] updated remaining dictionaries,3,30
+https://github.com/kreier/statistics-diary/commit/42a7469f658e2cb537ec03c5c94c6a11b0baccaa,2026-01-05,[kreier/statistics-diary] New project for 2034,4,20
+https://github.com/kreier/timeline/commit/27e25544b0563f8474fb4378bce78c67e31e229b,2026-01-05,[kreier/timeline] updated translation with more automation,5,40
+https://github.com/kreier/timeline/commit/9d11520de34dfba443b943f067c6d126caa2170a,2026-01-04,"[kreier/timeline] Update on translation progress, fix on English",7,46
+https://github.com/kreier/statistics-diary/commit/4b88fc563b4ed1de78b8aaf90ba339f6435bd9ff,2026-01-03,[kreier/statistics-diary] Update README with pixel calculations and statistics,7,52
+https://github.com/kreier/quartz/commit/3482f93073b59faddf6f8b1f2b3fc8d01145e746,2026-01-02,[kreier/quartz] include some 2026 history,4,25
+https://github.com/kreier/obsidian/commit/debfad66e98416d288e08149e12812e2c85072d0,2026-01-02,[kreier/obsidian] include some 2026 history,4,25
+https://github.com/timeline24/timeline24.github.io/commit/1043a919f289027d9b5c1f7ecef0db71ba3e1b6f,2026-01-02,[timeline24/timeline24.github.io] Revise language table in README.md,6,34
+https://github.com/kreier/timeline/commit/db9546e4c6a4151fa630f5cd4ddf71377058ea43,2026-01-02,"[kreier/timeline] include Python programs for check and statistics, update databases",9,66
+https://github.com/kreier/timeline/commit/73f9bf416954b964c9a302de6d91c5ba4d165298,2026-01-02,"[kreier/timeline] introduce column for checked translation, cleanup",6,49
+https://github.com/kreier/logo/commit/1402ef58d8d294cb15bdb9925b1518ac4585d798,2026-01-02,[kreier/logo] add favicon and 32pix icon,5,26
+https://github.com/kreier/logo/commit/62358cf622b5a5972f72dcf491272f47e3a91680,2026-01-02,[kreier/logo] Merge branch 'main' of https://github.com/kreier/logo,9,53
+https://github.com/kreier/logo/commit/9962aebe47c1401b9a3374e120f612472e89236e,2026-01-02,[kreier/logo] fixed ratio to increase size of K,7,33
+https://github.com/kreier/logo/commit/420ba834f68643159ee054a3e42e9fc9ece14171,2026-01-02,[kreier/logo] Enhance README with webpage links and design specs,8,50
+https://github.com/kreier/logo/commit/72e0b59caee4c082e3a3df002695ad91fd1de00d,2026-01-02,[kreier/logo] updated guidelines and keylines,4,31
+https://github.com/kreier/thesis08/commit/46af483bbc20d623ffbd6d665e5f42b872f3822f,2026-01-02,[kreier/thesis08] now 44 pages with all chapters,6,30
+https://github.com/kreier/thesis08/commit/be49a1d081a79c3a98f335d2643613e5dd7a5c47,2026-01-02,[kreier/thesis08] expanded chapter 6,3,18
+https://github.com/kreier/thesis08/commit/e7ea44164363ba325a5622f0f1472918b05c5236,2026-01-02,[kreier/thesis08] document images first 4 chapters,5,32
+https://github.com/kreier/obsidian/commit/2d791e28257b85ea7e9f538b2d4a25dab021a23f,2026-01-01,"[kreier/obsidian] updated version from January 1st, 2026",6,38
+https://github.com/kreier/logo/commit/0875f27242d799063d3edbf3952027cd1307aef4,2026-01-01,[kreier/logo] updated designs for saiht.de,5,28
+https://github.com/kreier/quartz/commit/a288c28f27abe9a5be93247c4b51225ea38fc5e4,2026-01-01,"[kreier/quartz] Quartz sync: Jan 1, 2026, 2:53 PM",8,33
+https://github.com/kreier/obsidian/commit/c651093aac8248546638c555f3376deff9d03aa1,2026-01-01,"[kreier/obsidian] Quartz sync: Jan 1, 2026, 2:53 PM",8,33
+https://github.com/kreier/quartz/commit/fb977171f86dc6463fab9f8a2ff5aee740e4a57e,2026-01-01,"[kreier/quartz] Quartz sync: Jan 1, 2026, 2:43 PM",8,33
+https://github.com/kreier/obsidian/commit/594d3710e61b44ecbd8c60843f03739dca2ceee2,2026-01-01,"[kreier/obsidian] Quartz sync: Jan 1, 2026, 2:43 PM",8,33
+https://github.com/kreier/statistics-diary/commit/96f5b2c494d9e23d763150953795a5e3751f2b37,2026-01-01,[kreier/statistics-diary] remove daily run,3,16
+https://github.com/kreier/statistics-diary/commit/8049ba1f36ae41e99de79f3d5a939db4259ba566,2026-01-01,[kreier/statistics-diary] extend visuals and structure,4,28
+https://github.com/kreier/thesis08/commit/e39e18e15776a370e7c3437286803e109dc92b62,2025-12-31,[kreier/thesis08] now 49 pages,3,12
+https://github.com/kreier/thesis08/commit/1540b69fc36062dac841d11df2b661fb45a1e5a2,2025-12-31,[kreier/thesis08] pdflatex competes 43 pages until 4.1,7,36
+https://github.com/kreier/thesis08/commit/8c0c99458d2f9133994aba2da4b63db1919b4fd7,2025-12-31,[kreier/thesis08] finished bibliography,2,21
+https://github.com/kreier/thesis08/commit/7abf429b38a7c9de17c71408be6a90bee02f3596,2025-12-31,[kreier/thesis08] expand bibliography to original 63 entries,6,42
+https://github.com/kreier/quartz/commit/5a85cf1ee3849c6a1b3810ee9731a84ed37a5f50,2025-12-30,[kreier/quartz] Fix title to have no question mark,7,34
+https://github.com/kreier/obsidian/commit/bec93c395df94ffb29daa916f1bb3a58b3a30bde,2025-12-30,[kreier/obsidian] Fix title to have no question mark,7,34
+https://github.com/kreier/thesis08/commit/61f6809dc200cfc225271e67762a2804a9e57c84,2025-12-30,[kreier/thesis08] prepare upload to arXiv,4,23
+https://github.com/kreier/quartz/commit/ea7a3e9264340f9f7db9d26f435edda8aaea8609,2025-12-28,"[kreier/quartz] Fix a few links, include external pictures",7,42
+https://github.com/kreier/obsidian/commit/f641eed98757c8b6c829988cc493e6d1227dbe5b,2025-12-28,"[kreier/obsidian] Fix a few links, include external pictures",7,42
+https://github.com/kreier/quartz/commit/267a6093dbaf8733e4e5bf4fbc038a705e97f425,2025-12-28,[kreier/quartz] update entries from December and June,6,37
+https://github.com/kreier/obsidian/commit/7ce4df897b42f37fa985a040a31ca12a9c9da169,2025-12-28,[kreier/obsidian] update entries from December and June,6,37
+https://github.com/kreier/quartz/commit/85ef5b3520943fd9d84d65469e977ed81613f579,2025-12-28,[kreier/quartz] Refactor workflow to update statistics-diary trigger,7,52
+https://github.com/kreier/quartz/commit/54ad2d3d09eb41bea127135fe226c79d8d8b45f1,2025-12-28,[kreier/quartz] Trigger statistics-diary workflow after deployment,6,50
+https://github.com/kreier/statistics-diary/commit/122558a649606ec4fd19aae3be35dde126be040c,2025-12-28,[kreier/statistics-diary] Add repository_dispatch event to update workflow,6,48
+https://github.com/kreier/statistics-diary/commit/f3ad6d549c8930ed9926c26d95e046358660aa4f,2025-12-28,[kreier/statistics-diary] Add update version badge to README,6,34
+https://github.com/kreier/statistics-diary/commit/095f1ffcc1fe6660140053bec232acb14bea53ba,2025-12-28,[kreier/statistics-diary] Add permissions for write access in update workflow,8,51
+https://github.com/kreier/statistics-diary/commit/2e19ae5d262ddc0e5b89be22a6519773dfae049d,2025-12-28,[kreier/statistics-diary] Update GitHub Actions workflow for version updates,7,50
+https://github.com/kreier/statistics-diary/commit/ea275ca3f8a4703d45bf84ed06861d3397b5cd07,2025-12-28,[kreier/statistics-diary] for GitHub Action runners absolute paths - fix,7,46
+https://github.com/kreier/statistics-diary/commit/c05300827c973f9994a9145e7bdb8a792ff09675,2025-12-28,[kreier/statistics-diary] Add GitHub Actions workflow to update version,7,45
+https://github.com/kreier/statistics-diary/commit/ba688edad405a11512b9c065fe919adafa3af97e,2025-12-28,[kreier/statistics-diary] prepare for Github Automation,4,29
+https://github.com/kreier/tripitaka/commit/e0eff1e9974f4286bcaafe0a3d5c1b0cdb68d6d9,2025-12-26,"[kreier/tripitaka] Fix formatting in README table for clarity, right align numbers",10,63
+https://github.com/kreier/communicationspeed/commit/ea73ca33f789f91378d545958aab4b921bfd72a4,2025-12-26,[kreier/communicationspeed] Update README with source link for average speed,8,48
+https://github.com/kreier/tripitaka/commit/a79d8f2d944dd5e235d8af033fbef60a889b6094,2025-12-26,[kreier/tripitaka] Enhance README with additional details and links,7,48
+https://github.com/kreier/quartz/commit/0c15ba0acd17978337683114c4076d5540917007,2025-12-26,"[kreier/quartz] Quartz sync: Dec 26, 2025, 9:45 AM",8,34
+https://github.com/kreier/obsidian/commit/9a364b1712454a40020a90e7efe030b1fb289857,2025-12-26,"[kreier/obsidian] Quartz sync: Dec 26, 2025, 9:45 AM",8,34
+https://github.com/kreier/quartz/commit/b329826ad192a2b4bef5a5756c8aeeb02a4ea405,2025-12-26,"[kreier/quartz] Quartz sync: Dec 26, 2025, 7:29 AM",8,34
+https://github.com/kreier/obsidian/commit/5f8567f1fd7a4c18000c673f6722af8759e55aad,2025-12-26,"[kreier/obsidian] Quartz sync: Dec 26, 2025, 7:29 AM",8,34
+https://github.com/kreier/quartz/commit/c3ec044ecf41e22dfc12eab62871cd32ce423a24,2025-12-25,[kreier/quartz] Merge pull request #19 from kreier/dependabot/npm_and_yarn/production-dependencies-82a7bb8ce6,11,93
+https://github.com/kreier/quartz/commit/d977e74f79a9a96202ec8a95c71ebeda0780cf92,2025-12-25,[kreier/quartz] Merge branch 'v4' of https://github.com/jackyzha0/quartz into v4,11,64
+https://github.com/kreier/quartz/commit/80d5c2a595d615d0a582666f7f7713e1217bf49b,2025-12-25,[kreier/quartz] reorganized travel,2,18
+https://github.com/kreier/obsidian/commit/ffc2ec2e86fe618df4c65cf5db4f832f5e4d0091,2025-12-25,[kreier/obsidian] reorganized travel,2,18
+https://github.com/kreier/quartz/commit/f754e65d620a592eda29d76f62913f8f619b5548,2025-12-25,[kreier/quartz] update from coffee Trung 3T,5,27
+https://github.com/kreier/obsidian/commit/df96a9bd50999becc69934f4fa227379b41bc361,2025-12-25,[kreier/obsidian] update from coffee Trung 3T,5,27
+https://github.com/kreier/statistics-diary/commit/daedca19bab5413f8d5cf42eaa5b08870b31d374,2025-12-24,[kreier/statistics-diary] Enhance README with more detailed statistics and categories,8,59
+https://github.com/kreier/statistics-diary/commit/70294d18cfa1f3a4b31572f46f50122936deb1fc,2025-12-24,[kreier/statistics-diary] combined graphics,2,17
+https://github.com/kreier/quartz/commit/db898320f858223fb0d8aeb8ef89319153e91d40,2025-12-23,"[kreier/quartz] Quartz sync: Dec 23, 2025, 11:37 PM",8,35
+https://github.com/kreier/obsidian/commit/ca0156cb37f6574c1f7f01a5f3853b8993fb45e8,2025-12-23,"[kreier/obsidian] Quartz sync: Dec 23, 2025, 11:37 PM",8,35
+https://github.com/kreier/statistics-diary/commit/99c73c051914461191c7dd1edb458b7312440b41,2025-12-23,[kreier/statistics-diary] extended parsing of Obsidian markdown files,6,43
+https://github.com/kreier/saiht-parser/commit/821963cb68965856a18bdc1238ed3b0614b5c779,2025-12-23,[kreier/saiht-parser] Revise README for project and historical context,7,48
+https://github.com/kreier/obsidian/commit/313593dc9e3df70783b485ebc00e4ed8f0b7d7a4,2025-12-23,[kreier/obsidian] Enhance README with badges and statistics,6,41
+https://github.com/kreier/quartz/commit/9fae8edda59878480609465e67f41a162a00a86f,2025-12-22,"[kreier/quartz] Quartz sync: Dec 22, 2025, 11:14 PM",8,35
+https://github.com/kreier/obsidian/commit/1497a58735d3a88420e0966fde1b5c5ebdecdef2,2025-12-22,"[kreier/obsidian] Quartz sync: Dec 22, 2025, 11:14 PM",8,35
+https://github.com/kreier/calendar/commit/f84acefebc36831e03a307f23e7934ac38773321,2025-12-22,[kreier/calendar] add missing years,3,17
+https://github.com/kreier/quartz/commit/7ffc89e1097020a54bf410100919d06b0c1cf707,2025-12-22,"[kreier/quartz] Quartz sync: Dec 22, 2025, 5:48 PM",8,34
+https://github.com/kreier/obsidian/commit/77f19d34da9ad48c00963c3967fca85cd1501312,2025-12-22,"[kreier/obsidian] Quartz sync: Dec 22, 2025, 5:48 PM",8,34
+https://github.com/kreier/obsidian/commit/c75173663cf30426a2a7cf5b02349f6bb2669b0a,2025-12-22,[kreier/obsidian] Merge branch 'main' of https://github.com/kreier/obsidian,9,57
+https://github.com/kreier/obsidian/commit/cc372edf62927eb7054ed0a342732a4bd5ff61f5,2025-12-22,[kreier/obsidian] backup of quartz vault,4,22
+https://github.com/kreier/quartz/commit/e77b7cc8b180f0259fc5c3826cc4ce752274699e,2025-12-22,"[kreier/quartz] Quartz sync: Dec 22, 2025, 4:52 PM",8,34
+https://github.com/kreier/obsidian/commit/3d96db000f8fc87e212e277cf8ebd4b1c360ee07,2025-12-22,"[kreier/obsidian] Quartz sync: Dec 22, 2025, 4:52 PM",8,34
+https://github.com/kreier/quartz/commit/8b5f78c1dbc96d1254bd9b1ccd64bf2af2fa3b7e,2025-12-22,[kreier/quartz] Merge branch 'v4' of https://github.com/jackyzha0/quartz into v4,11,64
+https://github.com/kreier/solarmeter/commit/9844bd382fb9a46e79aa33375a118cf626abf19b,2025-12-22,[kreier/solarmeter] Merge pull request #4 from kreier/1.0,8,37
+https://github.com/kreier/statistics-diary/commit/9c47fd10a62c5c427468ccc70b7d1d51023e9e15,2025-12-22,"[kreier/statistics-diary] parsing three locations, starting word count",6,44
+https://github.com/kreier/statistics-diary/commit/52a63449ba01c2a6d717e8197407a044970b7868,2025-12-21,[kreier/statistics-diary] Merge branch 'main' of https://github.com/kreier/statistics-diary,10,65
+https://github.com/kreier/statistics-diary/commit/6753fb69e75483bfa19b5279a467d4d73d9b43ac,2025-12-21,[kreier/statistics-diary] parse the first 2 folders,5,25
+https://github.com/kreier/statistics-diary/commit/7ec66f81973306d0810a5dd4e43e2e32606fb225,2025-12-21,[kreier/statistics-diary] Add history section with statistics and links,7,45
+https://github.com/kreier/timeline/commit/3d27961f50ac314e9f36527c7a5625199a43801d,2025-12-21,"[kreier/timeline] include NotoSans for bold font support, for Dutch",8,49
+https://github.com/kreier/timeline/commit/6c8f70f432ac1863419c8d3852a21180a6fb1224,2025-12-21,[kreier/timeline] get support for U +0331 COMBINING MACRON BELOW for dutch,10,56
+https://github.com/kreier/timeline/commit/822224f93889eac9cbccf98974a70b2876e21e0e,2025-12-20,"[kreier/timeline] updated Thai to looped font, and a few more lines",10,49
+https://github.com/kreier/timeline/commit/3b11b7f9cc93b543ec9b82616d87275da0ce4e93,2025-12-20,[kreier/timeline] update to Thai,3,14
+https://github.com/timeline24/timeline24.github.io/commit/93e71500255f75441fc3761f654386f89504429d,2025-12-20,[timeline24/timeline24.github.io] Include Dutch,2,13
+https://github.com/kreier/timeline/commit/b3d5984069aadbd475e55ba70a7367bab473b30d,2025-12-20,[kreier/timeline] updated Dutch,2,13
+https://github.com/kreier/timeline/commit/c3d0bae32aefe8d3a288c6f4fd46dc35d4595c77,2025-12-20,[kreier/timeline] include Dutch (nl - Nederland),4,30
+https://github.com/kreier/obsidian/commit/cb25e8213c9007054a7c9a69055e0d2851b253c6,2025-12-20,[kreier/obsidian] Add files via upload,4,20
+https://github.com/kreier/obsidian/commit/f1f75b11757b79d2c0b9f9a201eb028e6c32cfe0,2025-12-20,[kreier/obsidian] Create README.md for data repository,6,36
+https://github.com/kreier/quartz/commit/59e3a28332ce53bdf04974dbc18d4e03b2605de1,2025-12-20,"[kreier/quartz] Quartz sync: Dec 20, 2025, 1:12 AM",8,34
+https://github.com/kreier/obsidian/commit/c19cae30412aeaa7f748de013b305833ba6cc4d2,2025-12-20,"[kreier/obsidian] Quartz sync: Dec 20, 2025, 1:12 AM",8,34
+https://github.com/kreier/quartz/commit/39fe3cf0c956b996269b13ca94bd870f06a8b77a,2025-12-19,"[kreier/quartz] Quartz sync: Dec 19, 2025, 11:47 PM",8,35
+https://github.com/kreier/obsidian/commit/bc334e66ebbb1ff43a3a474ff4ca66a7928fd8b0,2025-12-19,"[kreier/obsidian] Quartz sync: Dec 19, 2025, 11:47 PM",8,35
+https://github.com/kreier/impact/commit/6bc1409bb9827cd11e6a8fff04c0a3ce7bb6cd41,2025-12-19,[kreier/impact] Update .gitignore to ignore .DS_Store,5,37
+https://github.com/kreier/impact/commit/057bcf7c897729567861acccc54023ea0659a134,2025-12-19,[kreier/impact] Update build status badge in documentation,6,42
+https://github.com/kreier/impact/commit/7796f6bae9af4a89b384516fc5d1532d0a3b721a,2025-12-19,[kreier/impact] Add initial impact measurement code,5,35
+https://github.com/kreier/impact/commit/18a1dd09e311680e0fc6ff64da66da7744e33e9a,2025-12-19,"[kreier/impact] Update README with build status and project details, no more Travis CI and hitcounter",14,85
+https://github.com/kreier/impact/commit/e74ee1a1697f12ac4ea4683d7c2660bf0702fd70,2025-12-19,[kreier/impact] Add impact.py for rubber duck trajectory calculations,8,53
+https://github.com/kreier/statistics-diary/commit/3bae51d6ae42739638315c309a9293a1e727f189,2025-12-18,"[kreier/statistics-diary] include a ""daily visual""",4,24
+https://github.com/kreier/statistics-diary/commit/092003b6e4bdae2474fc684822daf1e130125abc,2025-12-18,[kreier/statistics-diary] brainstorming about structure,3,29
+https://github.com/kreier/statistics-diary/commit/58e000b50c3b58f79baec093e438d118c2d6939e,2025-12-18,[kreier/statistics-diary] Revise README for clarity and project overview,7,46
+https://github.com/kreier/statistics-diary/commit/e2cfb1fb65f0cca3c7da2fdc1faadcb9b17c6546,2025-12-18,[kreier/statistics-diary] Add files via upload,4,20
+https://github.com/kreier/statistics-diary/commit/d4e8fe84ae29ebbe558033f93574d6a46e117403,2025-12-18,[kreier/statistics-diary] Add README with examples and planned outlook,7,44
+https://github.com/kreier/statistics-diary/commit/18ef95b0bdaba573798b8e7b4edf4a2bf47da959,2025-12-18,[kreier/statistics-diary] Update .gitignore to include .DS_Store,5,38
+https://github.com/kreier/statistics-diary/commit/f31d7d96476fa361cc2c63f829e4c5380bf94abd,2025-12-18,[kreier/statistics-diary] Initial commit,2,14
+https://github.com/kreier/python2018/commit/d0d1e08b3a01bfd96aa7794eb7071dfe291622e2,2025-12-17,[kreier/python2018] Update parse_repositories.py,3,28
+https://github.com/kreier/python2018/commit/91ad96ff8884df9d4015a83c7745344d9d555f0a,2025-12-17,[kreier/python2018] list my 165 or 170 repositories,6,31
+https://github.com/kreier/python2018/commit/13ebe31698e8503031a9e6b0de7aa7621f931462,2025-12-17,[kreier/python2018] Merge pull request #39 from kreier/dependabot/pip/filelock-3.20.1,12,65
+https://github.com/kreier/quartz/commit/c674a4c2f552acd438cc605db7aecbd72cb507bd,2025-12-15,"[kreier/quartz] Quartz sync: Dec 15, 2025, 7:01 PM",8,34
+https://github.com/kreier/obsidian/commit/60f3736f24b499828c6d7f1081ab08a7642fb10a,2025-12-15,"[kreier/obsidian] Quartz sync: Dec 15, 2025, 7:01 PM",8,34
+https://github.com/kreier/timeline/commit/f7e8c668bc1994ee7dd7d584028c09f56cc6ad9a,2025-12-15,[kreier/timeline] extended korean,2,15
+https://github.com/kreier/quartz/commit/fa6a4f64be8611ac92d4e61ea2f8fe26924f2a38,2025-12-13,"[kreier/quartz] Quartz sync: Dec 13, 2025, 3:21 PM",8,34
+https://github.com/kreier/obsidian/commit/0ac3f96af78574110e9a384fdd97607ed05338f1,2025-12-13,"[kreier/obsidian] Quartz sync: Dec 13, 2025, 3:21 PM",8,34
+https://github.com/kreier/quartz/commit/46424457bbf05001be0118858ce99b8b60409bb1,2025-12-13,[kreier/quartz] Merge branch 'v4' of https://github.com/jackyzha0/quartz into v4,11,64
+https://github.com/kreier/quartz/commit/83db3f4ca03902e95d00efa4178f926718fb5dbe,2025-12-09,"[kreier/quartz] Quartz sync: Dec 9, 2025, 11:58 AM",8,34
+https://github.com/kreier/obsidian/commit/97685ea0b28ae1ca065b36dfa14c42f26197245b,2025-12-09,"[kreier/obsidian] Quartz sync: Dec 9, 2025, 11:58 AM",8,34
+https://github.com/kreier/quartz/commit/1e904729587c8e099a37c10e4d96bce87bf63041,2025-12-09,[kreier/quartz] Merge branch 'v4' of https://github.com/kreier/quartz into v4,11,61
+https://github.com/kreier/quartz/commit/3038044dc51fef7fd15237971c5f77d9a2fee980,2025-12-09,"[kreier/quartz] Quartz sync: Dec 9, 2025, 11:51 AM",8,34
+https://github.com/kreier/obsidian/commit/06441b286828b817e3b515e5c7bf099e8cd88b79,2025-12-09,"[kreier/obsidian] Quartz sync: Dec 9, 2025, 11:51 AM",8,34
+https://github.com/kreier/quartz/commit/69506a5a074432971b3370874bf446b8f0ddab0a,2025-12-09,[kreier/quartz] Merge pull request #14 from kreier/dependabot/npm_and_yarn/production-dependencies-d381b28d70,11,93
+https://github.com/kreier/quartz/commit/9d5bb3485860b90512d9a8996a35fe080060bb3b,2025-12-09,[kreier/quartz] Merge branch 'v4' of https://github.com/kreier/quartz into v4,11,61
+https://github.com/kreier/quartz/commit/64397977398c20b65698a450beba40bf093eab3f,2025-12-09,"[kreier/quartz] Quartz sync: Dec 9, 2025, 1:31 AM",8,33
+https://github.com/kreier/obsidian/commit/ef49da94ab730405f4ab596b8ab9ebe881fb3d09,2025-12-09,"[kreier/obsidian] Quartz sync: Dec 9, 2025, 1:31 AM",8,33
+https://github.com/kreier/quartz/commit/9c156353014bd29c85adaf4a5bea3fcecbe795da,2025-12-09,[kreier/quartz] Merge branch 'v4' of https://github.com/jackyzha0/quartz into v4,11,64
+https://github.com/kreier/quartz/commit/49d6a7a00e8a338b1e16808c663347f391065573,2025-12-09,[kreier/quartz] Merge pull request #11 from kreier/dependabot/github_actions/ci-dependencies-70833b80ab,11,87
+https://github.com/kreier/quartz/commit/a26be209eea71dbaa5ac71b62be11da4324c9e27,2025-12-09,"[kreier/quartz] Quartz sync: Dec 9, 2025, 1:20 AM",8,33
+https://github.com/kreier/obsidian/commit/fa9f93cd166030f233988d3e34a777ed7b97a2d7,2025-12-09,"[kreier/obsidian] Quartz sync: Dec 9, 2025, 1:20 AM",8,33
+https://github.com/timeline24/timeline24.github.io/commit/3f5cbc126a91ba804fb8066f19f16c4f7838f559,2025-12-02,[timeline24/timeline24.github.io] version 5.11 from 2025-12-02,7,28
+https://github.com/vex-ssis/2026/commit/a8a935b8dce9af5e9f6c7d8f6129543701177379,2025-11-30,"[vex-ssis/2026] Enhance README with team performance details, include 6 pictures",9,64
+https://github.com/vex-ssis/2026/commit/28bbe3f8d5c83d646b235441656c9ef9372f7b14,2025-11-30,[vex-ssis/2026] impressions from 2025-11-22 and 23,7,34
+https://github.com/vex-ssis/2026/commit/40e41f27ea16be75e9242bb6875304188643b0da,2025-11-30,[vex-ssis/2026] Revise event details and team qualifications 2025-11-23,9,55
+https://github.com/kreier/promised-seed/commit/f41f9948c517d373db230dcc1266621cbd357dc7,2025-11-30,[kreier/promised-seed] include comparison with A0 project from 2005,7,44
+https://github.com/kreier/promised-seed/commit/0a8f58c123b2b156a34e026b5206fa85b29ef9c7,2025-11-30,[kreier/promised-seed] image of v0.1 from 2025-11-30,8,29
+https://github.com/kreier/promised-seed/commit/17e0307383947939303107d8cdfbb1f3e48212f3,2025-11-30,[kreier/promised-seed] compare required size for graph,5,31
+https://github.com/kreier/promised-seed/commit/7cadfd25040898a46653bc0922cdf2268472bedb,2025-11-30,[kreier/promised-seed] Enhance README with motivation and size details,7,47
+https://github.com/kreier/promised-seed/commit/b76c2ef65e94340668e835848b431e13a72a2649,2025-11-29,[kreier/promised-seed] proper use of the dictionary for pdf_title,7,42
+https://github.com/kreier/promised-seed/commit/e2d23ecbf64b579a0a7dafbef3bc1c1aba534c46,2025-11-29,[kreier/promised-seed] include Title to this project,5,29
+https://github.com/kreier/promised-seed/commit/b1766af069152047a706e493bc9dd27f02a67d36,2025-11-29,"[kreier/promised-seed] relocate QR code, fixed",4,23
+https://github.com/kreier/promised-seed/commit/596e7c239a8eba020036a482ff682341598eb07f,2025-11-29,[kreier/promised-seed] first successful overview,3,25
+https://github.com/kreier/thesis08/commit/eb9adc43da0a93e5e3a9e21d66601b95d25315b6,2025-11-29,"[kreier/thesis08] first 6 literature items, appendix",5,34
+https://github.com/kreier/thesis08/commit/50df4aec8c9a02c6e9d5dbbcb0193ab7005ab6a0,2025-11-29,[kreier/thesis08] include Literaturverzeichnis as TEX,4,35
+https://github.com/kreier/thesis08/commit/0c21a9be95a6299a4998713a5f69456e71356a7d,2025-11-29,"[kreier/thesis08] split Diplomarbeit into parts, recreate structure",6,49
+https://github.com/kreier/thesis08/commit/79af6ed89cc18b465a5651cd1a0b3761f796296b,2025-11-28,[kreier/thesis08] progress in chapter 2 and 3,6,27
+https://github.com/kreier/thesis08/commit/6306c84457b9fe3ec932b92f3d2a8afeece1aa41,2025-11-28,[kreier/thesis08] first extension,2,15
+https://github.com/kreier/promised-seed/commit/049265effb0ff0c9b65cc2a50b7cbd3c3c96ff69,2025-11-26,"[kreier/promised-seed] include more women, set structure for couples and children",9,58
+https://github.com/kreier/promised-seed/commit/f1d76fc0fbbeb9ab1624402b741d9dc1133bf2de,2025-11-25,"[kreier/promised-seed] restructured, families for Mary and Josephs side",7,48
+https://github.com/kreier/thesis08/commit/929c0d52ec8efeb9ad328f504de49e86b76c382e,2025-11-25,[kreier/thesis08] Revise README for 2025 diploma thesis updates,7,45
+https://github.com/kreier/thesis08/commit/925e03bb37c811512b9c17c855e5dc56f5631f40,2025-11-25,[kreier/thesis08] Remove {% that is interpreted as Liquid tag by Jekyll,9,53
+https://github.com/kreier/thesis08/commit/c879233e231b02c7dcc96601fd2a05091aaeac88,2025-11-25,[kreier/thesis08] include images for visualization,4,32
+https://github.com/kreier/thesis08/commit/73f5aa86a18c461cf41d50c98a871bc199341457,2025-11-25,[kreier/thesis08] first successful render 2025-11-25,6,34
+https://github.com/kreier/thesis08/commit/d92317e3154a5838c5aded1fa51322cf0735b4a1,2025-11-25,[kreier/thesis08] Add README for recreating Diplomarbeit in 2025,7,46
+https://github.com/kreier/thesis08/commit/d2789e6cad380a41d433e99170f7e7183826bd34,2025-11-25,[kreier/thesis08] recreate Diplomarbeit from source,4,33
+https://github.com/kreier/thesis08/commit/99e7abfce235da4bebe3f714abc94cf14d30e676,2025-11-25,[kreier/thesis08] reconstructed html with pdftohtml,4,33
+https://github.com/kreier/thesis08/commit/7d2c0bb08bd051a3bcd5c120840bd2f453d3a15e,2025-11-25,[kreier/thesis08] extracted images with Poppler tools,5,35
+https://github.com/kreier/thesis08/commit/c310b1faa983a4653c34ddf2e62cbc1377e295b0,2025-11-24,[kreier/thesis08] created with pdf2txt,3,20
+https://github.com/kreier/thesis08/commit/a88ec5bcbf251446a4fc1ea78798ea4312dcceb2,2025-11-24,[kreier/thesis08] created with pdfminer.six,4,25
+https://github.com/kreier/thesis08/commit/0ece4f0665a45dfb90935171ab83f5beb563cb58,2025-11-24,[kreier/thesis08] step 1 recreating the TEX files,6,31
+https://github.com/vex-ssis/2025/commit/2f643b3289f4b204a16e5ef5e11b18e842f3744a,2025-11-24,[vex-ssis/2025] Revise team details and awards in README,7,40
+https://github.com/vex-ssis/2025/commit/b5466c2496517edbc9794780ed3bb0787e89ac1e,2025-11-24,[vex-ssis/2025] Update README with new teams and Online Challenges info,9,55
+https://github.com/kreier/thesis08/commit/9bff391bd84f5b2302291cfe46ad7be80f95485c,2025-11-23,[kreier/thesis08] Revise README for thesis details and add badges,8,47
+https://github.com/kreier/thesis08/commit/ea7b51f7086fd0ec68cb77130cdfd571d0abca4e,2025-11-23,"[kreier/thesis08] Final render from January 24, 2008",6,34
+https://github.com/kreier/thesis08/commit/cf741d05b8733f347b52d25d81004a8e5d12b064,2025-11-23,[kreier/thesis08] Revise README for Diplothesis08 project,5,39
+https://github.com/vex-ssis/2025/commit/a106ece0bb55949061a71d32dd4f0cca349c1822,2025-11-23,[vex-ssis/2025] Update VEX Robotics Championship details in README,7,50
+https://github.com/vex-ssis/2026/commit/c7a3cd32598d028f81724abb35ce58edaae3ec2a,2025-11-22,"[vex-ssis/2026] Update README with virtual skills standings, fix typo",8,53
+https://github.com/vex-ssis/2026/commit/8697e107cc143cc1a005d4e7375cbe99b83f7e15,2025-11-22,[vex-ssis/2026] update recent results,3,21
+https://github.com/kreier/language-families/commit/021595cbde62cfc99c2e1dc276e1813c2210b665,2025-11-22,[kreier/language-families] Article from nature > nature human behaviour,6,44
+https://github.com/kreier/language-families/commit/ba2f1ffd6668ed797490cacfc6583a9a93ac6533,2025-11-22,[kreier/language-families] Update README with new sections and historical context,8,54
+https://github.com/kreier/language-families/commit/a58570f92862354e4c7a0296c8abac2e251a250d,2025-11-22,[kreier/language-families] Merge branch 'main' of https://github.com/kreier/language-families,10,66
+https://github.com/kreier/language-families/commit/e67b9a1b74e25df9d1e75bd120324046320012c6,2025-11-22,[kreier/language-families] for placing visuals,3,19
+https://github.com/kreier/language-families/commit/0425a601f9eb2aad36cd46232a6177dcdcefd915,2025-11-22,[kreier/language-families] Enduring constraints on grammar revealed by Bayesian spatiophylogenetic analyses,9,80
+https://github.com/vex-ssis/2025/commit/0455ae9e6a512cde66ca301d568f401ae092c974,2025-11-22,[vex-ssis/2025] Update competition spots and seasons in README,7,46
+https://github.com/vex-ssis/2026/commit/422cf54ecbe943b1e582b9ff5861e8a68fa6ad53,2025-11-22,[vex-ssis/2026] Revise event information and add signature event details,8,56
+https://github.com/vex-ssis/.github/commit/530062cb65f27b8dc561dee40994d80ac457b7d9,2025-11-22,[vex-ssis/.github] Add history of Vietnam's participation at VEX Worlds,9,52
+https://github.com/vex-ssis/.github/commit/1e654bf6e40d9ecab4bf35fb40c74edf507d2bd9,2025-11-22,[vex-ssis/.github] Revise README for 2025-2026 and event updates,8,45
+https://github.com/kreier/timeline/commit/85fe795b8b16b1cf4bf21c0b2161310567aa472e,2025-11-20,[kreier/timeline] update PDF producer and creator,5,31
+https://github.com/kreier/promised-seed/commit/2344e41173aaca57560f3e2982fba4b8d97656cb,2025-11-20,[kreier/promised-seed] update PDF producer and creator,5,31
+https://github.com/kreier/promised-seed/commit/e1539063c13a664e6ba6e41d652fb91753cab64c,2025-11-20,[kreier/promised-seed] include producer,2,16
+https://github.com/kreier/promised-seed/commit/4dc069524236684aee5b27c0a5e19fa57fd33b29,2025-11-20,[kreier/promised-seed] cleaning up for v0.1 release,6,28
+https://github.com/kreier/promised-seed/commit/d3e922f01f670fce1870bacfb90988f713d65b86,2025-11-19,[kreier/promised-seed] got a A3 document generated!,5,28
+https://github.com/kreier/quartz/commit/25ad2309448eefa0ec95a7b489f3b465fe1bd1d6,2025-11-19,"[kreier/quartz] Quartz sync: Nov 19, 2025, 2:00 AM",8,34
+https://github.com/kreier/obsidian/commit/16ef033d3d28077438a32c2656474d0a096b350b,2025-11-19,"[kreier/obsidian] Quartz sync: Nov 19, 2025, 2:00 AM",8,34
+https://github.com/kreier/timeline/commit/366d0ddaab29b357db675cb58c3c414468279e5f,2025-11-19,[kreier/timeline] ISO-8859-1 (Latin-1) or Windows-1250 errors fixed,10,49
+https://github.com/kreier/timeline/commit/9c13b45e7a941893a962bb4c3feca3febf6fcdcb,2025-11-19,[kreier/timeline] expanded history of 2006,4,24
+https://github.com/kreier/timeline/commit/532636872a78185b2330373a900fc0d134f4b042,2025-11-19,[kreier/timeline] linked vertical timeline from 2006,5,34
+https://github.com/kreier/timeline/commit/017c59a5f107d67250d3a4763c6d933e37aa6416,2025-11-19,[kreier/timeline] include a recent empire visualization,5,37
+https://github.com/kreier/timeline/commit/9295fb359bd2a6674dcf93f09a048beb8dec9201,2025-11-19,[kreier/timeline] document 2006 history,3,21
+https://github.com/kreier/timeline/commit/94cbf2765c3ff967e0ecd053361c75d1518ba111,2025-11-18,"[kreier/timeline] include structure, reorganize",3,29
+https://github.com/kreier/promised-seed/commit/68bdc779f7d71e5e1a865e124a3720faf9d998a5,2025-11-18,[kreier/promised-seed] Include the history,3,19
+https://github.com/kreier/promised-seed/commit/398158e4d91ff975793b2137847b3754e6d4f729,2025-11-17,[kreier/promised-seed] Merge branch 'main' of https://github.com/kreier/promised-seed,10,62
+https://github.com/kreier/promised-seed/commit/bead54c4160781101bc5ce2a795c2a6d22d984f2,2025-11-17,[kreier/promised-seed] history and size considerations,4,31
+https://github.com/kreier/promised-seed/commit/b211c07ac67cef8574700f832f649e723c94fff8,2025-11-17,[kreier/promised-seed] Update .gitignore to include .DS_Store for Synology Diskstation,8,63
+https://github.com/kreier/promised-seed/commit/94848ca1528a39d621691b86b90451101a7d629b,2025-11-17,[kreier/promised-seed] Initial commit,2,14
+https://github.com/kreier/quartz/commit/d4fa0422dececda82553c165c5b983e70acd046a,2025-11-16,"[kreier/quartz] Quartz sync: Nov 16, 2025, 2:42 AM",8,34
+https://github.com/kreier/obsidian/commit/54a12270dd0b84f1f116477c544a5697d8588b11,2025-11-16,"[kreier/obsidian] Quartz sync: Nov 16, 2025, 2:42 AM",8,34
+https://github.com/kreier/quartz/commit/11e4fc15f8ddedd56c9f8ab5940d1fd19b745d01,2025-11-16,"[kreier/quartz] Quartz sync: Nov 16, 2025, 2:21 AM",8,34
+https://github.com/kreier/obsidian/commit/325a4a173a85d7899aa9258c1f5839a39a0880ba,2025-11-16,"[kreier/obsidian] Quartz sync: Nov 16, 2025, 2:21 AM",8,34
+https://github.com/kreier/quartz/commit/807f7cfb60f2e1732088f24763df731cd96df5a0,2025-11-16,"[kreier/quartz] Quartz sync: Nov 16, 2025, 2:17 AM",8,34
+https://github.com/kreier/obsidian/commit/600d10176df23fe0ea6311cbe2d9c31e16b6d888,2025-11-16,"[kreier/obsidian] Quartz sync: Nov 16, 2025, 2:17 AM",8,34
+https://github.com/kreier/logo/commit/c288d8a008e243cd7c4d29e7ba8961f606e925dd,2025-11-15,[kreier/logo] 5x5 raster for logo,4,19
+https://github.com/kreier/quartz/commit/6e5e879f37670a54ce054fce2d7467f2e107f26c,2025-11-15,[kreier/quartz] slowly finding a working structure and date format,8,50
+https://github.com/kreier/obsidian/commit/f6a7cf7d364fca22537214504c659e6b815bfe32,2025-11-15,[kreier/obsidian] slowly finding a working structure and date format,8,50
+https://github.com/kreier/quartz/commit/f8c373ebf78244aa2aee7f830f39e66ee4db065b,2025-11-15,[kreier/quartz] Merge pull request #8 from kreier/dependabot/npm_and_yarn/production-dependencies-3f756e6727,11,92
+https://github.com/kreier/quartz/commit/023239fdd0731569d270e5f7831e46c8cb6ce968,2025-11-15,"[kreier/quartz] Quartz sync: Nov 15, 2025, 12:38 PM",8,35
+https://github.com/kreier/obsidian/commit/ca0ebcb89da0fc49d1d0c7bf2c6dd7ebff34c117,2025-11-15,"[kreier/obsidian] Quartz sync: Nov 15, 2025, 12:38 PM",8,35
+https://github.com/kreier/quartz/commit/043f0939b5672fc593dd74549ea81fe03f788eac,2025-11-13,[kreier/quartz] Merge branch 'v4' of https://github.com/jackyzha0/quartz into v4,11,64
+https://github.com/kreier/quartz/commit/e91c46d779682068b3ededfc623107c29577c720,2025-11-13,[kreier/quartz] little restructure,2,18
+https://github.com/kreier/obsidian/commit/b5c26dc32db98e7985077b61865fbc7e25b622ca,2025-11-13,[kreier/obsidian] little restructure,2,18
+https://github.com/kreier/quartz/commit/070ab9da4f9b523e73bf9ad62c2240b477777397,2025-11-11,[kreier/quartz] Merge pull request #7 from kreier/dependabot/github_actions/ci-dependencies-5aba28dcfe,11,86
+https://github.com/kreier/quartz/commit/be2bc1c0ca88269baccf9f4ecc12e30ff81f1c76,2025-11-11,[kreier/quartz] Merge pull request #6 from kreier/dependabot/npm_and_yarn/production-dependencies-a5d154a665,11,92
+https://github.com/kreier/quartz/commit/7e3d66e3f6090a4ced74d4c4aa1ee2deef828d81,2025-11-11,[kreier/quartz] Merge branch 'v4' into dependabot/npm_and_yarn/production-dependencies-a5d154a665,9,81
+https://github.com/kreier/quartz/commit/1cd4bac43c722d639fa42ab9bfdd2c43ec615d8a,2025-11-11,[kreier/quartz] Merge branch 'v4' of https://github.com/jackyzha0/quartz into v4,11,64
+https://github.com/kreier/timeline/commit/e46ec304b64de3646e2aa2c262c57a56fc0e77dc,2025-11-10,[kreier/timeline] Merge pull request #76 from kreier/5.11,8,39
+https://github.com/kreier/timeline/commit/6ff93d8bb380f88950990fc64e09fa411926c334,2025-11-10,"[kreier/timeline] reorganize China 3, 16 and Sui periods to avoid overlap in de",12,61
+https://github.com/kreier/timeline/commit/87a542a92878c4b5c7778d28472c98231108d447,2025-11-10,[kreier/timeline] move three and 16 kingdoms up with Sui dynasty,9,46
+https://github.com/kreier/timeline/commit/272fcd39ddda597825c86f46793f167f2d916f60,2025-11-09,[kreier/timeline] include Sui dynasty for broken rice,6,35
+https://github.com/kreier/timeline/commit/47ad0bbe7471db3c970dc0955e26c63bed4a83bf,2025-11-09,[kreier/timeline] Merge pull request #75 from kreier/main,7,39
+https://github.com/kreier/timeline/commit/d261d155c61d6b69f5186c56b22b04b9955d3521,2025-11-09,[kreier/timeline] Merge pull request #74 from kreier/5.10,8,39
+https://github.com/kreier/study/commit/b3c3a620f5e3527a4bfa88fef4e7cbc67a7fce5b,2025-11-09,[kreier/study] Finished 2025-11-07,4,19
+https://github.com/kreier/study/commit/aee3014a2c3c4cd103383f6ce96602bd67fb7d33,2025-11-06,[kreier/study] 2025/11/06,3,10
+https://github.com/kreier/study/commit/1a45ca55f554cba9fb0ca738f2a87e3799a66240,2025-11-06,[kreier/study] 2025/11/05,3,10
+https://github.com/kreier/study/commit/7e1e4d5bbf8090ec1203760a361c81ca5246b7e2,2025-10-28,[kreier/study] trip Hanoi to Sapa,4,18
+https://github.com/kreier/quartz/commit/4e3e33687e13945ee35f234aff9e2337e68611eb,2025-10-27,[kreier/quartz] updated structure with distinct folder names (for Breadcrumbs),8,62
+https://github.com/kreier/obsidian/commit/cccf0c8878d4af8982fcac52c9010bfad034bc30,2025-10-27,[kreier/obsidian] updated structure with distinct folder names (for Breadcrumbs),8,62
+https://github.com/kreier/quartz/commit/fb4402919989f65b1de09bbb04fabb74161a5d5c,2025-10-27,[kreier/quartz] Projects and project was still mixed up,7,39
+https://github.com/kreier/obsidian/commit/b76e62bbbf9a64c13b5ef90b56a6d1a38894a984,2025-10-27,[kreier/obsidian] Projects and project was still mixed up,7,39
+https://github.com/kreier/quartz/commit/e970e13581b322beef7e403bf84d98ba23313efb,2025-10-27,"[kreier/quartz] new overview, empty link removed",5,32
+https://github.com/kreier/obsidian/commit/cd89de84453421eb1da3b6394fcb5796f506173c,2025-10-27,"[kreier/obsidian] new overview, empty link removed",5,32
+https://github.com/kreier/quartz/commit/b71b31a5e9e1375cc0aca1549193920f4337a729,2025-10-27,"[kreier/quartz] remove canvas, reorganize",3,25
+https://github.com/kreier/obsidian/commit/c1a2b66371cdc73d54c94002b7161c29224d3142,2025-10-27,"[kreier/obsidian] remove canvas, reorganize",3,25
+https://github.com/kreier/quartz/commit/afaf872284a06ee32abcaaa30930f8286e323954,2025-10-27,"[kreier/quartz] reorganized, removed suffix",3,27
+https://github.com/kreier/obsidian/commit/50aade6e20ecf0baec002a8edc661270595a7070,2025-10-27,"[kreier/obsidian] reorganized, removed suffix",3,27
+https://github.com/kreier/quartz/commit/55be1d16cd8760dc9bd0ff157dcd278b7f9b9ca8,2025-10-27,"[kreier/quartz] tags added to kreier.org, sitemap and timeline. And created date.",11,65
+https://github.com/kreier/obsidian/commit/801643b4f6e997e41ba11983da91a5c4467c6691,2025-10-27,"[kreier/obsidian] tags added to kreier.org, sitemap and timeline. And created date.",11,65
+https://github.com/kreier/quartz/commit/ad9a364a95aac6473d95e34180f5a2016670b75c,2025-10-27,[kreier/quartz] finally all nodes are connected for the Graph,8,45
+https://github.com/kreier/obsidian/commit/f89824ddafb6b0ac20625e7bddf4bd4d98dd0a09,2025-10-27,[kreier/obsidian] finally all nodes are connected for the Graph,8,45
+https://github.com/kreier/quartz/commit/fa06818a15213c7a94c1fbe9536bd604947631f6,2025-10-27,[kreier/quartz] Hanoi morning update,3,20
+https://github.com/kreier/obsidian/commit/52da3c47aaaa244ab37c1db0b6d55cb94b5217ed,2025-10-27,[kreier/obsidian] Hanoi morning update,3,20
+https://github.com/kreier/timeline/commit/2d8731482e7bae80f76c402b027eafe6fbd4b709,2025-10-23,[kreier/timeline] Update dictionary_zh.csv,3,24
+https://github.com/kreier/quartz/commit/40109c773b49234609fd5fed588cbd2a9772b4df,2025-10-23,[kreier/quartz] Merge branch 'v4' of https://github.com/kreier/quartz into v4,11,61
+https://github.com/kreier/quartz/commit/97b836252ec6c9496c8b45713c1b871ed363e9ac,2025-10-23,[kreier/quartz] fix small details,3,17
+https://github.com/kreier/quartz/commit/fd7a36d80785435102a8a6f7f8521861cc56a004,2025-10-21,[kreier/quartz] Add GitHub Actions workflow for deploying to Pages,8,50
+https://github.com/kreier/quartz/commit/30343c1c70edf182c72c9e883c208fba6c2fa32d,2025-10-21,[kreier/quartz] Add GitHub Actions workflow for deploying to Pages,8,50
+https://github.com/kreier/quartz/commit/83ed6efddcf5286cfa92a5588e6f288ecf6cb4ae,2025-10-21,[kreier/quartz] Reorganized,1,11
+https://github.com/kreier/obsidian/commit/9a6c6bee7338ed2363060d01bd7bd2f4b18f6b08,2025-10-21,[kreier/obsidian] Reorganized,1,11
+https://github.com/kreier/quartz/commit/fc2b583e7b08d7b61eff983528fc9459f56814ab,2025-10-21,"[kreier/quartz] Quartz sync: Oct 21, 2025, 10:47 PM",8,35
+https://github.com/kreier/obsidian/commit/a7c11513b98d2923113b1fb853e9906dcb245b30,2025-10-21,"[kreier/obsidian] Quartz sync: Oct 21, 2025, 10:47 PM",8,35
+https://github.com/kreier/obsidian/commit/b8505845f22b768611664cebb29c61c10e6e0db6,2025-10-21,[kreier/obsidian] Prepare for Quartz 4 with npm and node.js,9,41
+https://github.com/kreier/notes/commit/b91bbf34b4d8773dc975283591a0a6d0b5087ca5,2025-10-21,[kreier/notes] Initial commit,2,14
+https://github.com/kreier/obsidian/commit/757d919a782dd7067e32b4774cb39895f67830b1,2025-10-21,[kreier/obsidian] New entry at new location of fault,7,34
+https://github.com/kreier/study/commit/22c4f3a78def604ed557ee2b99ce71b460ee3f96,2025-10-21,[kreier/study] returned 2025-10-20 from Phnom Penh,7,35
+https://github.com/kreier/obsidian/commit/bd9109486f95cd116eb88c52776b841f6651d66b,2025-10-21,[kreier/obsidian] backup 2014,2,11
+https://github.com/kreier/obsidian/commit/edecc1e2a3e6439a6d1363466b698f48a433da0d,2025-10-21,[kreier/obsidian] Update .gitignore to ignore .DS_Store for Synology Diskstation,8,62
+https://github.com/kreier/obsidian/commit/c1e00d3ad7578cb20354bf3c971306e9194a09e7,2025-10-21,[kreier/obsidian] Initial commit,2,14
+https://github.com/kreier/saiht-parser/commit/5d57a62d25aad1309da88ff10127b2cffae8d5b6,2025-10-20,[kreier/saiht-parser] Merge pull request #5 from kreier/beta for v25.10.05beta,11,56
+https://github.com/kreier/saiht-parser/commit/1299ff4bdad242ee87cc8d8f1b99bfdf47db21a3,2025-10-20,[kreier/saiht-parser] now properly sorted,3,19
+https://github.com/kreier/saiht-parser/commit/cda65844800a4075f7ff13749d5576a28cb4605f,2025-10-20,"[kreier/saiht-parser] two new articles, including sort",5,32
+https://github.com/kreier/saiht-parser/commit/8633dbfe5a7ec1987f943e93f9e377f323f86fe1,2025-10-19,[kreier/saiht-parser] Merge pull request #4 from kreier/alpha ,7,39
+https://github.com/kreier/saiht-parser/commit/31d71f876db3ffe8173613c6d299af91883aa2f2,2025-10-19,[kreier/saiht-parser] some work from 2015,4,19
+https://github.com/kreier/saiht-parser/commit/03d7b98f1796b6a0c05494e17f3254957c02c9a8,2025-10-19,[kreier/saiht-parser] Rename index.html to index_old.html,6,35
+https://github.com/kreier/saiht-parser/commit/d9e0aa2b5c757d3e829b6f77e2e39ca9caed6414,2025-10-19,[kreier/saiht-parser] Merge pull request #3 from kreier/alpha,7,39
+https://github.com/kreier/saiht-parser/commit/d0729c8429156a88ac2390cd0c217253004786d4,2025-10-19,[kreier/saiht-parser] L1 and L2 lists linked,5,22
+https://github.com/kreier/saiht-parser/commit/b05aea4be649c3d4c0d1c0a1cdb0397abc95ac73,2025-10-19,[kreier/saiht-parser] L2 and L1 parsing with text done,7,32
+https://github.com/kreier/saiht-parser/commit/f8a5802ab9e7be218bea51f05cf9bf64b841e658,2025-10-19,"[kreier/saiht-parser] number event fixed, L2 output works",6,35
+https://github.com/kreier/saiht-parser/commit/ecf7a09784a5415d4a2479977d943247ba5db697,2025-10-19,[kreier/saiht-parser] Merge pull request #2 from kreier/alpha,7,39
+https://github.com/kreier/saiht-parser/commit/cf07ccf4a3c63c06c39703ce504647206cff5761,2025-10-19,[kreier/saiht-parser] include YAML - Aint Markup Language,5,35
+https://github.com/kreier/saiht-parser/commit/e44822fe0677c1768af69666c7f98193132d32df,2025-10-19,[kreier/saiht-parser] automatic generation of README.md works,6,39
+https://github.com/kreier/saiht-parser/commit/e6bed6368839bd6a0e823681ae69de7550e10c02,2025-10-19,[kreier/saiht-parser] v25.10.03 creates list.csv for all events,9,41
+https://github.com/kreier/saiht-parser/commit/22149d33b693e3b966c4c587eee1a81a8aabc72d,2025-10-19,[kreier/saiht-parser] Merge pull request #1 from kreier/alpha for v25.10.02,11,53
+https://github.com/kreier/saiht-parser/commit/94511ef1aed24a4d260784549e21f57502f8f110,2025-10-19,[kreier/saiht-parser] actually did not apply for Mexico. They offered,8,47
+https://github.com/kreier/saiht-parser/commit/1d3d3346fa18d071e2e5dd0a00ff57e8a9d2b270,2025-10-19,"[kreier/saiht-parser] parsing of subfolder works, seach for MD files",8,46
+https://github.com/kreier/saiht-parser/commit/056d1f095da8537927b972b709b50ce4ab3865b9,2025-10-19,"[kreier/saiht-parser] fix typos, include a list",5,25
+https://github.com/kreier/saiht-parser/commit/9b716d60d662724c823f498bc9185a79735a9ef7,2025-10-19,[kreier/saiht-parser] more history from teaching,4,26
+https://github.com/kreier/timeline/commit/acad89dc6b508dfb853718720156300dfd4328a9,2025-10-18,[kreier/timeline] reduced image size to reduce final file size,8,44
+https://github.com/kreier/timeline/commit/f77ee57040db26e6e9da1f6312cb5801c6e122a8,2025-10-18,[kreier/timeline] FINALLY include Gudruns image from 2024,6,39
+https://github.com/kreier/saiht-parser/commit/f7dcb95f27b54bac40049f6854829583675ba631,2025-10-18,[kreier/saiht-parser] fix typos,2,9
+https://github.com/kreier/saiht-parser/commit/3652ab6f5a3a55da895cdd3f5a842762f36caba3,2025-10-18,"[kreier/saiht-parser] expanded history, typo",3,22
+https://github.com/kreier/saiht-parser/commit/61a83d7ddd67a5cdfa4a06509ea08012092e63a7,2025-10-18,[kreier/saiht-parser] more visuals,2,12
+https://github.com/kreier/saiht-parser/commit/e1739be50cb76c5d1d96adb44c62b736858b4a88,2025-10-18,"[kreier/saiht-parser] typos, grammar",2,14
+https://github.com/kreier/saiht-parser/commit/8691dc2b29aef7c6d2a38b6fdbd3212bc664ec85,2025-10-18,[kreier/saiht-parser] extended history of last 12 years,6,33
+https://github.com/kreier/saiht-parser/commit/aa77f68d218d8b91c04ad5b8a9ce8e905cccdc71,2025-10-18,"[kreier/saiht-parser] typos, grammar",2,14
+https://github.com/kreier/saiht-parser/commit/c0ea00ffea819c13e7dcdcf89da4d5937bfd08c3,2025-10-17,[kreier/saiht-parser] extended reflection of the last 12 years,7,40
+https://github.com/kreier/saiht-parser/commit/f83efb5b559d785a9951164b8a868706b0e307c0,2025-10-17,[kreier/saiht-parser] Test in correct folder,4,22
+https://github.com/kreier/saiht-parser/commit/067ac98476b18f5d9eb3a5958eb004c9446f021c,2025-10-17,"[kreier/saiht-parser] same content, but named README.md for github pages",9,50
+https://github.com/kreier/saiht-parser/commit/af29bb43f01b32d1dcfb598c21378dfa77f06894,2025-10-17,[kreier/saiht-parser] review 2025-10-17,4,17
+https://github.com/kreier/study/commit/8ec259932d864ea5f553f74ca50201698b7f19ac,2025-10-16,[kreier/study] a few days in Phnom Penh,6,24
+https://github.com/kreier/saiht-parser/commit/f792d4e8bf35eec0f0a5e6ec79b846093efc7f75,2025-10-15,[kreier/saiht-parser] first rough outline,3,19
+https://github.com/kreier/saiht-parser/commit/be65fd23bc2d16c712cba079fae9530ce2755fff,2025-10-15,[kreier/saiht-parser] Update .gitignore for Synology Diskstation,5,42
+https://github.com/kreier/python2018/commit/82163f1c3d1dc890c2ada19f2832ce81ed874ad4,2025-10-15,"[kreier/python2018] Jekyll works, but ignores the config if the filename is wrong",11,61
+https://github.com/kreier/python2018/commit/1c2754080dc087b0066b19f9555f974119531ba6,2025-10-15,[kreier/python2018] found the culprit - index.md,5,28
+https://github.com/kreier/saiht-parser/commit/05ab54b648a889289c7b05f0b98390cd5899d60c,2025-10-15,[kreier/saiht-parser] outline structure and idea,4,26
+https://github.com/kreier/python2018/commit/2e5acc2e3e763b8ec577bb0b049e2b1f06d15c30,2025-10-15,[kreier/python2018] Jekyll site generation looks broken,5,35
+https://github.com/kreier/python2018/commit/3d6f9b5f4b312642514e56053c77c80db3f39d03,2025-10-15,[kreier/python2018] Website with Jekyll,3,19
+https://github.com/kreier/python2018/commit/b39ffb244cb68372a0fbf1763b0bd0110a0b54c4,2025-10-15,[kreier/python2018] Create jekyll-gh-pages.yml,5,26
+https://github.com/kreier/saiht-parser/commit/19ea170038626971c4f359dce80703a45d719feb,2025-10-15,[kreier/saiht-parser] Initial commit,2,14
+https://github.com/kreier/python2018/commit/960d77d973cb856c1dba0d2238e0d6cd78241abd,2025-10-15,"[kreier/python2018] Update esptool, but leave Minerva unchanged",6,43
+https://github.com/kreier/python2018/commit/2674e743d415d068f9c14e196a1c4ee2ddb1d2ff,2025-10-15,[kreier/python2018] Merge pull request #38 from kreier/dependabot/pip/gevent-23.9.0,12,63
+https://github.com/kreier/python2018/commit/d583f652905ee99785d00ccd480b5aca7d4baada,2025-10-15,[kreier/python2018] Merge pull request #37 from kreier/dependabot/pip/dash-2.15.0,12,61
+https://github.com/kreier/python2018/commit/b2136db9417694f4c603557bd593c8444fc1cd2f,2025-10-15,[kreier/python2018] Merge pull request #36 from kreier/dependabot/pip/zipp-3.19.1,12,61
+https://github.com/kreier/python2018/commit/bde69e496a3489e0c7cad72d2d6011eb9eeffff2,2025-10-15,[kreier/python2018] Merge pull request #35 from kreier/dependabot/pip/dash-html-components-2.0.0,14,76
+https://github.com/kreier/python2018/commit/a4ccb17e0204adf45b48ddc2721796f871d8c0c3,2025-10-15,[kreier/python2018] Merge pull request #33 from kreier/dependabot/pip/idna-3.7,11,58
+https://github.com/kreier/python2018/commit/0ae4c2b53183721526c56e91d3abd81db7f4d755,2025-10-15,[kreier/python2018] Merge pull request #34 from kreier/dependabot/pip/jinja2-3.1.6,12,62
+https://github.com/kreier/logo/commit/03a7e3a8e0a512f173089109b4265e5e4bd5e807,2025-10-15,[kreier/logo] ideas from 2018 and 2025,5,24
+https://github.com/kreier/bilder/commit/f11a1160f517eaf40716435c114693d92a798990,2025-10-14,[kreier/bilder] ideas 2025,2,10
+https://github.com/kreier/prime_gaps_line/commit/839074fd73bf829b5cbaeb3364faa75aad26205f,2025-10-14,[kreier/prime_gaps_line] cosmetic sugar,2,14
+https://github.com/kreier/python2018/commit/7e8bbf555602548bfa4354fccfb9a823195d0357,2025-10-14,[kreier/python2018] Merge pull request #32 from kreier/dependabot/pip/cryptography-44.0.1,12,69
+https://github.com/kreier/python2018/commit/19d389483dbb3fb5e79e764ee631c9ca6d3adb54,2025-10-14,[kreier/python2018] Merge pull request #30 from kreier/dependabot/pip/certifi-2024.7.4,12,66
+https://github.com/kreier/python2018/commit/34d103e2c4fdf6468aebeb147fe38edb8fc7b06c,2025-10-14,[kreier/python2018] Merge pull request #31 from kreier/dependabot/pip/numexpr-2.8.5,12,63
+https://github.com/kreier/python2018/commit/961d7b0af24840c9b1c3384c6df6fa54f155db41,2025-10-14,[kreier/python2018] Merge pull request #29 from kreier/dependabot/pip/dash-core-components-2.0.0,14,76
+https://github.com/kreier/python2018/commit/0b00ad427a0a74c6dba521ed1ef66e4bf1b3dab8,2025-10-14,"[kreier/python2018] No more TravisCI, but a version",6,31
+https://github.com/kreier/python2018/commit/ea45517897fcfb5660f40ab5c60ea2d9df4cef1f,2025-10-14,[kreier/python2018] Merge pull request #28 from kreier/dependabot/pip/certifi-2023.7.22,12,67
+https://github.com/kreier/python2018/commit/8635a9f1c1d43020741d47ccd2359ec95cb79abb,2025-10-14,[kreier/python2018] Merge pull request #27 from kreier/dependabot/pip/cryptography-41.0.2,12,69
+https://github.com/kreier/python2018/commit/e1a8478ead92930724bd0fba50b199a0b8f8acd2,2025-10-14,[kreier/python2018] Merge pull request #25 from kreier/dependabot/pip/flask-2.3.2,12,61
+https://github.com/kreier/python2018/commit/cb7b0f0e8f7fe9b344868cff05dcc4cb556b6da4,2025-10-14,[kreier/python2018] Merge pull request #24 from kreier/dependabot/pip/future-0.18.3,12,63
+https://github.com/kreier/128x64/commit/39128c24d648fc15e044c7fce8fa612768d364b5,2025-10-14,[kreier/128x64] include visuals for this project,5,32
+https://github.com/kreier/logo/commit/fb2510b7a1ef6f1363de4baf1bc2d2831b93be15,2025-10-14,[kreier/logo] extend examples from 2019,4,25
+https://github.com/kreier/study/commit/43cd0a87ad33a4332a42c13ab7aa061d994663f4,2025-10-14,[kreier/study] 2025-10-12,3,10
+https://github.com/kreier/logo/commit/5b02cccf40aeca57be46f8b89a0f74295c9d01e0,2025-10-14,[kreier/logo] Actually include the logos for documentation,6,44
+https://github.com/kreier/communicationspeed/commit/dc193e97abd9ad83d59a15d7c7559e89bcc2531d,2025-10-14,[kreier/communicationspeed] Merge pull request #5 from kreier/speech,7,40
+https://github.com/kreier/communicationspeed/commit/6ead04dcec8513540bbd0f5fec6bbe5445997b5d,2025-10-14,[kreier/communicationspeed] foundation for investigation,3,28
+https://github.com/kreier/timeline/commit/3828cf217cd0b7200ed6e19cfdcf38a1eb5940cd,2025-10-13,[kreier/timeline] New history in German added,5,27
+https://github.com/kreier/timeline/commit/d927a656fa67497eb05454721e9e25760cd851e9,2025-10-13,[kreier/timeline] Merge pull request #73 from kreier/main,7,39
+https://github.com/kreier/timeline/commit/69421f5e081c6ca601efb1f3d7a36d87dba28876,2025-10-13,"[kreier/timeline] include Seljuk, Vandal, Francia, Lombard",5,40
+https://github.com/kreier/timeline/commit/6300b17bfb028bd217e94a4d480f20497a5b32b5,2025-10-13,[kreier/timeline] Update README.md,3,16
+https://github.com/kreier/timeline/commit/96f2a48c5e3542783a04f8adade8ba0b3735a421,2025-10-13,[kreier/timeline] Merge pull request #72 from kreier/5.10,8,39
+https://github.com/kreier/timeline/commit/b81b631e9aa362c891a484c463575c98ac019c6e,2025-10-13,[kreier/timeline] update visuals and history,4,26
+https://github.com/kreier/communicationspeed/commit/05477e93e7ed334548d50c3872e8b6eeeb7af3c9,2025-10-12,[kreier/communicationspeed] fix filename,2,12
+https://github.com/kreier/communicationspeed/commit/4e8b503d4c97d56f2bee3a898993d86614445dc8,2025-10-12,[kreier/communicationspeed] updated graph,2,13
+https://github.com/kreier/communicationspeed/commit/c610ba50864e506eb1aa784bf922290517789958,2025-10-12,[kreier/communicationspeed] differentiate further,2,21
+https://github.com/kreier/communicationspeed/commit/95724588605b557b339e150675e7fd0a427a77ad,2025-10-12,[kreier/communicationspeed] Merge pull request #4 from kreier/type,7,38
+https://github.com/kreier/communicationspeed/commit/c46121375889fa704aef0cf20ab2745beb17c9c3,2025-10-12,[kreier/communicationspeed] Update README.md,3,16
+https://github.com/kreier/communicationspeed/commit/050b1c6b0c96c14df119582952caafc0cde679eb,2025-10-12,[kreier/communicationspeed] include data tables,3,19
+https://github.com/kreier/communicationspeed/commit/cfebdb4c9fb7093ad80c6f0a1b669a88f08a81fe,2025-10-12,[kreier/communicationspeed] include study from 2019,4,23
+https://github.com/kreier/communicationspeed/commit/4e2a29260f3fcac194f1fdf4278f0f05373a814d,2025-10-12,[kreier/communicationspeed] include visual,2,14
+https://github.com/kreier/communicationspeed/commit/e740a96d39087e4a0341287d67c157783eedc00f,2025-10-10,[kreier/communicationspeed] Merge pull request #2 from kreier/speech,7,40
+https://github.com/kreier/communicationspeed/commit/e8cbef2bdd5ef82a1c1bd4d5a1feaf2aad926684,2025-10-10,[kreier/communicationspeed] Update README.md,3,16
+https://github.com/kreier/communicationspeed/commit/420e74b52e367f926520e2a86706f77f4ccd1c09,2025-10-10,[kreier/communicationspeed] Merge pull request #1 from kreier/speech,7,40
+https://github.com/kreier/communicationspeed/commit/8e77acf78a5cae9400d0a827e7bc695ce5703070,2025-10-10,"[kreier/communicationspeed] LaTeX not rendered for the website, so replaced with image",10,58
+https://github.com/kreier/communicationspeed/commit/65de6feacf97e4b04c3283ae1f151e108dd93951,2025-10-10,[kreier/communicationspeed] Create text-to-speech.py,5,24
+https://github.com/kreier/communicationspeed/commit/5c2c748d15854a4e26e5321a5a45aa59b5015467,2025-10-10,[kreier/communicationspeed] Update .gitignore for Synology Diskstation,5,42
+https://github.com/kreier/communicationspeed/commit/5624d81d67ce75afa094db1ddd9e92c6e7dff096,2025-10-10,[kreier/communicationspeed] Update README.md,3,16
+https://github.com/kreier/communicationspeed/commit/6e3271667a2f7c1d3c9eaefa4cb93ddd0038bdc8,2025-10-10,[kreier/communicationspeed] Initial commit,2,14
+https://github.com/vex-ssis/2025/commit/62074175da9ed2e4bece17c28c33583646c74c34,2025-10-09,[vex-ssis/2025] include SSIS team names,4,23
+https://github.com/ssis-robotics/team426-2023/commit/2d6fb7b6e7b5a15726d1ac928fa209a19d2daeea,2025-10-09,[ssis-robotics/team426-2023] Create gradle-publish.yml,4,25
+https://github.com/ssis-robotics/team426-2023/commit/28b3dcc209c36c0e7a6d541421f6afd4ed686083,2025-10-09,[ssis-robotics/team426-2023] include two badges for website documentation,6,44
+https://github.com/ssis-unity/unity2022/commit/cfe74040df170bc80f318c770a644c577cb5fada,2025-10-09,[ssis-unity/unity2022] include license and release,4,27
+https://github.com/timeline25/timeline25.github.io/commit/faa77d9f0d0d06fbd155fd51d8be3615ab39b3cc,2025-10-09,[timeline25/timeline25.github.io] Create a new file just in your browser - even on a smartphone,12,61
+https://github.com/timeline25/timeline25.github.io/commit/ddd2d4d1112a9bf8fe1c45eaa00dee45e5f09e2b,2025-10-09,[timeline25/timeline25.github.io] Create code.py,3,14
+https://github.com/kreier/timeline/commit/9b2bb7995354609a32a8ce4096be517cf2ed8395,2025-10-08,[kreier/timeline] fix minor mistakes to support Jupyter generation again,8,54
+https://github.com/kreier/timeline/commit/ac9ddb5c048b6c57fe309c5c2f0fb6dc36aacbd6,2025-10-07,[kreier/timeline] Updated to v5.10 with new Daniel 2 image from fiverr,11,52
+https://github.com/kreier/timeline/commit/f344ddb0f1a76378ca804035b72223427d61b37b,2025-10-07,[kreier/timeline] version v5.10 for documentation 2025-10-07,8,42
+https://github.com/kreier/timeline/commit/4abf01a90c00637417c56d68f096e64562974826,2025-10-07,[kreier/timeline] fix Babel (Ba-bên) and one overflow 7),8,38
+https://github.com/kreier/timeline/commit/a3c32b2c2b8c9a60446731be6c20cae1d9e227a5,2025-10-07,[kreier/timeline] Merge pull request #70 from kreier/main,7,39
+https://github.com/kreier/timeline/commit/b3f211893904cec22237ac7b995aba4de34f721d,2025-10-06,[kreier/timeline] include Deborah and Jael,4,24
+https://github.com/kreier/timeline/commit/e60aceb48605004f472569889cc24e25c025c1b2,2025-10-06,[kreier/timeline] update Vietnamese with 20 families and nations,7,46
+https://github.com/kreier/timeline/commit/92b15dca0720391d086a6892bb3d6c43f52ae8d0,2025-10-06,[kreier/timeline] include Aleppo Codex,3,20
+https://github.com/kreier/timeline/commit/4d7b86898d0133fe39ddb207639c52b747bf6570,2025-10-06,[kreier/timeline] expand Vietnamese to 5.10,5,25
+https://github.com/kreier/timeline/commit/0f1cf56e41513d77a28b23a72b4c9725f3851e52,2025-10-04,[kreier/timeline] include Aleppo Codex,3,20
+https://github.com/kreier/timeline/commit/0c5ff7c8bef691009d69a20b267f7fffbfcb1853,2025-10-01,[kreier/timeline] version 5.10 from 2025-10-01,7,28
+https://github.com/kreier/timeline/commit/25ced641b79060c30838d94339ea82471471eef2,2025-10-01,[kreier/timeline] missing QR codes will be automatically created,7,46
+https://github.com/kreier/timeline/commit/04e591b911b02b9cf34ca7d1c5fb7f16e58be548,2025-10-01,"[kreier/timeline] restore to 5.9 for comparison in float values, fixed 2026",11,57
+https://github.com/kreier/timeline/commit/4c117ac345f7060a9047a6c6edfecdda62e3e0c4,2025-10-01,"[kreier/timeline] fixed fiverr2 Daniel 2 image, made new default image",9,52
+https://github.com/kreier/timeline/commit/8eb864f46537a5e70a315f3e89bed8926b53e53e,2025-10-01,[kreier/timeline] Trịnh lords and Nguyễn lords is better than Revival Lê dynasty,11,62
+https://github.com/kreier/cru/commit/00693a119a4f7dd5787f4f69e26aed5e603e2957,2025-10-01,[kreier/cru] restore original GPL-3 text,5,27
+https://github.com/kreier/cru/commit/757d0114ff40a491ff9b19b35524662ea1b349ce,2025-10-01,[kreier/cru] Merge branch 'main' of https://github.com/kreier/cru,9,52
+https://github.com/kreier/cru/commit/c53ac36db139dd4cdb35625c1fa17bb5caa9144a,2025-10-01,[kreier/cru] use license text provided by ToastyX,6,36
+https://github.com/kreier/cru/commit/e76be94843d724be22daa1206ae4bd6a1f4e7636,2025-10-01,[kreier/cru] Merge pull request #3 from kreier/1.5.3,9,39
+https://github.com/kreier/cru/commit/0f10d982c7769155f2f3af74edb61d6de077334f,2025-10-01,[kreier/cru] mirror reference extension blocks from monitortests.com/download/dat,9,68
+https://github.com/kreier/cru/commit/28234597d98d8b9267540dcbf8849ed3bd37aa1b,2025-10-01,[kreier/cru] Update to new v1.5.3 and information from 2025-08-26,12,52
+https://github.com/kreier/cru/commit/9a5a3c8180139e750013c1a1ade4cdffe5d6d35a,2025-10-01,[kreier/cru] version 1.5.3 from 2025-04-28,8,29
+https://github.com/kreier/timeline/commit/a793a5604398522f370f4458983cd0fe7849d6ee,2025-10-01,[kreier/timeline] update Ukrainian and German,4,27
+https://github.com/kreier/timeline/commit/1def51b60da4469338f5caf81fd341040144ecf9,2025-10-01,[kreier/timeline] create required QR code with python,6,35
+https://github.com/kreier/study/commit/886bda5cca966a5f92e165cdf9e7f68b73db7f26,2025-09-30,[kreier/study] 2025-09-30,3,10
+https://github.com/kreier/ESP32/commit/c8a7439ebcc762b24d52443fbaf3a6add7b824fe,2025-09-30,[kreier/ESP32] cleanup,1,7
+https://github.com/timeline24/timeline24.github.io/commit/db3faf4df53c3666ca3a936595e4ce2a20c6a424,2025-09-29,[timeline24/timeline24.github.io] version 5.9 from 2025-09-29,7,27
+https://github.com/kreier/timeline/commit/f6918f6068807c28470d3a03ab96af21746431b2,2025-09-29,[kreier/timeline] fix missing images for webpage,5,30
+https://github.com/kreier/timeline/commit/155bf5ad8d1ce153b949c64d97145b56aebdf72c,2025-09-29,[kreier/timeline] Merge pull request #69 from kreier/5.9,8,38
+https://github.com/kreier/timeline/commit/8056241ec5fbdee19cfd56f84076ebc9175aec5f,2025-09-29,[kreier/timeline] Link more translations,3,22
+https://github.com/kreier/timeline/commit/d4693c7632dc9d5a17baf975c3b0e2272eafc060,2025-09-29,[kreier/timeline] now 194 languages supported by googletrans API,7,46
+https://github.com/kreier/timeline/commit/70586e6e7637300e93bce9195ac764d1c6daf3fe,2025-09-29,[kreier/timeline] updated languages,2,17
+https://github.com/kreier/timeline/commit/aaad928d65d130e83fdedac7590dc2f9a3684a61,2025-09-29,[kreier/timeline] fix autotranslate for googletrans 4.0.x,7,39
+https://github.com/kreier/timeline/commit/64d662a11ac9f38afb3a54435f08351759e7f675,2025-09-29,[kreier/timeline] add American Civil War,4,22
+https://github.com/kreier/nam-electric/commit/91fc6d3f726451dd71b53f85261ae40b86ec82c2,2025-09-28,[kreier/nam-electric] Update README.md with badges,5,28
+https://github.com/kreier/nam-electric/commit/98b00fe0ee4fe5867976416176dd0accf311374a,2025-09-28,[kreier/nam-electric] include Jupyter Notebook solution,4,33
+https://github.com/kreier/nam-electric/commit/1dfc5f481464af5f72cd379add646861f177b8ce,2025-09-28,[kreier/nam-electric] Update .gitignore for Synology,4,30
+https://github.com/kreier/nam-electric/commit/4ce5165242de5680e2a0d17046e56ed55d5d05b9,2025-09-28,[kreier/nam-electric] include visuals,2,15
+https://github.com/kreier/nam-electric/commit/9ad78f27d9a065e10ee433a30b66901f9e3e4624,2025-09-28,[kreier/nam-electric] to be linked into the Jupyter notebook,7,38
+https://github.com/kreier/nam-electric/commit/f74a837229856e852b299956071bbc662e9c6169,2025-09-28,[kreier/nam-electric] Create README.md,3,16
+https://github.com/kreier/nam-electric/commit/7a7ed6fc63a9dc387e5c5b834a3b9f77b3b3de94,2025-09-28,[kreier/nam-electric] Initial commit,2,14
+https://github.com/kreier/language-families/commit/8a7044dcc610685e980da3f1448430e57445476d,2025-09-26,[kreier/language-families] include more information about digital Geographic Informastion Systems,8,70
+https://github.com/kreier/language-families/commit/6b9c844ef15897d504dfb35fba0b29a7d2efd21d,2025-09-26,[kreier/language-families] Merge branch 'main' of https://github.com/kreier/language-families,10,66
+https://github.com/kreier/language-families/commit/c2465e2aeb05f9b4eba8df0591e7c11776aabb3e,2025-09-26,[kreier/language-families] New Zealand example map colored,5,31
+https://github.com/kreier/language-families/commit/bdee9aecbf94f782a586956aeea679244165772a,2025-09-26,[kreier/language-families] Update .gitignore for Synology,4,30
+https://github.com/kreier/language-families/commit/9d718ac5ed9f73e36652f75d0f053d2e537432ff,2025-09-26,[kreier/language-families] Update README.md,3,16
+https://github.com/kreier/language-families/commit/6c36b6b08096f6a0d11346153308ea96bd2308ee,2025-09-26,[kreier/language-families] two examples from Wikipedia,4,27
+https://github.com/kreier/language-families/commit/79b9204e8437817756e575681652ce1e6fe063a7,2025-09-26,[kreier/language-families] placeholder for more images,4,27
+https://github.com/kreier/language-families/commit/a764be65951ca6a5b275f249abe4eb1298c6deb3,2025-09-26,[kreier/language-families] Initial commit,2,14
+https://github.com/timeline24/timeline24.github.io/commit/293b3bde5c3af5d9c2d34a833d7523e45908f6af,2025-09-25,[timeline24/timeline24.github.io] version 5.9 from 2025-09-25 ms,8,30
+https://github.com/kreier/timeline/commit/9ae5ec560e9cf0b9e936268ac22d74c09b475171,2025-09-25,"[kreier/timeline] Update comparison image for first 4000 years, and latest edition",10,64
+https://github.com/kreier/timeline/commit/a66fdc225020cdfdb0dd9e4ffe1de9b89f30e3f8,2025-09-25,[kreier/timeline] Merge pull request #68 from kreier/5.9,8,38
+https://github.com/kreier/timeline/commit/70f70ffa5c500336fa4affa1b1fbab2d8153b2eb,2025-09-25,[kreier/timeline] updated images for documentation,4,32
+https://github.com/kreier/study/commit/58ac9febae2df42817afa7aea0b81e7151ec7cfa,2025-09-25,[kreier/study] continue listening,2,18
+https://github.com/kreier/timeline/commit/72461099735bae73a72deb76f0802774163a7347,2025-09-25,"[kreier/timeline] update Cebuano, Estonian (et) and Malay (ms)",7,44
+https://github.com/timeline24/timeline24.github.io/commit/a0bcab26107ccdc96ce89bd4652a8ebac8df55bf,2025-09-25,[timeline24/timeline24.github.io] version 5.9 from 2025-09-25 ceb,8,31
+https://github.com/kreier/timeline/commit/013ad15c800eeda0c6aee1b56644089531221822,2025-09-24,[kreier/timeline] Merge pull request #67 from kreier/5.9,8,38
+https://github.com/kreier/timeline/commit/f7ffdaf6e6f309a94cb5e59b366e80833ff9b6ed,2025-09-24,"[kreier/timeline] fix English, upgrade French to 5.9",7,34
+https://github.com/kreier/timeline/commit/aebb733c67c54a856704c3aa250b895a440c40ff,2025-09-24,"[kreier/timeline] new translation for 72 new key phrases, finished German",9,55
+https://github.com/kreier/timeline/commit/5cdf9bb107252d61767afafa82199a62c16f15d8,2025-09-24,"[kreier/timeline] minor fixes, overprint for 20) Hivites [Gibeon] over Deluge",9,59
+https://github.com/kreier/timeline/commit/9b1f17def59b56d58c5858f0061355fd795b38b9,2025-09-24,"[kreier/timeline] check for duplicates, fix small mistakes",6,40
+https://github.com/kreier/timeline/commit/a447cb83a06d0ce93dfb2d50904d624ae104d352,2025-09-23,[kreier/timeline] reorganized Noah-Terah chart,4,28
+https://github.com/kreier/timeline/commit/025be810dc6b5c89e4893ebcfc49a91945bffb7b,2025-09-23,[kreier/timeline] include Hivites - the Gibeonites were Hivites!,6,46
+https://github.com/kreier/timeline/commit/2f481fabb2128955f68b2e04c5fec88cbc792cba,2025-09-23,"[kreier/timeline] fix typos, include Amorites",4,27
+https://github.com/kreier/timeline/commit/eaf05f8dca0b0e3e9f3c188d59518419a6e93614,2025-09-22,[kreier/timeline] extended footnotes for 12 more nations,6,38
+https://github.com/kreier/movies/commit/80cfe4fb852783e7fe94aecbf86ce43ddeee2a91,2025-09-22,[kreier/movies] update website,2,14
+https://github.com/kreier/movies/commit/f49085400c40e1407c7688e1332b1c7d6ca66b5d,2025-09-22,[kreier/movies] Include history from 2014,4,25
+https://github.com/kreier/movies/commit/738c344386933e8b93c3aa15adf087fabaaa0e9a,2025-09-22,[kreier/movies] include graph from October 2014,5,31
+https://github.com/kreier/movies/commit/8122b55f01abe49d989cbd49e72c55ae814246d4,2025-09-22,[kreier/movies] update September 2025,3,21
+https://github.com/kreier/movies/commit/f123c80350d65eda017cff716477ac03e15b85eb,2025-09-22,[kreier/movies] try some imdb APIs,4,18
+https://github.com/kreier/timeline/commit/cdb815d5be961f6093866f708cc6b5c2c8b879d7,2025-09-20,[kreier/timeline] extend family tree of Terah to Noah,7,35
+https://github.com/kreier/timeline/commit/1a781a11f9f29697d4d158453e6928b7da0cfa5c,2025-09-20,[kreier/timeline] include Edo and Meiji period of Japan,7,37
+https://github.com/kreier/timeline/commit/b26a12a9f7986b13d31a9c263d63290b3fc8d65f,2025-09-20,[kreier/timeline] include 4 Vietnamese dynasties,4,30
+https://github.com/kreier/timeline/commit/f286079d1b65d5f7c072a2c03f63b9faaf1a161c,2025-09-20,[kreier/timeline] Include Wulfila Bible and Pismis 24 NIRCam 2025/09/11,10,53
+https://github.com/kreier/study/commit/42d4cb3707c74e3fafbffd8e86fbf4362ed2838f,2025-09-19,[kreier/study] percentages till Offenbarung,3,28
+https://github.com/kreier/study/commit/b9c008831a8aaabf488f36555d92a2df3a616f82,2025-09-19,[kreier/study] into Psalms on September 19th,5,29
+https://github.com/kreier/timeline/commit/daeabf330dade6692b2fac9719efe3ba1890ea0b,2025-09-18,[kreier/timeline] increase from 131 to 172 files,6,30
+https://github.com/kreier/timeline/commit/7be1d5e941935bdd16433b8c16764ca9ee9d1b92,2025-09-18,[kreier/timeline] include 20+ new source files,5,28
+https://github.com/timeline24/timeline24.github.io/commit/83fc77cf923259baae8599b1c490fbf567e0c34c,2025-09-17,[timeline24/timeline24.github.io] version 5.5 from 2025-09-17,7,27
+https://github.com/timeline24/timeline24.github.io/commit/7172f68002febd47635f06526aea2031f25d7e05,2025-09-17,[timeline24/timeline24.github.io] version 5.5 from 2025-09-17,7,27
+https://github.com/kreier/timeline/commit/972982bf88e60f7715b44789cf7a224956d7c168,2025-09-17,[kreier/timeline] Merge branch 'main' of https://github.com/kreier/timeline,9,57
+https://github.com/kreier/timeline/commit/68272a32f2adb1957b238b79fa5906988b74ec73,2025-09-17,[kreier/timeline] little translation fixes,3,24
+https://github.com/kreier/timeline/commit/abdd4cc2f9eda1c87b1e63dd0b454b8373597a92,2025-09-17,[kreier/timeline] Include more languages,3,22
+https://github.com/kreier/timeline/commit/3301bb7a4847963a257263475eaaceb54602bbfd,2025-09-17,[kreier/timeline] fix French translation,3,22
+https://github.com/kreier/timeline/commit/3fbcde1a37734c7ad540000dc381deb11527b36d,2025-09-17,[kreier/timeline] Merge branch 'main' of https://github.com/kreier/timeline,9,57
+https://github.com/kreier/timeline/commit/5f138dc4d6a9725118c7d9f05f51de3cd8d877ca,2025-09-17,[kreier/timeline] swap columns,2,12
+https://github.com/kreier/timeline/commit/208d08a603708c0668ebfbe0dd518674224bd108,2025-09-17,[kreier/timeline] version 5.5 from 2025-09-17,7,27
+https://github.com/kreier/timeline/commit/49ff0ea52078eaa09bd5442d61992ae174d982c8,2025-09-15,"[kreier/timeline] include Pismis 24 image from NASA September 4th, 2025",9,53
+https://github.com/kreier/timeline/commit/d4c00f2d104d09f9a4e08423b6090010c7888f30,2025-09-10,"[kreier/timeline] include Portuguese, Ukrainian and Punjabi",5,41
+https://github.com/kreier/timeline/commit/65207a6baec6c5a1cb86648ff280c006861e47d3,2025-09-09,[kreier/timeline] fix small mistakes in Russian,5,29
+https://github.com/kreier/timeline/commit/ff2676c845999a18f5aafe24b6aae7e9324df5e2,2025-09-09,[kreier/timeline] reorganize order in auto-translated dictionaries,6,48
+https://github.com/kreier/timeline/commit/c7613f95c220fb9b2a00595fb22b57b8ea53d320,2025-09-09,"[kreier/timeline] add support for Cebuano, Malay and Greek",7,40
+https://github.com/kreier/timeline/commit/ac9a3716fb76d125f71e5b5f416d8d54405e3944,2025-09-08,[kreier/timeline] update Armenian,2,15
+https://github.com/kreier/T400/commit/096a2d43ee777390624315b4a53ec6ac29b15337,2025-09-08,[kreier/T400] new page build process,4,22
+https://github.com/kreier/T400/commit/b2b215cadeb6af79dc2b6a386ad01db91e1e6c96,2025-09-08,[kreier/T400] Updated T400_OLED.ino with u8g2 OLED driver,7,43
+https://github.com/kreier/T400/commit/3d8b7f7a852ee2c83d2c67f6f0fcd8c70ee995e7,2025-09-06,[kreier/T400] updated badges to 2025,4,22
+https://github.com/kreier/T300/commit/873480ce2cf50acd39ec53cdd39687f10b8840cc,2025-09-06,[kreier/T300] updated build status badge,4,26
+https://github.com/kreier/T300/commit/463d755905402b410ef8c6f2ff39ddf45298bfaf,2025-09-06,[kreier/T300] Build is no longer done with Travis-CI,8,38
+https://github.com/kreier/study/commit/082964b551105ce427e5ab9bf0e5d2f74e37cbe4,2025-09-05,[kreier/study] updated audio data September 2025,5,33
+https://github.com/kreier/study/commit/b22aa83ca485b58d231eb671b4f4ef85c34b2281,2025-09-05,"[kreier/study] audio recordings bible 100% de and en, 34% vi",9,45
+https://github.com/kreier/study/commit/d4df0f82f071ba9373485cd9d4351767d33f0202,2025-09-05,[kreier/study] finished 2. Könige,3,18
+https://github.com/LiBeKra/KLZ/commit/3662340a527abc7fe039cd657bb4326b4092c2bf,2025-09-04,[LiBeKra/KLZ] updated with password protection,4,32
+https://github.com/LiBeKra/KLZ/commit/3964c6ec2d1979b343ce05e9d9145b23c30fe13d,2025-09-04,[LiBeKra/KLZ] moved to archive,3,16
+https://github.com/kreier/timeline/commit/0c9f21ab970bf0d8727e90d20c962d5f4ba24e98,2025-09-03,[kreier/timeline] Merge branch 'main' of https://github.com/kreier/timeline,9,57
+https://github.com/kreier/timeline/commit/7fec0573fba8cd431c3cb845438b4047692b43e6,2025-09-03,[kreier/timeline] added Armenian support,3,22
+https://github.com/kreier/study/commit/0ea693c048745dabab7091dfe43ee6e4a0dbc355,2025-08-29,[kreier/study] finished Richter und Ruth,4,25
+https://github.com/vex-ssis/2026/commit/16d98cb3f5918812064d6316284768e3b93c0b3b,2025-08-28,[vex-ssis/2026] Update .gitignore for Synology,4,30
+https://github.com/kreier/study/commit/c8e8d8fd5754bb847977850cb676fd7858c44ffb,2025-08-28,[kreier/study] Thursday audio update. Almost 20% in German!,7,44
+https://github.com/kreier/timeline/commit/fc688eb49588d87519b3b64ef4a4534873f862c1,2025-08-28,[kreier/timeline] fix update prior to start of 5.9,8,32
+https://github.com/kreier/timeline/commit/637675b329460c44cf0eeea16de43b7a9e530e55,2025-08-23,[kreier/timeline] updated Russian to 5.8,5,22
+https://github.com/kreier/study/commit/9310cb0446025ace43679ed2e88a3949d7638762,2025-08-23,[kreier/study] start bible reading in German,5,29
+https://github.com/vex-ssis/.github/commit/2fa9030709fb27c1a5fd2a1c81d65d10fcba4e77,2025-08-22,[vex-ssis/.github] include Push Back 2025-2026,5,27
+https://github.com/vex-ssis/2026/commit/81d055075d009b97701a0a9fd9ae58d81d6788c8,2025-08-22,[vex-ssis/2026] include Mayhem 2025,3,19
+https://github.com/vex-ssis/2026/commit/f60cfc579dfeed4f8e74e643778432bfe24cd520,2025-08-22,[vex-ssis/2026] add transparency,2,16
+https://github.com/vex-ssis/2026/commit/c90d345116d9c341c7e1e8aeb0c6e07a7887c0e5,2025-08-22,[vex-ssis/2026] images for Mayhem2025 in February 2026,6,38
+https://github.com/vex-ssis/2025/commit/b317786d88df64adc7b04e6081f20fb4ea561689,2025-08-22,[vex-ssis/2025] Include results from world for 1599V,6,36
+https://github.com/kreier/timeline/commit/2c2dc61e45f6eb9c53bda7734dfbca3da881c6f9,2025-08-20,[kreier/timeline] translated to 42 to Kikongo,5,27
+https://github.com/kreier/timeline/commit/d0f0fbdd0ac201c580d0ad75a7d3b429bfb2165b,2025-08-20,[kreier/timeline] updated French,2,14
+https://github.com/kreier/timeline/commit/059ccd7ca11ad56a317af6cf5d081b7cebc1121b,2025-08-20,[kreier/timeline] add Kikongo,2,11
+https://github.com/LiBeKra/Probability-calculus/commit/dd16a51142aef9556e608cf2140d6d7f510469f1,2025-08-20,[LiBeKra/Probability-calculus] matplotlib generated,2,20
+https://github.com/LiBeKra/Probability-calculus/commit/b96c7bf2ebf981ab708d4f1b39a3b85b1e4e1d93,2025-08-20,[LiBeKra/Probability-calculus] add more eye candy and cosmetic sugar,7,37
+https://github.com/LiBeKra/Probability-calculus/commit/ab83a702cdb05f7b1522e3645e317c4489d4a3fb,2025-08-20,[LiBeKra/Probability-calculus] Merge branch 'main' of https://github.com/LiBeKra/Probability-calculus,10,70
+https://github.com/LiBeKra/Probability-calculus/commit/63add07a654f7c431a8a9de65b732027c795cffe,2025-08-20,[LiBeKra/Probability-calculus] more 6 aus 49 examples,5,22
+https://github.com/LiBeKra/Probability-calculus/commit/77ee1ef8632e03593c0749af85564992994adf2b,2025-08-20,[LiBeKra/Probability-calculus] Update README.md,3,16
+https://github.com/LiBeKra/Probability-calculus/commit/abdf118790e5260b537c277766959a6af07cc56f,2025-08-19,[LiBeKra/Probability-calculus] reorganized,1,11
+https://github.com/LiBeKra/Probability-calculus/commit/27d0d17d90ea9738aa88d3d2862baff8e83bed9c,2025-08-19,[LiBeKra/Probability-calculus] Deutsche Version,2,16
+https://github.com/LiBeKra/Probability-calculus/commit/c3cad892378cfcb60d8f34cd13030b9209acdd8a,2025-08-19,"[LiBeKra/Probability-calculus] easy examples with 2 and 3 dices, written by GPT-5",11,50
+https://github.com/LiBeKra/Probability-calculus/commit/3c0b69aded32019efd1c4d28270de8c51537193d,2025-08-19,[LiBeKra/Probability-calculus] first python program,3,20
+https://github.com/LiBeKra/Probability-calculus/commit/631cd14ee04139766be052ca14a965e42d0aaa9f,2025-08-19,[LiBeKra/Probability-calculus] Create LICENSE,2,14
+https://github.com/kreier/study/commit/4671b8c13ead8546d553298c284989f3abac1401,2025-08-19,[kreier/study] Create kapitel_audio_en_vi_de.xlsx,3,34
+https://github.com/kreier/study/commit/e60a1c78da29be6a7591aa1b08a68cd246471a23,2025-08-19,[kreier/study] Short historic background back to 2023,6,38
+https://github.com/kreier/study/commit/5684f85a5439a7c22224d625b4b664bd672a7262,2025-08-19,[kreier/study] start listening Bible reading in German,6,39
+https://github.com/kreier/benchmark/commit/1975531f72c9e251aabe874622a8d8f1aac84fb0,2025-08-18,"[kreier/benchmark] 2025 update on results, newly ordered",6,37
+https://github.com/kreier/timeline/commit/ea08ff67d29f6621f35a3d6689dc513fe9938c16,2025-08-18,[kreier/timeline] Merge branch 'main' of https://github.com/kreier/timeline,9,57
+https://github.com/kreier/timeline/commit/cef31475f2940b37dbf4cf4a229d8f474996ba6d,2025-08-18,[kreier/timeline] Include history of updated translations,5,39
+https://github.com/kreier/timeline/commit/986f1a56dcd991896dcbe9f46f88c9d1afe2c87e,2025-08-18,[kreier/timeline] include Wulfila bible from 350 CE with Codex Argenteus,9,54
+https://github.com/kreier/timeline/commit/244509ae939959f6043671ab4b8745ec84750ae5,2025-08-17,[kreier/timeline] for demonstration,2,17
+https://github.com/kreier/timeline/commit/0895b948b1667f9baf81ed999b5844bb8603a442,2025-08-15,[kreier/timeline] updated french,2,14
+https://github.com/timeline24/timeline24.github.io/commit/48deb5570691a2e9c4cccaaf2b83059878e81455,2025-08-15,[timeline24/timeline24.github.io] include Swahili,2,15
+https://github.com/timeline24/timeline24.github.io/commit/c60ab4660cb661b4ff60e368755c2dca42452a13,2025-08-15,[timeline24/timeline24.github.io] version 5.8 from 2025-08-15,7,27
+https://github.com/kreier/timeline/commit/e54fe42274134100d3b2c23a7d73437f7a806e0b,2025-08-15,[kreier/timeline] added support for Swahili,4,25
+https://github.com/LiBeKra/KLZ/commit/f512d789c64999f2fb6b8680dbe1e3dde917115e,2025-08-04,[LiBeKra/KLZ] Create README.md following idea in a fork,8,41
+https://github.com/timeline24/timeline24.github.io/commit/9b7680b27c88b284329cf0c71680fd44d3d7af0c,2025-08-01,[timeline24/timeline24.github.io] Update README.md,3,16
+https://github.com/kreier/timeline/commit/1a57195270a839ab5570181afaf1b98833f4876c,2025-08-01,[kreier/timeline] updated date 2017-04-02 for the release,8,39
+https://github.com/kreier/timeline/commit/77c9e958bd3e1dd13dfb280994460bba445378e2,2025-07-31,[kreier/timeline] updated Khmer,2,13
+https://github.com/timeline24/timeline24.github.io/commit/4d7a1260b04aaefdd169351ab70d73acf4e38ba1,2025-07-30,[timeline24/timeline24.github.io] version 5.5 from 2025-07-30,7,27
+https://github.com/kreier/timeline/commit/81fc9acee3a4adf7523d1fdfae16335ec6e87986,2025-07-29,[kreier/timeline] updated Khmer,2,13
+https://github.com/kreier/timeline/commit/3f9ca7e83e4320322f8e45b46df5c227cd3d93ba,2025-07-29,[kreier/timeline] Update Kankana-ey since April 2025,6,34
+https://github.com/kreier/timeline/commit/e71c2df01c95acb4a0d7326f5eb8078d35c0b878,2025-07-29,[kreier/timeline] update Ilokano after more than a year,7,37
+https://github.com/LiBeKra/KLZ/commit/7026a8649238991e35f2bb79b04ad6d447570f8a,2025-07-18,[LiBeKra/KLZ] Update README.md as landing page for github,8,43
+https://github.com/timeline24/timeline24.github.io/commit/3089372529af87f41e2020baf19085d125f0a7b3,2025-07-14,[timeline24/timeline24.github.io] version 5.7 from 2025-07-14,7,27
+https://github.com/kreier/timeline/commit/7788c0ba0eb033f5f8c6a321bd6a6a12cc8daf81,2025-07-14,[kreier/timeline] fix Japanese Cainan to Kenan,5,28
+https://github.com/kreier/timeline/commit/d23e0bdba6fcbb81c74f7d4197d062758e17ebdf,2025-07-13,"[kreier/timeline] fix Ishbak, Temanites and Xia dynasty in Japanese",8,49
+https://github.com/kreier/timeline/commit/5acebd96024aa8c678ea54210de1ab611718f1b0,2025-07-13,[kreier/timeline] updated Spanish and Japanese translation,5,40
+https://github.com/LiBeKra/KLZ/commit/df9a94eb97b882061a9dad8f5c8b690c84022053,2025-07-11,[LiBeKra/KLZ] Update README.md for Website,5,28
+https://github.com/LiBeKra/KLZ/commit/632fc265017f683dde9b611913819311fb70e4c0,2025-07-11,[LiBeKra/KLZ] last edition from 2024-2025,5,27
+https://github.com/LiBeKra/KLZ/commit/86d4f4e5317a6a6db904f73c606d67ccbc7bd855,2025-07-11,[LiBeKra/KLZ] Merge branch 'main' of https://github.com/LiBeKra/KLZ,9,53
+https://github.com/LiBeKra/KLZ/commit/ab1144620dbdcd0b0043721a624d38d1c1fcbc85,2025-07-11,[LiBeKra/KLZ] update 4 editions from 2024,5,27
+https://github.com/timeline24/timeline24.github.io/commit/2a2fc0554cfae01cfe69f1a79d4969f7ef160fe0,2025-06-24,[timeline24/timeline24.github.io] version 5.6 from 2025-06-24,7,27
+https://github.com/kreier/timeline/commit/5ec4b471acb1e359105a3e92ce30c5e202e53aa2,2025-06-24,[kreier/timeline] upgraded Spanish,2,16
+https://github.com/kreier/timeline/commit/f391e3a78e1c2a0c93d7ad6ab618c4d205f03b55,2025-06-21,[kreier/timeline] include chronology from 1874,4,28
+https://github.com/LiBeKra/KLZ/commit/2b7d2a58fb345f450a7af89f4c1ea7bbc39ee6d1,2025-06-17,[LiBeKra/KLZ] include four more editions in the overview,7,42
+https://github.com/LiBeKra/KLZ/commit/d93269c37dbf3ec1be7c54b0308063c301e2dd48,2025-06-17,[LiBeKra/KLZ] vierte Ausgabe mit einer Woche Verspätung,6,41
+https://github.com/timeline24/timeline24.github.io/commit/9996fb35793d4603bccee2bbb9bd5f0df160b8ee,2025-06-17,[timeline24/timeline24.github.io] Updated link to Mandarin,4,24
+https://github.com/kreier/timeline/commit/fe5a2fbec66a32352b1283c2cb33f0110ee1eb43,2025-06-17,[kreier/timeline] updated Chinese simplified translation,4,38
+https://github.com/timeline24/timeline24.github.io/commit/30d9ccdf996181a09efbff006c68f9ec9927be94,2025-06-16,"[timeline24/timeline24.github.io] fix Korean (language, not person)",5,33
+https://github.com/kreier/timeline/commit/852e7b0e6e565abbb4ffa97174670b2459ea9d1e,2025-06-16,[kreier/timeline] peer review of Korean translation,5,33
+https://github.com/kreier/timeline/commit/8d254f243861b4011e01741e44d766d1b9845220,2025-06-15,[kreier/timeline] minor fixes Korean,3,18
+https://github.com/kreier/timeline/commit/a1d49110a4c192ed6c5733b2a1686f1f6ab02524,2025-05-16,[kreier/timeline] fix overflow,2,12
+https://github.com/kreier/timeline/commit/6e5d36a1b50f79172d2ef237c3f155cac2c48dd4,2025-05-16,[kreier/timeline] update 5.5,3,10
+https://github.com/kreier/rp2040/commit/b603361b039f702e30ff8d39ea4968f993a0a56d,2025-05-13,[kreier/rp2040] include visual of overclocking result,5,37
+https://github.com/kreier/rp2040/commit/88ea581695b5a1ce439a34bc93a9b70ae51d4eac,2025-05-13,[kreier/rp2040] Create README.md for overclocking,5,33
+https://github.com/kreier/prime/commit/b4ec61845acdedd14202b9052a685f5510d84803,2025-05-13,"[kreier/prime] outline, results will follow",4,28
+https://github.com/kreier/ESP32/commit/6ae221468baba71806a8dcb0be3991e30e082288,2025-05-13,[kreier/ESP32] start with ESP-IDF VS Code extension,7,36
+https://github.com/kreier/ESP8266/commit/98e2e3ea9b3543ba6702610877d12e3f73eedfa3,2025-05-13,[kreier/ESP8266] update 2025,2,11
+https://github.com/kreier/benchmark/commit/78bf8c2204e2fe69d10ebc6f71cd514c320f5ded,2025-05-12,[kreier/benchmark] Update README.md,3,16
+https://github.com/kreier/prime/commit/4e66b7c8c70bba0c7f0135b17709c86ac51bc28e,2025-05-11,[kreier/prime] adjust for wrap-around after 49 days in tick_ms(),9,49
+https://github.com/kreier/prime/commit/13c002692b191b237fb44d67aeb40a4d84611eb3,2025-05-11,[kreier/prime] results MicroPython 1.21.0 on esp8266,7,37
+https://github.com/kreier/prime/commit/7ede06dcac06f10b09ab44d2c45b6640b913b03a,2025-05-11,[kreier/prime] resluts ESP32 C3 RISC-V 32bit CPU,7,33
+https://github.com/kreier/prime/commit/7da7e95e6ea1e9d0cdc68563ad341f79e5a8c2ca,2025-05-11,[kreier/prime] results of LilyGo T8 st7789 with SD,7,35
+https://github.com/kreier/rp2350/commit/f5696948d423c00f93e4c05e91679bf64508ef40,2025-05-10,[kreier/rp2350] CPU frequency and badges,4,24
+https://github.com/kreier/prime/commit/f7bafcfe9755e535262ab3a06a08b5a891df7031,2025-05-10,"[kreier/prime] rp2350 just arrived, benchmarked 2025-05-10",7,43
+https://github.com/kreier/rp2350/commit/1aa52a6a9b531f0c345462e9e8d0929a8d143c15,2025-05-10,"[kreier/rp2350] prime benchmark in circuitpython, 2x speed rp2040",7,49
+https://github.com/kreier/rp2350/commit/e5e4370c884b85d5e3cba79ab72b42d99ab3ede3,2025-05-10,[kreier/rp2350] Update .gitignore,2,17
+https://github.com/kreier/rp2350/commit/9945592485fcb264d7897e8204ccee7ac653a294,2025-05-10,[kreier/rp2350] Initial commit,2,14
+https://github.com/kreier/rp2040/commit/097476db355c4b39f4c09e751b856d33cac5e0d6,2025-05-10,"[kreier/rp2040] future CoreMark, starting with hello world serial",7,49
+https://github.com/kreier/prime/commit/f6f972e19ca17836fc6a1f78f348c7097e496ab3,2025-05-10,[kreier/prime] old 3Blue1Brown explanation for 69,5,34
+https://github.com/kreier/timeline/commit/214cf9ae773d495cb0c46adcfa8e57917f3b44d0,2025-05-09,[kreier/timeline] include commit activity,3,23
+https://github.com/kreier/benchmark/commit/cd9ce0ae92dc84de8022c0ec04b669387857890f,2025-05-09,[kreier/benchmark] include three badges,3,20
+https://github.com/kreier/ml/commit/c9b90e4197eb99688f6cf7c2bab844d241ba8247,2025-05-09,[kreier/ml] add three badges,3,16
+https://github.com/kreier/jetson/commit/fd9602445dc0b2997da5bda731e69a886b59d3ce,2025-05-09,[kreier/jetson] add activity badge,3,18
+https://github.com/vex-ssis/2026/commit/e884af30d43ee4f6f24e73e57934b58048050742,2025-05-09,[vex-ssis/2026] include list of last years,5,26
+https://github.com/vex-ssis/2026/commit/1b9de97f5675db9fe2ec331428a345319afed67d,2025-05-09,[vex-ssis/2026] include image,2,13
+https://github.com/vex-ssis/2026/commit/52046542fa3d1a7deaed0746bb09a458e961bd21,2025-05-09,[vex-ssis/2026] Initial commit,2,14
+https://github.com/kreier/prime/commit/1298baef6efa478497a95a03c4607a8d34bc7ee4,2025-05-07,"[kreier/prime] minimal rust 8MB, installer msi only 2.7 MB",9,43
+https://github.com/kreier/prime/commit/fafd411d6d907e95611db2b6a75ddababf5f62bc,2025-05-07,[kreier/prime] include GUI environment,3,23
+https://github.com/kreier/llama.cpp-jetson/commit/a944a1785adc7f58c5d6677bfbe574de60139cff,2025-05-06,[kreier/llama.cpp-jetson] two processes concurrently,3,26
+https://github.com/kreier/ml/commit/66b8eea556fa1c273a0e96f596f3bd2ce4a7b594,2025-05-05,[kreier/ml] include IBM Granite 4.0 from May 2nd!,8,37
+https://github.com/kreier/timeline/commit/bc33eb4b90cabf25ce688f7f8610a999165d1734,2025-05-03,"[kreier/timeline] include Estonian translation, make googletrans 4.0 work",8,55
+https://github.com/kreier/benchmark/commit/dec32ce9b7ec3280a4582319b71d35db5607f805,2025-05-03,[kreier/benchmark] include process node and architecture,5,37
+https://github.com/kreier/benchmark/commit/067183e65bf3d3b4eba57a318ec72674a11be8c8,2025-05-03,[kreier/benchmark] fix data points,3,15
+https://github.com/kreier/timeline/commit/15a7dc1954eeaffcf79b534d4e37008554233641,2025-05-02,[kreier/timeline] fix Capitalization errors,3,25
+https://github.com/kreier/ml/commit/bf93df9b56215f94495ae5c02cc51424de70959f,2025-05-02,[kreier/ml] include combined image,3,22
+https://github.com/kreier/ml/commit/022d608877e468ae873a943393be1442b8019bb4,2025-05-02,[kreier/ml] include some updates from benchmarks,5,36
+https://github.com/kreier/benchmark/commit/de4d1ae8d45082c1320ed769849556bbce1777ed,2025-05-01,[kreier/benchmark] include small details,3,21
+https://github.com/kreier/benchmark/commit/ae4ed3f0397d6478f0e85f8ed6c8f3aa605d8e6c,2025-05-01,[kreier/benchmark] include 2 graphs for toy benchmarks and fastest language,9,56
+https://github.com/kreier/benchmark/commit/bc8f394c91b697eb237b326076137b01a2c04d74,2025-05-01,[kreier/benchmark] update graph and 13700T result,5,30
+https://github.com/kreier/benchmark/commit/5ee6f6febb2a109b91a0652e94265b3977ac0721,2025-05-01,[kreier/benchmark] updated GFLOPS graphs,3,21
+https://github.com/kreier/benchmark/commit/45c871ef42f1aff0f7ef618106dae40053f1b483,2025-05-01,[kreier/benchmark] reorganized,1,11
+https://github.com/kreier/benchmark/commit/786445c46710968069aaa6cf5a6875773b1f65c5,2025-05-01,"[kreier/benchmark] update images, include clpeak benchmark",5,39
+https://github.com/kreier/rp2040/commit/ea0ac62ee3887b6a8c16ab7529b043fea72a514f,2025-05-01,[kreier/rp2040] include badges,2,14
+https://github.com/kreier/rp2040/commit/c2d6b57038420f9a8c7c92f3d4615f0dfd932b09,2025-05-01,"[kreier/rp2040] blink in C, from examples of the SDK 2.1.1",11,42
+https://github.com/kreier/benchmark/commit/7041cd9fd1a5d2ac65e287b41a95b319cb70cfc5,2025-04-30,[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark,9,58
+https://github.com/kreier/benchmark/commit/d3b30953413a3b1c95ffdea9588c5de43f813252,2025-04-30,[kreier/benchmark] update GFLOPs graphs,3,20
+https://github.com/kreier/benchmark/commit/5bcb8d717516cf96b532bc101c7b4b7de58c1639,2025-04-30,[kreier/benchmark] Update recent results LinpackDP,4,31
+https://github.com/kreier/benchmark/commit/d9b43531b39213390c767454f3ea30e28e4a8a0d,2025-04-30,[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark,9,58
+https://github.com/kreier/benchmark/commit/8271e57c10a54d27b7b182dbf3df7faf43833bd4,2025-04-30,[kreier/benchmark] include some eye candy,4,22
+https://github.com/kreier/benchmark/commit/1e300ef19c1ccdcc949cbf0d2c2b06b013454443,2025-04-30,[kreier/benchmark] include overview,2,16
+https://github.com/kreier/prime/commit/38986610c40199217ae7c6e9650c0858cefb4dff,2025-04-26,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,9,54
+https://github.com/kreier/prime/commit/582c63e74ce3aeb8c6a23f3aa563d6e3c188ddd8,2025-04-26,[kreier/prime] benchmark i7-13700T 2025-04-26,6,30
+https://github.com/kreier/prime/commit/d8e532d3e75fcdab83be41065df0821f7d8c30d5,2025-04-26,[kreier/prime] change trigger back to main,5,27
+https://github.com/kreier/prime/commit/6ae92e1084fa469f13e6a61d603dfae161d4ab36,2025-04-26,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,9,54
+https://github.com/kreier/prime/commit/724e9b9aaa3d8ff349d3f2ddf77436283b57b621,2025-04-26,[kreier/prime] results Jetson 2025-04-26,5,25
+https://github.com/kreier/prime/commit/4f46420c26d6cb48e6c2c8e96c60032278a0c03f,2025-04-26,[kreier/prime] include badge and Sieve of Eratosthenes,6,39
+https://github.com/kreier/prime/commit/d28cd6bb603f1469ec72e8b9294197de58a0f717,2025-04-26,[kreier/prime] Update jekyll-gh-pages.yml to recent action script versions,10,59
+https://github.com/kreier/prime/commit/cabb407f54f6ef5c4bcd78738811948b4122c4de,2025-04-26,[kreier/prime] Update actions/checkout@4 since v3 is no longer supported,10,57
+https://github.com/kreier/prime/commit/9eaa2a9b66e4310fe4b7fde2883b1398e1e9944a,2025-04-26,[kreier/prime] Update README.md,3,16
+https://github.com/kreier/cuda/commit/84da567a363dbc3527a0c189e1354bfe89c1ca5f,2025-04-26,[kreier/cuda] Create README.md,3,16
+https://github.com/kreier/cuda/commit/a64fc06d7b04224ac55c5a1ea08581e65f166a13,2025-04-26,[kreier/cuda] simple hello world on one thread,6,32
+https://github.com/kreier/cuda/commit/d714e460b4e006e18b8fa4df075417a67eee3e98,2025-04-26,[kreier/cuda] Initial commit,2,14
+https://github.com/kreier/benchmark/commit/a467ab3e9394c41900c197f58881a2e055beb4a9,2025-04-26,[kreier/benchmark] faster speed for INT8 with dp4a in v1.8,9,39
+https://github.com/kreier/benchmark/commit/3e1f51fe13d914589f36275156658240aad628ea,2025-04-25,[kreier/benchmark] include Apple M1 and i7 13700T,6,30
+https://github.com/kreier/tripitaka/commit/e95025abb54ee3c56ec46b8e9ff629789f82f160,2025-04-24,[kreier/tripitaka] extracted .epub to .xhtml,4,25
+https://github.com/kreier/tripitaka/commit/5423749779727eb318c4f911e8b2016342bf3165,2025-04-24,[kreier/tripitaka] add links to subfolders,4,23
+https://github.com/kreier/tripitaka/commit/9c42cea273ae2998f9d1cfd6372bfc01ffc1ba55,2025-04-24,[kreier/tripitaka] add details for github.io website,6,33
+https://github.com/kreier/jetson/commit/bda912b74dba2dbcba99ef51258218e07d2b15a6,2025-04-21,[kreier/jetson] include memory bandwidth,3,24
+https://github.com/kreier/jetson/commit/c5ae34b52412aa953061c959ba0c9e4091e2c32a,2025-04-21,[kreier/jetson] benchmark results clbench,3,25
+https://github.com/kreier/jetson/commit/17ad681dc30d1aba95d3a4b92dc38dd2ac18b6fe,2025-04-21,[kreier/jetson] include some images,3,19
+https://github.com/kreier/jetson/commit/f9d21b52f031b1bb34be6e928e7db2d11b2e0ea8,2025-04-21,[kreier/jetson] include pictures,2,16
+https://github.com/kreier/llama.cpp-jetson/commit/678a3cb1205881443ba2f8df02d7bf50ec628289,2025-04-21,[kreier/llama.cpp-jetson] include small images above bigger subsections for readability,8,61
+https://github.com/kreier/llama.cpp-jetson/commit/bff1a3edc25e968cb624566fb1f2e9ee8c7960b8,2025-04-21,[kreier/llama.cpp-jetson] prerequisites,1,13
+https://github.com/kreier/llama.cpp-jetson/commit/c2930671aea08dc62685662e0a7917bd73e00d75,2025-04-21,[kreier/llama.cpp-jetson] include small logos for better readability,6,42
+https://github.com/kreier/llama.cpp-jetson/commit/f3778c7928a85fbb0d796d718e1f35596014b300,2025-04-21,[kreier/llama.cpp-jetson] include Gemma 3 logo,4,20
+https://github.com/kreier/llama.cpp-jetson/commit/603909b12be2c88e5dce64b19e9097e80d05b549,2025-04-20,[kreier/llama.cpp-jetson] Merge branch 'main' of https://github.com/kreier/llama.cpp-jetson,11,65
+https://github.com/kreier/llama.cpp-jetson/commit/86415f438ad7b1702cadc3024ea1689618bdcb04,2025-04-20,"[kreier/llama.cpp-jetson] updated graph, include comparison CPU",5,37
+https://github.com/kreier/llama.cpp-jetson/commit/1c3e9e5bc9e1b0547fa78882f4d7ba1a71407362,2025-04-20,[kreier/llama.cpp-jetson] improve wording of a few instructions,6,37
+https://github.com/kreier/llama.cpp-jetson/commit/0920d107dcd175568dba85ee017c41b9f0ad746a,2025-04-20,"[kreier/llama.cpp-jetson] fix installation, include image",4,31
+https://github.com/kreier/llama.cpp-jetson.nano/commit/9caada5205f104c2b507b0b85c135f7f4fdf8e55,2025-04-20,"[kreier/llama.cpp-jetson.nano] simplified, reorganized",2,23
+https://github.com/kreier/llama.cpp-jetson.nano/commit/ef8b948518145492ebd5ae1eb0e10af55ffe6322,2025-04-20,[kreier/llama.cpp-jetson.nano] link llama.cpp and image,5,24
+https://github.com/kreier/llama.cpp-jetson.nano/commit/38b05250e37cd866b6f8190d15f8bfc531d33709,2025-04-20,[kreier/llama.cpp-jetson.nano] fix source problem,3,18
+https://github.com/kreier/jetson/commit/b6b4ec8c62887888995cd34310c1649c5c1f360f,2025-04-20,"[kreier/jetson] even source does not operate in the shell, but subshell",10,55
+https://github.com/kreier/jetson/commit/a6013a5d089059b5e9d5f9bf6742e01bf3443fa1,2025-04-20,[kreier/jetson] export only works in the scripts subsession - fixed with source,10,63
+https://github.com/kreier/jetson/commit/0cbc14d448009c517333c981a25ed1eefc1ff54f,2025-04-20,[kreier/jetson] fix path to cuda compiler nvcc,6,30
+https://github.com/kreier/llama.cpp-jetson.nano/commit/4c0dd2ef97b51ada9eeb95a4264745d01228e5b0,2025-04-20,[kreier/llama.cpp-jetson.nano] fix grep request to execute script with bash,8,44
+https://github.com/kreier/llama.cpp-jetson.nano/commit/0019fdc4ddd703571c56b78e20c22c565de5eec2,2025-04-20,[kreier/llama.cpp-jetson.nano] patch path automatically,3,24
+https://github.com/kreier/llama.cpp-jetson/commit/5c1c292f8ba2856b0b50765dbf13bc028fee6658,2025-04-20,[kreier/llama.cpp-jetson] faster memory access with GPU,5,29
+https://github.com/kreier/hacks/commit/0f81a6ec43c7c81b18d47d433cb3792d8d3d2618,2025-04-19,[kreier/hacks] include badges,2,14
+https://github.com/kreier/hacks/commit/2f8a897a6a8c4f565838eeb43ed8a499b037149e,2025-04-19,[kreier/hacks] include a little structure,4,26
+https://github.com/kreier/timeline/commit/889aa66e53b52a1657e67e8dda6863edee5f6490,2025-04-18,[kreier/timeline] reorganized Terah's family,4,26
+https://github.com/kreier/timeline/commit/0713cd37635db58e7e7b0c17fcf40dc3e30e9f24,2025-04-18,[kreier/timeline] comparison to reference is working,5,34
+https://github.com/kreier/timeline/commit/a46338b18902e038dc94abd27b18763723280f52,2025-04-18,[kreier/timeline] special case for Iloko and Kankana-ey,7,37
+https://github.com/kreier/timeline/commit/794842f8efd16571fbbea86a3bc7206ac0ab5033,2025-04-17,"[kreier/timeline] preliminary version 5.4 with Exile capitalized, Tagalog ingredients",9,67
+https://github.com/kreier/timeline/commit/155e97a966307a54add6011020253d83a2dd5644,2025-04-17,"[kreier/timeline] Update English reference, remove unnecessary spaces",6,51
+https://github.com/kreier/timeline/commit/b2f43741f4ebe776dd81d13e7aeedd5973e2c7b1,2025-04-17,[kreier/timeline] Capitalized English Captions,3,28
+https://github.com/kreier/timeline/commit/3a922c5cee699fb565bfbc7b74bdc27328c02270,2025-04-17,[kreier/timeline] updated Tagalog,2,15
+https://github.com/kreier/tripitaka/commit/07ac3ec4afa7460237af1d4d4aa7b360de1f5d36,2025-04-16,[kreier/tripitaka] Adjusted date export,3,20
+https://github.com/kreier/llama.cpp-jetson/commit/c044ee4e405460728ae1d90a3134e29425c43c83,2025-04-16,[kreier/llama.cpp-jetson] updated benchmarks,2,18
+https://github.com/kreier/timeline/commit/aa171559d398a89c83d99d21ffadbd20d1e42c26,2025-04-15,[kreier/timeline] fix capitalization and other details,5,36
+https://github.com/kreier/timeline/commit/b132649be673166837350f18a6369fecf0a5195a,2025-04-15,[kreier/timeline] update to 5.4,4,13
+https://github.com/kreier/llama.cpp-jetson/commit/d095b11913311be709f215ac5b8e24308a5ccf4c,2025-04-15,[kreier/llama.cpp-jetson] compiled in 60 minutes with faster SD card,8,42
+https://github.com/kreier/llama.cpp-jetson/commit/ed21b1f89df24a19b6a2c3d4b8d81c2360cebbf4,2025-04-15,"[kreier/llama.cpp-jetson] document compiler standard libraries, improve readability",6,57
+https://github.com/kreier/timeline/commit/7850835fb8acc3467e95a437ab291fd41eb5e52b,2025-04-15,[kreier/timeline] minor fixes for 5.4,5,19
+https://github.com/kreier/timeline/commit/43c6b24f5093d52d50fef33e6bdc00b1f260a698,2025-04-15,[kreier/timeline] minor changes to reflect present time,6,37
+https://github.com/kreier/llama.cpp-jetson/commit/30160d7aa9b2bcfb66a857a125321a0173acddf6,2025-04-14,[kreier/llama.cpp-jetson] details to gcc 8.4 and 8.5,8,26
+https://github.com/kreier/llama.cpp-jetson/commit/3845de83abcc216f5925e3477285929bd3700841,2025-04-14,[kreier/llama.cpp-jetson] fix typos,2,9
+https://github.com/kreier/llama.cpp-jetson/commit/3da6b6a272eec29ae7c00b02a90499c8cd27cdbc,2025-04-14,[kreier/llama.cpp-jetson] short description in 11 steps,5,29
+https://github.com/kreier/llama.cpp-jetson/commit/5fbbdacf5063a24e3479a10ea2f7e509715c998a,2025-04-13,[kreier/llama.cpp-jetson] Overview of patches in the introduction,6,39
+https://github.com/kreier/llama.cpp-jetson/commit/33aea20b6e0171a0db49b145f244a77dd1b2ca6b,2025-04-13,[kreier/llama.cpp-jetson] restructured patches,2,20
+https://github.com/kreier/llama.cpp-jetson.nano/commit/b06384871ddfb9bf8be34b67365b8692e8500afe,2025-04-13,[kreier/llama.cpp-jetson.nano] switch to bash since source is not available in sh,10,50
+https://github.com/kreier/llama.cpp-jetson.nano/commit/d5bf0cb59ad58713c18bcc13b2636bdf68d29920,2025-04-13,[kreier/llama.cpp-jetson.nano] include newer library for GCC 9.4,7,33
+https://github.com/kreier/llama.cpp-jetson.nano/commit/6bf07790b429e4061a99704c49e98ce074ed5dbf,2025-04-12,[kreier/llama.cpp-jetson.nano] build 5113 2025-04-11 with gcc 9.4,9,34
+https://github.com/kreier/llama.cpp-jetson/commit/766e39ebfac4eb4332ab3b9b9338252fb7110e96,2025-04-11,[kreier/llama.cpp-jetson] fix details for b4400 and others,6,32
+https://github.com/kreier/llama.cpp-jetson/commit/e0e2cfc9027608afb83af4f84b4b423fe796b197,2025-04-11,"[kreier/llama.cpp-jetson] updated graphs TinyLlama inference speed, minor fixes",7,53
+https://github.com/kreier/llama.cpp-jetson/commit/90bee2b7bcc2e88d73054a388ad5fdd79154800d,2025-04-11,[kreier/llama.cpp-jetson] Merge branch 'main' of https://github.com/kreier/llama.cpp-jetson,11,65
+https://github.com/kreier/llama.cpp-jetson/commit/010c86a8bd90e790376832b3d8af38c2bb5e35db,2025-04-11,[kreier/llama.cpp-jetson] updated graph speed comparison,4,30
+https://github.com/kreier/llama.cpp-jetson/commit/0c476df91d7e309934ea9e9b81d6955e9586158b,2025-04-11,[kreier/llama.cpp-jetson] times for gcc 9.4 8.4 and 8.5,10,29
+https://github.com/kreier/llama.cpp-jetson/commit/5abd73ac3027f7e73c38c74eaa5f6a0f6fe3c374,2025-04-11,[kreier/llama.cpp-jetson] fix and document cmake installation,5,35
+https://github.com/kreier/jetson/commit/508d4f8aa0d5ab22e9c10967fa281ea7bd845507,2025-04-11,[kreier/jetson] include build 5050 2025-04-05,6,29
+https://github.com/kreier/llama.cpp-jetson/commit/b0d6ef59ee95bbf1b5879bed2580f4e066375cd5,2025-04-11,[kreier/llama.cpp-jetson] include installation of build 5050 in 1 minute,8,46
+https://github.com/kreier/llama.cpp-jetson/commit/1eb83966b2a9cc268037d1b5e929e05bd0bb024d,2025-04-11,[kreier/llama.cpp-jetson] fix jtop installation,3,21
+https://github.com/kreier/jetson/commit/35769ec322f4e380084cf793980ab7ccd0b441e4,2025-04-11,"[kreier/jetson] first start relocated, fixed jtop installation",6,46
+https://github.com/kreier/llama.cpp-jetson.nano/commit/480424128d568850e2c2e93be3ac4b3d7c1c4e6c,2025-04-11,[kreier/llama.cpp-jetson.nano] update library path with script,5,31
+https://github.com/kreier/llama.cpp-jetson.nano/commit/30677c4e417a00993b9791da89e7a282b1ed955a,2025-04-11,[kreier/llama.cpp-jetson.nano] First startup is 7 minutes,5,26
+https://github.com/kreier/llama.cpp-jetson.nano/commit/19d4aee1a4aeafec882c2ef28ba831cacf7eb1cc,2025-04-11,[kreier/llama.cpp-jetson.nano] include 4 more necessary libraries,5,34
+https://github.com/kreier/jetson/commit/a5c5a7127f02232f11f15b01214d276b86af2879,2025-04-11,"[kreier/jetson] document first start, setup and time",6,36
+https://github.com/kreier/jetson/commit/ddd4092c5aa39808672ea054f5c7b384fba60800,2025-04-10,[kreier/jetson] activate links of Overview,4,26
+https://github.com/kreier/jetson/commit/bb4b2ddebca271e846e6efbaf789f534586f41d5,2025-04-10,[kreier/jetson] structured and reorganized documentation,4,40
+https://github.com/kreier/llama.cpp-jetson/commit/bfa01a9df0d38ae37e77558811b68de634e75820,2025-04-10,[kreier/llama.cpp-jetson] exported layers speed up - graph and explanantion,7,49
+https://github.com/kreier/llama.cpp-jetson/commit/e10c1473f03914ba98fe18ef9ed1a75870790c01,2025-04-10,[kreier/llama.cpp-jetson] Merge branch 'main' of https://github.com/kreier/llama.cpp-jetson,11,65
+https://github.com/kreier/llama.cpp-jetson/commit/561b654962d8baf04f9ad5b3319e1a51f0187639,2025-04-10,[kreier/llama.cpp-jetson] speed dependence on exported layers GPU,6,39
+https://github.com/kreier/llama.cpp-jetson/commit/bf662b155c9984a54a3bd147a3200bbfbde5f8d8,2025-04-10,[kreier/llama.cpp-jetson] include graph for prompt processing speed dependence,7,52
+https://github.com/kreier/llama.cpp-jetson.nano/commit/0f86ce54d24730cd6834c4a721421aea70dc7dac,2025-04-10,"[kreier/llama.cpp-jetson.nano] fixed description, explained 71 files",5,37
+https://github.com/kreier/llama.cpp-jetson/commit/0082d52c725bb240118682426a6ad3ef94cd72ef,2025-04-10,[kreier/llama.cpp-jetson] faster prompt processing with longer prompts,6,44
+https://github.com/kreier/llama.cpp-jetson.nano/commit/f91888f5afeeb0de2fe4147aeb5a8b466090b21e,2025-04-10,[kreier/llama.cpp-jetson.nano] build 5050 from 2025-04-05,6,26
+https://github.com/kreier/llama.cpp-jetson.nano/commit/913924d4d40c4faa8b3bb1b0d137ca6b00b7958a,2025-04-10,[kreier/llama.cpp-jetson.nano] Update README.md,3,16
+https://github.com/kreier/llama.cpp-jetson.nano/commit/7627dc8e80bc9ad2d746fbb737b69d4593c773ce,2025-04-10,[kreier/llama.cpp-jetson.nano] example answer from llama-server,5,32
+https://github.com/kreier/llama.cpp-jetson.nano/commit/3d1f831aebb6e3210b99ed7e3a3b5f8064057ca2,2025-04-10,[kreier/llama.cpp-jetson.nano] fix file location,3,17
+https://github.com/kreier/llama.cpp-jetson.nano/commit/aec302a27cb832c72cfc87d8082fba8c51ac0563,2025-04-10,[kreier/llama.cpp-jetson.nano] using temporary directory for install,5,37
+https://github.com/kreier/llama.cpp-jetson.nano/commit/63f7d5b173bae1db9c5d3ac4e91fa852b244e13e,2025-04-09,[kreier/llama.cpp-jetson.nano] fix #1 mkdir error,4,18
+https://github.com/kreier/llama.cpp-jetson.nano/commit/45df7d9cb066d49473d8214fd68833f3902e254b,2025-04-09,[kreier/llama.cpp-jetson.nano] include available() and require(),4,33
+https://github.com/kreier/llama.cpp-jetson.nano/commit/12071f23bf3d80827cd6db0b8bdcaf65fb637650,2025-04-09,[kreier/llama.cpp-jetson.nano] fix INSTALL_DIR path,3,20
+https://github.com/kreier/llama.cpp-jetson.nano/commit/a4d3258f5c3b50e6701af9b0471a17a30de3d461,2025-04-09,[kreier/llama.cpp-jetson.nano] build 5050 from April 2025,5,26
+https://github.com/kreier/llama.cpp-jetson.nano/commit/3031ea699e2522125efe96f57b454899a4ba0077,2025-04-09,[kreier/llama.cpp-jetson.nano] Initial commit,2,14
+https://github.com/kreier/aa/commit/b12cb6216783fcfa514daae4220c35f3b0bba01f,2025-04-09,[kreier/aa] Merge branch 'main' of https://github.com/kreier/aa,9,51
+https://github.com/kreier/aa/commit/820f6037d028d6b1a358687bd10a5c5125b8c4ae,2025-04-09,[kreier/aa] expand cross-references,3,23
+https://github.com/kreier/aa/commit/74f83466e88c8d24add94c31bc6df99189cee0d4,2025-04-09,[kreier/aa] include reference link and some images,6,38
+https://github.com/kreier/aa/commit/b0416486e715451eaaf53aadfb1d4d6e78a9af50,2025-04-09,[kreier/aa] Merge branch 'main' of https://github.com/kreier/aa,9,51
+https://github.com/kreier/aa/commit/ea20cb1a272b546d8de31f6aa3189117c7515a02,2025-04-09,[kreier/aa] include standards,2,17
+https://github.com/kreier/aa/commit/7b48eaef4963005fa6c6ecf826751208f5e49474,2025-04-09,[kreier/aa] include badges,2,14
+https://github.com/kreier/aa/commit/8c94cb12f8ddf34efb87894104b3966eeb53f3ed,2025-04-09,[kreier/aa] documentation 2022-2023,3,23
+https://github.com/kreier/llama.cpp-jetson/commit/4698e643ff902ca33b1073f9421750fd16654ced,2025-04-08,"[kreier/llama.cpp-jetson] explain relevance, include graph vor comparison",6,47
+https://github.com/kreier/llama.cpp-jetson/commit/a8c83f1afde370f806fff29fec263a55d86b7e6e,2025-04-08,[kreier/llama.cpp-jetson] patches from early 2024,4,23
+https://github.com/kreier/llama.cpp-jetson/commit/4593b62ef6720cc218a1c130c1fe77d8d6679820,2025-04-08,"[kreier/llama.cpp-jetson] include more benchmarks, links to data and visualizations",8,57
+https://github.com/kreier/llama.cpp-jetson/commit/6ac74b8c7b36d0a1e864380ad00d42526ba8847a,2025-04-08,[kreier/llama.cpp-jetson] results of 11 different prompts with 3 llm processors,9,53
+https://github.com/kreier/llama.cpp-jetson/commit/5ea7e121dc5e6e397bb914110feb40367e22f1be,2025-04-07,[kreier/llama.cpp-jetson] updated graphics and metrics,4,28
+https://github.com/kreier/llama.cpp-jetson/commit/20aa0921357b5e74a802ae96f1b74932645d2935,2025-04-07,[kreier/llama.cpp-jetson] optimized screenshots,2,21
+https://github.com/kreier/jetson/commit/025c61eaf7424c7aff6cc904b3b694dff2822388,2025-04-07,[kreier/jetson] optimized screenshots,2,21
+https://github.com/kreier/jetson/commit/8051c35020c0703ab33efc7080fea69f49d71aed,2025-04-07,[kreier/jetson] updated graph,2,13
+https://github.com/kreier/llama.cpp-jetson/commit/031e37366b9005f39828b994d77db3354cebca7f,2025-04-07,[kreier/llama.cpp-jetson] updated graph and details,4,25
+https://github.com/kreier/llama.cpp-jetson/commit/419f4337fc18a7f7c1485341459bdc3bfa8e80a2,2025-04-06,[kreier/llama.cpp-jetson] fix Gemma3 4b benchmark results,5,31
+https://github.com/kreier/llama.cpp-jetson/commit/9d524ea0003b374a8e76599e4a758f046f28b93e,2025-04-06,[kreier/llama.cpp-jetson] applications and Gemma3 4B,4,26
+https://github.com/kreier/llama.cpp-jetson/commit/d56cb54391e4948bfa13a5a364660475134651cc,2025-04-05,[kreier/llama.cpp-jetson] Create install.sh,3,17
+https://github.com/kreier/llama.cpp-jetson/commit/41ee7204a5e752ab527dc4691b0bc6509a3fee7e,2025-04-05,[kreier/llama.cpp-jetson] reference this repository,3,25
+https://github.com/kreier/llama.cpp-jetson/commit/86982887b8356af498c2dbfb90a69a503ad5e397,2025-04-05,[kreier/llama.cpp-jetson] move documentation from gist to repository,6,42
+https://github.com/kreier/llama.cpp-jetson/commit/9498bdb1e1d88abc18da3d776baef25f630e7758,2025-04-05,[kreier/llama.cpp-jetson] successfully compiled 2025-04-05,5,32
+https://github.com/kreier/llama.cpp-jetson/commit/0fd24402325a9b2c58ff208b957e9cbf0d925287,2025-04-05,[kreier/llama.cpp-jetson] Update .gitignore for Synology,4,30
+https://github.com/kreier/jetson/commit/e5a8cea1ef9c1c59b4b9e075af731905671a3d70,2025-04-05,[kreier/jetson] Merge branch 'main' of https://github.com/kreier/jetson,9,55
+https://github.com/kreier/jetson/commit/634526b91c4e81d3c7aab94589968b6f9f11cc4e,2025-04-05,[kreier/jetson] screenshot from the actual compilation,5,38
+https://github.com/kreier/llama.cpp-jetson/commit/e9acb80396cbba4086c806d12dc857ec3bf89a91,2025-04-05,[kreier/llama.cpp-jetson] Initial commit,2,14
+https://github.com/kreier/jetson/commit/0acc712fdf800f33c4c0deb8bcfe8e5eb3a57bf8,2025-04-05,[kreier/jetson] improved documentation,2,22
+https://github.com/kreier/jetson/commit/606899502f293493a3fadd0dcf52571ddaf21f73,2025-04-05,[kreier/jetson] expand on prerequisites,3,23
+https://github.com/kreier/jetson/commit/567b4f0346481d85c1f137fe513859953077d5da,2025-04-05,[kreier/jetson] timestamp compiling b5050,3,25
+https://github.com/kreier/jetson/commit/0d8cdf4bf346d192d40285cbd22a62963f2d2d03,2025-04-04,[kreier/jetson] include latest benchmarks with b5043,5,36
+https://github.com/kreier/jetson/commit/1f55abb2fc37a2a56480a809341704a9601df117,2025-04-04,[kreier/jetson] latest run with gemma3:1b and llama.cpp 5043 CUDA,10,49
+https://github.com/kreier/jetson/commit/07a2a1a125df0412f5392fadbffebddabe1d5346,2025-04-04,[kreier/jetson] patch for b5050,3,15
+https://github.com/kreier/jetson/commit/95a97678cace98f108340a9645f5141cfd90f30e,2025-04-04,[kreier/jetson] visuals for TinyLlama,3,21
+https://github.com/kreier/jetson/commit/4d1be82620bd6113c137ff975a26d49b1431e63c,2025-04-04,[kreier/jetson] optimize graphics,2,17
+https://github.com/kreier/jetson/commit/0ed91dfa6fd82ab38349c244ad2014bc05a29395,2025-04-04,[kreier/jetson] compare speed with Gemma3,4,25
+https://github.com/kreier/jetson/commit/a86a448ef09a3bda0a2fff0f74837c4386229ff3,2025-04-03,[kreier/jetson] restructured instructions to compile with CUDA support,7,54
+https://github.com/kreier/jetson/commit/7916adccfbe52b1b21036d7a0345f4fc11dcfc91,2025-04-03,[kreier/jetson] Old document from March 2025,5,28
+https://github.com/kreier/jetson/commit/c494bb06d3ca0b8fac5fa9df8d90460381360bc2,2025-04-03,[kreier/jetson] Merge branch 'main' of https://github.com/kreier/jetson,9,55
+https://github.com/kreier/jetson/commit/5166f120ad5c52fecae91004e042976d2aec027b,2025-04-03,[kreier/jetson] document GPU usage,3,18
+https://github.com/kreier/jetson/commit/83648668fd12293145f0c75ed341f0fa0f3592aa,2025-04-03,[kreier/jetson] include recend instructions,3,27
+https://github.com/kreier/ml/commit/a1221831b6600dea66f5519366bfd3616e0d841c,2025-04-03,"[kreier/ml] fix toolkit 12.8.1 installation, including WSL",8,46
+https://github.com/kreier/jetson/commit/a9328b66e5735cbebaeee6ba6b78dd67ecc1e4ef,2025-04-03,[kreier/jetson] Update benchmark.md,3,19
+https://github.com/kreier/jetson/commit/27b66ca354e252bf1b325fc14e066dbb9dc14624,2025-04-02,[kreier/jetson] result with b4400 from Dec 2024,6,31
+https://github.com/kreier/jetson/commit/262436c720be350baae467c118a11bf556f1cad4,2025-04-02,[kreier/jetson] even newer version of llama.cpp from end 2024,9,45
+https://github.com/kreier/jetson/commit/13cb2ee475e435d814ca59f3d76ecc53d9969312,2025-04-01,[kreier/jetson] results for b1618 with gcc 8.5.0,8,32
+https://github.com/kreier/jetson/commit/08620b763aae4614994a767524558217e77426e8,2025-04-01,"[kreier/jetson] fixed instructions, finally working",4,35
+https://github.com/kreier/jetson/commit/d15836f72c9007f7940d2d61ff24a381e28bed38,2025-04-01,[kreier/jetson] fixed install script,3,20
+https://github.com/kreier/jetson/commit/c4384c3f726abe92d4aaf42ace8f784bc488fdfc,2025-04-01,[kreier/jetson] restructure for cmake and gcc-8,6,31
+https://github.com/kreier/jetson/commit/45207407225e7bdb9bc85e1216a236cd3634da7f,2025-03-31,[kreier/jetson] document new installation,3,25
+https://github.com/kreier/jetson/commit/2e8f8ccc7aa985ac434a681ade157d41503e040b,2025-03-30,[kreier/jetson] some ideas for automated installation and time requirements,8,59
+https://github.com/kreier/timeline/commit/85e2a0d1a2ebffa1eea98688e625dd8c3de0bef0,2025-03-29,[kreier/timeline] document history and cleanup,4,28
+https://github.com/kreier/jetson/commit/4ab40900ad4b59458fd37ae3129c3ed6cd71f514,2025-03-29,[kreier/jetson] Merge branch 'main' of https://github.com/kreier/jetson,9,55
+https://github.com/kreier/jetson/commit/f40a48f488b6da747aa2ce7959a54020bafcd67a,2025-03-29,[kreier/jetson] results from GPU runs,4,21
+https://github.com/kreier/jetson/commit/0aa8bf49049c5bd78f837e33d2c46df4ebecd64f,2025-03-29,[kreier/jetson] Update benchmark.md,3,19
+https://github.com/kreier/jetson/commit/2edcbe7b77ea782c7fd810b46a7b4525b39dbac2,2025-03-29,[kreier/jetson] GPU actually used!,3,18
+https://github.com/kreier/jetson/commit/fdecf3b1e4ebe44c00c98e0b863fa350208444b7,2025-03-28,[kreier/jetson] document 8x pp512 speed with old GPU build,8,42
+https://github.com/kreier/jetson/commit/8426384f82a4f322b09b8774cb5fa73194f57084,2025-03-28,[kreier/jetson] move images from private to public,6,34
+https://github.com/kreier/jetson/commit/4843eab6bb7879159e3688dd2a75b1e554921386,2025-03-28,[kreier/jetson] Create benchmark.md with some GPU accelerated 1 year old versions,11,65
+https://github.com/kreier/jetson/commit/f791f732e199b514c2b4a2c4c2e6c7a6ecb4bdae,2025-03-28,[kreier/jetson] compute_80 not supported,3,24
+https://github.com/kreier/jetson/commit/1caa548e8ee849ad1e41e57dc94f0d2508e6016e,2025-03-28,"[kreier/jetson] Instructions to compile for gcc-8, gcc-9 and CUDA 10.2",12,54
+https://github.com/kreier/timeline/commit/c787687d6a079f01e70ff215513512552f4d6a51,2025-03-28,[kreier/timeline] update table with statistics,4,28
+https://github.com/kreier/timeline/commit/4775c58e8842c7ddbeceb1faaa3b116e64c6d983,2025-03-28,[kreier/timeline] Merge pull request #63 from kreier/5.3,8,38
+https://github.com/kreier/jetson/commit/7588d335287b2db14c76fba8d62426355ca522b2,2025-03-28,[kreier/jetson] compiling for CUDA up to 34%,6,28
+https://github.com/kreier/jetson/commit/6250cf6bf6303de9fea31b98ec933bcd26287303,2025-03-27,[kreier/jetson] expand documentation,2,20
+https://github.com/kreier/jetson/commit/5254adb32ec9ccfd1aaefe9fb5132c4287af497d,2025-03-27,[kreier/jetson] include pictures for documentation,4,34
+https://github.com/hviovn/new-vocabulary/blob/main/README.md,2026-03-01,[hviovn/new-vocabulary] README.md,11,79
+https://github.com/hviovn/diary-statistic/blob/main/README.md,2026-02-28,[hviovn/diary-statistic] README.md,65,442
+https://github.com/kreier/quartz/blob/v4/README.md,2026-02-26,[kreier/quartz] README.md,78,480
+https://github.com/kreier/obsidian/blob/main/README.md,2026-02-25,[kreier/obsidian] README.md,106,770
+https://github.com/kreier/homelab/blob/main/README.md,2026-02-24,[kreier/homelab] README.md,3025,16887
+https://github.com/kreier/llama.cpp-jetson/blob/main/README.md,2026-02-24,[kreier/llama.cpp-jetson] README.md,6618,38705
+https://github.com/kreier/wob/blob/main/README.md,2026-02-23,[kreier/wob] README.md,601,4885
+https://github.com/kreier/T100/blob/master/README.md,2026-02-21,[kreier/T100] README.md,1031,6241
+https://github.com/kreier/ar65view-svn/blob/main/README.md,2026-02-20,[kreier/ar65view-svn] README.md,362,2339
+https://github.com/kreier/ar65view/blob/main/README.md,2026-02-20,[kreier/ar65view] README.md,367,2394
+https://github.com/kreier/benchmark/blob/main/README.md,2026-02-19,[kreier/benchmark] README.md,1513,9550
+https://github.com/kreier/timeline/blob/main/README.md,2026-02-12,[kreier/timeline] README.md,3814,24805
+https://github.com/timeline24/timeline24.github.io/blob/main/README.md,2026-02-12,[timeline24/timeline24.github.io] README.md,1339,9545
+https://github.com/kreier/impact/blob/master/README.md,2026-02-10,[kreier/impact] README.md,0,0
+https://github.com/kreier/python2018/blob/main/README.md,2026-02-10,[kreier/python2018] README.md,273,1923
+https://github.com/kreier/bilder/blob/main/README.md,2026-02-09,[kreier/bilder] README.md,446,2650
+https://github.com/kreier/prime/blob/main/README.md,2026-02-09,[kreier/prime] README.md,1203,7227
+https://github.com/ssis-aa/collaborative-code/blob/main/README.md,2026-02-09,[ssis-aa/collaborative-code] README.md,251,1573
+https://github.com/hviovn/hello-world/blob/main/README.md,2026-02-08,[hviovn/hello-world] README.md,95,622
+https://github.com/kreier/location24/blob/main/README.md,2026-02-05,[kreier/location24] README.md,110,582
+https://github.com/kreier/hv.io.vn/blob/main/README.md,2026-02-03,[kreier/hv.io.vn] README.md,151,825
+https://github.com/kreier/ml/blob/main/README.md,2026-02-02,[kreier/ml] README.md,4404,26639
+https://github.com/kreier/swagger/blob/main/README.md,2026-01-21,[kreier/swagger] README.md,112,693
+https://github.com/kreier/picow/blob/main/README.md,2026-01-21,[kreier/picow] README.md,108,678
+https://github.com/kreier/igshcmc/blob/main/README.md,2026-01-20,[kreier/igshcmc] README.md,8,47
+https://github.com/kreier/tl/blob/main/README.md,2026-01-20,[kreier/tl] README.md,125,825
+https://github.com/kreier/statistics-diary/blob/main/README.md,2026-01-20,[kreier/statistics-diary] README.md,1645,9844
+https://github.com/kreier/logo/blob/main/README.md,2026-01-19,[kreier/logo] README.md,314,1873
+https://github.com/vex-ssis/2026/blob/main/README.md,2026-01-15,[vex-ssis/2026] README.md,1177,7737
+https://github.com/kreier/calendar/blob/main/README.md,2026-01-15,[kreier/calendar] README.md,303,1736
+https://github.com/kreier/thesis08/blob/main/README.md,2026-01-02,[kreier/thesis08] README.md,277,1753
+https://github.com/kreier/tripitaka/blob/main/README.md,2025-12-26,[kreier/tripitaka] README.md,3969,25018
+https://github.com/kreier/communicationspeed/blob/main/README.md,2025-12-26,[kreier/communicationspeed] README.md,833,5099
+https://github.com/kreier/saiht-parser/blob/main/README.md,2025-12-23,[kreier/saiht-parser] README.md,1026,6140
+https://github.com/kreier/solarmeter/blob/main/README.md,2025-12-22,[kreier/solarmeter] README.md,4814,28725
+https://github.com/kreier/promised-seed/blob/main/README.md,2025-11-30,[kreier/promised-seed] README.md,1097,6312
+https://github.com/vex-ssis/2025/blob/main/README.md,2025-11-24,[vex-ssis/2025] README.md,2148,13563
+https://github.com/kreier/language-families/blob/main/README.md,2025-11-22,[kreier/language-families] README.md,430,2890
+https://github.com/vex-ssis/.github/blob/main/README.md,2025-11-22,[vex-ssis/.github] README.md,4,21
+https://github.com/kreier/study/blob/main/README.md,2025-11-09,[kreier/study] README.md,855,5575
+https://github.com/kreier/notes/blob/main/README.md,2025-10-21,[kreier/notes] README.md,0,0
+https://github.com/kreier/prime_gaps_line/blob/main/README.md,2025-10-14,[kreier/prime_gaps_line] README.md,766,4593
+https://github.com/kreier/128x64/blob/main/README.md,2025-10-14,[kreier/128x64] README.md,109,658
+https://github.com/ssis-robotics/team426-2023/blob/main/README.md,2025-10-09,[ssis-robotics/team426-2023] README.md,36,235
+https://github.com/ssis-unity/unity2022/blob/main/README.md,2025-10-09,[ssis-unity/unity2022] README.md,281,1864
+https://github.com/timeline25/timeline25.github.io/blob/main/README.md,2025-10-09,[timeline25/timeline25.github.io] README.md,568,3938
+https://github.com/kreier/cru/blob/main/README.md,2025-10-01,[kreier/cru] README.md,4345,27142
+https://github.com/kreier/ESP32/blob/main/README.md,2025-09-30,[kreier/ESP32] README.md,989,6527
+https://github.com/kreier/nam-electric/blob/main/README.md,2025-09-28,[kreier/nam-electric] README.md,132,850
+https://github.com/kreier/movies/blob/main/README.md,2025-09-22,[kreier/movies] README.md,926,5716
+https://github.com/kreier/T400/blob/main/README.md,2025-09-08,[kreier/T400] README.md,985,5887
+https://github.com/kreier/T300/blob/master/README.md,2025-09-06,[kreier/T300] README.md,1506,8846
+https://github.com/LiBeKra/KLZ/blob/main/README.md,2025-09-04,[LiBeKra/KLZ] README.md,264,1617
+https://github.com/LiBeKra/Probability-calculus/blob/main/README.md,2025-08-20,[LiBeKra/Probability-calculus] README.md,496,3661
+https://github.com/kreier/rp2040/blob/main/README.md,2025-05-13,[kreier/rp2040] README.md,383,2392
+https://github.com/kreier/ESP8266/blob/main/README.md,2025-05-13,[kreier/ESP8266] README.md,432,2726
+https://github.com/kreier/rp2350/blob/main/README.md,2025-05-10,[kreier/rp2350] README.md,151,959
+https://github.com/kreier/jetson/blob/main/README.md,2025-05-09,[kreier/jetson] README.md,2704,16198
+https://github.com/kreier/cuda/blob/main/README.md,2025-04-26,[kreier/cuda] README.md,8,61
+https://github.com/kreier/llama.cpp-jetson.nano/blob/main/README.md,2025-04-20,[kreier/llama.cpp-jetson.nano] README.md,939,5568
+https://github.com/kreier/hacks/blob/main/README.md,2025-04-19,[kreier/hacks] README.md,510,3249
+https://github.com/kreier/aa/blob/main/README.md,2025-04-09,[kreier/aa] README.md,973,6524
