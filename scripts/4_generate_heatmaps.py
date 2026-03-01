@@ -5,6 +5,9 @@ import math
 import os
 import xml.sax.saxutils as saxutils
 import csv
+import sys
+
+sys.stdout.reconfigure(encoding='utf-8')
 
 def generate_svg(year, data_by_date):
     start_date = date(year, 1, 1)
@@ -199,7 +202,7 @@ def main():
         svg_content = generate_svg(year, data_by_date)
         svg_filename = f"activity_{year}.svg"
         svg_path = os.path.join(assets_dir, svg_filename)
-        with open(svg_path, "w") as f:
+        with open(svg_path, "w", encoding="utf-8") as f:
             f.write(svg_content)
 
         year_breakdown = {}
@@ -281,17 +284,17 @@ def main():
     html_output.append("</html>")
 
     index_path = os.path.join(os.path.dirname(script_dir), "docs", "index.html")
-    with open(index_path, "w") as f:
+    with open(index_path, "w", encoding="utf-8") as f:
         f.write("\n".join(html_output))
     print(f"{index_path} generated.")
 
     readme_path = os.path.join(os.path.dirname(script_dir), "docs", "README.md")
     if not os.path.exists(readme_path):
         os.makedirs(os.path.dirname(readme_path), exist_ok=True)
-        with open(readme_path, "w") as f:
+        with open(readme_path, "w", encoding="utf-8") as f:
             f.write("# Statistics\n\n<!-- START_STATS -->\n<!-- END_STATS -->\n")
 
-    with open(readme_path, "r") as f:
+    with open(readme_path, "r", encoding="utf-8") as f:
         readme = f.read()
 
     marker_start, marker_end = "<!-- START_STATS -->", "<!-- END_STATS -->"
@@ -302,7 +305,7 @@ def main():
         new_content = "\n".join(output)
         new_readme = readme + f"\n\n{marker_start}\n{new_content}\n{marker_end}\n"
 
-    with open(readme_path, "w") as f:
+    with open(readme_path, "w", encoding="utf-8") as f:
         f.write(new_readme)
     print(f"{readme_path} updated.")
 
