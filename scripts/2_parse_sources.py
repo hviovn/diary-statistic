@@ -120,8 +120,8 @@ def process_csv(source_type, data_dir):
                     content = fetch_github_content(link, row_type)
 
             results.append({
-                'link': link,
-                'content': content
+                'Link': link,
+                'Content': content
             })
 
     with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:

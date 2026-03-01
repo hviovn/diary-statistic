@@ -3,9 +3,12 @@
 <text x="5" y="63" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="87" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <text x="30" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
-<a href="https://kreier.github.io/quartz/Diary/2023"><rect x="30" y="18" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2023-01-01: 1 entry
+<a href="https://kreier.github.io/quartz/Diary/2023"><rect x="30" y="18" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2023-01-01: 1 entry
 2023</title></rect></a>
-<rect x="30" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-01-02: 0 entries</title></rect>
+<a href="https://github.com/kreier/Food-PMH/commit/62e837bbd430e0f84ac182d9fa17d347d15c4b75"><rect x="30" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-01-02: 3 entries
+[kreier/Food-PMH] working prototype for Annam Gourmet
+[kreier/Food-PMH] patch 2023 to work from Argentina
+[kreier/Food-PMH] README.md</title></rect></a>
 <rect x="30" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-01-03: 0 entries</title></rect>
 <rect x="30" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-01-04: 0 entries</title></rect>
 <rect x="30" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-01-05: 0 entries</title></rect>
@@ -36,12 +39,16 @@
 <rect x="78" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-01-30: 0 entries</title></rect>
 <rect x="78" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-01-31: 0 entries</title></rect>
 <rect x="78" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-01: 0 entries</title></rect>
-<rect x="78" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-02: 0 entries</title></rect>
-<rect x="78" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-03: 0 entries</title></rect>
+<a href="https://github.com/kreier/vex/commit/2d607abed30245ad3ea70dd3b076b040a386f046"><rect x="78" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-02-02: 1 entry
+[kreier/vex] Create mk.iqblocks</title></rect></a>
+<a href="https://github.com/kreier/rp2040/commit/3da5f7b9e6e8954b1f7c32b47a35294a2be1be6a"><rect x="78" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-02-03: 1 entry
+[kreier/rp2040] reference PINs for AA 2023</title></rect></a>
 <rect x="78" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-04: 0 entries</title></rect>
 <text x="90" y="12" font-family="sans-serif" font-size="8" fill="#767676">Feb</text>
 <rect x="90" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-05: 0 entries</title></rect>
-<rect x="90" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-06: 0 entries</title></rect>
+<a href="https://github.com/kreier/mandelbrot-basic/commit/452fb479b63ffbdfc9921edb077bcf7fb9eea500"><rect x="90" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-02-06: 2 entries
+[kreier/mandelbrot-basic] fix for presentation
+[kreier/mandelbrot-basic] README.md</title></rect></a>
 <rect x="90" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-07: 0 entries</title></rect>
 <rect x="90" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-08: 0 entries</title></rect>
 <rect x="90" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-09: 0 entries</title></rect>
@@ -57,29 +64,139 @@
 <rect x="114" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-19: 0 entries</title></rect>
 <rect x="114" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-20: 0 entries</title></rect>
 <rect x="114" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-21: 0 entries</title></rect>
-<rect x="114" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-22: 0 entries</title></rect>
-<rect x="114" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-23: 0 entries</title></rect>
+<a href="https://github.com/kreier/control_system_examples_2023/commit/351a0a024c65f340c8893b2e6ed2239c41a0cf0e"><rect x="114" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-02-22: 4 entries
+[kreier/control_system_examples_2023] updated for 2023
+[kreier/control_system_examples_2023] unique VEX format
+[kreier/control_system_examples_2023] definition in introduction no longer work
+[kreier/control_system_examples_2023] Create README.md</title></rect></a>
+<a href="https://github.com/kreier/control_system_examples_2023/commit/963fae27d20a5272372e9889bdcb8df68c369485"><rect x="114" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-02-23: 9 entries
+[kreier/control_system_examples_2023] Merge pull request #1 from kreier/main
+[kreier/control_system_examples_2023] simulation of motorized arm with torque slider
+[kreier/control_system_examples_2023] added on/off control
+[kreier/control_system_examples_2023] export from webinterface
+[kreier/control_system_examples_2023] updated 2023/02/23
+[kreier/control_system_examples_2023] update 2023
+[kreier/control_system_examples_2023] updated with PID control
+[kreier/control_system_examples_2023] Create .gitignore
+[kreier/rp2040] added menu and examples</title></rect></a>
 <rect x="114" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-24: 0 entries</title></rect>
 <rect x="114" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-25: 0 entries</title></rect>
-<rect x="126" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-26: 0 entries</title></rect>
-<rect x="126" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-27: 0 entries</title></rect>
+<a href="https://github.com/kreier/control_system_examples_2023/commit/07bfc674a9a83b099e95e5899091e86002cbc90e"><rect x="126" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-02-26: 4 entries
+[kreier/control_system_examples_2023] code from https://editor.p5js.org/mkreier/sketches/1oCHPXX3T
+[kreier/control_system_examples_2023] from https://replit.com/@kreier/WaterValveSimulation#AnalogSensorSim.py
+[kreier/control_system_examples_2023] Create Shayan.txt
+[kreier/control_system_examples_2023] Create main.py</title></rect></a>
+<a href="https://github.com/kreier/control_system_examples_2023/commit/60d50f1ead7c2c8a0cc30fa4e5e79b68a04ba739"><rect x="126" y="30" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-02-27: 11 entries
+[kreier/control_system_examples_2023] three examples visualized
+[kreier/control_system_examples_2023] included pictures
+[kreier/control_system_examples_2023] updated documentation
+[kreier/control_system_examples_2023] Update README.md
+[kreier/control_system_examples_2023] Add files via upload
+[kreier/control_system_examples_2023] Create README.md
+[kreier/control_system_examples_2023] Update README.md
+[kreier/control_system_examples_2023] Create README.md
+[kreier/control_system_examples_2023] current screenshots 2023-02-27
+[kreier/control_system_examples_2023] Create SpacecraftSim.py
+[kreier/control_system_examples_2023] Create main.py</title></rect></a>
 <rect x="126" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-28: 0 entries</title></rect>
-<rect x="126" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-01: 0 entries</title></rect>
-<rect x="126" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-02: 0 entries</title></rect>
-<rect x="126" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-03: 0 entries</title></rect>
-<rect x="126" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-04: 0 entries</title></rect>
+<a href="https://github.com/kreier/aa2023/commit/3a995b912b0d2f351157d1dea25f4d33f739c7eb"><rect x="126" y="54" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2023-03-01: 20 entries
+[kreier/aa2023] solving VEX VR task
+[kreier/aa2023] artifact documented
+[kreier/aa2023] need /lib for CircuitPython, and Synology update
+[kreier/aa2023] Initial commit
+[kreier/control_system_examples_2023] Merge pull request #4 from kreier/main
+[kreier/control_system_examples_2023] Merge branch 'ssis-aa:main' into main
+[kreier/control_system_examples_2023] final random cycle
+[kreier/control_system_examples_2023] final version cycles through the set angles
+[kreier/control_system_examples_2023] Merge pull request #3 from kreier/main
+[kreier/control_system_examples_2023] complete PID algorithm for arm control
+[kreier/control_system_examples_2023] minute 7:00 from Mr. Weinberg's video
+[kreier/control_system_examples_2023] proportional example from https://youtu.be/swJ7ECbuKfY?t=198
+[kreier/control_system_examples_2023] document progress from p5js
+[kreier/control_system_examples_2023] moved Dan's code
+[kreier/control_system_examples_2023] Merge pull request #2 from kreier/main
+[kreier/control_system_examples_2023] Merge branch 'ssis-aa:main' into main
+[kreier/python2018] Merge pull request #22 from kreier/dependabot/pip/certifi-2022.12.7
+[kreier/python2018] Merge pull request #23 from kreier/dependabot/pip/cryptography-39.0.1
+[kreier/rp2040] SCL is on GP1
+[kreier/control_system_examples_2023] README.md</title></rect></a>
+<a href="https://github.com/kreier/aa2023/commit/777f0aa612b690eed84c4188026e742198086de6"><rect x="126" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-02: 2 entries
+[kreier/aa2023] typo
+[kreier/aa2023] README.md</title></rect></a>
+<a href="https://github.com/kreier/rvr_circuitpython/commit/b1451cd151f6e630b04796cb86372d955c812cc8"><rect x="126" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-03: 1 entry
+[kreier/rvr_circuitpython] document development state</title></rect></a>
+<a href="https://github.com/kreier/rvr_circuitpython/commit/0e1530ebb7e88e72b54f9b5725abcabbd2e4743e"><rect x="126" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-04: 5 entries
+[kreier/rvr_circuitpython] update first list of APIs
+[kreier/rvr_circuitpython] Merge branch 'main' of https://github.com/kreier/rvr_circuitpython
+[kreier/rvr_circuitpython] Merge branch 'main' of https://github.com/emwdx/rvr_circuitpython
+[kreier/rvr_circuitpython] reflect Evan's latest changes
+[kreier/t-display] pinmaps for future projects</title></rect></a>
 <text x="138" y="12" font-family="sans-serif" font-size="8" fill="#767676">Mar</text>
 <rect x="138" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-05: 0 entries</title></rect>
-<rect x="138" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-06: 0 entries</title></rect>
-<rect x="138" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-07: 0 entries</title></rect>
-<rect x="138" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-08: 0 entries</title></rect>
-<rect x="138" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-09: 0 entries</title></rect>
-<rect x="138" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-10: 0 entries</title></rect>
+<a href="https://github.com/kreier/rp2040/commit/ebf04d72f9d85b4465e17269aa7b7243317c5c54"><rect x="138" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-03-06: 7 entries
+[kreier/rp2040] with new integrated displayio driver
+[kreier/t-display] starting display experiment
+[kreier/t-display] PID and VID for Windows USB connection
+[kreier/t-display] extended documentation
+[kreier/t-display] for /cp/ports/espressif/boards/lilygo_ttgo_t8_esp32s3_st7789
+[kreier/t-display] short description
+[kreier/t-display] documentation for circuitpython</title></rect></a>
+<a href="https://github.com/kreier/rvr_circuitpython/commit/e4959e60a711807b3278a312a4b17d22c6e77f77"><rect x="138" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-07: 2 entries
+[kreier/rvr_circuitpython] indicate licence and release
+[kreier/rvr_circuitpython] list 10 current functions of the API</title></rect></a>
+<a href="https://github.com/kreier/rvr_circuitpython/commit/b5a426faa5008776e7cd37997318375eb6fd49cb"><rect x="138" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-08: 4 entries
+[kreier/rvr_circuitpython] reintroduced LEDs
+[kreier/rvr_circuitpython] update 2023
+[kreier/t-display] get the PID for the VID
+[kreier/rvr_circuitpython] README.md</title></rect></a>
+<a href="https://github.com/kreier/circuitpython_vid_pid/commit/90120eca359c1065e50ce1f5e49c7fe7ca25936e"><rect x="138" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-03-09: 7 entries
+[kreier/circuitpython_vid_pid] Update README.md
+[kreier/circuitpython_vid_pid] updated list with more boards here at SSIS
+[kreier/circuitpython_vid_pid] first list of PIDs
+[kreier/circuitpython_vid_pid] list connected usb devices
+[kreier/circuitpython_vid_pid] Update .gitignore
+[kreier/circuitpython_vid_pid] Initial commit
+[kreier/t-display] expanded documentation</title></rect></a>
+<a href="https://github.com/kreier/t-picoc3/commit/4cae92d9fae5cb8ba51a9c32134a6bbc6125ecf3"><rect x="138" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-03-10: 14 entries
+[kreier/t-picoc3] Merge pull request #1 from matthiaskreier/main
+[kreier/t-picoc3] include Pico W
+[kreier/t-picoc3] included Challenger rp2040
+[kreier/t-picoc3] Create documentation
+[kreier/t-picoc3] just a template
+[kreier/t-picoc3] updated documentation with more UART pins
+[kreier/t-picoc3] include UART connection - IO2 is confusing
+[kreier/t-picoc3] Add files via upload
+[kreier/t-picoc3] Add files via upload
+[kreier/t-picoc3] Create documentation
+[kreier/t-picoc3] Update .gitignore for Synology and /lib Circuitpython
+[kreier/t-picoc3] Link to pinmap, schematic and manufacturer
+[kreier/t-picoc3] First test to connect to Wifi
+[kreier/t-picoc3] Initial commit</title></rect></a>
 <rect x="138" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-11: 0 entries</title></rect>
 <rect x="150" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-12: 0 entries</title></rect>
-<rect x="150" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-13: 0 entries</title></rect>
-<rect x="150" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-14: 0 entries</title></rect>
-<rect x="150" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-15: 0 entries</title></rect>
+<a href="https://github.com/kreier/circuitpython/commit/f5b8b8d6f22eed5e36499060d085eb88812a35ca"><rect x="150" y="30" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2023-03-13: 16 entries
+[kreier/circuitpython] tailing whitespace removed (pre-commit run failed)
+[kreier/circuitpython] add missing pins 4, 36 and 39 - and 4 aliases
+[kreier/circuitpython] inspired by @erongd, fixed errors, added 17, 19, 20, 23, 24, 26, 27, 28, 29
+[kreier/circuitpython] copied from @erongd
+[kreier/circuitpython] adjusted for pid.codes pull request
+[kreier/circuitpython] copy from @erongd with little adjustment
+[kreier/circuitpython] copy from @erongd 
+[kreier/circuitpython_vid_pid] Update README.md
+[kreier/creators] Update lilygo.md
+[kreier/t-display] documented some boards
+[kreier/t-display] check updated firmware
+[kreier/t-display] more example code
+[kreier/t-picoc3] Merge branch 'main' of https://github.com/kreier/t-picoc3
+[kreier/t-picoc3] organizing initial support
+[kreier/t-picoc3] using the old board definition from @erongd
+[kreier/t-picoc3] README.md</title></rect></a>
+<a href="https://github.com/kreier/ssisolar/commit/5ada45fcdbfd27bac9915ed566015c105530a917"><rect x="150" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-14: 1 entry
+[kreier/ssisolar] documentation of 2022</title></rect></a>
+<a href="https://github.com/kreier/ssisolar/commit/37e0b1e3d813366d8519d9f98b78e19cbaeaf4a5"><rect x="150" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-15: 3 entries
+[kreier/ssisolar] Refinements 2022/04/27 for Metro ESP32S2 Express
+[kreier/ssisolar] initial code for Metro M4
+[kreier/ssisolar] README.md</title></rect></a>
 <rect x="150" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-16: 0 entries</title></rect>
 <rect x="150" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-17: 0 entries</title></rect>
 <rect x="150" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-18: 0 entries</title></rect>
@@ -88,10 +205,22 @@
 <rect x="162" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-21: 0 entries</title></rect>
 <rect x="162" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-22: 0 entries</title></rect>
 <rect x="162" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-23: 0 entries</title></rect>
-<rect x="162" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-24: 0 entries</title></rect>
+<a href="https://github.com/kreier/java23/commit/11c60ca7233ce4da74a9851cad9caed8580247db"><rect x="162" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-03-24: 8 entries
+[kreier/java23] three tasks in one file
+[kreier/java23] fixed details of first week
+[kreier/java23] Merge branch 'main' of https://github.com/kreier/java23
+[kreier/java23] more examples from week2
+[kreier/java23] Delete .DS_Store
+[kreier/java23] Update .gitignore
+[kreier/java23] examples from the first session (week2)
+[kreier/java23] Initial commit</title></rect></a>
 <rect x="162" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-25: 0 entries</title></rect>
 <rect x="174" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-26: 0 entries</title></rect>
-<rect x="174" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-27: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/9991cef69b83ec1bb988e08f4b0cfcb020568fb2"><rect x="174" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-27: 4 entries
+[kreier/benchmark] included i3-10100
+[kreier/java23] Friday homework
+[kreier/java23] README.md
+[kreier/p5js] README.md</title></rect></a>
 <rect x="174" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-28: 0 entries</title></rect>
 <rect x="174" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-29: 0 entries</title></rect>
 <rect x="174" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-30: 0 entries</title></rect>
@@ -99,23 +228,44 @@
 <rect x="174" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-01: 0 entries</title></rect>
 <text x="186" y="12" font-family="sans-serif" font-size="8" fill="#767676">Apr</text>
 <rect x="186" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-02: 0 entries</title></rect>
-<rect x="186" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-03: 0 entries</title></rect>
-<rect x="186" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-04: 0 entries</title></rect>
+<a href="https://github.com/kreier/creators/commit/a96f44931ba803a440ed82ff9687744103b0cd41"><rect x="186" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-04-03: 3 entries
+[kreier/creators] add TTGO T-18 at the right spot
+[kreier/creators] Merge branch 'creationid:main' into lilygo_t18
+[kreier/ESP32] now support from circuitpython!</title></rect></a>
+<a href="https://github.com/kreier/ssis.bit/commit/711624be8d16933be445311c2d3ed07925df8795"><rect x="186" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-04-04: 6 entries
+[kreier/ssis.bit] Merge pull request #1 from ssisbit/main
+[kreier/ssis.bit] Merge pull request #18 from ssis-robotics/main
+[kreier/ssis.bit] document improved update process
+[kreier/ssis.bit] minor fixes
+[kreier/ssis.bit] include T-Display
+[kreier/ssis.bit] README.md</title></rect></a>
 <rect x="186" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-05: 0 entries</title></rect>
-<rect x="186" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-06: 0 entries</title></rect>
-<rect x="186" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-07: 0 entries</title></rect>
+<a href="https://github.com/kreier/rp2040/commit/740b36e63eadccd90b72056a9b422e821b58cc4a"><rect x="186" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-04-06: 1 entry
+[kreier/rp2040] Create neopixel16.py</title></rect></a>
+<a href="https://github.com/kreier/circuit-playground-express/commit/7df8c6f36e84f72619c36ddbb11e617e7807395d"><rect x="186" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-04-07: 1 entry
+[kreier/circuit-playground-express] selection menu included</title></rect></a>
 <rect x="186" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-08: 0 entries</title></rect>
 <rect x="198" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-09: 0 entries</title></rect>
-<rect x="198" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-10: 0 entries</title></rect>
+<a href="https://github.com/kreier/circuit-playground-express/commit/409553dd5f135812feaab0d3c45fbe6c75a78093"><rect x="198" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-04-10: 1 entry
+[kreier/circuit-playground-express] first examples</title></rect></a>
 <rect x="198" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-11: 0 entries</title></rect>
 <rect x="198" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-12: 0 entries</title></rect>
 <rect x="198" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-13: 0 entries</title></rect>
-<rect x="198" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-14: 0 entries</title></rect>
+<a href="https://github.com/kreier/circuitpython_vid_pid/commit/d9e50276694d6266332984539cb170b456eb4e08"><rect x="198" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-04-14: 2 entries
+[kreier/circuitpython_vid_pid] History for T-Display rp2040
+[kreier/circuitpython_vid_pid] README.md</title></rect></a>
 <rect x="198" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-15: 0 entries</title></rect>
 <rect x="210" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-16: 0 entries</title></rect>
 <rect x="210" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-17: 0 entries</title></rect>
 <rect x="210" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-18: 0 entries</title></rect>
-<rect x="210" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-19: 0 entries</title></rect>
+<a href="https://github.com/kreier/circuit-playground-express/commit/32083fea660ba275d06e314db3858ba54fb9d31b"><rect x="210" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-04-19: 7 entries
+[kreier/circuit-playground-express] Merge pull request #1 from matthiaskreier/patch-1
+[kreier/circuit-playground-express] working example with 30ms pulsewidth
+[kreier/circuit-playground-express] early start
+[kreier/circuit-playground-express] send a message with neopixels
+[kreier/circuit-playground-express] using the light sensor as input - Advanced Automation 2023
+[kreier/t-display] link to Circuitpython support
+[kreier/pidcodes.github.com] README.md</title></rect></a>
 <rect x="210" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-20: 0 entries</title></rect>
 <rect x="210" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-21: 0 entries</title></rect>
 <rect x="210" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-22: 0 entries</title></rect>
@@ -131,7 +281,11 @@
 <rect x="234" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-02: 0 entries</title></rect>
 <rect x="234" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-03: 0 entries</title></rect>
 <rect x="234" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-04: 0 entries</title></rect>
-<rect x="234" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-05: 0 entries</title></rect>
+<a href="https://github.com/kreier/circuit-playground-express/commit/a259439c252d0436f0c0af2451c5fe842196a2de"><rect x="234" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-05-05: 4 entries
+[kreier/circuit-playground-express] fixed letter F
+[kreier/circuit-playground-express] Create lightsensor_read_morse.py
+[kreier/circuit-playground-express] Create boot.py
+[kreier/circuit-playground-express] README.md</title></rect></a>
 <rect x="234" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-06: 0 entries</title></rect>
 <text x="246" y="12" font-family="sans-serif" font-size="8" fill="#767676">May</text>
 <rect x="246" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-07: 0 entries</title></rect>
@@ -146,21 +300,86 @@
 <rect x="258" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-16: 0 entries</title></rect>
 <rect x="258" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-17: 0 entries</title></rect>
 <rect x="258" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-18: 0 entries</title></rect>
-<rect x="258" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-19: 0 entries</title></rect>
+<a href="https://github.com/kreier/reactivate23/commit/4276a1eabe0d28b18de78afc36f2db6bd2d4c468"><rect x="258" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-05-19: 11 entries
+[kreier/reactivate23] Java source files
+[kreier/reactivate23] start recreating
+[kreier/reactivate23] Create .gitignore for Java
+[kreier/reactivate23] Create README.md
+[kreier/reset23] adjusted image size
+[kreier/reset23] initial visualization
+[kreier/reset23] Create README.md
+[kreier/reset23] documentation of last weeks
+[kreier/reset23] Create main.py
+[kreier/reset23] Updated for Circuitpython and Synology Diskstation
+[kreier/reset23] Initial commit</title></rect></a>
 <rect x="258" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-20: 0 entries</title></rect>
 <rect x="270" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-21: 0 entries</title></rect>
 <rect x="270" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-22: 0 entries</title></rect>
-<rect x="270" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-23: 0 entries</title></rect>
-<rect x="270" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-24: 0 entries</title></rect>
-<rect x="270" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-25: 0 entries</title></rect>
+<a href="https://github.com/kreier/reset23/commit/69960cd98a6a65c8dcd37a8f50f96a99e8328866"><rect x="270" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-05-23: 2 entries
+[kreier/reset23] two more images
+[kreier/reset23] preparation stage</title></rect></a>
+<a href="https://github.com/kreier/reset23/commit/5b06cb4affdc04db37394dafb482eb985e816d9f"><rect x="270" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-05-24: 4 entries
+[kreier/reset23] Merge pull request #1 from kreier/main
+[kreier/reset23] expanded documentation
+[kreier/reset23] included inspiration from December 2022
+[kreier/reset23] Add files via upload</title></rect></a>
+<a href="https://github.com/kreier/reactivate23/commit/7a334603d54b455b11bd34f111569645ffe92389"><rect x="270" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-05-25: 10 entries
+[kreier/reactivate23] Merge pull request #1 from kreier/main
+[kreier/reactivate23] included pictures from Taipei
+[kreier/reactivate23] extended details and links
+[kreier/reactivate23] Add files via upload
+[kreier/reactivate23] Create _config.yml
+[kreier/reactivate23] Create README.md
+[kreier/reset23] documented design cycle
+[kreier/reset23] reflection of the art party
+[kreier/reset23] pictures from the party
+[kreier/reset23] README.md</title></rect></a>
 <rect x="270" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-26: 0 entries</title></rect>
 <rect x="270" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-27: 0 entries</title></rect>
 <rect x="282" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-28: 0 entries</title></rect>
-<rect x="282" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-29: 0 entries</title></rect>
-<rect x="282" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-30: 0 entries</title></rect>
-<rect x="282" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-31: 0 entries</title></rect>
-<rect x="282" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-01: 0 entries</title></rect>
-<rect x="282" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-02: 0 entries</title></rect>
+<a href="https://github.com/kreier/reactivate23/commit/27d59767e32ea533822bf6196ff27aa524f9069e"><rect x="282" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-05-29: 7 entries
+[kreier/reactivate23] Merge pull request #2 from kreier/main
+[kreier/reactivate23] documentation 2020 Team 426 ZACTF
+[kreier/reactivate23] reorganize code
+[kreier/reactivate23] Add files via upload
+[kreier/reactivate23] club expo 2020 added
+[kreier/reactivate23] FRC Driver Station
+[kreier/reactivate23] we got the robot 426 running again!</title></rect></a>
+<a href="https://github.com/kreier/reactivate23/commit/b562fcbc4df7b16c3e315b9bcfdc6f3351196116"><rect x="282" y="42" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2023-05-30: 16 entries
+[kreier/reactivate23] Control Systems Planning included
+[kreier/reactivate23] Merge pull request #5 from kreier/main
+[kreier/reactivate23] Merge branch 'ssis-robotics:main' into main
+[kreier/reactivate23] reactivated drive base
+[kreier/reactivate23] updated firmware
+[kreier/reactivate23] Update to the WPILib team settings
+[kreier/reactivate23] Merge pull request #4 from kreier/main
+[kreier/reactivate23] Merge branch 'ssis-robotics:main' into main
+[kreier/reactivate23] Merge branch 'flooof:main' into main
+[kreier/reactivate23] successful build in 38 seconds
+[kreier/reactivate23] Merge pull request #3 from kreier/main
+[kreier/reactivate23] Changed from SpeedControllerGroup to MotorControllerGroup for 2023
+[kreier/reactivate23] changed deprecated SpeedControllerGroup to MotorControllerGroup
+[kreier/reactivate23] with REVLib.json only 32 errors left
+[kreier/reactivate23] added Phoenix.json and only 52 errors left
+[kreier/reactivate23] import to 2023 with 101 error messages</title></rect></a>
+<a href="https://github.com/kreier/reactivate23/commit/6a7a842ac90a9158d0f7427a0d6cefb7920bffa5"><rect x="282" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-05-31: 6 entries
+[kreier/reactivate23] commented non existing hardware
+[kreier/reactivate23] Merge pull request #7 from kreier/main
+[kreier/reactivate23] Merge branch 'ssis-robotics:main' into main
+[kreier/reactivate23] fixed configuration, robot running again
+[kreier/reactivate23] adjust for driving instead of turning
+[kreier/reactivate23] Merge pull request #6 from kreier/main</title></rect></a>
+<a href="https://github.com/kreier/reactivate23/commit/266c56a282ee7eb2e35434e20d24f03016efd13d"><rect x="282" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-01: 4 entries
+[kreier/reactivate23] Merge pull request #2 from kreier/drive_4CIM
+[kreier/reactivate23] include values from quadencoders
+[kreier/reactivate23] Merge pull request #8 from kreier/main
+[kreier/reactivate23] Merge pull request #1 from kreier/drive_4CIM</title></rect></a>
+<a href="https://github.com/kreier/reactivate23/commit/25026eb8255d3656e7e69f684fbb2d4568b36483"><rect x="282" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-02: 5 entries
+[kreier/reactivate23] document duty cycles
+[kreier/reactivate23] Merge pull request #11 from kreier/main
+[kreier/reactivate23] include dutycycle
+[kreier/reactivate23] Merge pull request #9 from kreier/main
+[kreier/reactivate23] Merge branch 'ssis-robotics:main' into main</title></rect></a>
 <rect x="282" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-03: 0 entries</title></rect>
 <text x="294" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jun</text>
 <rect x="294" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-04: 0 entries</title></rect>
@@ -169,33 +388,159 @@
 <rect x="294" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-07: 0 entries</title></rect>
 <rect x="294" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-08: 0 entries</title></rect>
 <rect x="294" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-09: 0 entries</title></rect>
-<rect x="294" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-10: 0 entries</title></rect>
-<rect x="306" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-11: 0 entries</title></rect>
-<rect x="306" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-12: 0 entries</title></rect>
-<rect x="306" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-13: 0 entries</title></rect>
-<rect x="306" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-14: 0 entries</title></rect>
-<rect x="306" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-15: 0 entries</title></rect>
-<rect x="306" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-16: 0 entries</title></rect>
-<rect x="306" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-17: 0 entries</title></rect>
-<rect x="318" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-18: 0 entries</title></rect>
-<rect x="318" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-19: 0 entries</title></rect>
-<rect x="318" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-20: 0 entries</title></rect>
-<rect x="318" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-21: 0 entries</title></rect>
-<rect x="318" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-22: 0 entries</title></rect>
-<rect x="318" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-23: 0 entries</title></rect>
-<rect x="318" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-24: 0 entries</title></rect>
-<rect x="330" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-25: 0 entries</title></rect>
-<rect x="330" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-26: 0 entries</title></rect>
-<rect x="330" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-27: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/10b80af7ef8db96ec051e87a8b4740cf81003813"><rect x="294" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-06-10: 6 entries
+[kreier/timeline] include 2 versions, low and high res
+[kreier/timeline] Add files via upload
+[kreier/timeline] Create README.md
+[kreier/timeline] Add files via upload
+[kreier/timeline] Update .gitignore for Synology
+[kreier/timeline] Initial commit</title></rect></a>
+<a href="https://github.com/kreier/reactivate23/commit/3fc09c92569bb3e86fb3436f205b99085cbbf760"><rect x="306" y="18" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-06-11: 9 entries
+[kreier/reactivate23] Create gradle-wrapper.jar
+[kreier/study] expansion
+[kreier/study] updated documentation
+[kreier/study] activate jupyter
+[kreier/study] attempt for a timeline
+[kreier/study] 2023/06/11 start
+[kreier/study] Update .gitignore
+[kreier/study] Initial commit
+[kreier/reactivate23] README.md</title></rect></a>
+<a href="https://github.com/kreier/study/commit/93bad1a1cec5bd98bfe3f5c424109bef788ce023"><rect x="306" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-12: 2 entries
+[kreier/study] Merge branch 'main' of https://github.com/kreier/study
+[kreier/study] first iteration</title></rect></a>
+<a href="https://github.com/kreier/study/commit/02aa5a7a998a54ab04c3fb632133e5fdbedb6d76"><rect x="306" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-13: 2 entries
+[kreier/study] Merge branch 'main' of https://github.com/kreier/study
+[kreier/study] 2023/06/13</title></rect></a>
+<a href="https://github.com/kreier/study/commit/8720171402e9cdf71788bf25f736ecc144aa9cb8"><rect x="306" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-14: 4 entries
+[kreier/study] Adam to Shem in plot working
+[kreier/study] negative values, name is person
+[kreier/study] 2023/06/14 second
+[kreier/study] 2023/06/14</title></rect></a>
+<a href="https://github.com/kreier/study/commit/cad180926050dd6ca13a4306765560d84f882338"><rect x="306" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-15: 1 entry
+[kreier/study] 2023/06/15</title></rect></a>
+<a href="https://github.com/kreier/study/commit/f28ab51371987287176fd0249ea14059277d7aad"><rect x="306" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-06-16: 6 entries
+[kreier/study] layout refined
+[kreier/study] import error fixed from “ and ”, not "
+[kreier/study] 2023/06/16 update
+[kreier/study] different alignment
+[kreier/study] recalibrated
+[kreier/study] compiled summary</title></rect></a>
+<a href="https://github.com/kreier/study/commit/7b6c3e94743cd1a034945f49bf389180b68c68e8"><rect x="306" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-17: 5 entries
+[kreier/study] remove dormant data processing
+[kreier/study] compilation and logging with errors work
+[kreier/study] Compiling expanded with csv file for 1189 chapters
+[kreier/study] highlights from workbook January 2020
+[kreier/study] 2023/06/17</title></rect></a>
+<a href="https://github.com/kreier/study/commit/aff79a8ca984e8bcbded5a094e8dc8f146c1fe13"><rect x="318" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-18: 5 entries
+[kreier/study] export feature working
+[kreier/study] fixed missing last chapter bug
+[kreier/study] included info from workbook February 2020
+[kreier/study] syncronised formatting
+[kreier/study] 2023/06/18 finished Genesis</title></rect></a>
+<a href="https://github.com/kreier/study/commit/d63f4772770dd0e47513f4afa7fca7270ccf44ea"><rect x="318" y="30" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-06-19: 14 entries
+[kreier/study] workbook May and June 2020, fixed utf-8 import error
+[kreier/study] workbook March and April 2020
+[kreier/study] shell for Genesis and Exodus created
+[kreier/study] highlights from week 25
+[kreier/study] 2023/06/19
+[kreier/timeline] scale of visualizations in csv
+[kreier/timeline] updated html for https;//kreier.github.io/timeline
+[kreier/timeline] correct images, scale documentation
+[kreier/timeline] Merge branch 'main' of https://github.com/kreier/timeline
+[kreier/timeline] created documentation PNGs
+[kreier/timeline] short overview of project history
+[kreier/timeline] raw dates from Adam to Moses
+[kreier/timeline] renamed to reflect the 2 different approaches
+[kreier/timeline] project files from 2015 and 2003</title></rect></a>
+<a href="https://github.com/kreier/study/commit/6d455c82620785ae7cc0327309cfd1aa18406f33"><rect x="318" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-20: 4 entries
+[kreier/study] consolidation
+[kreier/study] 4213 minutes for old testament
+[kreier/study] highlights week 25
+[kreier/study] 2023/06/20 Exodus 11</title></rect></a>
+<a href="https://github.com/kreier/study/commit/ccd987c07163ee2a7dc258337f8567cbda9f215d"><rect x="318" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-21: 4 entries
+[kreier/study] from workbook July 2020
+[kreier/study] 2023/06/21 to Exodus 12
+[kreier/study] 1189 chapters, 5545 minutes or 94 hours or 4 days
+[kreier/study] 1189 audio files for 5545 minutes or 93 hours</title></rect></a>
+<a href="https://github.com/kreier/study/commit/83753ef3eae687dcd5e4bc2a14fae42cc27d5e35"><rect x="318" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-22: 1 entry
+[kreier/study] shell of books to 2 Kings</title></rect></a>
+<a href="https://github.com/kreier/study/commit/cf032fef2950d1414d6684721b5179d0d413d520"><rect x="318" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-23: 5 entries
+[kreier/study] all but 35 file shells created
+[kreier/study] outline of books finished, zero output errors
+[kreier/study] Deuteronomy outlined
+[kreier/study] Leviticus and Numbers updated
+[kreier/study] shell prolog AT</title></rect></a>
+<a href="https://github.com/kreier/study/commit/89a3c7212c170315f0f2ab7e9330f581a731a5ee"><rect x="318" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-24: 1 entry
+[kreier/study] file for each of the 1189 chapters created</title></rect></a>
+<a href="https://github.com/kreier/study/commit/41d8c72561b0afff047c52b27da308f1a418e3d9"><rect x="330" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-25: 2 entries
+[kreier/study] workbook August 2020
+[kreier/study] workbook August 2020</title></rect></a>
+<a href="https://github.com/kreier/study/commit/068bd53777c6081b34629dcd75081f2dc0193284"><rect x="330" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-26: 1 entry
+[kreier/study] 2023/06/26</title></rect></a>
+<a href="https://github.com/kreier/study/commit/3a2049e4b5eca3aa5317bd3026980531bce07b22"><rect x="330" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-27: 1 entry
+[kreier/study] 2023/06/27</title></rect></a>
 <rect x="330" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-28: 0 entries</title></rect>
-<rect x="330" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-29: 0 entries</title></rect>
-<rect x="330" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-30: 0 entries</title></rect>
-<rect x="330" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-01: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/15d603a2cc70c81daa2153e7cfb64037f01a4431"><rect x="330" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-29: 1 entry
+[kreier/study] 2023/06/29</title></rect></a>
+<a href="https://github.com/kreier/study/commit/7d545fc47ed5840195a4be02e20d04edfbbbc687"><rect x="330" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-06-30: 8 entries
+[kreier/study] Merge branch 'main' of https://github.com/kreier/study
+[kreier/study] workbook December 2020
+[kreier/study] rough outline of repeating attempts
+[kreier/study] workbook November 2020
+[kreier/study] workbook October 2020
+[kreier/study] History January 2021
+[kreier/study] workbook September 2020
+[kreier/timeline] updated translation</title></rect></a>
+<a href="https://github.com/kreier/thesis08/commit/e23a0e39792f63f4c0a42cd18a831073347312a3"><rect x="330" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-07-01: 6 entries
+[kreier/thesis08] from 2007/10/07
+[kreier/thesis08] copy of 2008
+[kreier/thesis08] Update .gitignore
+[kreier/thesis08] from https://people.physik.hu-berlin.de/~kreier/thesis/diplom.tex
+[kreier/thesis08] from https://people.physik.hu-berlin.de/~kreier/thesis/thesis.tex
+[kreier/thesis08] Initial commit</title></rect></a>
 <text x="342" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jul</text>
 <rect x="342" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-02: 0 entries</title></rect>
-<rect x="342" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-03: 0 entries</title></rect>
-<rect x="342" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-04: 0 entries</title></rect>
-<rect x="342" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-05: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/b48df57bc0007f574a2ad50f468f7a8b5b36b1b8"><rect x="342" y="30" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-07-03: 14 entries
+[kreier/study] workflow status badge included
+[kreier/study] Create _config.yml
+[kreier/study] link to raw image
+[kreier/study] Merge branch 'main' of https://github.com/kreier/study
+[kreier/study] reactivate github-pages
+[kreier/study] Create jekyll-gh-pages.yml
+[kreier/study] simplified
+[kreier/study] Merge branch 'main' of https://github.com/kreier/study
+[kreier/study] remove .afdesign file
+[kreier/study] embedded image as html
+[kreier/study] absolute path to image
+[kreier/study] camp organisation
+[kreier/study] camp arrangement
+[kreier/study] workbook January-February 2021</title></rect></a>
+<a href="https://github.com/kreier/study/commit/936f63950edcfa7f86ac25274668d494d64cc601"><rect x="342" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-07-04: 8 entries
+[kreier/study] workbook November–December 2021
+[kreier/study] workbook September-October 2021
+[kreier/study] workbook July-August 2021
+[kreier/study] workbook May-June 2021
+[kreier/study] Merge branch 'main' of https://github.com/kreier/study
+[kreier/study] workflow update
+[kreier/study] shorter name for the workflow
+[kreier/study] workbook March-April 2021</title></rect></a>
+<a href="https://github.com/kreier/study/commit/b3a56d9f4db4fe2f34e584788766a243721591d8"><rect x="342" y="54" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2023-07-05: 16 entries
+[kreier/study] chapter description Psalms
+[kreier/study] chapter description Job
+[kreier/study] timeline included
+[kreier/study] workbook July–August 2023
+[kreier/study] from https://archive.org/details/engedi-scroll
+[kreier/study] start documenting manuscript history
+[kreier/study] workbook May–June 2023
+[kreier/study] workbook March–April 2023
+[kreier/study] workbook January–February 2023
+[kreier/study] workbook November–December 2022
+[kreier/study] workbook September–October 2022
+[kreier/study] workbook July–August 2022
+[kreier/study] workbook May–June 2022
+[kreier/study] workbook March–April 2022
+[kreier/study] workbook January–February 2022
+[kreier/timeline] document the sources of inspiration</title></rect></a>
 <rect x="342" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-06: 0 entries</title></rect>
 <rect x="342" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-07: 0 entries</title></rect>
 <rect x="342" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-08: 0 entries</title></rect>
@@ -204,52 +549,72 @@
 <rect x="354" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-11: 0 entries</title></rect>
 <rect x="354" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-12: 0 entries</title></rect>
 <rect x="354" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-13: 0 entries</title></rect>
-<rect x="354" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-14: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/2325dac6c730c2de65cf24e5846fdd9853db1eb0"><rect x="354" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-07-14: 1 entry
+[kreier/study] updated reading plan</title></rect></a>
 <rect x="354" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-15: 0 entries</title></rect>
 <rect x="366" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-16: 0 entries</title></rect>
-<rect x="366" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-17: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/e44853a31af964108b1961c0a3840b11c207c919"><rect x="366" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-07-17: 1 entry
+[kreier/study] 2023/07/17</title></rect></a>
 <rect x="366" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-18: 0 entries</title></rect>
 <rect x="366" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-19: 0 entries</title></rect>
-<rect x="366" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-20: 0 entries</title></rect>
-<rect x="366" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-21: 0 entries</title></rect>
-<rect x="366" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-22: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/0580faaf15ac327a5a7b2dd478c97aee94d2634a"><rect x="366" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-07-20: 2 entries
+[kreier/study] updated 410 or 356 years of judges
+[kreier/study] 2023/07/20</title></rect></a>
+<a href="https://github.com/kreier/study/commit/c196a2038f3fcee32d3b06b18b1fae30b9b77389"><rect x="366" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-07-21: 2 entries
+[kreier/study] 2023/07/21
+[kreier/study] investigate overlap of years</title></rect></a>
+<a href="https://github.com/kreier/study/commit/8289e4209fdfb2c9974545bee15d9a181b828a87"><rect x="366" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-07-22: 1 entry
+[kreier/study] 2023/07/22</title></rect></a>
 <rect x="378" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-23: 0 entries</title></rect>
 <rect x="378" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-24: 0 entries</title></rect>
-<rect x="378" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-25: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/0448d458776f2c1943b31de6d55c6f8ebe04cf9a"><rect x="378" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-07-25: 1 entry
+[kreier/study] 2023/07/24</title></rect></a>
 <rect x="378" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-26: 0 entries</title></rect>
 <rect x="378" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-27: 0 entries</title></rect>
 <rect x="378" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-28: 0 entries</title></rect>
-<rect x="378" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-29: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/2f4ae0896c418358b37c142e73a3db1c15700c92"><rect x="378" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-07-29: 2 entries
+[kreier/study] 2023/07/29
+[kreier/study] 2023/07/28</title></rect></a>
 <rect x="390" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-30: 0 entries</title></rect>
 <rect x="390" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-31: 0 entries</title></rect>
-<rect x="390" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-01: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/147e65a1b8ec92f85b0a95c22921a3637b630590"><rect x="390" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-08-01: 1 entry
+[kreier/study] 2023/08/01</title></rect></a>
 <rect x="390" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-02: 0 entries</title></rect>
-<rect x="390" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-03: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/070aba8d44c7fa6df0bbe67452a4d56137ce6beb"><rect x="390" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-08-03: 1 entry
+[kreier/study] 2023/08/02</title></rect></a>
 <rect x="390" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-04: 0 entries</title></rect>
 <rect x="390" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-05: 0 entries</title></rect>
 <text x="402" y="12" font-family="sans-serif" font-size="8" fill="#767676">Aug</text>
 <rect x="402" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-06: 0 entries</title></rect>
 <rect x="402" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-07: 0 entries</title></rect>
 <rect x="402" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-08: 0 entries</title></rect>
-<rect x="402" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-09: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/306a3d8c213246c115b844b7ec50912f0319a9a3"><rect x="402" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-08-09: 1 entry
+[kreier/study] 2023/08/09</title></rect></a>
 <rect x="402" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-10: 0 entries</title></rect>
 <rect x="402" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-11: 0 entries</title></rect>
 <rect x="402" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-12: 0 entries</title></rect>
 <rect x="414" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-13: 0 entries</title></rect>
 <rect x="414" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-14: 0 entries</title></rect>
-<rect x="414" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-15: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/1c0dceba4022751a7e1941f90191ef81b897f40d"><rect x="414" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-08-15: 1 entry
+[kreier/study] 2023/08/15</title></rect></a>
 <rect x="414" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-16: 0 entries</title></rect>
-<rect x="414" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-17: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/84a94cdc91017775e4751e61ec1fbd37659e98b9"><rect x="414" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-08-17: 1 entry
+[kreier/study] 2023/08/17</title></rect></a>
 <rect x="414" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-18: 0 entries</title></rect>
 <rect x="414" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-19: 0 entries</title></rect>
 <rect x="426" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-20: 0 entries</title></rect>
-<rect x="426" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-21: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/6cc0d548a8187a1dee45243d6e191d83845f452e"><rect x="426" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-08-21: 1 entry
+[kreier/timeline] outline start</title></rect></a>
 <rect x="426" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-22: 0 entries</title></rect>
-<rect x="426" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-23: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/261fe585a7d211d9fc6700903a5c04344ea1e9fd"><rect x="426" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-08-23: 1 entry
+[kreier/study] last 5 days to 2023/08/23</title></rect></a>
 <rect x="426" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-24: 0 entries</title></rect>
 <rect x="426" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-25: 0 entries</title></rect>
-<rect x="426" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-26: 0 entries</title></rect>
-<rect x="438" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-27: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/b47be98fe6d0734b054a75caae91cb17a5be21e0"><rect x="426" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-08-26: 1 entry
+[kreier/study] 2023/08/26</title></rect></a>
+<a href="https://github.com/kreier/study/commit/d0e1100dd895c059f62934af3785b643dc31456a"><rect x="438" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-08-27: 2 entries
+[kreier/study] fixed total time, 2023/08/27
+[kreier/study] history back to 1970, fixed Titus time</title></rect></a>
 <rect x="438" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-28: 0 entries</title></rect>
 <rect x="438" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-29: 0 entries</title></rect>
 <rect x="438" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-08-30: 0 entries</title></rect>
@@ -259,129 +624,337 @@
 <text x="450" y="12" font-family="sans-serif" font-size="8" fill="#767676">Sep</text>
 <rect x="450" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-03: 0 entries</title></rect>
 <rect x="450" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-04: 0 entries</title></rect>
-<rect x="450" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-05: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/889fc0092731e3ec8ad1063f8f1a500cecfb43c1"><rect x="450" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-09-05: 1 entry
+[kreier/study] 2023/09/05</title></rect></a>
 <rect x="450" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-06: 0 entries</title></rect>
 <rect x="450" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-07: 0 entries</title></rect>
-<rect x="450" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-08: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/45fcd415da2dea65c072cf3e73dcb03ec9bbc29a"><rect x="450" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-09-08: 3 entries
+[kreier/study] we need more Gideons, less Ephraimites
+[kreier/study] 2023/09/08
+[kreier/study] fix minute mistake in James</title></rect></a>
 <rect x="450" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-09: 0 entries</title></rect>
 <rect x="462" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-10: 0 entries</title></rect>
 <rect x="462" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-11: 0 entries</title></rect>
-<rect x="462" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-12: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/527682a0e45538f77de7c95a144a0a7f2f26d721"><rect x="462" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-09-12: 2 entries
+[kreier/study] updated Esther and Judges
+[kreier/study] 2023/09/13</title></rect></a>
 <rect x="462" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-13: 0 entries</title></rect>
 <rect x="462" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-14: 0 entries</title></rect>
 <rect x="462" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-15: 0 entries</title></rect>
-<rect x="462" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-16: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/a8a03f1cd842111c998378e206c4c3d90a06d28f"><rect x="462" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-09-16: 1 entry
+[kreier/study] 2023/09/16</title></rect></a>
 <rect x="474" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-17: 0 entries</title></rect>
-<rect x="474" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-18: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/102e2daee4a816f215d74c889dda37b8356bde05"><rect x="474" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-09-18: 1 entry
+[kreier/study] 2023/09/18</title></rect></a>
 <rect x="474" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-19: 0 entries</title></rect>
 <rect x="474" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-20: 0 entries</title></rect>
-<rect x="474" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-21: 0 entries</title></rect>
-<rect x="474" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-22: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/7b991e27b983be6c9064633d7449f17afac849a7"><rect x="474" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-09-21: 1 entry
+[kreier/study] 2023/09/21</title></rect></a>
+<a href="https://github.com/kreier/study/commit/ee35fd5deb296ccef5e03cee300fb87b7d94aeb0"><rect x="474" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-09-22: 1 entry
+[kreier/study] 2023/09/22</title></rect></a>
 <rect x="474" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-23: 0 entries</title></rect>
 <rect x="486" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-24: 0 entries</title></rect>
 <rect x="486" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-25: 0 entries</title></rect>
 <rect x="486" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-26: 0 entries</title></rect>
-<rect x="486" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-27: 0 entries</title></rect>
-<rect x="486" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-28: 0 entries</title></rect>
+<a href="https://github.com/kreier/study/commit/e7aa9365ab7cc65ea6b7ac83aa1a4c927065be02"><rect x="486" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-09-27: 1 entry
+[kreier/study] 2023/09/27</title></rect></a>
+<a href="https://github.com/kreier/study/commit/a8d7a0c360bb9d3c3b524148d74d90aee3fccf4d"><rect x="486" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-09-28: 1 entry
+[kreier/study] 2023/09/28</title></rect></a>
 <rect x="486" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-29: 0 entries</title></rect>
 <rect x="486" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-30: 0 entries</title></rect>
 <text x="498" y="12" font-family="sans-serif" font-size="8" fill="#767676">Oct</text>
 <rect x="498" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-01: 0 entries</title></rect>
 <rect x="498" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-02: 0 entries</title></rect>
-<rect x="498" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-03: 0 entries</title></rect>
-<rect x="498" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-04: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/3744b2d42c9f8b35a509b8990d37e49fb302a789"><rect x="498" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-03: 4 entries
+[kreier/benchmark] include Pavilion al132TX
+[kreier/benchmark] updated results 2018-2021 from 3dmark.com
+[kreier/benchmark] testing hp al132TX with 940MX
+[kreier/benchmark] fixed to regular csv</title></rect></a>
+<a href="https://github.com/kreier/study/commit/2957c1f0cd792fc680e0feba88385389e1461dd0"><rect x="498" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-04: 1 entry
+[kreier/study] 2023/10/04</title></rect></a>
 <rect x="498" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-05: 0 entries</title></rect>
 <rect x="498" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-06: 0 entries</title></rect>
-<rect x="498" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-07: 0 entries</title></rect>
-<rect x="510" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-08: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/d3935c140c03081ad7d954d40fd409ac0fb7ca16"><rect x="498" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-07: 2 entries
+[kreier/benchmark] include older laptops
+[kreier/study] finished bible listening 2023/10/06</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/d69f7f599dd3d3d38fcbad1849247e19a52cf549"><rect x="510" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-08: 3 entries
+[kreier/benchmark] testing 3070 Ti with 20 year old benchmarks
+[kreier/benchmark] benchmarking HD Graphics 620
+[kreier/benchmark] included 3070Ti</title></rect></a>
 <rect x="510" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-09: 0 entries</title></rect>
 <rect x="510" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-10: 0 entries</title></rect>
 <rect x="510" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-11: 0 entries</title></rect>
-<rect x="510" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-12: 0 entries</title></rect>
-<rect x="510" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-13: 0 entries</title></rect>
-<rect x="510" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-14: 0 entries</title></rect>
-<rect x="522" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-15: 0 entries</title></rect>
-<rect x="522" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-16: 0 entries</title></rect>
-<a href="https://kreier.github.io/quartz/Projects/Timeline"><rect x="522" y="42" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2023-10-17: 1 entry
-Timeline</title></rect></a>
-<rect x="522" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-18: 0 entries</title></rect>
-<rect x="522" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-19: 0 entries</title></rect>
-<rect x="522" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-20: 0 entries</title></rect>
-<rect x="522" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-21: 0 entries</title></rect>
-<rect x="534" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-22: 0 entries</title></rect>
-<rect x="534" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-23: 0 entries</title></rect>
-<rect x="534" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-24: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/7b78e7e5e0e0510ec5cf61cf7e7a2a881fbf3f81"><rect x="510" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-12: 3 entries
+[kreier/benchmark] include i3 10100
+[kreier/benchmark] Delete .DS_Store
+[kreier/benchmark] Create .gitignore</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/0f917a472aecf57be04530c24b1b7127b7409aa8"><rect x="510" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-13: 1 entry
+[kreier/timeline] finally made reportlab work</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/b858fd6d38743d5086a5c537221884f6dcfea80c"><rect x="510" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-14: 1 entry
+[kreier/timeline] first 1.20 meter document with lines</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/0d46cc8a9228e4b998ce14813d2e568c77bf2e4d"><rect x="522" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-15: 1 entry
+[kreier/timeline] test from a while ago</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/cae84b130278ee7f52dcf326b5a9eb68448f024d"><rect x="522" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-16: 5 entries
+[kreier/timeline] include new Aptos font
+[kreier/timeline] include drawing in canvas with renderPDF
+[kreier/timeline] using UTF-8 with Vietnamese and Russian
+[kreier/timeline] restructure for reportlab
+[kreier/timeline] dont have a reportlab.py in the same folder</title></rect></a>
+<a href="https://kreier.github.io/quartz/Projects/Timeline"><rect x="522" y="42" width="10" height="10" fill="#e57373" rx="2" ry="2"><title>2023-10-17: 11 entries
+Timeline
+[kreier/timeline] Merge pull request #4 from kreier/translation_english
+[kreier/timeline] first steps to make this project multilingual
+[kreier/timeline] Finished translation to English
+[kreier/timeline] Simplified project overview
+[kreier/timeline] updated history with more details and start of this repository
+[kreier/timeline] updated final thumbnail of June 30th
+[kreier/timeline] Updated history for summer 2023
+[kreier/timeline] resync from wsl ubuntu 22.04
+[kreier/timeline] first successful axis
+[kreier/timeline] include Aptos in drawing</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/f368e3d7129abee8a74eefaf0447eeadba3ce596"><rect x="522" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-18: 3 entries
+[kreier/timeline] add bold and light to the used font for this project
+[kreier/timeline] extended on persons, periods and events depicted
+[kreier/timeline] reorganized version scheme</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/61810cb67eee3c82ca2d046f42ef132e85de8ea9"><rect x="522" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-19: 1 entry
+[kreier/timeline] scale as xAxis finished for 61 centuries</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/fb80966e8ef7d7ad2637d123cf262de69edd3d0e"><rect x="522" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-20: 5 entries
+[kreier/timeline] now 24 persons, 41 kings, 4 periods and 1 event
+[kreier/timeline] Merge branch 'main' of https://github.com/kreier/timeline
+[kreier/timeline] first 24 persons imported and displayed
+[kreier/timeline] add license and deployment badge
+[kreier/timeline] fixed version number and included release badge</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/ca0498d87dd1780d4240e79bef97cdf3768a928d"><rect x="522" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-21: 1 entry
+[kreier/timeline] collect data on 20 southern and 21 northern kings</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/5a2b052448026a36a1dd10de7b073b885caf264b"><rect x="534" y="18" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-10-22: 9 entries
+[kreier/timeline] layout options with 10 to 12 pt fonts
+[kreier/timeline] nine periods updated to float, nicer colors
+[kreier/timeline] convert dates for 44 kings to float
+[kreier/timeline] convert  data reference from string YYYY-MM-DD to float
+[kreier/timeline] reorganized structure
+[kreier/timeline] Merge pull request #5 from kreier/v3.0
+[kreier/timeline] updated frontpage
+[kreier/timeline] count person, event and kings
+[kreier/timeline] recreated most of v1.1 on one page</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/041c603ff3d9f83cd9e701ad8782b920e08c248a"><rect x="534" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-10-23: 7 entries
+[kreier/timeline] included judges, 84 colored elements
+[kreier/timeline] colors and names (dictionary) removed from kings and adam-moses
+[kreier/timeline] prepared translation with key values and text as .tsv
+[kreier/timeline] import a dictionary for colors, make independent from raw data
+[kreier/timeline] updated documentation for v3.1
+[kreier/timeline] Merge pull request #6 from kreier/v.3.1
+[kreier/timeline] refined overview now 10pt with 12pt line height</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/9803a85bd13f5be2d0038b7cbdcb74e894a278d6"><rect x="534" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-24: 5 entries
+[kreier/timeline] fixed gradient error, added one prophet
+[kreier/timeline] included 5 more books and 6 caesars
+[kreier/timeline] Merge pull request #7 from kreier/v3.2
+[kreier/timeline] 15 prophets included
+[kreier/timeline] indicate time of oppression prior to peace by judge</title></rect></a>
 <rect x="534" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-25: 0 entries</title></rect>
 <rect x="534" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-26: 0 entries</title></rect>
 <rect x="534" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-27: 0 entries</title></rect>
-<rect x="534" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-28: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/43831cafabcaa2771906df7fb098ec6540ae8f85"><rect x="534" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-28: 1 entry
+[kreier/timeline] fixed typo</title></rect></a>
 <rect x="546" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-29: 0 entries</title></rect>
-<rect x="546" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-30: 0 entries</title></rect>
-<rect x="546" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-31: 0 entries</title></rect>
-<a href="https://kreier.github.io/quartz/Blog/2023/11/Núi-Đinh-I"><rect x="546" y="54" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2023-11-01: 1 entry
+<a href="https://github.com/kreier/timeline/commit/9d716cf96a0e4774d40ca07aae8af79965a3f1d4"><rect x="546" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-30: 1 entry
+[kreier/timeline] reorganized layout</title></rect></a>
+<a href="https://github.com/kreier/benfords_law/commit/998ce7a5bb8c128a85d9ef8d461294cf5a6f64db"><rect x="546" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-10-31: 7 entries
+[kreier/benfords_law] inspired by Matt Parkers lecture
+[kreier/benfords_law] Display result and code
+[kreier/benfords_law] first results
+[kreier/benfords_law] referenced inspiration
+[kreier/benfords_law] Update for Synology Diskstation
+[kreier/benfords_law] Initial commit
+[kreier/benfords_law] README.md</title></rect></a>
+<a href="https://kreier.github.io/quartz/Blog/2023/11/Núi-Đinh-I"><rect x="546" y="54" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2023-11-01: 1 entry
 Núi Đinh I</title></rect></a>
 <rect x="546" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-02: 0 entries</title></rect>
 <rect x="546" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-03: 0 entries</title></rect>
-<rect x="546" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-04: 0 entries</title></rect>
+<a href="https://github.com/kreier/collatz/commit/4f6c00add85f39a0585ecea078dc0a1765b5f693"><rect x="546" y="90" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-11-04: 12 entries
+[kreier/collatz] output control, more details
+[kreier/collatz] first program
+[kreier/collatz] reference link to Veritasium video
+[kreier/collatz] Synology Diskstation
+[kreier/collatz] Initial commit
+[kreier/timeline] restructured creation of document, added German
+[kreier/timeline] start translation
+[kreier/timeline] added release date to version info
+[kreier/timeline] updated documentation for v3.3
+[kreier/timeline] Merge pull request #8 from kreier/3.3
+[kreier/timeline] extended events in the first century
+[kreier/collatz] README.md</title></rect></a>
 <text x="558" y="12" font-family="sans-serif" font-size="8" fill="#767676">Nov</text>
-<rect x="558" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-05: 0 entries</title></rect>
-<rect x="558" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-06: 0 entries</title></rect>
-<rect x="558" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-07: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/e2fc285065b39beeb53ebed5342240a6f1ae1200"><rect x="558" y="18" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-11-05: 6 entries
+[kreier/timeline] fixed Caesars, Vitellius, time description, use of dictionary
+[kreier/timeline] simplified timestamp
+[kreier/timeline] fixed initiating counters and variables
+[kreier/timeline] fixed description of periods, dictionary down from 149 to 115 lines
+[kreier/timeline] fixed bug in year/years of kings reigned
+[kreier/timeline] fix counting over language editions</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/5eea609e1e7dac89d0c8ec6247d8c8f12aaba2e3"><rect x="558" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-11-06: 7 entries
+[kreier/timeline] first vietnamese edition with 40/164 translations
+[kreier/timeline] new function timebar, reduces code to 487 lines
+[kreier/timeline] updates for v3.4
+[kreier/timeline] Merge pull request #9 from kreier/3.4
+[kreier/timeline] updated translation German 12 Richter, 44 Könige, 16 Propheten, 5 Bücher
+[kreier/timeline] extend dictionary: 12 judges, 16 prophets, 5 books
+[kreier/timeline] events outsourced to table, removal of hardcoded text</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/9c08ec8c9c0f8f56ff35777cfc596c72d0bb7f07"><rect x="558" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-11-07: 1 entry
+[kreier/timeline] updated vietnamese edition</title></rect></a>
 <rect x="558" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-08: 0 entries</title></rect>
 <rect x="558" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-09: 0 entries</title></rect>
-<rect x="558" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-10: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/9f10f551a1db9ed3ba9b6e62007224156fcdc9c9"><rect x="558" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-11-10: 6 entries
+[kreier/timeline] updates for v3.5
+[kreier/timeline] version v3.2 with a few more details
+[kreier/timeline] reflect history from v3.0 to v3.5
+[kreier/timeline] add "today" in the timeline to give some perspective
+[kreier/timeline] added historic documents and more recent events
+[kreier/timeline] added age of some kings</title></rect></a>
 <rect x="558" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-11: 0 entries</title></rect>
-<rect x="570" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-12: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/f503b62e818d824b0738842b7484416b43f43291"><rect x="570" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-11-12: 2 entries
+[kreier/timeline] added a few historic figures
+[kreier/timeline] reorganized structure to save space and better comparison</title></rect></a>
 <rect x="570" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-13: 0 entries</title></rect>
 <rect x="570" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-14: 0 entries</title></rect>
-<rect x="570" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-15: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/5264d327bb959f5898a25ffee8cfe2bd550ba6ce"><rect x="570" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-11-15: 1 entry
+[kreier/timeline] reorganized, added king of the north and south</title></rect></a>
 <rect x="570" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-16: 0 entries</title></rect>
 <rect x="570" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-17: 0 entries</title></rect>
-<rect x="570" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-18: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/e5cc0ed27aa07909a510b557eb609a3ab6782881"><rect x="570" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-11-18: 2 entries
+[kreier/timeline] adjusted Vietnamese translation
+[kreier/timeline] updated German translation</title></rect></a>
 <rect x="582" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-19: 0 entries</title></rect>
-<rect x="582" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-20: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/0ec291100836486bdd53c0a3d59dce82acfa4eab"><rect x="582" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-11-20: 4 entries
+[kreier/timeline] added 8 events and Alexander the Great
+[kreier/timeline] added 5 books and 10 periods
+[kreier/timeline] web view github.io updated
+[kreier/timeline] history details refined</title></rect></a>
 <rect x="582" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-21: 0 entries</title></rect>
-<rect x="582" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-22: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/0975afbf4f6c0581a066be93c2aff09ee0855dbc"><rect x="582" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-11-22: 1 entry
+[kreier/timeline] Merge pull request #10 from kreier/3.5</title></rect></a>
 <rect x="582" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-23: 0 entries</title></rect>
-<rect x="582" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-24: 0 entries</title></rect>
+<a href="https://github.com/kreier/rp2040/commit/b2e7e9a99f35a5d92bf562ad35c4020f71552ed3"><rect x="582" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-11-24: 3 entries
+[kreier/rp2040] manually activate display
+[kreier/timeline] a few refinements of the Vietnamese translation
+[kreier/timeline] added Angkor, Notre Dame and Ming</title></rect></a>
 <rect x="582" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-25: 0 entries</title></rect>
 <rect x="594" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-26: 0 entries</title></rect>
 <rect x="594" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-27: 0 entries</title></rect>
 <rect x="594" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-28: 0 entries</title></rect>
-<rect x="594" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-29: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/6dad584afc577dcb9a224c2bd1c2a31a9d048676"><rect x="594" y="54" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-11-29: 14 entries
+[kreier/timeline] Merge branch 'main' of https://github.com/kreier/timeline
+[kreier/timeline] updated documentation
+[kreier/timeline] Merge pull request #12 from kreier/3.5
+[kreier/timeline] Merge branch 'main' into 3.5
+[kreier/timeline] resolve merging conflicts
+[kreier/timeline] integrate stashed edits
+[kreier/timeline] minor fixes
+[kreier/timeline] created 3.5 edition in 3 languages
+[kreier/timeline] created 3.5 edition in 3 languages
+[kreier/timeline] fixed details in German translation
+[kreier/timeline] fixed details in Vietnamese translation
+[kreier/timeline] more fixes to the Vietnamese translation
+[kreier/timeline] update Vietnamese translation
+[kreier/timeline] updated German edition</title></rect></a>
 <rect x="594" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-30: 0 entries</title></rect>
 <rect x="594" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-01: 0 entries</title></rect>
 <rect x="594" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-02: 0 entries</title></rect>
 <text x="606" y="12" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
 <rect x="606" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-03: 0 entries</title></rect>
 <rect x="606" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-04: 0 entries</title></rect>
-<rect x="606" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-05: 0 entries</title></rect>
-<rect x="606" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-06: 0 entries</title></rect>
-<rect x="606" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-07: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/d704c95630ae65cf6b2894e3eafabfebe3e8b3c6"><rect x="606" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-05: 1 entry
+[kreier/benchmark] updated CoreMark results</title></rect></a>
+<a href="https://github.com/kreier/t-display/commit/1dc55328fea3b8e0d3f57982464a142e35192621"><rect x="606" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-06: 1 entry
+[kreier/t-display] restructure for future CP support</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/219750eaacb370c5d9570ecb915b0bee04a31d02"><rect x="606" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-07: 3 entries
+[kreier/benchmark] created list
+[kreier/benchmark] added microcontrollers
+[kreier/t-display] expanded documentation of results</title></rect></a>
 <rect x="606" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-08: 0 entries</title></rect>
-<rect x="606" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-09: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/86ef7323d4aa5bfdae51d09926e88ba69d99fd1a"><rect x="606" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-09: 2 entries
+[kreier/timeline] Merge pull request #13 from kreier/main
+[kreier/timeline] Merge branch '3.6' into main</title></rect></a>
 <rect x="618" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-10: 0 entries</title></rect>
-<rect x="618" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-11: 0 entries</title></rect>
+<a href="https://github.com/kreier/ESP8266/commit/d2ea3d00c33b050dd8ba4cc7b632f92f56929517"><rect x="618" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-11: 1 entry
+[kreier/ESP8266] adjust for boot sequence serial speed</title></rect></a>
 <rect x="618" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-12: 0 entries</title></rect>
 <rect x="618" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-13: 0 entries</title></rect>
-<rect x="618" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-14: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/fc1217cf6f41b5a2dbfdedee7ad96c642e1c7b97"><rect x="618" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-14: 1 entry
+[kreier/benchmark] updated documentation</title></rect></a>
 <rect x="618" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-15: 0 entries</title></rect>
 <rect x="618" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-16: 0 entries</title></rect>
 <rect x="630" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-17: 0 entries</title></rect>
 <rect x="630" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-18: 0 entries</title></rect>
 <rect x="630" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-19: 0 entries</title></rect>
 <rect x="630" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-20: 0 entries</title></rect>
-<rect x="630" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-21: 0 entries</title></rect>
+<a href="https://github.com/kreier/kinhthanh/commit/474f46cdad6b8e9cc44741ee51d75e7220f90caf"><rect x="630" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-21: 5 entries
+[kreier/kinhthanh] starting idea
+[kreier/kinhthanh] Create compile_markdown.py
+[kreier/kinhthanh] Update .gitignore
+[kreier/kinhthanh] Initial commit
+[kreier/timeline] included Jehoiada and tower of Babel</title></rect></a>
 <rect x="630" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-22: 0 entries</title></rect>
-<rect x="630" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-23: 0 entries</title></rect>
+<a href="https://github.com/kreier/t-display/commit/135ef0772a66b5c2ba7bdde2183fdfcfc927e69c"><rect x="630" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-23: 1 entry
+[kreier/t-display] code from October 2022</title></rect></a>
 <rect x="642" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-24: 0 entries</title></rect>
-<rect x="642" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-25: 0 entries</title></rect>
-<rect x="642" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-26: 0 entries</title></rect>
-<rect x="642" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-27: 0 entries</title></rect>
-<rect x="642" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-28: 0 entries</title></rect>
-<rect x="642" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-29: 0 entries</title></rect>
-<rect x="642" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-30: 0 entries</title></rect>
-<rect x="654" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-31: 0 entries</title></rect>
+<a href="https://github.com/kreier/rp2040/commit/0175b27ee649ab1906bd68e63563576d508b7491"><rect x="642" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-25: 4 entries
+[kreier/rp2040] menu function with 9 lines
+[kreier/t-display] optical feedback if writing to FS is activated
+[kreier/t-display] successful Menu selector on T-Display
+[kreier/t-display] simple UI for selecting and starting programs</title></rect></a>
+<a href="https://github.com/kreier/qtpy-oled/commit/91e3393b2d551640bf8bc283c0ab20f9a9e8215d"><rect x="642" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-26: 8 entries
+[kreier/qtpy-oled] firmware by @mattytrentini May 2023
+[kreier/qtpy-oled] display and i2c STEMMA working
+[kreier/qtpy-oled] Delete .DS_Store
+[kreier/qtpy-oled] adjusted for Diskstation and Circuitpython - we need lib
+[kreier/qtpy-oled] Update README.md
+[kreier/qtpy-oled] first working steps
+[kreier/qtpy-oled] Update README.md
+[kreier/qtpy-oled] Initial commit</title></rect></a>
+<a href="https://github.com/kreier/qtpy-oled/commit/25a10f1b7db627d673a28a37511d24071c40343e"><rect x="642" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-27: 3 entries
+[kreier/qtpy-oled] steps in Circuitpython
+[kreier/study] minor fix
+[kreier/qtpy-oled] README.md</title></rect></a>
+<a href="https://github.com/kreier/circuitpython/commit/8c9b260b1f03878e2a9a852fa099f5fbbf0ac49e"><rect x="642" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-28: 8 entries
+[kreier/circuitpython] Merge pull request #3 from kreier/lilygo_t_display_rp2040
+[kreier/circuitpython] Merge branch 'main' into lilygo_t_display_rp2040
+[kreier/circuitpython] Merge pull request #2 from adafruit/main
+[kreier/t-display] Adaptation for Raspberry Pico with Waveshare 240x240
+[kreier/t-display] code reorganized
+[kreier/t-display] first working menu system in Circuitpython 9
+[kreier/t-display] corrected history of circuitpython support and pinmap
+[kreier/t-display] update documentation and pinmap</title></rect></a>
+<a href="https://github.com/kreier/t-display/commit/4e91e37459c7e6867f913b4b9c92c7f1543c0c3c"><rect x="642" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-29: 10 entries
+[kreier/t-display] progress in firmware T-Display rp2040
+[kreier/t-display] addressing display bugs
+[kreier/t-display] readjusted config for other boards
+[kreier/t-display] fix for CircuitPython 9.0
+[kreier/t-display] updated for new compiled T-Display ESP32 4M
+[kreier/T-Display_S3] add disappointing info about parallel bus display support in CP
+[kreier/T-Display_S3] included illustration
+[kreier/T-Display_S3] added links to relevant projects
+[kreier/T-Display_S3] Synology Diskstation - and we need /lib for CircuitPython
+[kreier/T-Display_S3] Initial commit</title></rect></a>
+<a href="https://github.com/kreier/circuitpython/commit/4165a3c281a480ae703337a434e9fcc674c4a2e4"><rect x="642" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-30: 7 entries
+[kreier/circuitpython] change MADCTL 0x68 to 0x60 from BGR back to RGB
+[kreier/circuitpython] fix init sequence, remove auto brightness setting
+[kreier/circuitpython] Add ten missing pins 17-29 including LED
+[kreier/circuitpython] Merge branch 'adafruit:main' into main
+[kreier/ESP8266] first results to 10 million
+[kreier/ESP8266] got SSD1306 display and buttons working
+[kreier/timeline] start August 2023</title></rect></a>
+<a href="https://github.com/kreier/ESP8266/commit/69a0e5141b3dfd314c0f29e81fd7b008277279cf"><rect x="654" y="18" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-12-31: 11 entries
+[kreier/ESP8266] restored Adafruit implementation, new u8g2
+[kreier/ESP8266] sketch for new display driver outlined
+[kreier/ESP8266] second board activated with U8g2
+[kreier/ESP8266] another OLED library
+[kreier/ESP8266] adjustments for new display
+[kreier/ESP8266] updated documentation and running scope
+[kreier/t-display] enable write to the local file system
+[kreier/t-display] included T8 ST7789 since its very similar
+[kreier/t-display] adjusted for T8 ST7789 with only one button
+[kreier/T-Display_S3] comparison table for MCUs included
+[kreier/T-Display_S3] first outline to understand the reasoning</title></rect></a>
 <rect x="30" y="112" width="8" height="8" fill="#30a14e" rx="1" ry="1"/>
 <text x="42" y="119" font-family="sans-serif" font-size="7" fill="#767676">WordPress</text>
 <rect x="100" y="112" width="8" height="8" fill="#e57373" rx="1" ry="1"/>
