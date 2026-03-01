@@ -1,18 +1,26 @@
 [
     {
         "url": "https://saiht.de/blog",
-        "type": "wordpress"
+        "type": "wordpress",
+        "name": "WordPress",
+        "colors": ["#9be9a8", "#40c463", "#30a14e", "#216e39"]
     },
     {
         "url": "https://kreier.github.io/quartz",
-        "type": "quartz"
+        "type": "quartz",
+        "name": "Quartz",
+        "colors": ["#ffcdd2", "#ef9a9a", "#e57373", "#ef5350"]
     },
     {
         "url": "https://saiht.de/legacy",
-        "type": "legacy_html"
+        "type": "legacy_html",
+        "name": "Legacy HTML",
+        "colors": ["#bbdefb", "#90caf9", "#64b5f6", "#42a5f5"]
     },
     {
         "url": "kreier",
-        "type": "github"
+        "type": "github",
+        "name": "GitHub",
+        "colors": ["#fff3e0", "#ffcc80", "#ffa726", "#fb8c00"]
     }
 ]

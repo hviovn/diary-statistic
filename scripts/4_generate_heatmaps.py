@@ -9,7 +9,7 @@ import sys
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-def generate_svg(year, data_by_date):
+def generate_svg(year, data_by_date, source_config):
     start_date = date(year, 1, 1)
     end_date = date(year, 12, 31)
     first_sunday = start_date - timedelta(days=(start_date.weekday() + 1) % 7)
@@ -52,26 +52,10 @@ def generate_svg(year, data_by_date):
                     # Intensity level relative to max_count
                     level = math.ceil((count / max_count) * 4) if max_count > 0 else 1
                     source_type = entries[0].get('source_type', 'wordpress')
-                    if source_type == 'wordpress': # Green
-                        if level == 1: color = "#9be9a8"
-                        elif level == 2: color = "#40c463"
-                        elif level == 3: color = "#30a14e"
-                        else: color = "#216e39"
-                    elif source_type == 'quartz': # Red
-                        if level == 1: color = "#ffcdd2"
-                        elif level == 2: color = "#ef9a9a"
-                        elif level == 3: color = "#e57373"
-                        else: color = "#ef5350"
-                    elif source_type == 'legacy_html': # Blue
-                        if level == 1: color = "#bbdefb"
-                        elif level == 2: color = "#90caf9"
-                        elif level == 3: color = "#64b5f6"
-                        else: color = "#42a5f5"
-                    elif source_type == 'github': # Orange
-                        if level == 1: color = "#fff3e0"
-                        elif level == 2: color = "#ffcc80"
-                        elif level == 3: color = "#ffa726"
-                        else: color = "#fb8c00"
+
+                    if source_type in source_config:
+                        colors = source_config[source_type]['colors']
+                        color = colors[min(level - 1, len(colors) - 1)]
                 x = week * (square_size + square_margin) + 30
                 y = day * (square_size + square_margin) + 18
                 tooltip = f"{date_str}: {count} entry" if count == 1 else f"{date_str}: {count} entries"
@@ -90,13 +74,10 @@ def generate_svg(year, data_by_date):
     # Add legend
     legend_x = 30
     legend_y = height - 12
-    sources_info = [
-        ("WordPress", "#30a14e"),
-        ("Quartz", "#e57373"),
-        ("Legacy HTML", "#64b5f6"),
-        ("GitHub", "#ffa726")
-    ]
-    for label, color in sources_info:
+    for st, config in source_config.items():
+        label = config['name']
+        colors = config['colors']
+        color = colors[2] if len(colors) > 2 else colors[-1]
         svg_parts.append(f'<rect x="{legend_x}" y="{legend_y}" width="8" height="8" fill="{color}" rx="1" ry="1"/>')
         svg_parts.append(f'<text x="{legend_x + 12}" y="{legend_y + 7}" font-family="sans-serif" font-size="7" fill="#767676">{label}</text>')
         legend_x += 70
@@ -108,8 +89,19 @@ def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     data_dir = os.path.join(os.path.dirname(script_dir), "data")
 
+    sources_file = os.path.join(script_dir, "sources.json")
+    with open(sources_file, 'r', encoding='utf-8') as f:
+        sources_data_json = json.load(f)
+
+    source_config = {}
+    for s in sources_data_json:
+        source_config[s['type']] = {
+            'name': s.get('name', s['type']),
+            'colors': s.get('colors', ["#9be9a8", "#40c463", "#30a14e", "#216e39"])
+        }
+
     all_data = []
-    sources = ['wordpress', 'quartz', 'legacy_html', 'github']
+    sources = list(source_config.keys())
 
     for st in sources:
         stats_file = os.path.join(data_dir, f"statistics_{st}.csv")
@@ -187,19 +179,14 @@ def main():
         "    <h1>Diary Activity Overview</h1>"
     ]
 
-    source_names = {
-        'wordpress': 'WordPress',
-        'quartz': 'Quartz',
-        'legacy_html': 'Legacy HTML',
-        'github': 'GitHub'
-    }
+    source_names = {st: config['name'] for st, config in source_config.items()}
 
     for year in range(end_year, start_year - 1, -1):
         year_data = [item for d, entries in data_by_date.items() if d.startswith(str(year)) for item in entries]
         year_entries = len(year_data)
         if year_entries == 0: continue
 
-        svg_content = generate_svg(year, data_by_date)
+        svg_content = generate_svg(year, data_by_date, source_config)
         svg_filename = f"activity_{year}.svg"
         svg_path = os.path.join(assets_dir, svg_filename)
         with open(svg_path, "w", encoding="utf-8") as f:
