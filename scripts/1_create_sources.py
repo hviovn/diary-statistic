@@ -6,6 +6,19 @@ from datetime import datetime, date, timedelta
 import os
 import csv
 import html
+import sys
+import platform
+
+try:
+    import msvcrt
+except Exception:
+    msvcrt = None
+try:
+    import tty
+    import termios
+except Exception:
+    tty = None
+    termios = None
 
 def fetch_url(url):
     try:
@@ -289,6 +302,25 @@ def save_to_csv(data, filename):
             })
     print(f"Saved {len(data)} entries to {filepath}")
 
+
+def save_to_csv_with_dir(data, filename, data_dir=None):
+    if not data_dir:
+        data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data')
+    os.makedirs(data_dir, exist_ok=True)
+    filepath = os.path.join(data_dir, filename)
+    with open(filepath, 'w', newline='', encoding='utf-8') as csvfile:
+        fieldnames = ['Link', 'Date', 'Title', 'Type']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        for item in data:
+            writer.writerow({
+                'Link': item['link'],
+                'Date': item['date'],
+                'Title': item['title'],
+                'Type': item['type']
+            })
+    print(f"Saved {len(data)} entries to {filepath}")
+
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     data_dir = os.path.join(os.path.dirname(script_dir), "../data")
@@ -298,7 +330,20 @@ def main():
     with open(sources_file, "r") as f:
         sources = json.load(f)
 
-    for source in sources:
+    # CLI arg handling: if called with 'all', process all sources
+    selected_sources = []
+    if len(sys.argv) > 1 and sys.argv[1].lower() == 'all':
+        selected_sources = sources
+    else:
+        # Build menu items
+        menu_items = [f"{s.get('type')} - {s.get('url')}" for s in sources]
+        sel = interactive_menu(menu_items, title="Select a source to fetch (Enter to confirm)")
+        if sel is None:
+            print("No selection made. Exiting.")
+            return
+        selected_sources = [sources[sel]]
+
+    for source in selected_sources:
         type_name = source['type']
         data = []
         if type_name == 'wordpress':
@@ -310,7 +355,73 @@ def main():
         elif type_name == 'github':
             data = fetch_github(source['url'])
 
-        save_to_csv(data, f"sources_{type_name}.csv", data_dir)
+        save_to_csv_with_dir(data, f"sources_{type_name}.csv", data_dir)
+
+
+def _getch():
+    if msvcrt:
+        return msvcrt.getch()
+    else:
+        fd = sys.stdin.fileno()
+        old_settings = termios.tcgetattr(fd)
+        try:
+            tty.setraw(sys.stdin.fileno())
+            ch = sys.stdin.read(1)
+            return ch.encode()
+        finally:
+            termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
+
+
+def interactive_menu(options, title=None):
+    idx = 0
+    while True:
+        # clear screen
+        if os.name == 'nt':
+            os.system('cls')
+        else:
+            os.system('clear')
+
+        if title:
+            print(title)
+        print('Use Up/Down arrows and Enter to select. Ctrl-C to cancel.')
+        for i, opt in enumerate(options):
+            prefix = '=> ' if i == idx else '   '
+            print(f"{prefix}{opt}")
+
+        try:
+            ch = _getch()
+        except Exception:
+            print('\nInput error; falling back to numeric selection.')
+            for i, opt in enumerate(options):
+                print(f"{i+1}. {opt}")
+            try:
+                choice = int(input('Enter number: ')) - 1
+                if 0 <= choice < len(options):
+                    return choice
+            except Exception:
+                return None
+
+        # Windows msvcrt returns b'\r' for Enter, arrow keys are two-byte sequences
+        if msvcrt:
+            if ch in (b'\r', b'\n'):
+                return idx
+            if ch in (b'\x00', b'\xe0'):
+                ch2 = msvcrt.getch()
+                if ch2 == b'H':
+                    idx = (idx - 1) % len(options)
+                elif ch2 == b'P':
+                    idx = (idx + 1) % len(options)
+        else:
+            # Unix: arrow sequences start with ESC (27)
+            if ch == b'\n' or ch == b'\r':
+                return idx
+            if ch == b'\x1b':
+                # read two more
+                rest = sys.stdin.read(2)
+                if rest == '[A':
+                    idx = (idx - 1) % len(options)
+                elif rest == '[B':
+                    idx = (idx + 1) % len(options)
 
 if __name__ == "__main__":
     main()
