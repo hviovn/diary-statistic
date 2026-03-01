@@ -149,17 +149,44 @@ def fetch_github(username):
     if token:
         headers['Authorization'] = f'token {token}'
 
-    def request_json(url, accept_header=None):
-        req_headers = dict(headers)
-        if accept_header:
-            req_headers['Accept'] = accept_header
-        req = urllib.request.Request(url, headers=req_headers)
-        try:
-            with urllib.request.urlopen(req, timeout=15) as resp:
-                text = resp.read().decode('utf-8', errors='ignore')
-                return json.loads(text), resp
-        except Exception as e:
-            raise
+    import urllib.error
+
+    def request_json(url, accept_header=None, max_rate_wait=3600):
+        """Request JSON, retrying on GitHub rate-limit HTTP errors by sleeping until reset.
+
+        If a non-rate-limit HTTP error occurs the exception is raised.
+        """
+        attempts = 0
+        while True:
+            req_headers = dict(headers)
+            if accept_header:
+                req_headers['Accept'] = accept_header
+            req = urllib.request.Request(url, headers=req_headers)
+            try:
+                with urllib.request.urlopen(req, timeout=15) as resp:
+                    text = resp.read().decode('utf-8', errors='ignore')
+                    return json.loads(text), resp
+            except urllib.error.HTTPError as e:
+                # Check for rate limit headers; GitHub may return 403 when rate limited
+                try:
+                    remaining = int(e.headers.get('X-RateLimit-Remaining') or 0)
+                    reset = int(e.headers.get('X-RateLimit-Reset') or 0)
+                except Exception:
+                    remaining = 0
+                    reset = 0
+
+                if (e.code in (403, 429)) and remaining == 0 and reset:
+                    wait = max(0, reset - int(time.time())) + 1
+                    if wait > max_rate_wait:
+                        wait = max_rate_wait
+                    attempts += 1
+                    print(f"Rate limit hit (HTTP {e.code}). Sleeping {wait}s (attempt {attempts}) before retrying {url}")
+                    time.sleep(wait)
+                    continue
+                else:
+                    raise
+            except Exception:
+                raise
 
     # 1) List repos for the user (paginated)
     repos = []
