@@ -235,6 +235,12 @@ def fetch_legacy_html(base_url):
     to_visit = [base_url]
     visited = set()
     posts = []
+    seen_links = set()
+
+    # Only allow these text-like extensions; directories (paths ending with '/') are allowed
+    allowed_text_exts = {'.html', '.htm', '.txt', '.md'}
+    # Explicit blacklist for common non-text/code/binary extensions
+    blacklist_exts = {'.jpg', '.jpeg', '.png', '.gif', '.pdf', '.zip', '.doc', '.docx', '.exe', '.class', '.java', '.cpp', '.bin', '.o', '.so', '.dll', '.jar', '.tar', '.gz'}
 
     date_patterns = [
         (r'\b(\d{4}-\d{2}-\d{2})\b', '%Y-%m-%d'),
@@ -270,37 +276,46 @@ def fetch_legacy_html(base_url):
         title = html.unescape(title)
 
         if found_date_str and not url_no_frag.endswith(('index.html', 'navigator.html', 'rechts.html')):
-            posts.append({
-                'link': url_no_frag,
-                'date': found_date_str,
-                'title': title,
-                'type': 'legacy_html'
-            })
+            # normalize and filter by extension to include only text files
+            parsed = urllib.parse.urlparse(url_no_frag)
+            path = parsed.path or ''
+            if path.endswith('/'):
+                allow_post = True
+            else:
+                ext = os.path.splitext(path)[1].lower()
+                if not ext:
+                    allow_post = False
+                elif ext in blacklist_exts:
+                    allow_post = False
+                else:
+                    allow_post = ext in allowed_text_exts
+
+            if allow_post:
+                norm = url_no_frag.rstrip('/').lower()
+                if norm not in seen_links:
+                    seen_links.add(norm)
+                    posts.append({
+                        'link': url_no_frag,
+                        'date': found_date_str,
+                        'title': title,
+                        'type': 'legacy_html'
+                    })
 
         links = re.findall(r'href=["\'](.*?)["\']', content)
         for link in links:
             abs_link = urllib.parse.urljoin(url_no_frag, link).split('#')[0]
             if abs_link.startswith(base_url) and abs_link not in visited:
-                if not abs_link.lower().endswith(('.jpg', '.jpeg', '.png', '.gif', '.pdf', '.zip', '.doc', '.css', '.js')):
+                # continue crawling directories and HTML-like pages; skip common binary/media files
+                lower = abs_link.lower()
+                if not lower.endswith(('.jpg', '.jpeg', '.png', '.gif', '.pdf', '.zip', '.doc', '.css', '.js', '.exe', '.class', '.java', '.cpp', '.bin', '.o', '.so', '.dll')):
                     to_visit.append(abs_link)
 
     return posts
 
 def save_to_csv(data, filename):
-    os.makedirs('../data', exist_ok=True)
-    filepath = os.path.join('../data', filename)
-    with open(filepath, 'w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['Link', 'Date', 'Title', 'Type']
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()
-        for item in data:
-            writer.writerow({
-                'Link': item['link'],
-                'Date': item['date'],
-                'Title': item['title'],
-                'Type': item['type']
-            })
-    print(f"Saved {len(data)} entries to {filepath}")
+    # Delegate to save_to_csv_with_dir with the repo-root data directory
+    data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data')
+    save_to_csv_with_dir(data, filename, data_dir)
 
 
 def save_to_csv_with_dir(data, filename, data_dir=None):
@@ -323,7 +338,8 @@ def save_to_csv_with_dir(data, filename, data_dir=None):
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    data_dir = os.path.join(os.path.dirname(script_dir), "../data")
+    # place data directory at the repository root (same level as `scripts`)
+    data_dir = os.path.join(os.path.dirname(script_dir), "data")
     os.makedirs(data_dir, exist_ok=True)
 
     sources_file = os.path.join(script_dir, "sources.json")
