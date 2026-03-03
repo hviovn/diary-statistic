@@ -64,76 +64,33 @@
 <rect x="114" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-19: 0 entries</title></rect>
 <rect x="114" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-20: 0 entries</title></rect>
 <rect x="114" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-21: 0 entries</title></rect>
-<a href="https://github.com/kreier/control_system_examples_2023/commit/351a0a024c65f340c8893b2e6ed2239c41a0cf0e"><rect x="114" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-02-22: 4 entries
-[kreier/control_system_examples_2023] updated for 2023
-[kreier/control_system_examples_2023] unique VEX format
-[kreier/control_system_examples_2023] definition in introduction no longer work
-[kreier/control_system_examples_2023] Create README.md</title></rect></a>
-<a href="https://github.com/kreier/control_system_examples_2023/commit/963fae27d20a5272372e9889bdcb8df68c369485"><rect x="114" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-02-23: 9 entries
-[kreier/control_system_examples_2023] Merge pull request #1 from kreier/main
-[kreier/control_system_examples_2023] simulation of motorized arm with torque slider
-[kreier/control_system_examples_2023] added on/off control
-[kreier/control_system_examples_2023] export from webinterface
-[kreier/control_system_examples_2023] updated 2023/02/23
-[kreier/control_system_examples_2023] update 2023
-[kreier/control_system_examples_2023] updated with PID control
-[kreier/control_system_examples_2023] Create .gitignore
+<rect x="114" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-22: 0 entries</title></rect>
+<a href="https://github.com/kreier/rp2040/commit/8d795b8e0471d3766b28dedb4daabd8d876f0719"><rect x="114" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-02-23: 1 entry
 [kreier/rp2040] added menu and examples</title></rect></a>
 <rect x="114" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-24: 0 entries</title></rect>
 <rect x="114" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-25: 0 entries</title></rect>
-<a href="https://github.com/kreier/control_system_examples_2023/commit/07bfc674a9a83b099e95e5899091e86002cbc90e"><rect x="126" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-02-26: 4 entries
-[kreier/control_system_examples_2023] code from https://editor.p5js.org/mkreier/sketches/1oCHPXX3T
-[kreier/control_system_examples_2023] from https://replit.com/@kreier/WaterValveSimulation#AnalogSensorSim.py
-[kreier/control_system_examples_2023] Create Shayan.txt
-[kreier/control_system_examples_2023] Create main.py</title></rect></a>
-<a href="https://github.com/kreier/control_system_examples_2023/commit/60d50f1ead7c2c8a0cc30fa4e5e79b68a04ba739"><rect x="126" y="30" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-02-27: 11 entries
-[kreier/control_system_examples_2023] three examples visualized
-[kreier/control_system_examples_2023] included pictures
-[kreier/control_system_examples_2023] updated documentation
-[kreier/control_system_examples_2023] Update README.md
-[kreier/control_system_examples_2023] Add files via upload
-[kreier/control_system_examples_2023] Create README.md
-[kreier/control_system_examples_2023] Update README.md
-[kreier/control_system_examples_2023] Create README.md
-[kreier/control_system_examples_2023] current screenshots 2023-02-27
-[kreier/control_system_examples_2023] Create SpacecraftSim.py
-[kreier/control_system_examples_2023] Create main.py</title></rect></a>
+<rect x="126" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-26: 0 entries</title></rect>
+<rect x="126" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-27: 0 entries</title></rect>
 <rect x="126" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-28: 0 entries</title></rect>
-<a href="https://github.com/kreier/aa2023/commit/3a995b912b0d2f351157d1dea25f4d33f739c7eb"><rect x="126" y="54" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2023-03-01: 20 entries
+<a href="https://github.com/kreier/aa2023/commit/3a995b912b0d2f351157d1dea25f4d33f739c7eb"><rect x="126" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-03-01: 7 entries
 [kreier/aa2023] solving VEX VR task
 [kreier/aa2023] artifact documented
 [kreier/aa2023] need /lib for CircuitPython, and Synology update
 [kreier/aa2023] Initial commit
-[kreier/control_system_examples_2023] Merge pull request #4 from kreier/main
-[kreier/control_system_examples_2023] Merge branch 'ssis-aa:main' into main
-[kreier/control_system_examples_2023] final random cycle
-[kreier/control_system_examples_2023] final version cycles through the set angles
-[kreier/control_system_examples_2023] Merge pull request #3 from kreier/main
-[kreier/control_system_examples_2023] complete PID algorithm for arm control
-[kreier/control_system_examples_2023] minute 7:00 from Mr. Weinberg's video
-[kreier/control_system_examples_2023] proportional example from https://youtu.be/swJ7ECbuKfY?t=198
-[kreier/control_system_examples_2023] document progress from p5js
-[kreier/control_system_examples_2023] moved Dan's code
-[kreier/control_system_examples_2023] Merge pull request #2 from kreier/main
-[kreier/control_system_examples_2023] Merge branch 'ssis-aa:main' into main
 [kreier/python2018] Merge pull request #22 from kreier/dependabot/pip/certifi-2022.12.7
 [kreier/python2018] Merge pull request #23 from kreier/dependabot/pip/cryptography-39.0.1
-[kreier/rp2040] SCL is on GP1
-[kreier/control_system_examples_2023] README.md</title></rect></a>
+[kreier/rp2040] SCL is on GP1</title></rect></a>
 <a href="https://github.com/kreier/aa2023/commit/777f0aa612b690eed84c4188026e742198086de6"><rect x="126" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-02: 2 entries
 [kreier/aa2023] typo
 [kreier/aa2023] README.md</title></rect></a>
-<a href="https://github.com/kreier/rvr_circuitpython/commit/b1451cd151f6e630b04796cb86372d955c812cc8"><rect x="126" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-03: 1 entry
-[kreier/rvr_circuitpython] document development state</title></rect></a>
-<a href="https://github.com/kreier/rvr_circuitpython/commit/0e1530ebb7e88e72b54f9b5725abcabbd2e4743e"><rect x="126" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-04: 5 entries
-[kreier/rvr_circuitpython] update first list of APIs
-[kreier/rvr_circuitpython] Merge branch 'main' of https://github.com/kreier/rvr_circuitpython
-[kreier/rvr_circuitpython] Merge branch 'main' of https://github.com/emwdx/rvr_circuitpython
-[kreier/rvr_circuitpython] reflect Evan's latest changes
+<rect x="126" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-03: 0 entries</title></rect>
+<a href="https://github.com/kreier/t-display/commit/6bd6ba6f969c6e86388589c174ccda6ba0d467ce"><rect x="126" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-04: 1 entry
 [kreier/t-display] pinmaps for future projects</title></rect></a>
 <text x="138" y="12" font-family="sans-serif" font-size="8" fill="#767676">Mar</text>
 <rect x="138" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-05: 0 entries</title></rect>
-<a href="https://github.com/kreier/rp2040/commit/ebf04d72f9d85b4465e17269aa7b7243317c5c54"><rect x="138" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-03-06: 7 entries
+<a href="https://github.com/kreier/prime/commit/4b41c97b68a4564b44a7f3f04c6a549c7fa3a2b1"><rect x="138" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-03-06: 9 entries
+[kreier/prime] check running time
+[kreier/prime] more board compared
 [kreier/rp2040] with new integrated displayio driver
 [kreier/t-display] starting display experiment
 [kreier/t-display] PID and VID for Windows USB connection
@@ -141,14 +98,9 @@
 [kreier/t-display] for /cp/ports/espressif/boards/lilygo_ttgo_t8_esp32s3_st7789
 [kreier/t-display] short description
 [kreier/t-display] documentation for circuitpython</title></rect></a>
-<a href="https://github.com/kreier/rvr_circuitpython/commit/e4959e60a711807b3278a312a4b17d22c6e77f77"><rect x="138" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-07: 2 entries
-[kreier/rvr_circuitpython] indicate licence and release
-[kreier/rvr_circuitpython] list 10 current functions of the API</title></rect></a>
-<a href="https://github.com/kreier/rvr_circuitpython/commit/b5a426faa5008776e7cd37997318375eb6fd49cb"><rect x="138" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-08: 4 entries
-[kreier/rvr_circuitpython] reintroduced LEDs
-[kreier/rvr_circuitpython] update 2023
-[kreier/t-display] get the PID for the VID
-[kreier/rvr_circuitpython] README.md</title></rect></a>
+<rect x="138" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-07: 0 entries</title></rect>
+<a href="https://github.com/kreier/t-display/commit/acd4d25e634e7a38bb5de8a6335ef5df2cd5163d"><rect x="138" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-08: 1 entry
+[kreier/t-display] get the PID for the VID</title></rect></a>
 <a href="https://github.com/kreier/circuitpython_vid_pid/commit/90120eca359c1065e50ce1f5e49c7fe7ca25936e"><rect x="138" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-03-09: 7 entries
 [kreier/circuitpython_vid_pid] Update README.md
 [kreier/circuitpython_vid_pid] updated list with more boards here at SSIS
@@ -157,7 +109,7 @@
 [kreier/circuitpython_vid_pid] Update .gitignore
 [kreier/circuitpython_vid_pid] Initial commit
 [kreier/t-display] expanded documentation</title></rect></a>
-<a href="https://github.com/kreier/t-picoc3/commit/4cae92d9fae5cb8ba51a9c32134a6bbc6125ecf3"><rect x="138" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-03-10: 14 entries
+<a href="https://github.com/kreier/t-picoc3/commit/4cae92d9fae5cb8ba51a9c32134a6bbc6125ecf3"><rect x="138" y="78" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2023-03-10: 14 entries
 [kreier/t-picoc3] Merge pull request #1 from matthiaskreier/main
 [kreier/t-picoc3] include Pico W
 [kreier/t-picoc3] included Challenger rp2040
@@ -174,16 +126,9 @@
 [kreier/t-picoc3] Initial commit</title></rect></a>
 <rect x="138" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-11: 0 entries</title></rect>
 <rect x="150" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-12: 0 entries</title></rect>
-<a href="https://github.com/kreier/circuitpython/commit/f5b8b8d6f22eed5e36499060d085eb88812a35ca"><rect x="150" y="30" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2023-03-13: 16 entries
-[kreier/circuitpython] tailing whitespace removed (pre-commit run failed)
-[kreier/circuitpython] add missing pins 4, 36 and 39 - and 4 aliases
-[kreier/circuitpython] inspired by @erongd, fixed errors, added 17, 19, 20, 23, 24, 26, 27, 28, 29
-[kreier/circuitpython] copied from @erongd
-[kreier/circuitpython] adjusted for pid.codes pull request
-[kreier/circuitpython] copy from @erongd with little adjustment
-[kreier/circuitpython] copy from @erongd 
+<a href="https://github.com/kreier/circuitpython_vid_pid/commit/080d7bba2c9ef6ef18499c1f068e655614441df7"><rect x="150" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-03-13: 9 entries
 [kreier/circuitpython_vid_pid] Update README.md
-[kreier/creators] Update lilygo.md
+[kreier/p5js] documentation AA Unit 4 in February 2023
 [kreier/t-display] documented some boards
 [kreier/t-display] check updated firmware
 [kreier/t-display] more example code
@@ -193,7 +138,11 @@
 [kreier/t-picoc3] README.md</title></rect></a>
 <a href="https://github.com/kreier/ssisolar/commit/5ada45fcdbfd27bac9915ed566015c105530a917"><rect x="150" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-14: 1 entry
 [kreier/ssisolar] documentation of 2022</title></rect></a>
-<a href="https://github.com/kreier/ssisolar/commit/37e0b1e3d813366d8519d9f98b78e19cbaeaf4a5"><rect x="150" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-15: 3 entries
+<a href="https://github.com/kreier/prime/commit/52e8f9ff83380c61a5d9d720e52dc052ecbfdab6"><rect x="150" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-03-15: 7 entries
+[kreier/prime] empty hello world starting point
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] testrun March 2023
+[kreier/prime] included code for python and c
 [kreier/ssisolar] Refinements 2022/04/27 for Metro ESP32S2 Express
 [kreier/ssisolar] initial code for Metro M4
 [kreier/ssisolar] README.md</title></rect></a>
@@ -202,7 +151,15 @@
 <rect x="150" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-18: 0 entries</title></rect>
 <rect x="162" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-19: 0 entries</title></rect>
 <rect x="162" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-20: 0 entries</title></rect>
-<rect x="162" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-21: 0 entries</title></rect>
+<a href="https://github.com/kreier/prime/commit/f5ef1a83a58d9026e899f099844dbce349ae4ec4"><rect x="162" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-03-21: 8 entries
+[kreier/prime] original file
+[kreier/prime] new picture
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] working on T-Display esp32s2
+[kreier/prime] finally working
+[kreier/prime] shortened java and C code
+[kreier/prime] rearranged, working java code
+[kreier/prime] Create prime10000.java</title></rect></a>
 <rect x="162" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-22: 0 entries</title></rect>
 <rect x="162" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-23: 0 entries</title></rect>
 <a href="https://github.com/kreier/java23/commit/11c60ca7233ce4da74a9851cad9caed8580247db"><rect x="162" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-03-24: 8 entries
@@ -216,9 +173,13 @@
 [kreier/java23] Initial commit</title></rect></a>
 <rect x="162" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-25: 0 entries</title></rect>
 <rect x="174" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-26: 0 entries</title></rect>
-<a href="https://github.com/kreier/benchmark/commit/9991cef69b83ec1bb988e08f4b0cfcb020568fb2"><rect x="174" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-27: 4 entries
+<a href="https://github.com/kreier/benchmark/commit/9991cef69b83ec1bb988e08f4b0cfcb020568fb2"><rect x="174" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-03-27: 8 entries
 [kreier/benchmark] included i3-10100
 [kreier/java23] Friday homework
+[kreier/p5js] finished example
+[kreier/p5js] start for https://youtu.be/8HEgeAbYphA
+[kreier/p5js] from https://editor.p5js.org/kreier/sketches/wU1BiVBfo
+[kreier/p5js] Create sketch.js
 [kreier/java23] README.md
 [kreier/p5js] README.md</title></rect></a>
 <rect x="174" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-28: 0 entries</title></rect>
@@ -228,17 +189,11 @@
 <rect x="174" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-01: 0 entries</title></rect>
 <text x="186" y="12" font-family="sans-serif" font-size="8" fill="#767676">Apr</text>
 <rect x="186" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-02: 0 entries</title></rect>
-<a href="https://github.com/kreier/creators/commit/a96f44931ba803a440ed82ff9687744103b0cd41"><rect x="186" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-04-03: 3 entries
-[kreier/creators] add TTGO T-18 at the right spot
-[kreier/creators] Merge branch 'creationid:main' into lilygo_t18
-[kreier/ESP32] now support from circuitpython!</title></rect></a>
-<a href="https://github.com/kreier/ssis.bit/commit/711624be8d16933be445311c2d3ed07925df8795"><rect x="186" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-04-04: 6 entries
-[kreier/ssis.bit] Merge pull request #1 from ssisbit/main
-[kreier/ssis.bit] Merge pull request #18 from ssis-robotics/main
-[kreier/ssis.bit] document improved update process
-[kreier/ssis.bit] minor fixes
-[kreier/ssis.bit] include T-Display
-[kreier/ssis.bit] README.md</title></rect></a>
+<a href="https://github.com/kreier/ESP32/commit/ad13beb916c12b4d779af9d7378be9f5990a414b"><rect x="186" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-04-03: 3 entries
+[kreier/ESP32] now support from circuitpython!
+[kreier/prime] move second image to the bottom
+[kreier/prime] saving space</title></rect></a>
+<rect x="186" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-04: 0 entries</title></rect>
 <rect x="186" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-05: 0 entries</title></rect>
 <a href="https://github.com/kreier/rp2040/commit/740b36e63eadccd90b72056a9b422e821b58cc4a"><rect x="186" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-04-06: 1 entry
 [kreier/rp2040] Create neopixel16.py</title></rect></a>
@@ -256,16 +211,17 @@
 [kreier/circuitpython_vid_pid] README.md</title></rect></a>
 <rect x="198" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-15: 0 entries</title></rect>
 <rect x="210" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-16: 0 entries</title></rect>
-<rect x="210" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-17: 0 entries</title></rect>
+<a href="https://github.com/kreier/prime/commit/7b5e4ca171b28447a8b0820bb36d139e2fb52bfa"><rect x="210" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-04-17: 2 entries
+[kreier/prime] Add files via upload
+[kreier/prime] speed data from Python and C</title></rect></a>
 <rect x="210" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-18: 0 entries</title></rect>
-<a href="https://github.com/kreier/circuit-playground-express/commit/32083fea660ba275d06e314db3858ba54fb9d31b"><rect x="210" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-04-19: 7 entries
+<a href="https://github.com/kreier/circuit-playground-express/commit/32083fea660ba275d06e314db3858ba54fb9d31b"><rect x="210" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-04-19: 6 entries
 [kreier/circuit-playground-express] Merge pull request #1 from matthiaskreier/patch-1
 [kreier/circuit-playground-express] working example with 30ms pulsewidth
 [kreier/circuit-playground-express] early start
 [kreier/circuit-playground-express] send a message with neopixels
 [kreier/circuit-playground-express] using the light sensor as input - Advanced Automation 2023
-[kreier/t-display] link to Circuitpython support
-[kreier/pidcodes.github.com] README.md</title></rect></a>
+[kreier/t-display] link to Circuitpython support</title></rect></a>
 <rect x="210" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-20: 0 entries</title></rect>
 <rect x="210" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-21: 0 entries</title></rect>
 <rect x="210" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-22: 0 entries</title></rect>
@@ -300,86 +256,21 @@
 <rect x="258" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-16: 0 entries</title></rect>
 <rect x="258" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-17: 0 entries</title></rect>
 <rect x="258" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-18: 0 entries</title></rect>
-<a href="https://github.com/kreier/reactivate23/commit/4276a1eabe0d28b18de78afc36f2db6bd2d4c468"><rect x="258" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-05-19: 11 entries
-[kreier/reactivate23] Java source files
-[kreier/reactivate23] start recreating
-[kreier/reactivate23] Create .gitignore for Java
-[kreier/reactivate23] Create README.md
-[kreier/reset23] adjusted image size
-[kreier/reset23] initial visualization
-[kreier/reset23] Create README.md
-[kreier/reset23] documentation of last weeks
-[kreier/reset23] Create main.py
-[kreier/reset23] Updated for Circuitpython and Synology Diskstation
-[kreier/reset23] Initial commit</title></rect></a>
+<rect x="258" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-19: 0 entries</title></rect>
 <rect x="258" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-20: 0 entries</title></rect>
 <rect x="270" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-21: 0 entries</title></rect>
 <rect x="270" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-22: 0 entries</title></rect>
-<a href="https://github.com/kreier/reset23/commit/69960cd98a6a65c8dcd37a8f50f96a99e8328866"><rect x="270" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-05-23: 2 entries
-[kreier/reset23] two more images
-[kreier/reset23] preparation stage</title></rect></a>
-<a href="https://github.com/kreier/reset23/commit/5b06cb4affdc04db37394dafb482eb985e816d9f"><rect x="270" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-05-24: 4 entries
-[kreier/reset23] Merge pull request #1 from kreier/main
-[kreier/reset23] expanded documentation
-[kreier/reset23] included inspiration from December 2022
-[kreier/reset23] Add files via upload</title></rect></a>
-<a href="https://github.com/kreier/reactivate23/commit/7a334603d54b455b11bd34f111569645ffe92389"><rect x="270" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-05-25: 10 entries
-[kreier/reactivate23] Merge pull request #1 from kreier/main
-[kreier/reactivate23] included pictures from Taipei
-[kreier/reactivate23] extended details and links
-[kreier/reactivate23] Add files via upload
-[kreier/reactivate23] Create _config.yml
-[kreier/reactivate23] Create README.md
-[kreier/reset23] documented design cycle
-[kreier/reset23] reflection of the art party
-[kreier/reset23] pictures from the party
-[kreier/reset23] README.md</title></rect></a>
+<rect x="270" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-23: 0 entries</title></rect>
+<rect x="270" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-24: 0 entries</title></rect>
+<rect x="270" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-25: 0 entries</title></rect>
 <rect x="270" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-26: 0 entries</title></rect>
 <rect x="270" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-27: 0 entries</title></rect>
 <rect x="282" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-28: 0 entries</title></rect>
-<a href="https://github.com/kreier/reactivate23/commit/27d59767e32ea533822bf6196ff27aa524f9069e"><rect x="282" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-05-29: 7 entries
-[kreier/reactivate23] Merge pull request #2 from kreier/main
-[kreier/reactivate23] documentation 2020 Team 426 ZACTF
-[kreier/reactivate23] reorganize code
-[kreier/reactivate23] Add files via upload
-[kreier/reactivate23] club expo 2020 added
-[kreier/reactivate23] FRC Driver Station
-[kreier/reactivate23] we got the robot 426 running again!</title></rect></a>
-<a href="https://github.com/kreier/reactivate23/commit/b562fcbc4df7b16c3e315b9bcfdc6f3351196116"><rect x="282" y="42" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2023-05-30: 16 entries
-[kreier/reactivate23] Control Systems Planning included
-[kreier/reactivate23] Merge pull request #5 from kreier/main
-[kreier/reactivate23] Merge branch 'ssis-robotics:main' into main
-[kreier/reactivate23] reactivated drive base
-[kreier/reactivate23] updated firmware
-[kreier/reactivate23] Update to the WPILib team settings
-[kreier/reactivate23] Merge pull request #4 from kreier/main
-[kreier/reactivate23] Merge branch 'ssis-robotics:main' into main
-[kreier/reactivate23] Merge branch 'flooof:main' into main
-[kreier/reactivate23] successful build in 38 seconds
-[kreier/reactivate23] Merge pull request #3 from kreier/main
-[kreier/reactivate23] Changed from SpeedControllerGroup to MotorControllerGroup for 2023
-[kreier/reactivate23] changed deprecated SpeedControllerGroup to MotorControllerGroup
-[kreier/reactivate23] with REVLib.json only 32 errors left
-[kreier/reactivate23] added Phoenix.json and only 52 errors left
-[kreier/reactivate23] import to 2023 with 101 error messages</title></rect></a>
-<a href="https://github.com/kreier/reactivate23/commit/6a7a842ac90a9158d0f7427a0d6cefb7920bffa5"><rect x="282" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-05-31: 6 entries
-[kreier/reactivate23] commented non existing hardware
-[kreier/reactivate23] Merge pull request #7 from kreier/main
-[kreier/reactivate23] Merge branch 'ssis-robotics:main' into main
-[kreier/reactivate23] fixed configuration, robot running again
-[kreier/reactivate23] adjust for driving instead of turning
-[kreier/reactivate23] Merge pull request #6 from kreier/main</title></rect></a>
-<a href="https://github.com/kreier/reactivate23/commit/266c56a282ee7eb2e35434e20d24f03016efd13d"><rect x="282" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-01: 4 entries
-[kreier/reactivate23] Merge pull request #2 from kreier/drive_4CIM
-[kreier/reactivate23] include values from quadencoders
-[kreier/reactivate23] Merge pull request #8 from kreier/main
-[kreier/reactivate23] Merge pull request #1 from kreier/drive_4CIM</title></rect></a>
-<a href="https://github.com/kreier/reactivate23/commit/25026eb8255d3656e7e69f684fbb2d4568b36483"><rect x="282" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-02: 5 entries
-[kreier/reactivate23] document duty cycles
-[kreier/reactivate23] Merge pull request #11 from kreier/main
-[kreier/reactivate23] include dutycycle
-[kreier/reactivate23] Merge pull request #9 from kreier/main
-[kreier/reactivate23] Merge branch 'ssis-robotics:main' into main</title></rect></a>
+<rect x="282" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-29: 0 entries</title></rect>
+<rect x="282" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-30: 0 entries</title></rect>
+<rect x="282" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-31: 0 entries</title></rect>
+<rect x="282" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-01: 0 entries</title></rect>
+<rect x="282" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-02: 0 entries</title></rect>
 <rect x="282" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-03: 0 entries</title></rect>
 <text x="294" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jun</text>
 <rect x="294" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-06-04: 0 entries</title></rect>
@@ -395,16 +286,14 @@
 [kreier/timeline] Add files via upload
 [kreier/timeline] Update .gitignore for Synology
 [kreier/timeline] Initial commit</title></rect></a>
-<a href="https://github.com/kreier/reactivate23/commit/3fc09c92569bb3e86fb3436f205b99085cbbf760"><rect x="306" y="18" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-06-11: 9 entries
-[kreier/reactivate23] Create gradle-wrapper.jar
+<a href="https://github.com/kreier/study/commit/b11ac3df1a76c4f193c4f548f9886a8da224b1da"><rect x="306" y="18" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-06-11: 7 entries
 [kreier/study] expansion
 [kreier/study] updated documentation
 [kreier/study] activate jupyter
 [kreier/study] attempt for a timeline
 [kreier/study] 2023/06/11 start
 [kreier/study] Update .gitignore
-[kreier/study] Initial commit
-[kreier/reactivate23] README.md</title></rect></a>
+[kreier/study] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/study/commit/93bad1a1cec5bd98bfe3f5c424109bef788ce023"><rect x="306" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-12: 2 entries
 [kreier/study] Merge branch 'main' of https://github.com/kreier/study
 [kreier/study] first iteration</title></rect></a>
@@ -425,19 +314,19 @@
 [kreier/study] different alignment
 [kreier/study] recalibrated
 [kreier/study] compiled summary</title></rect></a>
-<a href="https://github.com/kreier/study/commit/7b6c3e94743cd1a034945f49bf389180b68c68e8"><rect x="306" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-17: 5 entries
+<a href="https://github.com/kreier/study/commit/7b6c3e94743cd1a034945f49bf389180b68c68e8"><rect x="306" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-06-17: 5 entries
 [kreier/study] remove dormant data processing
 [kreier/study] compilation and logging with errors work
 [kreier/study] Compiling expanded with csv file for 1189 chapters
 [kreier/study] highlights from workbook January 2020
 [kreier/study] 2023/06/17</title></rect></a>
-<a href="https://github.com/kreier/study/commit/aff79a8ca984e8bcbded5a094e8dc8f146c1fe13"><rect x="318" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-18: 5 entries
+<a href="https://github.com/kreier/study/commit/aff79a8ca984e8bcbded5a094e8dc8f146c1fe13"><rect x="318" y="18" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-06-18: 5 entries
 [kreier/study] export feature working
 [kreier/study] fixed missing last chapter bug
 [kreier/study] included info from workbook February 2020
 [kreier/study] syncronised formatting
 [kreier/study] 2023/06/18 finished Genesis</title></rect></a>
-<a href="https://github.com/kreier/study/commit/d63f4772770dd0e47513f4afa7fca7270ccf44ea"><rect x="318" y="30" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-06-19: 14 entries
+<a href="https://github.com/kreier/study/commit/d63f4772770dd0e47513f4afa7fca7270ccf44ea"><rect x="318" y="30" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2023-06-19: 14 entries
 [kreier/study] workbook May and June 2020, fixed utf-8 import error
 [kreier/study] workbook March and April 2020
 [kreier/study] shell for Genesis and Exodus created
@@ -464,7 +353,7 @@
 [kreier/study] 1189 audio files for 5545 minutes or 93 hours</title></rect></a>
 <a href="https://github.com/kreier/study/commit/83753ef3eae687dcd5e4bc2a14fae42cc27d5e35"><rect x="318" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-22: 1 entry
 [kreier/study] shell of books to 2 Kings</title></rect></a>
-<a href="https://github.com/kreier/study/commit/cf032fef2950d1414d6684721b5179d0d413d520"><rect x="318" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-06-23: 5 entries
+<a href="https://github.com/kreier/study/commit/cf032fef2950d1414d6684721b5179d0d413d520"><rect x="318" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-06-23: 5 entries
 [kreier/study] all but 35 file shells created
 [kreier/study] outline of books finished, zero output errors
 [kreier/study] Deuteronomy outlined
@@ -500,7 +389,7 @@
 [kreier/thesis08] Initial commit</title></rect></a>
 <text x="342" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jul</text>
 <rect x="342" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-07-02: 0 entries</title></rect>
-<a href="https://github.com/kreier/study/commit/b48df57bc0007f574a2ad50f468f7a8b5b36b1b8"><rect x="342" y="30" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-07-03: 14 entries
+<a href="https://github.com/kreier/study/commit/b48df57bc0007f574a2ad50f468f7a8b5b36b1b8"><rect x="342" y="30" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2023-07-03: 14 entries
 [kreier/study] workflow status badge included
 [kreier/study] Create _config.yml
 [kreier/study] link to raw image
@@ -694,7 +583,7 @@
 [kreier/timeline] first 1.20 meter document with lines</title></rect></a>
 <a href="https://github.com/kreier/timeline/commit/0d46cc8a9228e4b998ce14813d2e568c77bf2e4d"><rect x="522" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-15: 1 entry
 [kreier/timeline] test from a while ago</title></rect></a>
-<a href="https://github.com/kreier/timeline/commit/cae84b130278ee7f52dcf326b5a9eb68448f024d"><rect x="522" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-16: 5 entries
+<a href="https://github.com/kreier/timeline/commit/cae84b130278ee7f52dcf326b5a9eb68448f024d"><rect x="522" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-10-16: 5 entries
 [kreier/timeline] include new Aptos font
 [kreier/timeline] include drawing in canvas with renderPDF
 [kreier/timeline] using UTF-8 with Vietnamese and Russian
@@ -718,7 +607,7 @@ Timeline
 [kreier/timeline] reorganized version scheme</title></rect></a>
 <a href="https://github.com/kreier/timeline/commit/61810cb67eee3c82ca2d046f42ef132e85de8ea9"><rect x="522" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-19: 1 entry
 [kreier/timeline] scale as xAxis finished for 61 centuries</title></rect></a>
-<a href="https://github.com/kreier/timeline/commit/fb80966e8ef7d7ad2637d123cf262de69edd3d0e"><rect x="522" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-20: 5 entries
+<a href="https://github.com/kreier/timeline/commit/fb80966e8ef7d7ad2637d123cf262de69edd3d0e"><rect x="522" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-10-20: 5 entries
 [kreier/timeline] now 24 persons, 41 kings, 4 periods and 1 event
 [kreier/timeline] Merge branch 'main' of https://github.com/kreier/timeline
 [kreier/timeline] first 24 persons imported and displayed
@@ -744,7 +633,7 @@ Timeline
 [kreier/timeline] updated documentation for v3.1
 [kreier/timeline] Merge pull request #6 from kreier/v.3.1
 [kreier/timeline] refined overview now 10pt with 12pt line height</title></rect></a>
-<a href="https://github.com/kreier/timeline/commit/9803a85bd13f5be2d0038b7cbdcb74e894a278d6"><rect x="534" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-24: 5 entries
+<a href="https://github.com/kreier/timeline/commit/9803a85bd13f5be2d0038b7cbdcb74e894a278d6"><rect x="534" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-10-24: 5 entries
 [kreier/timeline] fixed gradient error, added one prophet
 [kreier/timeline] included 5 more books and 6 caesars
 [kreier/timeline] Merge pull request #7 from kreier/v3.2
@@ -824,7 +713,11 @@ Núi Đinh I</title></rect></a>
 [kreier/timeline] adjusted Vietnamese translation
 [kreier/timeline] updated German translation</title></rect></a>
 <rect x="582" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-19: 0 entries</title></rect>
-<a href="https://github.com/kreier/timeline/commit/0ec291100836486bdd53c0a3d59dce82acfa4eab"><rect x="582" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-11-20: 4 entries
+<a href="https://github.com/kreier/prime/commit/ab3613bcc52ea75cecbe3ab113e2bf18e0e04059"><rect x="582" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-11-20: 8 entries
+[kreier/prime] Create jekyll-gh-pages.yml
+[kreier/prime] correct compile command
+[kreier/prime] re-run on i3 10100
+[kreier/prime] Update README.md
 [kreier/timeline] added 8 events and Alexander the Great
 [kreier/timeline] added 5 books and 10 periods
 [kreier/timeline] web view github.io updated
@@ -832,16 +725,67 @@ Núi Đinh I</title></rect></a>
 <rect x="582" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-21: 0 entries</title></rect>
 <a href="https://github.com/kreier/timeline/commit/0975afbf4f6c0581a066be93c2aff09ee0855dbc"><rect x="582" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-11-22: 1 entry
 [kreier/timeline] Merge pull request #10 from kreier/3.5</title></rect></a>
-<rect x="582" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-23: 0 entries</title></rect>
-<a href="https://github.com/kreier/rp2040/commit/b2e7e9a99f35a5d92bf562ad35c4020f71552ed3"><rect x="582" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-11-24: 3 entries
+<a href="https://github.com/kreier/prime/commit/275d3eab0310b4998b23d9df4f7dcde0b2bae0ab"><rect x="582" y="66" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2023-11-23: 15 entries
+[kreier/prime] comparisons in 2023 with new Circuitpython
+[kreier/prime] new testrun on M1
+[kreier/prime] multicore improvement November 2023
+[kreier/prime] improved time measurement for code from 2022
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] 25% faster if function is used
+[kreier/prime] description up to date
+[kreier/prime] original algorithm from 1991
+[kreier/prime] updated version from 2022
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] report process count
+[kreier/prime] multitasking implemented
+[kreier/prime] now working in parallel
+[kreier/prime] code now 40% faster!
+[kreier/prime] extended to 10 million, multithreading</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/926a8a5e7d96c1cd4c1c0fffadcd49bc4735d211"><rect x="582" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-11-24: 10 entries
+[kreier/prime] more methods to initialize
+[kreier/prime] experiments to increase the algorithm speed
+[kreier/prime] racecondition error
+[kreier/prime] new code with higher speed
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] updated C code
+[kreier/prime] Create prime_3.1.py
 [kreier/rp2040] manually activate display
 [kreier/timeline] a few refinements of the Vietnamese translation
 [kreier/timeline] added Angkor, Notre Dame and Ming</title></rect></a>
-<rect x="582" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-25: 0 entries</title></rect>
+<a href="https://github.com/kreier/prime/commit/a6b05c6120fc53082f73e99661c7d006d32df713"><rect x="582" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-11-25: 8 entries
+[kreier/prime] currently fastest single thread python algorithm
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] document version v3.0.2023
+[kreier/prime] document improvements in algorithm
+[kreier/prime] document speed for v2.0.2022
+[kreier/prime] automated logging of results on Windows
+[kreier/prime] included esp32s2 on T8 display st7789
+[kreier/prime] store results in files on T-Display rp2040</title></rect></a>
 <rect x="594" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-26: 0 entries</title></rect>
-<rect x="594" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-27: 0 entries</title></rect>
-<rect x="594" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-28: 0 entries</title></rect>
-<a href="https://github.com/kreier/timeline/commit/6dad584afc577dcb9a224c2bd1c2a31a9d048676"><rect x="594" y="54" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-11-29: 14 entries
+<a href="https://github.com/kreier/prime/commit/a22d0bd198c13573892cac7e1eec031487d90f16"><rect x="594" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-11-27: 9 entries
+[kreier/prime] expanded details, fixed number of prime numbers in a billion
+[kreier/prime] fastest algorithm without multithreading
+[kreier/prime] results in C until 1 billion
+[kreier/prime] prime calculation exported to a function
+[kreier/prime] fastest solution so far with C
+[kreier/prime] prime in cpp
+[kreier/prime] updated v5.0
+[kreier/prime] fixed number primes to 1 billion
+[kreier/prime] finished 1 billion</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/cf357a85261c98d17ced61ec9a46120b13f6e2f0"><rect x="594" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-11-28: 8 entries
+[kreier/prime] corrected times for v3.0
+[kreier/prime] original algorithm from 1989
+[kreier/prime] updated code in 1990
+[kreier/prime] rerun v1.0.1991
+[kreier/prime] updated labeling of benchmark files
+[kreier/prime] version 1.0 from 1991
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] version 1.1 from 2000</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/4b872768aa1488fbf0f7b5ab6053bb45186c18f1"><rect x="594" y="54" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2023-11-29: 18 entries
+[kreier/prime] included logging for Arduino C
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] updated v3.0 times
+[kreier/prime] v2.0.2022 from November 23
 [kreier/timeline] Merge branch 'main' of https://github.com/kreier/timeline
 [kreier/timeline] updated documentation
 [kreier/timeline] Merge pull request #12 from kreier/3.5
@@ -856,48 +800,155 @@ Núi Đinh I</title></rect></a>
 [kreier/timeline] more fixes to the Vietnamese translation
 [kreier/timeline] update Vietnamese translation
 [kreier/timeline] updated German edition</title></rect></a>
-<rect x="594" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-30: 0 entries</title></rect>
-<rect x="594" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-01: 0 entries</title></rect>
-<rect x="594" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-02: 0 entries</title></rect>
+<a href="https://github.com/kreier/prime/commit/25f3c21acb4df6d9818e969795ba6ad4b33dfd7e"><rect x="594" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-11-30: 5 entries
+[kreier/prime] final 1 billion benchmark
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] result i5-2520M
+[kreier/prime] benchmark 2023/11/30
+[kreier/prime] results 2023/11/30</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/036331e70f464b0cac77d58fe25d264c6107a3af"><rect x="594" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-01: 9 entries
+[kreier/prime] M1 results
+[kreier/prime] save a summary of all 9 calculations
+[kreier/prime] parallel python on i3-10100
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] result i5-2520M
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] support v6.0 parallel
+[kreier/prime] Results i5-2520
+[kreier/prime] parallel computing 3.2x</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/4c346de5f55efd4d9e744d232027e9a7f89a80cc"><rect x="594" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-02: 1 entry
+[kreier/prime] i5-2520M parallel</title></rect></a>
 <text x="606" y="12" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
-<rect x="606" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-03: 0 entries</title></rect>
-<rect x="606" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-04: 0 entries</title></rect>
-<a href="https://github.com/kreier/benchmark/commit/d704c95630ae65cf6b2894e3eafabfebe3e8b3c6"><rect x="606" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-05: 1 entry
-[kreier/benchmark] updated CoreMark results</title></rect></a>
-<a href="https://github.com/kreier/t-display/commit/1dc55328fea3b8e0d3f57982464a142e35192621"><rect x="606" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-06: 1 entry
+<a href="https://github.com/kreier/prime/commit/9ce20734840a22e6825bbc2d4e487ee957a5d9ea"><rect x="606" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-03: 3 entries
+[kreier/prime] Update README.md
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] initial version in rust, slower than C</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/b2cbbfc1aa2dee1c09095fca87f606426964ecc1"><rect x="606" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-04: 3 entries
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] updated Java 2023/12/04
+[kreier/prime] zbook 15 G3</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/d704c95630ae65cf6b2894e3eafabfebe3e8b3c6"><rect x="606" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-05: 7 entries
+[kreier/benchmark] updated CoreMark results
+[kreier/prime] improved v5 in Arduino C
+[kreier/prime] new results
+[kreier/prime] Wednesday morning update
+[kreier/prime] 2023/12/04
+[kreier/prime] finished calculation to 1 billion with v1.0
+[kreier/prime] extended feedback on calculation progress in Arduino</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/fbf980d53b19a192daec668b96aeb8d4b213a13b"><rect x="606" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-06: 8 entries
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] results for 1 billion
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] progress indication on CircuitPython too
+[kreier/prime] finished calculation
+[kreier/prime] bugfix for percentage, new millis() version
+[kreier/prime] more microcontroller results
 [kreier/t-display] restructure for future CP support</title></rect></a>
-<a href="https://github.com/kreier/benchmark/commit/219750eaacb370c5d9570ecb915b0bee04a31d02"><rect x="606" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-07: 3 entries
+<a href="https://github.com/kreier/benchmark/commit/219750eaacb370c5d9570ecb915b0bee04a31d02"><rect x="606" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-07: 6 entries
 [kreier/benchmark] created list
 [kreier/benchmark] added microcontrollers
+[kreier/prime] 5 seconds to activate write access to the filesystem
+[kreier/prime] code will take days for 1 billion
+[kreier/prime] completed more calculations
 [kreier/t-display] expanded documentation of results</title></rect></a>
-<rect x="606" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-08: 0 entries</title></rect>
-<a href="https://github.com/kreier/timeline/commit/86ef7323d4aa5bfdae51d09926e88ba69d99fd1a"><rect x="606" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-09: 2 entries
+<a href="https://github.com/kreier/prime/commit/1198b002cf28ae749a31dea64875bfbfb1949c6f"><rect x="606" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-08: 1 entry
+[kreier/prime] results for X5550 round 1</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/91614aaafb322e6f2ee543526b6addeb2eea526e"><rect x="606" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-09: 8 entries
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] results Xeon X5550 round 4
+[kreier/prime] testing 10-year old laptop
+[kreier/prime] better progress indication for long calculations
+[kreier/prime] results Xeon X5550 batch 3
+[kreier/prime] results X5550 round 2
 [kreier/timeline] Merge pull request #13 from kreier/main
 [kreier/timeline] Merge branch '3.6' into main</title></rect></a>
-<rect x="618" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-10: 0 entries</title></rect>
-<a href="https://github.com/kreier/ESP8266/commit/d2ea3d00c33b050dd8ba4cc7b632f92f56929517"><rect x="618" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-11: 1 entry
-[kreier/ESP8266] adjust for boot sequence serial speed</title></rect></a>
-<rect x="618" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-12: 0 entries</title></rect>
-<rect x="618" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-13: 0 entries</title></rect>
-<a href="https://github.com/kreier/benchmark/commit/fc1217cf6f41b5a2dbfdedee7ad96c642e1c7b97"><rect x="618" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-14: 1 entry
-[kreier/benchmark] updated documentation</title></rect></a>
-<rect x="618" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-15: 0 entries</title></rect>
-<rect x="618" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-16: 0 entries</title></rect>
-<rect x="630" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-17: 0 entries</title></rect>
-<rect x="630" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-18: 0 entries</title></rect>
+<a href="https://github.com/kreier/prime/commit/28f3ac43898f454e004468e577be61d254748044"><rect x="618" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-10: 1 entry
+[kreier/prime] cycle in Java from 100 to 1 billion</title></rect></a>
+<a href="https://github.com/kreier/ESP8266/commit/d2ea3d00c33b050dd8ba4cc7b632f92f56929517"><rect x="618" y="30" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-12-11: 10 entries
+[kreier/ESP8266] adjust for boot sequence serial speed
+[kreier/prime] new calculations with ESP8266
+[kreier/prime] new working MicroPython v1.12 code v5.2
+[kreier/prime] cirpuitpython over WiFi on the C3
+[kreier/prime] experiment from 2023/11/25
+[kreier/prime] minor bugfixes
+[kreier/prime] v5.0 on T-Display rp2040
+[kreier/prime] running on circuitpython 7.1.1
+[kreier/prime] updated v5.2 for esp32
+[kreier/prime] current state for esp32 on circuitpython 8.2.8</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/cf8d6b4f31185ace0993ee67664ed23db7de8a78"><rect x="618" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-12: 1 entry
+[kreier/prime] included visual feedback with led</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/06ac90b8577c8e0db7c7b58328a43798c62561e2"><rect x="618" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-13: 1 entry
+[kreier/prime] reference values i5-2520M</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/fc1217cf6f41b5a2dbfdedee7ad96c642e1c7b97"><rect x="618" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-12-14: 13 entries
+[kreier/benchmark] updated documentation
+[kreier/prime] two new boards arrived 2023/12/14
+[kreier/prime] logging results in EEPROM until next run
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] new rp2040 board with NeoPixel
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] updated for ESP8266
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] updated results esp8266 in Arduino C
+[kreier/prime] 16 parallel processes result
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] 3 day run on Xeon X5550
+[kreier/prime] reorganizing 2023/12/14</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/c36a2e56a0eed820df9728e671e6fb3e47e02bfe"><rect x="618" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-15: 4 entries
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] minor fixes
+[kreier/prime] include graphs for speed comparison on 4 parameters
+[kreier/prime] updated results from Arduino</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/5e193ed08dd7705eea6c4e741f8d59166a2275fe"><rect x="618" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-16: 3 entries
+[kreier/prime] slightly faster C algorithm
+[kreier/prime] adaptation STM32F411 for 2E32 calculation
+[kreier/prime] results Mega2560</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/03cf9f52a808c09456492cbf486da9bbaac8d595"><rect x="630" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-17: 2 entries
+[kreier/prime] adjusted for Arduino Uno to 25 million
+[kreier/prime] results of ESP8266 after 4 days</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/6cab93498f6717af521f32f6b7648539b55dd1cb"><rect x="630" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-18: 3 entries
+[kreier/prime] LED works with PC13
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] new STM32 programs</title></rect></a>
 <rect x="630" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-19: 0 entries</title></rect>
-<rect x="630" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-20: 0 entries</title></rect>
-<a href="https://github.com/kreier/kinhthanh/commit/474f46cdad6b8e9cc44741ee51d75e7220f90caf"><rect x="630" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-21: 5 entries
+<a href="https://github.com/kreier/prime/commit/6ae10cdb1af694ef95fa68e039520c88103c9c1b"><rect x="630" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-20: 6 entries
+[kreier/prime] new results from ESP32-C3-DevKitM-1 with C3N4
+[kreier/prime] updates for ESP32-S2 and ESP32-S3
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] updated results and code fix for 2E32
+[kreier/prime] results esp8266 and Mega2560
+[kreier/prime] updates for the STM32F boards F103 F401 and F411</title></rect></a>
+<a href="https://github.com/kreier/kinhthanh/commit/474f46cdad6b8e9cc44741ee51d75e7220f90caf"><rect x="630" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-21: 9 entries
 [kreier/kinhthanh] starting idea
 [kreier/kinhthanh] Create compile_markdown.py
 [kreier/kinhthanh] Update .gitignore
 [kreier/kinhthanh] Initial commit
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] esp8266 update
+[kreier/prime] updated for results to 2E31 and 2E32
+[kreier/prime] Mega2560 to 100 million
 [kreier/timeline] included Jehoiada and tower of Babel</title></rect></a>
-<rect x="630" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-22: 0 entries</title></rect>
-<a href="https://github.com/kreier/t-display/commit/135ef0772a66b5c2ba7bdde2183fdfcfc927e69c"><rect x="630" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-23: 1 entry
+<a href="https://github.com/kreier/prime/commit/2fd2ea0586b1a97ab172815896fa67f8b0c76637"><rect x="630" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-22: 2 entries
+[kreier/prime] results for ESP32-S3 and algorithm v1.1
+[kreier/prime] primes 100 to 10 million with oled summary</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/4905430b4831c24056bfab796019e9013d506d48"><rect x="630" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-23: 7 entries
+[kreier/prime] Display the progress on the small LCD
+[kreier/prime] latest result on M1 with uint32_t
+[kreier/prime] prime 2E32 in C logging
+[kreier/prime] results T-Display rp2040
+[kreier/prime] updated environment for T-Display rp2040
+[kreier/prime] finished 2E32 with ESP32-S3
 [kreier/t-display] code from October 2022</title></rect></a>
-<rect x="642" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-24: 0 entries</title></rect>
-<a href="https://github.com/kreier/rp2040/commit/0175b27ee649ab1906bd68e63563576d508b7491"><rect x="642" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-25: 4 entries
+<a href="https://github.com/kreier/prime/commit/5486c0a38599bc3042c75b9131e443e03689d774"><rect x="642" y="18" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-24: 5 entries
+[kreier/prime] Swift runs on Windows!
+[kreier/prime] preliminary ESP32 results
+[kreier/prime] results esp32s2 in circuitpython
+[kreier/prime] results STM32F411 and F401
+[kreier/prime] finished results to 100 million rp2040</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/e18214e630bb7c313410f428056bec18672c4e05"><rect x="642" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-25: 8 entries
+[kreier/prime] faster speeds over serial
+[kreier/prime] new CircuitPython results
+[kreier/prime] results esp32c3 in circuitpython
+[kreier/prime] testing esp32c3
 [kreier/rp2040] menu function with 9 lines
 [kreier/t-display] optical feedback if writing to FS is activated
 [kreier/t-display] successful Menu selector on T-Display
@@ -911,20 +962,23 @@ Núi Đinh I</title></rect></a>
 [kreier/qtpy-oled] first working steps
 [kreier/qtpy-oled] Update README.md
 [kreier/qtpy-oled] Initial commit</title></rect></a>
-<a href="https://github.com/kreier/qtpy-oled/commit/25a10f1b7db627d673a28a37511d24071c40343e"><rect x="642" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-27: 3 entries
+<a href="https://github.com/kreier/prime/commit/78ea6d812466eebd47f24f00f8f6cd8fdabd72a4"><rect x="642" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-27: 8 entries
+[kreier/prime] made it work with the STM32F103 to 2E32
+[kreier/prime] fixed mistake: prime factors can be stored as uint16_t
+[kreier/prime] results after 349 hours
+[kreier/prime] more than 4 days later v1.1.2000 2E31
+[kreier/prime] faster results
 [kreier/qtpy-oled] steps in Circuitpython
 [kreier/study] minor fix
 [kreier/qtpy-oled] README.md</title></rect></a>
-<a href="https://github.com/kreier/circuitpython/commit/8c9b260b1f03878e2a9a852fa099f5fbbf0ac49e"><rect x="642" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-28: 8 entries
-[kreier/circuitpython] Merge pull request #3 from kreier/lilygo_t_display_rp2040
-[kreier/circuitpython] Merge branch 'main' into lilygo_t_display_rp2040
-[kreier/circuitpython] Merge pull request #2 from adafruit/main
+<a href="https://github.com/kreier/t-display/commit/2a000766eb032f33a426bbf72f124694dc46f3f5"><rect x="642" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-28: 5 entries
 [kreier/t-display] Adaptation for Raspberry Pico with Waveshare 240x240
 [kreier/t-display] code reorganized
 [kreier/t-display] first working menu system in Circuitpython 9
 [kreier/t-display] corrected history of circuitpython support and pinmap
 [kreier/t-display] update documentation and pinmap</title></rect></a>
-<a href="https://github.com/kreier/t-display/commit/4e91e37459c7e6867f913b4b9c92c7f1543c0c3c"><rect x="642" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-29: 10 entries
+<a href="https://github.com/kreier/prime/commit/f202bc5aa6a620cca81057fe383144987f624910"><rect x="642" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-12-29: 11 entries
+[kreier/prime] fix for 2E31 calculation
 [kreier/t-display] progress in firmware T-Display rp2040
 [kreier/t-display] addressing display bugs
 [kreier/t-display] readjusted config for other boards
@@ -935,11 +989,7 @@ Núi Đinh I</title></rect></a>
 [kreier/T-Display_S3] added links to relevant projects
 [kreier/T-Display_S3] Synology Diskstation - and we need /lib for CircuitPython
 [kreier/T-Display_S3] Initial commit</title></rect></a>
-<a href="https://github.com/kreier/circuitpython/commit/4165a3c281a480ae703337a434e9fcc674c4a2e4"><rect x="642" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-30: 7 entries
-[kreier/circuitpython] change MADCTL 0x68 to 0x60 from BGR back to RGB
-[kreier/circuitpython] fix init sequence, remove auto brightness setting
-[kreier/circuitpython] Add ten missing pins 17-29 including LED
-[kreier/circuitpython] Merge branch 'adafruit:main' into main
+<a href="https://github.com/kreier/ESP8266/commit/de54276ffbebf7647dabe83d1a2a6d73f5c7f9bc"><rect x="642" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-30: 3 entries
 [kreier/ESP8266] first results to 10 million
 [kreier/ESP8266] got SSD1306 display and buttons working
 [kreier/timeline] start August 2023</title></rect></a>

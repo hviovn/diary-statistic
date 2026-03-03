@@ -70,15 +70,13 @@ HP EliteDesk 800 G4 TWR
 [kreier/cru] 2014-02-14 Changes in 1.1.1</title></rect></a>
 <a href="https://github.com/kreier/cru/commit/e937448f7af4481f9cde66dcbf3b692af440bd8c"><rect x="66" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-23: 1 entry
 [kreier/cru] 2014-04-05 Changes in 1.1.2</title></rect></a>
-<a href="https://github.com/kreier/cru/commit/95289e8ff8262bb093f5b8bd40b32e852de94756"><rect x="66" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-24: 2 entries
-[kreier/cru] 2015-02-14 Changes in 1.2
-[kreier/NhomHopCuoiTuan] README.md</title></rect></a>
+<a href="https://github.com/kreier/cru/commit/95289e8ff8262bb093f5b8bd40b32e852de94756"><rect x="66" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-24: 1 entry
+[kreier/cru] 2015-02-14 Changes in 1.2</title></rect></a>
 <a href="https://github.com/kreier/cru/commit/833c9a09f82972e6bbb9a1b7784bd6f99b28905e"><rect x="66" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-25: 1 entry
 [kreier/cru] 2015-07-28 Changes in 1.2.1</title></rect></a>
-<a href="https://github.com/kreier/cru/commit/87fab1fe3d6039f39c910acff765e7fe9c0fbaaf"><rect x="78" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-26: 3 entries
+<a href="https://github.com/kreier/cru/commit/87fab1fe3d6039f39c910acff765e7fe9c0fbaaf"><rect x="78" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-26: 2 entries
 [kreier/cru] 2016-09-28 Patch 2 1.2.99-p2 and 2016-04-23 Patch 1 1.2.99-p1
-[kreier/cru] 2015-12-22 Changes in 1.2.6
-[kreier/matthias_switches] README.md</title></rect></a>
+[kreier/cru] 2015-12-22 Changes in 1.2.6</title></rect></a>
 <a href="https://github.com/kreier/cru/commit/87aa31a7871a5e0ee6db6542e491bbad13c9e96d"><rect x="78" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-27: 1 entry
 [kreier/cru] 2016-10-30 Changes in 1.3</title></rect></a>
 <a href="https://github.com/kreier/cru/commit/7618ab98296fb25b9b4952c8b2fe3da3ea646806"><rect x="78" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-28: 2 entries
@@ -110,7 +108,7 @@ HP EliteDesk 800 G4 TWR
 <a href="https://github.com/kreier/cru/commit/483c39973d4a09814f89cc8a6ad8655e8e436193"><rect x="90" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-02-05: 2 entries
 [kreier/cru] 2019-10-30 Changes in 1.4.2
 [kreier/timeline] Merge pull request #58 from kreier/5.2</title></rect></a>
-<a href="https://github.com/kreier/cru/commit/46d7b66e68a6b9c197bc05c6e9b418413acbc418"><rect x="90" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2025-02-06: 13 entries
+<a href="https://github.com/kreier/cru/commit/46d7b66e68a6b9c197bc05c6e9b418413acbc418"><rect x="90" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-02-06: 9 entries
 [kreier/cru] extend introduction, include changes v1.5 and v1.5.1
 [kreier/cru] Merge pull request #2 from kreier/1.5.2
 [kreier/cru] v1.5.2 from October 29, 2019
@@ -119,11 +117,7 @@ HP EliteDesk 800 G4 TWR
 [kreier/cru] v1.5 from January 1, 2021
 [kreier/cru] v1.3.99-p1 from April 11, 2018
 [kreier/cru] v1.5.2 from September 1st, 2022
-[kreier/cru] v1.5.2 from September 1, 2022
-[kreier/KLZ] add password protection to older versions
-[kreier/KLZ] reorganized to prepare for future password protection
-[kreier/KLZ] fixed typo, reorganized badges
-[kreier/KLZ] prepare for new version upload</title></rect></a>
+[kreier/cru] v1.5.2 from September 1, 2022</title></rect></a>
 <rect x="90" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-02-07: 0 entries</title></rect>
 <rect x="90" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-02-08: 0 entries</title></rect>
 <rect x="102" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-02-09: 0 entries</title></rect>
@@ -150,11 +144,10 @@ HP EliteDesk 800 G4 TWR
 [kreier/timeline] 6 new lines in 5.2 for reference</title></rect></a>
 <rect x="114" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-02-18: 0 entries</title></rect>
 <rect x="114" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-02-19: 0 entries</title></rect>
-<a href="https://github.com/kreier/ml/commit/5813cd1a2fe75008c13cdb7ad5a914d1f04ddf92"><rect x="114" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-02-20: 4 entries
+<a href="https://github.com/kreier/ml/commit/5813cd1a2fe75008c13cdb7ad5a914d1f04ddf92"><rect x="114" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-02-20: 3 entries
 [kreier/ml] image links fixed
 [kreier/ml] penta-GPU system documented
-[kreier/ml] include multi-GPU machine
-[kreier/unsloth] README.md</title></rect></a>
+[kreier/ml] include multi-GPU machine</title></rect></a>
 <a href="https://github.com/kreier/timeline/commit/5fd7dc20027cc87df6bb1a1fdb3d5db51959d5f3"><rect x="114" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2025-02-21: 13 entries
 [kreier/timeline] Merge branch '5.2' of https://github.com/kreier/timeline into 5.2
 [kreier/timeline] attempting Alibaba Cloud Machine Translate
@@ -216,39 +209,20 @@ HP EliteDesk 800 G4 TWR
 <a href="https://github.com/kreier/study/commit/46df3e311ecea6706079375d756ab8d3bf45b7d2"><rect x="138" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-03-03: 2 entries
 [kreier/study] include statistics and wpm for reading
 [kreier/tripitaka] attempt to create a JSON from the XML in the DAISY data</title></rect></a>
-<a href="https://github.com/kreier/force-curves/commit/d16ec311f20990780f37f4d704a7ccfb38592e67"><rect x="138" y="42" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2025-03-04: 14 entries
-[kreier/force-curves] fix, delete oversized artifacts, excluded _data
-[kreier/force-curves] reorganized 2025-03-04
-[kreier/force-curves] move data to _data subfolder to be ignored by jekyll
-[kreier/force-curves] Update README.md
-[kreier/force-curves] Merge branch 'main' of https://github.com/kreier/force-curves
-[kreier/force-curves] expand documentation
-[kreier/force-curves] Create .gitignore
-[kreier/force-curves] Create LICENSE
-[kreier/force-curves] expand information, add links to other projects
-[kreier/force-curves] move all data into the data subfolder
+<a href="https://github.com/kreier/keyboard/commit/ec3d0769c30073507c288b8df9b7c3c2611fe3cc"><rect x="138" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-03-04: 4 entries
 [kreier/keyboard] include script, v1
 [kreier/keyboard] fix images
 [kreier/keyboard] expand documentation
 [kreier/keyboard] details ZX81</title></rect></a>
-<a href="https://github.com/kreier/force-curves/commit/a1541e27e4b72a8d48ef13afdf106f67f4f8912c"><rect x="138" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-03-05: 3 entries
-[kreier/force-curves] include B and C
+<a href="https://github.com/kreier/keyboard/commit/65949bc77228cda6bb9ff3bbf852837feacdd5e6"><rect x="138" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-03-05: 2 entries
 [kreier/keyboard] document MacBook12 and setup 2018
 [kreier/keyboard] README.md</title></rect></a>
-<a href="https://github.com/kreier/force-curves/commit/8d72e885434d69b0715ee20b1e06ef2b56dc3ee7"><rect x="138" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2025-03-06: 14 entries
-[kreier/force-curves] fixed links to data files
-[kreier/force-curves] include links to the remaining more than 1000 switches
-[kreier/force-curves] fix badge after Jekyll fix
-[kreier/force-curves] Update jekyll.yml
-[kreier/force-curves] Delete .github/workflows/static.yml
-[kreier/force-curves] Create jekyll.yml
-[kreier/force-curves] Create static.yml
+<a href="https://github.com/kreier/study/commit/42317710056dd6e17a14e1038fbbda3e20c6f6ee"><rect x="138" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-03-06: 6 entries
 [kreier/study] Update statistics.xlsx
 [kreier/tripitaka] export JSON from XML works
 [kreier/tripitaka] parsing and export to json works, but with invalid characters
 [kreier/tripitaka] first successful parsing - no content yet
 [kreier/vex] Update for 2025 High Stakes!
-[kreier/force-curves] README.md
 [kreier/vex] README.md</title></rect></a>
 <a href="https://github.com/kreier/tripitaka/commit/ab1a4589012aed0af7c03b7b653ab632c0db5a9b"><rect x="138" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-03-07: 10 entries
 [kreier/tripitaka] updated statistics for nwt
@@ -517,17 +491,22 @@ HP EliteDesk 800 G4 TWR
 [kreier/tripitaka] extracted .epub to .xhtml
 [kreier/tripitaka] add links to subfolders
 [kreier/tripitaka] add details for github.io website</title></rect></a>
-<a href="https://github.com/kreier/benchmark/commit/a467ab3e9394c41900c197f58881a2e055beb4a9"><rect x="222" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-04-25: 6 entries
+<a href="https://github.com/kreier/benchmark/commit/a467ab3e9394c41900c197f58881a2e055beb4a9"><rect x="222" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-04-25: 2 entries
 [kreier/benchmark] faster speed for INT8 with dp4a in v1.8
-[kreier/benchmark] include Apple M1 and i7 13700T
-[kreier/jetson_nano_overclock] link to Jetson Archived Documentation 32.7.5
-[kreier/jetson_nano_overclock] include jetson_clocks
-[kreier/jetson_nano_overclock] Include incstructions to compile patch
-[kreier/jetson_nano_overclock] README.md</title></rect></a>
-<a href="https://github.com/kreier/cuda/commit/84da567a363dbc3527a0c189e1354bfe89c1ca5f"><rect x="222" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-04-26: 4 entries
+[kreier/benchmark] include Apple M1 and i7 13700T</title></rect></a>
+<a href="https://github.com/kreier/cuda/commit/84da567a363dbc3527a0c189e1354bfe89c1ca5f"><rect x="222" y="90" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2025-04-26: 13 entries
 [kreier/cuda] Create README.md
 [kreier/cuda] simple hello world on one thread
 [kreier/cuda] Initial commit
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] benchmark i7-13700T 2025-04-26
+[kreier/prime] change trigger back to main
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] results Jetson 2025-04-26
+[kreier/prime] include badge and Sieve of Eratosthenes
+[kreier/prime] Update jekyll-gh-pages.yml to recent action script versions
+[kreier/prime] Update actions/checkout@4 since v3 is no longer supported
+[kreier/prime] Update README.md
 [kreier/cuda] README.md</title></rect></a>
 <rect x="234" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-04-27: 0 entries</title></rect>
 <rect x="234" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-04-28: 0 entries</title></rect>
@@ -562,7 +541,9 @@ HP EliteDesk 800 G4 TWR
 [kreier/ml] include IBM Granite 4.0 from May 2nd!</title></rect></a>
 <a href="https://github.com/kreier/llama.cpp-jetson/commit/a944a1785adc7f58c5d6677bfbe574de60139cff"><rect x="246" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-05-06: 1 entry
 [kreier/llama.cpp-jetson] two processes concurrently</title></rect></a>
-<rect x="246" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-05-07: 0 entries</title></rect>
+<a href="https://github.com/kreier/prime/commit/1298baef6efa478497a95a03c4607a8d34bc7ee4"><rect x="246" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-05-07: 2 entries
+[kreier/prime] minimal rust 8MB, installer msi only 2.7 MB
+[kreier/prime] include GUI environment</title></rect></a>
 <rect x="246" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-05-08: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/cd9ce0ae92dc84de8022c0ec04b669387857890f"><rect x="246" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-05-09: 5 entries
 [kreier/benchmark] include three badges
@@ -570,21 +551,25 @@ HP EliteDesk 800 G4 TWR
 [kreier/ml] add three badges
 [kreier/timeline] include commit activity
 [kreier/jetson] README.md</title></rect></a>
-<a href="https://github.com/kreier/rp2040/commit/097476db355c4b39f4c09e751b856d33cac5e0d6"><rect x="246" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-05-10: 6 entries
+<a href="https://github.com/kreier/prime/commit/f7bafcfe9755e535262ab3a06a08b5a891df7031"><rect x="246" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-05-10: 8 entries
+[kreier/prime] rp2350 just arrived, benchmarked 2025-05-10
+[kreier/prime] old 3Blue1Brown explanation for 69
 [kreier/rp2040] future CoreMark, starting with hello world serial
 [kreier/rp2350] CPU frequency and badges
 [kreier/rp2350] prime benchmark in circuitpython, 2x speed rp2040
 [kreier/rp2350] Update .gitignore
 [kreier/rp2350] Initial commit
 [kreier/rp2350] README.md</title></rect></a>
-<rect x="258" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-05-11: 0 entries</title></rect>
-<a href="https://github.com/kreier/benchmark/commit/78bf8c2204e2fe69d10ebc6f71cd514c320f5ded"><rect x="258" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-05-12: 7 entries
+<a href="https://github.com/kreier/prime/commit/4e66b7c8c70bba0c7f0135b17709c86ac51bc28e"><rect x="258" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-05-11: 4 entries
+[kreier/prime] adjust for wrap-around after 49 days in tick_ms()
+[kreier/prime] results MicroPython 1.21.0 on esp8266
+[kreier/prime] resluts ESP32 C3 RISC-V 32bit CPU
+[kreier/prime] results of LilyGo T8 st7789 with SD</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/78bf8c2204e2fe69d10ebc6f71cd514c320f5ded"><rect x="258" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-05-12: 5 entries
 [kreier/benchmark] Update README.md
-[kreier/coremark] Create LICENSE
-[kreier/coremark] update - but you need Python 2.7
 [kreier/ESP32] start with ESP-IDF VS Code extension
 [kreier/ESP8266] update 2025
-[kreier/coremark] README.md
+[kreier/prime] outline, results will follow
 [kreier/ESP8266] README.md</title></rect></a>
 <a href="https://github.com/kreier/rp2040/commit/b603361b039f702e30ff8d39ea4968f993a0a56d"><rect x="258" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-05-13: 3 entries
 [kreier/rp2040] include visual of overclocking result
@@ -633,9 +618,7 @@ Gehen wir noch einen trinken?</title></rect></a>
 [kreier/timeline] minor fixes Korean</title></rect></a>
 <a href="https://github.com/kreier/timeline/commit/852e7b0e6e565abbb4ffa97174670b2459ea9d1e"><rect x="318" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-06-16: 1 entry
 [kreier/timeline] peer review of Korean translation</title></rect></a>
-<a href="https://github.com/kreier/KLZ/commit/2b7d2a58fb345f450a7af89f4c1ea7bbc39ee6d1"><rect x="318" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-06-17: 3 entries
-[kreier/KLZ] include four more editions in the overview
-[kreier/KLZ] vierte Ausgabe mit einer Woche Verspätung
+<a href="https://github.com/kreier/timeline/commit/fe5a2fbec66a32352b1283c2cb33f0110ee1eb43"><rect x="318" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-06-17: 1 entry
 [kreier/timeline] updated Chinese simplified translation</title></rect></a>
 <rect x="318" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-06-18: 0 entries</title></rect>
 <rect x="318" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-06-19: 0 entries</title></rect>
@@ -666,11 +649,7 @@ Núi Đinh II</title></rect></a>
 <rect x="354" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-07-08: 0 entries</title></rect>
 <rect x="354" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-07-09: 0 entries</title></rect>
 <rect x="354" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-07-10: 0 entries</title></rect>
-<a href="https://github.com/kreier/KLZ/commit/df9a94eb97b882061a9dad8f5c8b690c84022053"><rect x="354" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-07-11: 4 entries
-[kreier/KLZ] Update README.md for Website
-[kreier/KLZ] last edition from 2024-2025
-[kreier/KLZ] Merge branch 'main' of https://github.com/LiBeKra/KLZ
-[kreier/KLZ] update 4 editions from 2024</title></rect></a>
+<rect x="354" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-07-11: 0 entries</title></rect>
 <rect x="354" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-07-12: 0 entries</title></rect>
 <a href="https://github.com/kreier/timeline/commit/d23e0bdba6fcbb81c74f7d4197d062758e17ebdf"><rect x="366" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-07-13: 2 entries
 [kreier/timeline] fix Ishbak, Temanites and Xia dynasty in Japanese
@@ -680,9 +659,7 @@ Núi Đinh II</title></rect></a>
 <rect x="366" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-07-15: 0 entries</title></rect>
 <rect x="366" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-07-16: 0 entries</title></rect>
 <rect x="366" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-07-17: 0 entries</title></rect>
-<a href="https://github.com/kreier/KLZ/commit/7026a8649238991e35f2bb79b04ad6d447570f8a"><rect x="366" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-07-18: 2 entries
-[kreier/KLZ] Update README.md as landing page for github
-[kreier/KLZ] README.md</title></rect></a>
+<rect x="366" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-07-18: 0 entries</title></rect>
 <rect x="366" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-07-19: 0 entries</title></rect>
 <rect x="378" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-07-20: 0 entries</title></rect>
 <rect x="378" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-07-21: 0 entries</title></rect>
@@ -925,13 +902,14 @@ Reactivated 2025
 [kreier/timeline] New history in German added
 [kreier/timeline] Merge pull request #73 from kreier/main
 [kreier/timeline] include Seljuk, Vandal, Francia, Lombard</title></rect></a>
-<a href="https://github.com/kreier/128x64/commit/39128c24d648fc15e044c7fce8fa612768d364b5"><rect x="522" y="42" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2025-10-14: 18 entries
+<a href="https://github.com/kreier/128x64/commit/39128c24d648fc15e044c7fce8fa612768d364b5"><rect x="522" y="42" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2025-10-14: 19 entries
 [kreier/128x64] include visuals for this project
 [kreier/bilder] ideas 2025
 [kreier/communicationspeed] Merge pull request #5 from kreier/speech
 [kreier/communicationspeed] foundation for investigation
 [kreier/logo] extend examples from 2019
 [kreier/logo] Actually include the logos for documentation
+[kreier/prime_gaps_line] cosmetic sugar
 [kreier/python2018] Merge pull request #32 from kreier/dependabot/pip/cryptography-44.0.1
 [kreier/python2018] Merge pull request #30 from kreier/dependabot/pip/certifi-2024.7.4
 [kreier/python2018] Merge pull request #31 from kreier/dependabot/pip/numexpr-2.8.5
@@ -1001,8 +979,15 @@ Reactivated 2025
 [kreier/saiht-parser] more history from teaching</title></rect></a>
 <a href="https://kreier.github.io/quartz/About-the-blog"><rect x="534" y="30" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2025-10-20: 1 entry
 About the blog</title></rect></a>
-<a href="https://github.com/kreier/notes/commit/b91bbf34b4d8773dc975283591a0a6d0b5087ca5"><rect x="534" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-10-21: 7 entries
+<a href="https://github.com/kreier/notes/commit/b91bbf34b4d8773dc975283591a0a6d0b5087ca5"><rect x="534" y="42" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2025-10-21: 14 entries
 [kreier/notes] Initial commit
+[kreier/obsidian] Reorganized
+[kreier/obsidian] Quartz sync: Oct 21, 2025, 10:47 PM
+[kreier/obsidian] Prepare for Quartz 4 with npm and node.js
+[kreier/obsidian] New entry at new location of fault
+[kreier/obsidian] backup 2014
+[kreier/obsidian] Update .gitignore to ignore .DS_Store for Synology Diskstation
+[kreier/obsidian] Initial commit
 [kreier/quartz] Add GitHub Actions workflow for deploying to Pages
 [kreier/quartz] Add GitHub Actions workflow for deploying to Pages
 [kreier/quartz] Reorganized
@@ -1017,7 +1002,15 @@ About the blog</title></rect></a>
 <rect x="534" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-24: 0 entries</title></rect>
 <rect x="534" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-25: 0 entries</title></rect>
 <rect x="546" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-26: 0 entries</title></rect>
-<a href="https://github.com/kreier/quartz/commit/4e3e33687e13945ee35f234aff9e2337e68611eb"><rect x="546" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-10-27: 8 entries
+<a href="https://github.com/kreier/obsidian/commit/cccf0c8878d4af8982fcac52c9010bfad034bc30"><rect x="546" y="30" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2025-10-27: 16 entries
+[kreier/obsidian] updated structure with distinct folder names (for Breadcrumbs)
+[kreier/obsidian] Projects and project was still mixed up
+[kreier/obsidian] new overview, empty link removed
+[kreier/obsidian] remove canvas, reorganize
+[kreier/obsidian] reorganized, removed suffix
+[kreier/obsidian] tags added to kreier.org, sitemap and timeline. And created date.
+[kreier/obsidian] finally all nodes are connected for the Graph
+[kreier/obsidian] Hanoi morning update
 [kreier/quartz] updated structure with distinct folder names (for Breadcrumbs)
 [kreier/quartz] Projects and project was still mixed up
 [kreier/quartz] new overview, empty link removed
@@ -1057,13 +1050,19 @@ About the blog</title></rect></a>
 [kreier/timeline] Merge pull request #76 from kreier/5.11
 [kreier/timeline] reorganize China 3, 16 and Sui periods to avoid overlap in de</title></rect></a>
 <rect x="570" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-11: 0 entries</title></rect>
-<a href="https://github.com/kreier/quartz/commit/043f0939b5672fc593dd74549ea81fe03f788eac"><rect x="570" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-11-12: 2 entries
+<a href="https://github.com/kreier/obsidian/commit/b5c26dc32db98e7985077b61865fbc7e25b622ca"><rect x="570" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-11-12: 3 entries
+[kreier/obsidian] little restructure
 [kreier/quartz] Merge branch 'v4' of https://github.com/jackyzha0/quartz into v4
 [kreier/quartz] little restructure</title></rect></a>
 <rect x="570" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-13: 0 entries</title></rect>
 <rect x="570" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-14: 0 entries</title></rect>
-<a href="https://github.com/kreier/logo/commit/c288d8a008e243cd7c4d29e7ba8961f606e925dd"><rect x="570" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-11-15: 7 entries
+<a href="https://github.com/kreier/logo/commit/c288d8a008e243cd7c4d29e7ba8961f606e925dd"><rect x="570" y="90" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2025-11-15: 12 entries
 [kreier/logo] 5x5 raster for logo
+[kreier/obsidian] Quartz sync: Nov 16, 2025, 2:42 AM
+[kreier/obsidian] Quartz sync: Nov 16, 2025, 2:21 AM
+[kreier/obsidian] Quartz sync: Nov 16, 2025, 2:17 AM
+[kreier/obsidian] slowly finding a working structure and date format
+[kreier/obsidian] Quartz sync: Nov 15, 2025, 12:38 PM
 [kreier/quartz] Quartz sync: Nov 16, 2025, 2:42 AM
 [kreier/quartz] Quartz sync: Nov 16, 2025, 2:21 AM
 [kreier/quartz] Quartz sync: Nov 16, 2025, 2:17 AM
@@ -1071,9 +1070,15 @@ About the blog</title></rect></a>
 [kreier/quartz] Merge pull request #8 from kreier/dependabot/npm_and_yarn/production-dependencies-3f756e6727
 [kreier/quartz] Quartz sync: Nov 15, 2025, 12:38 PM</title></rect></a>
 <rect x="582" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-16: 0 entries</title></rect>
-<rect x="582" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-17: 0 entries</title></rect>
-<a href="https://saiht.de/blog/2025/11/18/teacher-day-in-vietnam/"><rect x="582" y="42" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2025-11-18: 8 entries
+<a href="https://github.com/kreier/promised-seed/commit/398158e4d91ff975793b2137847b3754e6d4f729"><rect x="582" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-11-17: 4 entries
+[kreier/promised-seed] Merge branch 'main' of https://github.com/kreier/promised-seed
+[kreier/promised-seed] history and size considerations
+[kreier/promised-seed] Update .gitignore to include .DS_Store for Synology Diskstation
+[kreier/promised-seed] Initial commit</title></rect></a>
+<a href="https://saiht.de/blog/2025/11/18/teacher-day-in-vietnam/"><rect x="582" y="42" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2025-11-18: 10 entries
 Teacher day in Vietnam
+[kreier/obsidian] Quartz sync: Nov 19, 2025, 2:00 AM
+[kreier/promised-seed] Include the history
 [kreier/quartz] Quartz sync: Nov 19, 2025, 2:00 AM
 [kreier/timeline] ISO-8859-1 (Latin-1) or Windows-1250 errors fixed
 [kreier/timeline] expanded history of 2006
@@ -1081,7 +1086,11 @@ Teacher day in Vietnam
 [kreier/timeline] include a recent empire visualization
 [kreier/timeline] document 2006 history
 [kreier/timeline] include structure, reorganize</title></rect></a>
-<a href="https://github.com/kreier/timeline/commit/85fe795b8b16b1cf4bf21c0b2161310567aa472e"><rect x="582" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-11-19: 1 entry
+<a href="https://github.com/kreier/promised-seed/commit/2344e41173aaca57560f3e2982fba4b8d97656cb"><rect x="582" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-11-19: 5 entries
+[kreier/promised-seed] update PDF producer and creator
+[kreier/promised-seed] include producer
+[kreier/promised-seed] cleaning up for v0.1 release
+[kreier/promised-seed] got a A3 document generated!
 [kreier/timeline] update PDF producer and creator</title></rect></a>
 <rect x="582" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-20: 0 entries</title></rect>
 <rect x="582" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-21: 0 entries</title></rect>
@@ -1100,7 +1109,8 @@ Teacher day in Vietnam
 [kreier/thesis08] created with pdf2txt
 [kreier/thesis08] created with pdfminer.six
 [kreier/thesis08] step 1 recreating the TEX files</title></rect></a>
-<a href="https://github.com/kreier/thesis08/commit/929c0d52ec8efeb9ad328f504de49e86b76c382e"><rect x="594" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-11-25: 8 entries
+<a href="https://github.com/kreier/promised-seed/commit/f1d76fc0fbbeb9ab1624402b741d9dc1133bf2de"><rect x="594" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-11-25: 9 entries
+[kreier/promised-seed] restructured, families for Mary and Josephs side
 [kreier/thesis08] Revise README for 2025 diploma thesis updates
 [kreier/thesis08] Remove &#123;% that is interpreted as Liquid tag by Jekyll
 [kreier/thesis08] include images for visualization
@@ -1109,16 +1119,25 @@ Teacher day in Vietnam
 [kreier/thesis08] recreate Diplomarbeit from source
 [kreier/thesis08] reconstructed html with pdftohtml
 [kreier/thesis08] extracted images with Poppler tools</title></rect></a>
-<rect x="594" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-26: 0 entries</title></rect>
+<a href="https://github.com/kreier/promised-seed/commit/049265effb0ff0c9b65cc2a50b7cbd3c3c96ff69"><rect x="594" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-11-26: 1 entry
+[kreier/promised-seed] include more women, set structure for couples and children</title></rect></a>
 <a href="https://github.com/kreier/thesis08/commit/6306c84457b9fe3ec932b92f3d2a8afeece1aa41"><rect x="594" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-11-27: 1 entry
 [kreier/thesis08] first extension</title></rect></a>
 <a href="https://github.com/kreier/thesis08/commit/79af6ed89cc18b465a5651cd1a0b3761f796296b"><rect x="594" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-11-28: 1 entry
 [kreier/thesis08] progress in chapter 2 and 3</title></rect></a>
-<a href="https://github.com/kreier/thesis08/commit/eb9adc43da0a93e5e3a9e21d66601b95d25315b6"><rect x="594" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-11-29: 3 entries
+<a href="https://github.com/kreier/promised-seed/commit/17e0307383947939303107d8cdfbb1f3e48212f3"><rect x="594" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-11-29: 9 entries
+[kreier/promised-seed] compare required size for graph
+[kreier/promised-seed] Enhance README with motivation and size details
+[kreier/promised-seed] proper use of the dictionary for pdf_title
+[kreier/promised-seed] include Title to this project
+[kreier/promised-seed] relocate QR code, fixed
+[kreier/promised-seed] first successful overview
 [kreier/thesis08] first 6 literature items, appendix
 [kreier/thesis08] include Literaturverzeichnis as TEX
 [kreier/thesis08] split Diplomarbeit into parts, recreate structure</title></rect></a>
-<a href="https://github.com/kreier/promised-seed/blob/main/README.md"><rect x="606" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-11-30: 1 entry
+<a href="https://github.com/kreier/promised-seed/commit/f41f9948c517d373db230dcc1266621cbd357dc7"><rect x="606" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-11-30: 3 entries
+[kreier/promised-seed] include comparison with A0 project from 2005
+[kreier/promised-seed] image of v0.1 from 2025-11-30
 [kreier/promised-seed] README.md</title></rect></a>
 <a href="https://kreier.github.io/quartz/Blog/2025/12/Black-Virgin-Mountain-II"><rect x="606" y="30" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2025-12-01: 2 entries
 Black Virgin Mountain II
@@ -1130,26 +1149,32 @@ Novel Word Count and Quartz Update</title></rect></a>
 <rect x="606" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-06: 0 entries</title></rect>
 <text x="618" y="12" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
 <rect x="618" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-07: 0 entries</title></rect>
-<a href="https://github.com/kreier/quartz/commit/69506a5a074432971b3370874bf446b8f0ddab0a"><rect x="618" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-12-08: 6 entries
+<a href="https://github.com/kreier/obsidian/commit/ef49da94ab730405f4ab596b8ab9ebe881fb3d09"><rect x="618" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-12-08: 8 entries
+[kreier/obsidian] Quartz sync: Dec 9, 2025, 1:31 AM
+[kreier/obsidian] Quartz sync: Dec 9, 2025, 1:20 AM
 [kreier/quartz] Merge pull request #14 from kreier/dependabot/npm_and_yarn/production-dependencies-d381b28d70
 [kreier/quartz] Merge branch 'v4' of https://github.com/kreier/quartz into v4
 [kreier/quartz] Quartz sync: Dec 9, 2025, 1:31 AM
 [kreier/quartz] Merge branch 'v4' of https://github.com/jackyzha0/quartz into v4
 [kreier/quartz] Merge pull request #11 from kreier/dependabot/github_actions/ci-dependencies-70833b80ab
 [kreier/quartz] Quartz sync: Dec 9, 2025, 1:20 AM</title></rect></a>
-<a href="https://github.com/kreier/quartz/commit/83db3f4ca03902e95d00efa4178f926718fb5dbe"><rect x="618" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-12-09: 3 entries
+<a href="https://github.com/kreier/obsidian/commit/97685ea0b28ae1ca065b36dfa14c42f26197245b"><rect x="618" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-12-09: 5 entries
+[kreier/obsidian] Quartz sync: Dec 9, 2025, 11:58 AM
+[kreier/obsidian] Quartz sync: Dec 9, 2025, 11:51 AM
 [kreier/quartz] Quartz sync: Dec 9, 2025, 11:58 AM
 [kreier/quartz] Merge branch 'v4' of https://github.com/kreier/quartz into v4
 [kreier/quartz] Quartz sync: Dec 9, 2025, 11:51 AM</title></rect></a>
 <rect x="618" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-10: 0 entries</title></rect>
 <rect x="618" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-11: 0 entries</title></rect>
 <rect x="618" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-12: 0 entries</title></rect>
-<a href="https://github.com/kreier/quartz/commit/fa6a4f64be8611ac92d4e61ea2f8fe26924f2a38"><rect x="618" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-12-13: 2 entries
+<a href="https://github.com/kreier/obsidian/commit/0ac3f96af78574110e9a384fdd97607ed05338f1"><rect x="618" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-12-13: 3 entries
+[kreier/obsidian] Quartz sync: Dec 13, 2025, 3:21 PM
 [kreier/quartz] Quartz sync: Dec 13, 2025, 3:21 PM
 [kreier/quartz] Merge branch 'v4' of https://github.com/jackyzha0/quartz into v4</title></rect></a>
 <a href="https://github.com/kreier/timeline/commit/f7e8c668bc1994ee7dd7d584028c09f56cc6ad9a"><rect x="630" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-12-14: 1 entry
 [kreier/timeline] extended korean</title></rect></a>
-<a href="https://github.com/kreier/quartz/commit/c674a4c2f552acd438cc605db7aecbd72cb507bd"><rect x="630" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-12-15: 1 entry
+<a href="https://github.com/kreier/obsidian/commit/60f3736f24b499828c6d7f1081ab08a7642fb10a"><rect x="630" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-12-15: 2 entries
+[kreier/obsidian] Quartz sync: Dec 15, 2025, 7:01 PM
 [kreier/quartz] Quartz sync: Dec 15, 2025, 7:01 PM</title></rect></a>
 <rect x="630" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-16: 0 entries</title></rect>
 <a href="https://github.com/kreier/python2018/commit/d0d1e08b3a01bfd96aa7794eb7071dfe291622e2"><rect x="630" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-12-17: 5 entries
@@ -1166,16 +1191,20 @@ Statistics of my diary, projects and other stories
 [kreier/statistics-diary] Revise README for clarity and project overview
 [kreier/statistics-diary] Add files via upload
 [kreier/statistics-diary] Add README with examples and planned outlook</title></rect></a>
-<a href="https://saiht.de/blog/2025/12/19/history-of-course-615/"><rect x="630" y="78" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2025-12-19: 8 entries
+<a href="https://saiht.de/blog/2025/12/19/history-of-course-615/"><rect x="630" y="78" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2025-12-19: 10 entries
 History of course 615
 [kreier/impact] Update .gitignore to ignore .DS_Store
 [kreier/impact] Update build status badge in documentation
 [kreier/impact] Add initial impact measurement code
 [kreier/impact] Update README with build status and project details, no more Travis CI and hitcounter
 [kreier/impact] Add impact.py for rubber duck trajectory calculations
+[kreier/obsidian] Quartz sync: Dec 20, 2025, 1:12 AM
+[kreier/obsidian] Quartz sync: Dec 19, 2025, 11:47 PM
 [kreier/quartz] Quartz sync: Dec 20, 2025, 1:12 AM
 [kreier/quartz] Quartz sync: Dec 19, 2025, 11:47 PM</title></rect></a>
-<a href="https://github.com/kreier/timeline/commit/822224f93889eac9cbccf98974a70b2876e21e0e"><rect x="630" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-12-20: 4 entries
+<a href="https://github.com/kreier/obsidian/commit/cb25e8213c9007054a7c9a69055e0d2851b253c6"><rect x="630" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-12-20: 6 entries
+[kreier/obsidian] Add files via upload
+[kreier/obsidian] Create README.md for data repository
 [kreier/timeline] updated Thai to looped font, and a few more lines
 [kreier/timeline] update to Thai
 [kreier/timeline] updated Dutch
@@ -1187,15 +1216,22 @@ History of course 615
 [kreier/statistics-diary] Add history section with statistics and links
 [kreier/timeline] include NotoSans for bold font support, for Dutch
 [kreier/timeline] get support for U +0331 COMBINING MACRON BELOW for dutch</title></rect></a>
-<a href="https://github.com/kreier/calendar/commit/f84acefebc36831e03a307f23e7934ac38773321"><rect x="642" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-12-22: 7 entries
+<a href="https://github.com/kreier/calendar/commit/f84acefebc36831e03a307f23e7934ac38773321"><rect x="642" y="30" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2025-12-22: 12 entries
 [kreier/calendar] add missing years
+[kreier/obsidian] Quartz sync: Dec 22, 2025, 11:14 PM
+[kreier/obsidian] Quartz sync: Dec 22, 2025, 5:48 PM
+[kreier/obsidian] Merge branch 'main' of https://github.com/kreier/obsidian
+[kreier/obsidian] backup of quartz vault
+[kreier/obsidian] Quartz sync: Dec 22, 2025, 4:52 PM
 [kreier/quartz] Quartz sync: Dec 22, 2025, 11:14 PM
 [kreier/quartz] Quartz sync: Dec 22, 2025, 5:48 PM
 [kreier/quartz] Quartz sync: Dec 22, 2025, 4:52 PM
 [kreier/quartz] Merge branch 'v4' of https://github.com/jackyzha0/quartz into v4
 [kreier/solarmeter] Merge pull request #4 from kreier/1.0
 [kreier/solarmeter] README.md</title></rect></a>
-<a href="https://github.com/kreier/quartz/commit/db898320f858223fb0d8aeb8ef89319153e91d40"><rect x="642" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-12-23: 6 entries
+<a href="https://github.com/kreier/obsidian/commit/ca0156cb37f6574c1f7f01a5f3853b8993fb45e8"><rect x="642" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-12-23: 8 entries
+[kreier/obsidian] Quartz sync: Dec 23, 2025, 11:37 PM
+[kreier/obsidian] Enhance README with badges and statistics
 [kreier/quartz] Quartz sync: Dec 23, 2025, 11:37 PM
 [kreier/saiht-parser] Revise README for project and historical context
 [kreier/statistics-diary] Enhance README with more detailed statistics and categories
@@ -1203,13 +1239,17 @@ History of course 615
 [kreier/statistics-diary] extended parsing of Obsidian markdown files
 [kreier/saiht-parser] README.md</title></rect></a>
 <rect x="642" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-24: 0 entries</title></rect>
-<a href="https://github.com/kreier/quartz/commit/c3ec044ecf41e22dfc12eab62871cd32ce423a24"><rect x="642" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-12-25: 4 entries
+<a href="https://github.com/kreier/obsidian/commit/ffc2ec2e86fe618df4c65cf5db4f832f5e4d0091"><rect x="642" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-12-25: 6 entries
+[kreier/obsidian] reorganized travel
+[kreier/obsidian] update from coffee Trung 3T
 [kreier/quartz] Merge pull request #19 from kreier/dependabot/npm_and_yarn/production-dependencies-82a7bb8ce6
 [kreier/quartz] Merge branch 'v4' of https://github.com/jackyzha0/quartz into v4
 [kreier/quartz] reorganized travel
 [kreier/quartz] update from coffee Trung 3T</title></rect></a>
-<a href="https://github.com/kreier/communicationspeed/commit/ea73ca33f789f91378d545958aab4b921bfd72a4"><rect x="642" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-12-26: 7 entries
+<a href="https://github.com/kreier/communicationspeed/commit/ea73ca33f789f91378d545958aab4b921bfd72a4"><rect x="642" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-12-26: 9 entries
 [kreier/communicationspeed] Update README with source link for average speed
+[kreier/obsidian] Quartz sync: Dec 26, 2025, 9:45 AM
+[kreier/obsidian] Quartz sync: Dec 26, 2025, 7:29 AM
 [kreier/quartz] Quartz sync: Dec 26, 2025, 9:45 AM
 [kreier/quartz] Quartz sync: Dec 26, 2025, 7:29 AM
 [kreier/tripitaka] Fix formatting in README table for clarity, right align numbers
@@ -1226,11 +1266,14 @@ History of course 615
 [kreier/statistics-diary] for GitHub Action runners absolute paths - fix
 [kreier/statistics-diary] Add GitHub Actions workflow to update version
 [kreier/statistics-diary] prepare for Github Automation</title></rect></a>
-<a href="https://github.com/kreier/quartz/commit/ea7a3e9264340f9f7db9d26f435edda8aaea8609"><rect x="654" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-12-28: 2 entries
+<a href="https://github.com/kreier/obsidian/commit/f641eed98757c8b6c829988cc493e6d1227dbe5b"><rect x="654" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-12-28: 4 entries
+[kreier/obsidian] Fix a few links, include external pictures
+[kreier/obsidian] update entries from December and June
 [kreier/quartz] Fix a few links, include external pictures
 [kreier/quartz] update entries from December and June</title></rect></a>
 <rect x="654" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-29: 0 entries</title></rect>
-<a href="https://github.com/kreier/quartz/commit/5a85cf1ee3849c6a1b3810ee9731a84ed37a5f50"><rect x="654" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-12-30: 2 entries
+<a href="https://github.com/kreier/obsidian/commit/bec93c395df94ffb29daa916f1bb3a58b3a30bde"><rect x="654" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-12-30: 3 entries
+[kreier/obsidian] Fix title to have no question mark
 [kreier/quartz] Fix title to have no question mark
 [kreier/thesis08] prepare upload to arXiv</title></rect></a>
 <a href="https://github.com/kreier/thesis08/commit/e39e18e15776a370e7c3437286803e109dc92b62"><rect x="654" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-12-31: 4 entries
