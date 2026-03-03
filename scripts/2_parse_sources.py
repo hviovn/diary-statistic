@@ -158,8 +158,9 @@ def _getch():
             termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
 
 
-def interactive_menu(options, title=None):
+def interactive_selection(sources, title=None):
     idx = 0
+    selected = [False] * len(sources)
     while True:
         # clear screen
         if os.name == 'nt':
@@ -169,45 +170,53 @@ def interactive_menu(options, title=None):
 
         if title:
             print(title)
-        print('Use Up/Down arrows and Enter to select. Ctrl-C to cancel.')
-        for i, opt in enumerate(options):
+        print('Use Up/Down arrows to navigate, Space to toggle, Enter to confirm. Ctrl-C to cancel.')
+        for i, source in enumerate(sources):
             prefix = '=> ' if i == idx else '   '
-            print(f"{prefix}{opt}")
+            mark = '[x]' if selected[i] else '[ ]'
+            name = source.get('name', source['type'])
+            url = source['url']
+            print(f"{prefix}{mark} {name} ({url})")
 
         try:
             ch = _getch()
         except Exception:
             print('\nInput error; falling back to numeric selection.')
-            for i, opt in enumerate(options):
-                print(f"{i+1}. {opt}")
+            for i, source in enumerate(sources):
+                name = source.get('name', source['type'])
+                print(f"{i+1}. {name}")
             try:
-                choice = int(input('Enter number: ')) - 1
-                if 0 <= choice < len(options):
-                    return choice
+                choice = input('Enter numbers separated by comma: ')
+                choices = [int(c.strip()) - 1 for c in choice.split(',') if c.strip()]
+                return [c for c in choices if 0 <= c < len(sources)]
             except Exception:
                 return None
 
-        # Windows msvcrt returns b'\r' for Enter, arrow keys are two-byte sequences
+        # Windows msvcrt
         if msvcrt:
             if ch in (b'\r', b'\n'):
-                return idx
+                return [i for i, s in enumerate(selected) if s]
+            if ch == b' ':
+                selected[idx] = not selected[idx]
             if ch in (b'\x00', b'\xe0'):
                 ch2 = msvcrt.getch()
-                if ch2 == b'H':
-                    idx = (idx - 1) % len(options)
-                elif ch2 == b'P':
-                    idx = (idx + 1) % len(options)
+                if ch2 == b'H': # Up
+                    idx = (idx - 1) % len(sources)
+                elif ch2 == b'P': # Down
+                    idx = (idx + 1) % len(sources)
         else:
-            # Unix: arrow sequences start with ESC (27)
+            # Unix
             if ch == b'\n' or ch == b'\r':
-                return idx
+                return [i for i, s in enumerate(selected) if s]
+            if ch == b' ':
+                selected[idx] = not selected[idx]
             if ch == b'\x1b':
                 # read two more
                 rest = sys.stdin.read(2)
                 if rest == '[A':
-                    idx = (idx - 1) % len(options)
+                    idx = (idx - 1) % len(sources)
                 elif rest == '[B':
-                    idx = (idx + 1) % len(options)
+                    idx = (idx + 1) % len(sources)
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -224,16 +233,23 @@ def main():
 
     # CLI arg handling: if called with 'all', process all sources
     selected_sources = []
-    if len(sys.argv) > 1 and sys.argv[1].lower() == 'all':
-        selected_sources = sources
-    else:
-        # Build menu items
-        menu_items = [f"{s.get('type')} - {s.get('url')}" for s in sources]
-        sel = interactive_menu(menu_items, title="Select a source to parse (Enter to confirm)")
-        if sel is None:
+    if len(sys.argv) > 1:
+        args = [a.lower() for a in sys.argv[1:]]
+        if 'all' in args:
+            selected_sources = sources
+        else:
+            for source in sources:
+                name = source.get('name', source['type']).lower()
+                if name in args:
+                    selected_sources.append(source)
+
+    if not selected_sources:
+        # Multi-selection menu
+        indices = interactive_selection(sources, title="Select source(s) to parse (Space to toggle, Enter to confirm)")
+        if not indices:
             print("No selection made. Exiting.")
             return
-        selected_sources = [sources[sel]]
+        selected_sources = [sources[i] for i in indices]
 
     # Identify unique types to process
     types_to_process = set(s['type'] for s in selected_sources)
