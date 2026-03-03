@@ -1,5 +1,6 @@
 Link,Date,Title,Word Count,Character Count
 https://kreier.github.io/quartz/About-the-blog,2025-10-20,About the blog,356,2018
+https://kreier.github.io/quartz/Blog/1997/12/Reflection-on-1997,1997-12-01,Reflection on 1997,515,3134
 https://kreier.github.io/quartz/Blog/2020/06/Start-of-my-third-Sabbatical,2020-06-01,Start of my third Sabbatical,192,1128
 https://kreier.github.io/quartz/Blog/2020/06/Third-Sabbatical,2020-06-01,Third Sabbatical,227,1354
 https://kreier.github.io/quartz/Blog/2023/11/Núi-Đinh-I,2023-11-01,Núi Đinh I,0,0
@@ -41,12 +42,12 @@ https://kreier.github.io/quartz/Diary/1993,1993-01-01,1993,1215,4766
 https://kreier.github.io/quartz/Diary/1994,1994-01-01,1994,1215,4766
 https://kreier.github.io/quartz/Diary/1995,1995-01-01,1995,1215,4766
 https://kreier.github.io/quartz/Diary/1996,1996-01-01,1996,1218,4777
-https://kreier.github.io/quartz/Diary/1997,1997-01-01,1997,1215,4766
+https://kreier.github.io/quartz/Diary/1997,1997-01-01,1997,1308,5251
 https://kreier.github.io/quartz/Diary/1998,1998-01-01,1998,1215,4766
 https://kreier.github.io/quartz/Diary/1999,1999-01-01,1999,1215,4766
 https://kreier.github.io/quartz/Diary/2000,2000-01-01,2000,1338,5438
 https://kreier.github.io/quartz/Diary/2001,2001-01-01,2001,1215,4766
-https://kreier.github.io/quartz/Diary/2002,2002-01-01,2002,1215,4766
+https://kreier.github.io/quartz/Diary/2002,2002-01-01,2002,1263,5007
 https://kreier.github.io/quartz/Diary/2003,2003-01-01,2003,1215,4766
 https://kreier.github.io/quartz/Diary/2004,2004-01-01,2004,1218,4777
 https://kreier.github.io/quartz/Diary/2005,2005-01-01,2005,1215,4766
@@ -70,7 +71,7 @@ https://kreier.github.io/quartz/Diary/2022,2022-01-01,2022,1215,4766
 https://kreier.github.io/quartz/Diary/2023,2023-01-01,2023,1405,5870
 https://kreier.github.io/quartz/Diary/2024,2024-01-01,2024,1372,5544
 https://kreier.github.io/quartz/Diary/2025,2025-01-01,2025,6331,31115
-https://kreier.github.io/quartz/Diary/2026,2026-01-01,2026,1758,7642
+https://kreier.github.io/quartz/Diary/2026,2026-01-01,2026,1760,7652
 https://kreier.github.io/quartz/Projects/Computer/E3-1226-v3-with-GTX-1060,1226-01-01,E3-1226 v3 with GTX 1060,410,1874
 https://kreier.github.io/quartz/Projects/Computer/E5-2696-v3-with-128-GB-RAM,2696-01-01,E5-2696 v3 with 128 GB RAM,712,3647
 https://kreier.github.io/quartz/Projects/Computer/HP-EliteDesk-800-G4-TWR,2025-01-09,HP EliteDesk 800 G4 TWR,422,2289
@@ -79,12 +80,14 @@ https://kreier.github.io/quartz/Projects/Computer/MXQ-Pro-4K,2024-02-03,MXQ Pro 
 https://kreier.github.io/quartz/Projects/Computer/Penta-GPU-server-i3-6100,6100-01-01,Penta-GPU server i3-6100,4120,22344
 https://kreier.github.io/quartz/Projects/Computer/Raspberry-Pi-3-with-1-GB-RAM,2024-02-12,Raspberry Pi 3 with 1 GB RAM,374,2064
 https://kreier.github.io/quartz/Projects/Computer/Raspberry-Pi-4-with-4-GB-RAM,2026-02-13,Raspberry Pi 4 with 4 GB RAM,428,2407
+"https://kreier.github.io/quartz/Projects/GitHub/Statistics-of-my-diary,-projects-and-other-stories",2025-12-18,"Statistics of my diary, projects and other stories",1022,5897
 https://kreier.github.io/quartz/Projects/Timeline,2023-10-17,Timeline,1756,9413
 https://kreier.github.io/quartz/Travel/2025/Ha-Giang-loop-a-second-time-in-2025,2025-01-01,Ha Giang loop a second time in 2025,1150,5788
 https://kreier.github.io/quartz/Travel/2025/One-week-in-Hanoi-and-Sapa-2025,2025-01-01,One week in Hanoi and Sapa 2025,908,4562
 https://kreier.github.io/quartz/Travel/2025/Three-day-journey-to-Hanoi-2025,2025-01-01,Three day journey to Hanoi 2025,717,3804
 https://kreier.github.io/quartz/Travel/Leisure/Hiking-in-Vietnam,2025-06-20,Hiking in Vietnam,508,2666
 https://saiht.de/obsidian/Diary/2026,2026-12-31,2026,77,487
+"https://saiht.de/obsidian/Projects/GitHub/Statistics-of-my-diary,-projects-and-other-stories",2026-03-01,"Statistics of my diary, projects and other stories",880,5067
 https://saiht.de/obsidian/Projects/Obsidian,2026-02-26,Obsidian,583,3374
 https://saiht.de/obsidian/Projects/Computer/E3-1226-v3-with-GTX-1060,2026-02-26,E3-1226 v3 with GTX 1060,0,0
 https://saiht.de/obsidian/Projects/GitHub/Nvidia,2026-02-26,Nvidia,213,1256
@@ -93,4 +96,3 @@ https://saiht.de/obsidian/Travel/Leisure/Hiking-in-Vietnam,2026-02-26,Hiking in 
 https://saiht.de/obsidian/Leisure,2026-02-25,Leisure,290,1654
 https://saiht.de/obsidian/Travel/Leisure/Tschechientour---Weekend-trip-to-Czechia,2026-02-25,Tschechientour - Weekend trip to Czechia,0,0
 https://saiht.de/obsidian/,2026-02-25,Digital Garden,823,4639
-https://saiht.de/obsidian/My-Projects,2026-02-23,My Projects,276,1593

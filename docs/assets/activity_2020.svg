@@ -2,111 +2,365 @@
 <text x="5" y="39" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="63" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="87" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
-<a href="https://kreier.github.io/quartz/Diary/2020"><rect x="30" y="54" width="10" height="10" fill="#ef9a9a" rx="2" ry="2"><title>2020-01-01: 1 entry
+<a href="https://kreier.github.io/quartz/Diary/2020"><rect x="30" y="54" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2020-01-01: 1 entry
 2020</title></rect></a>
-<rect x="30" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-02: 0 entries</title></rect>
-<rect x="30" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-03: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/1d287ef836b7a8e681394564accbf36533381be8"><rect x="30" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-01-02: 6 entries
+[kreier/benchmark] Merge branch 'master' of https://github.com/kreier/benchmark
+[kreier/benchmark] source code 2.2.3
+[kreier/benchmark] results updated
+[kreier/benchmark] Create README.md
+[kreier/benchmark] Update README.md
+[kreier/benchmark] Initial commit</title></rect></a>
+<a href="https://github.com/kreier/asa2/commit/ae059c89d3af792168254e136fa3c1820083c1b5"><rect x="30" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-01-03: 2 entries
+[kreier/asa2] link to software for editors
+[kreier/asa2] Update README.md</title></rect></a>
 <rect x="30" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-04: 0 entries</title></rect>
 <text x="42" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect x="42" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-05: 0 entries</title></rect>
-<rect x="42" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-06: 0 entries</title></rect>
-<rect x="42" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-07: 0 entries</title></rect>
-<rect x="42" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-08: 0 entries</title></rect>
+<a href="https://github.com/kreier/asa2/commit/9745821d07984c60016f1d729926a89835c9c616"><rect x="42" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-01-06: 4 entries
+[kreier/asa2] Update ultrasonic_beep.ino
+[kreier/asa2] Create ultrasonic_beep.ino
+[kreier/asa2] Create ultrasonic_buzzer.ino
+[kreier/asa2] Create ultrasonic_1602_buzzer.ino</title></rect></a>
+<a href="https://github.com/kreier/T400/commit/77aeb29f835b9ed50b0a1d52df63ef769501a3d3"><rect x="42" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-01-07: 2 entries
+[kreier/T400] Create splash2.png
+[kreier/T400] Create splash1.png</title></rect></a>
+<a href="https://github.com/kreier/T400/commit/92865a9d9ce2e48d6af035cbc027a8cb2742f9ab"><rect x="42" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-01-08: 10 entries
+[kreier/T400] lastest splash screen with running clock
+[kreier/T400] converted image 2020/01/08
+[kreier/T400] Merge branch 'master' of https://github.com/kreier/T400
+[kreier/T400] oled reorganized
+[kreier/T400] Update README.md
+[kreier/T400] Create README.md
+[kreier/T400] Create micropython_logo.py
+[kreier/T400] code and pin update
+[kreier/T400] assigned pins
+[kreier/T400] Update README.md</title></rect></a>
 <rect x="42" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-09: 0 entries</title></rect>
 <rect x="42" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-10: 0 entries</title></rect>
 <rect x="42" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-11: 0 entries</title></rect>
 <rect x="54" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-12: 0 entries</title></rect>
-<rect x="54" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-13: 0 entries</title></rect>
-<rect x="54" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-14: 0 entries</title></rect>
+<a href="https://github.com/kreier/asa2/commit/583e52d67992edb23f6b1f39ad3fd5a5c52a134d"><rect x="54" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-01-13: 12 entries
+[kreier/asa2] T300 for Yau and Sean
+[kreier/python2018] Create boot-oled.py
+[kreier/T400] Create boot-wifi.py
+[kreier/T400] Merge branch 'master' of https://github.com/kreier/T400
+[kreier/T400] Create base2.stl
+[kreier/T400] more pictures for differen robot arms
+[kreier/T400] Add files via upload
+[kreier/T400] Update README.md
+[kreier/T400] Create README.md
+[kreier/T400] Merge branch 'master' of https://github.com/kreier/T400
+[kreier/T400] extended robotarm
+[kreier/T400] method .frambuf not needed with new library</title></rect></a>
+<a href="https://github.com/kreier/T400/commit/5952faf3e5d00f5876d0133094d89286ce9400d2"><rect x="54" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-01-14: 2 entries
+[kreier/T400] Merge branch 'master' of https://github.com/kreier/T400
+[kreier/T400] boot to webserver with oled info</title></rect></a>
 <rect x="54" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-15: 0 entries</title></rect>
 <rect x="54" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-16: 0 entries</title></rect>
 <rect x="54" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-17: 0 entries</title></rect>
 <rect x="54" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-18: 0 entries</title></rect>
 <rect x="66" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-19: 0 entries</title></rect>
 <rect x="66" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-20: 0 entries</title></rect>
-<rect x="66" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-21: 0 entries</title></rect>
-<rect x="66" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-22: 0 entries</title></rect>
-<rect x="66" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-23: 0 entries</title></rect>
-<rect x="66" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-24: 0 entries</title></rect>
+<a href="https://github.com/kreier/aisvn/commit/43ee099a35fbab4e3ea12a7e5c5b015fd2713f68"><rect x="66" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-01-21: 7 entries
+[kreier/aisvn] Update README.md
+[kreier/aisvn] cardboard values
+[kreier/aisvn] Create README.md
+[kreier/jetson-car] 2020/01/21 from hshop.vn
+[kreier/jetson-car] 2020/01/21
+[kreier/jetson-car] Update README.md
+[kreier/jetson-car] Initial commit</title></rect></a>
+<a href="https://github.com/kreier/T400/commit/6c30bad01702c73b72d750a246f5bc714cf1ab2b"><rect x="66" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-01-22: 2 entries
+[kreier/T400] Update README.md
+[kreier/T400] Add files via upload</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/12283b1202d3231b4e0270d44bede51265e18844"><rect x="66" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-01-23: 6 entries
+[kreier/benchmark] Create README.md
+[kreier/remote] Create index.html
+[kreier/remote] switch from original GPL 2019/11/09
+[kreier/T400] some noise every 200 ms
+[kreier/T400] fills screen with random pixels
+[kreier/T400] Create read_analog.py</title></rect></a>
+<a href="https://github.com/kreier/asa3/commit/9efcda6a6cf94b5dd14e0c10ef4610c412befd90"><rect x="66" y="78" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2020-01-24: 26 entries
+[kreier/asa3] Update .gitignore
+[kreier/asa3] Add files via upload
+[kreier/asa3] Update README.md
+[kreier/asa3] Create README.md
+[kreier/asa3] Update README.md
+[kreier/asa3] Update README.md
+[kreier/asa3] Add files via upload
+[kreier/asa3] Update README.md
+[kreier/asa3] added screws and nuts
+[kreier/asa3] Update README.md
+[kreier/asa3] Add files via upload
+[kreier/asa3] Create README.md
+[kreier/asa3] Initial commit
+[kreier/remote] Set theme jekyll-theme-cayman
+[kreier/remote] Create README.md
+[kreier/T200] Zhiwei Robotics is DFRobot
+[kreier/T200] working in 2019/04/08
+[kreier/T200] Update README.md
+[kreier/T200] Create README.md
+[kreier/T200] switch from GPL to MIT
+[kreier/T400] Update README.md
+[kreier/T400] Update .gitignore
+[kreier/T400] Create .gitignore
+[kreier/T400] Update README.md
+[kreier/T400] Add files via upload
+[kreier/T400] Update README.md</title></rect></a>
 <rect x="66" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-25: 0 entries</title></rect>
 <rect x="78" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-26: 0 entries</title></rect>
-<rect x="78" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-27: 0 entries</title></rect>
-<rect x="78" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-28: 0 entries</title></rect>
-<rect x="78" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-29: 0 entries</title></rect>
-<rect x="78" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-30: 0 entries</title></rect>
-<rect x="78" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-31: 0 entries</title></rect>
+<a href="https://github.com/kreier/history/commit/664be094a4634023d64999a348d97a6f33f6dcdc"><rect x="78" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-01-27: 6 entries
+[kreier/history] java pictures included
+[kreier/history] Update README.md
+[kreier/history] backup from saiht.de/physik/physik.html
+[kreier/history] Synology Diskstation
+[kreier/history] Initial commit
+[kreier/T400] Delete .DS_Store</title></rect></a>
+<a href="https://github.com/kreier/ESP8266/commit/060bf44c5250eeeb15ae97af592ebf61a27e3ed1"><rect x="78" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-01-28: 9 entries
+[kreier/ESP8266] Update readme.md
+[kreier/ESP8266] Update 2020
+[kreier/ESP8266] Create .gitignore
+[kreier/ESP8266] update display ssd1306 and sh1106
+[kreier/history] Create README.md
+[kreier/history] Arduino begins
+[kreier/history] Create README.md
+[kreier/history] 2018 update
+[kreier/T400] ignore Synology Diskstation</title></rect></a>
+<a href="https://github.com/kreier/ESP8266/commit/50af6580916e3ab35017f5476499be486c156bb8"><rect x="78" y="54" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2020-01-29: 17 entries
+[kreier/ESP8266] Update display_5x7.ino
+[kreier/history] image links fixed
+[kreier/history] added pictures for visuals
+[kreier/history] Update README.md
+[kreier/history] update 2020/01/29
+[kreier/history] Merge branch 'master' of https://github.com/kreier/history
+[kreier/history] backup 2016/07/28
+[kreier/history] Update README.md
+[kreier/history] Set theme jekyll-theme-cayman
+[kreier/history] Update README.md
+[kreier/T400] screws included and video updated
+[kreier/T400] Add files via upload
+[kreier/T400] integraded MeArm 1.1 and 3.0
+[kreier/T400] Create README.md
+[kreier/T400] Update README.md
+[kreier/T400] upload pictures and dxf
+[kreier/T400] Add files via upload</title></rect></a>
+<a href="https://github.com/kreier/history/commit/1ce68bb841031b9685f54319cc88b955e6461b69"><rect x="78" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-01-30: 2 entries
+[kreier/history] Create battle-royale.mlx
+[kreier/history] Update README.md</title></rect></a>
+<a href="https://github.com/kreier/jetson-car/commit/6390806d880a37dba01a3fd558cc55f9f35563bf"><rect x="78" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-01-31: 7 entries
+[kreier/jetson-car] Update README.md
+[kreier/jetson-car] Update README.md
+[kreier/jetson-car] Add files via upload
+[kreier/jetson-car] Add files via upload
+[kreier/remote] omit Synology Diskstation .DS_Store files
+[kreier/T400] information to oled display
+[kreier/T400] Add files via upload</title></rect></a>
 <rect x="78" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-01: 0 entries</title></rect>
 <text x="90" y="12" font-family="sans-serif" font-size="8" fill="#767676">Feb</text>
 <rect x="90" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-02: 0 entries</title></rect>
 <rect x="90" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-03: 0 entries</title></rect>
-<rect x="90" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-04: 0 entries</title></rect>
+<a href="https://github.com/kreier/labs/commit/7d1cbbacf3fbca3ea71cb8837d23befc58cd4e2f"><rect x="90" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-02-04: 2 entries
+[kreier/labs] Create README.md
+[kreier/labs] example files for Spectrogram</title></rect></a>
 <rect x="90" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-05: 0 entries</title></rect>
-<rect x="90" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-06: 0 entries</title></rect>
+<a href="https://github.com/kreier/aisvn/commit/c3fc8706a4b34f82ef355de050bad5ebf0d6d07d"><rect x="90" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-02-06: 4 entries
+[kreier/aisvn] Update README.md
+[kreier/aisvn] Update README.md
+[kreier/aisvn] Create .gitignore
+[kreier/aisvn] Update README.md</title></rect></a>
 <rect x="90" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-07: 0 entries</title></rect>
 <rect x="90" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-08: 0 entries</title></rect>
 <rect x="102" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-09: 0 entries</title></rect>
-<rect x="102" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-10: 0 entries</title></rect>
+<a href="https://github.com/kreier/T400/commit/e3d69f0d8d29a1323d4fe7d031f6ab27e7b5d81e"><rect x="102" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-02-10: 2 entries
+[kreier/T400] lasercut platform v0.1 2020-02-10
+[kreier/T400] design update</title></rect></a>
 <rect x="102" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-11: 0 entries</title></rect>
 <rect x="102" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-12: 0 entries</title></rect>
-<rect x="102" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-13: 0 entries</title></rect>
+<a href="https://github.com/kreier/T400/commit/3aa8e79460662cb1f94a64c22a0b505980a144ab"><rect x="102" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-02-13: 2 entries
+[kreier/T400] Create Base 9 simple v5.stl
+[kreier/T400] Create Box 9 simple v4.stl</title></rect></a>
 <rect x="102" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-14: 0 entries</title></rect>
 <rect x="102" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-15: 0 entries</title></rect>
 <rect x="114" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-16: 0 entries</title></rect>
 <rect x="114" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-17: 0 entries</title></rect>
 <rect x="114" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-18: 0 entries</title></rect>
-<rect x="114" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-19: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/993d905aa045af7dbc97407a3946cdf140a39d8d"><rect x="114" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-02-19: 3 entries
+[kreier/benchmark] update 2018
+[kreier/ESP8266] Update display_5x7.ino
+[kreier/kreier.github.io] included physcis</title></rect></a>
 <rect x="114" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-20: 0 entries</title></rect>
 <rect x="114" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-21: 0 entries</title></rect>
 <rect x="114" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-22: 0 entries</title></rect>
 <rect x="126" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-23: 0 entries</title></rect>
 <rect x="126" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-24: 0 entries</title></rect>
-<rect x="126" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-25: 0 entries</title></rect>
-<rect x="126" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-26: 0 entries</title></rect>
-<rect x="126" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-27: 0 entries</title></rect>
-<rect x="126" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-28: 0 entries</title></rect>
+<a href="https://github.com/kreier/T400/commit/b09682a67c142f40043cfa8779af0a46e4572dbe"><rect x="126" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-02-25: 3 entries
+[kreier/T400] shape pcb pla
+[kreier/T400] Merge branch 'master' of https://github.com/kreier/T400
+[kreier/T400] Create PCB_shape.dxf</title></rect></a>
+<a href="https://github.com/kreier/T400/commit/0d024420f570623a4f3913ba763a186ea3b0eae6"><rect x="126" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-02-26: 2 entries
+[kreier/T400] v3 dimensions fit 3d print
+[kreier/T400] reorganized 2020/02/27</title></rect></a>
+<a href="https://github.com/kreier/T400/commit/0c6a32022f6c416a996b3a48afb937873576d678"><rect x="126" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-02-27: 4 entries
+[kreier/T400] Update README.md
+[kreier/T400] Update pcb_inspiration2.jpg
+[kreier/T400] Create pcb_inspiration2.jpg
+[kreier/T400] Create pcb_base v3.stl</title></rect></a>
+<a href="https://github.com/kreier/aqi/commit/2443b9a7788295177e0d20a90c15f276e5e3618d"><rect x="126" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-02-28: 12 entries
+[kreier/aqi] Update README.md
+[kreier/aqi] Update README.md
+[kreier/aqi] Update LICENSE
+[kreier/T400] images of PCB included
+[kreier/T400] screenshot Fusion 360
+[kreier/T400] added capacitor, connector IDC 6P ML
+[kreier/T400] order at JLCPCB
+[kreier/T400] gerber detail files
+[kreier/T400] gerber files v1
+[kreier/T400] Merge branch 'master' of https://github.com/kreier/T400
+[kreier/T400] PCB in Eagle created
+[kreier/T400] Create README.md</title></rect></a>
 <rect x="126" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-29: 0 entries</title></rect>
 <text x="138" y="12" font-family="sans-serif" font-size="8" fill="#767676">Mar</text>
 <rect x="138" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-01: 0 entries</title></rect>
-<rect x="138" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-02: 0 entries</title></rect>
+<a href="https://github.com/kreier/python2018/commit/441930e1440898a618f52573eb572a7a997abc74"><rect x="138" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-03-02: 1 entry
+[kreier/python2018] addressed security alert regarding bleach 3.1.0</title></rect></a>
 <rect x="138" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-03: 0 entries</title></rect>
-<rect x="138" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-04: 0 entries</title></rect>
+<a href="https://github.com/kreier/T400/commit/998bcd0b19dea42d2ca775277b45813402f38624"><rect x="138" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-03-04: 1 entry
+[kreier/T400] refined design v2</title></rect></a>
 <rect x="138" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-05: 0 entries</title></rect>
-<rect x="138" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-06: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/46556e9b7d597561333955ee12e1c19912917627"><rect x="138" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-03-06: 6 entries
+[kreier/benchmark] Merge branch 'master' of https://github.com/kreier/benchmark
+[kreier/benchmark] Create 3dmark.xlsx
+[kreier/benchmark] Update README.md
+[kreier/benchmark] Create README.md
+[kreier/benchmark] Update README.md
+[kreier/benchmark] Create 2008-2016.jpg</title></rect></a>
 <rect x="138" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-07: 0 entries</title></rect>
 <rect x="150" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-08: 0 entries</title></rect>
-<rect x="150" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-09: 0 entries</title></rect>
+<a href="https://github.com/kreier/me2arm/commit/76901d0744a38ae3b8d6782382da436e47155203"><rect x="150" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-03-09: 10 entries
+[kreier/me2arm] Create control.py
+[kreier/me2arm] Update README.md
+[kreier/me2arm] Update README.md
+[kreier/me2arm] JST 6pin connector - first iteration
+[kreier/me2arm] copy from thingiverse
+[kreier/me2arm] First attempt with 6pin IDC DC3 boxheader
+[kreier/me2arm] Create test.txt
+[kreier/me2arm] Create README.md
+[kreier/me2arm] Update .gitignore
+[kreier/me2arm] Initial commit</title></rect></a>
 <rect x="150" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-10: 0 entries</title></rect>
-<rect x="150" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-11: 0 entries</title></rect>
-<rect x="150" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-12: 0 entries</title></rect>
-<rect x="150" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-13: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/eb240b651f463171a53a48eb9a0964547e40527a"><rect x="150" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-03-11: 1 entry
+[kreier/benchmark] review 2020-03-10</title></rect></a>
+<a href="https://github.com/kreier/actuator/commit/9778d367d34666c699d1ba922988c4ab049955e2"><rect x="150" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-03-12: 8 entries
+[kreier/actuator] Update README.md
+[kreier/actuator] Update README.md
+[kreier/actuator] Update README.md
+[kreier/actuator] Add files via upload
+[kreier/actuator] Create README.md
+[kreier/actuator] Update README.md
+[kreier/actuator] Initial commit
+[kreier/benchmark] Update 3dmark.xlsx</title></rect></a>
+<a href="https://github.com/kreier/actuator/commit/db9f0305aae2ae01c1e17cba594e78015f6f3ab3"><rect x="150" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-03-13: 11 entries
+[kreier/actuator] Update README.md
+[kreier/actuator] Update README.md
+[kreier/actuator] Add files via upload
+[kreier/actuator] Add files via upload
+[kreier/actuator] Create README.md
+[kreier/actuator] Set theme jekyll-theme-cayman
+[kreier/benchmark] Update README.md
+[kreier/benchmark] Set theme jekyll-theme-cayman
+[kreier/me2arm] Add files via upload
+[kreier/me2arm] Update README.md
+[kreier/me2arm] added pictures</title></rect></a>
 <rect x="150" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-14: 0 entries</title></rect>
-<rect x="162" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-15: 0 entries</title></rect>
-<rect x="162" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-16: 0 entries</title></rect>
+<a href="https://github.com/kreier/actuator/commit/39bee9abbccce7642d0953eff118c0d19d79138b"><rect x="162" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-03-15: 3 entries
+[kreier/actuator] Create d1_mini.png
+[kreier/benchmark] Merge branch 'master' of https://github.com/kreier/benchmark
+[kreier/benchmark] Update 3dmark.xlsx</title></rect></a>
+<a href="https://github.com/kreier/labs/commit/f00a16df68c5962d57179ca9aed1254ed3f2566b"><rect x="162" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-03-16: 1 entry
+[kreier/labs] Update README.md</title></rect></a>
 <rect x="162" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-17: 0 entries</title></rect>
-<rect x="162" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-18: 0 entries</title></rect>
-<rect x="162" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-19: 0 entries</title></rect>
-<rect x="162" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-20: 0 entries</title></rect>
+<a href="https://github.com/kreier/actuator/commit/f1a55e4aed9a43f8aaf60a2a376b23a8f915ad1c"><rect x="162" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-03-18: 10 entries
+[kreier/actuator] exclude Synology Discstation
+[kreier/actuator] Create README.md
+[kreier/actuator] Create README.md
+[kreier/me2arm] Update README.md
+[kreier/solarmeter] Set theme jekyll-theme-cayman
+[kreier/solarmeter] Add files via upload
+[kreier/solarmeter] Create README.md
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Update .gitignore for Synology Diskstation
+[kreier/solarmeter] Initial commit</title></rect></a>
+<a href="https://github.com/kreier/actuator/commit/b8c0650f347332547eee94340a101a85371504da"><rect x="162" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-03-19: 4 entries
+[kreier/actuator] Update README.md
+[kreier/actuator] Create README.md
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Create 2020-03-19.ino</title></rect></a>
+<a href="https://github.com/kreier/actuator/commit/3aaf17d8c997a373f21994cbc83c1641e4dcb268"><rect x="162" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2020-03-20: 17 entries
+[kreier/actuator] Update README.md
+[kreier/actuator] Add files via upload
+[kreier/actuator] Update README.md
+[kreier/benchmark] Add files via upload
+[kreier/benchmark] Create README.md
+[kreier/solarmeter] Add files via upload
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] measure voltage with ESP32 setup
+[kreier/solarmeter] Create 2020-03-20.ino
+[kreier/solarmeter] include software code
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Add files via upload
+[kreier/solarmeter] Add files via upload
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Add files via upload
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Update README.md</title></rect></a>
 <rect x="162" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-21: 0 entries</title></rect>
 <rect x="174" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-22: 0 entries</title></rect>
-<rect x="174" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-23: 0 entries</title></rect>
+<a href="https://github.com/kreier/actuator/commit/28f0b3a1403d441d5df8a27d424ff174fda0f10f"><rect x="174" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-03-23: 5 entries
+[kreier/actuator] included table bearings naming system
+[kreier/actuator] Add files via upload
+[kreier/actuator] Update README.md
+[kreier/actuator] Add files via upload
+[kreier/actuator] Update README.md</title></rect></a>
 <rect x="174" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-24: 0 entries</title></rect>
-<rect x="174" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-25: 0 entries</title></rect>
+<a href="https://github.com/kreier/actuator/commit/59473e5bc4a0b172164a6d48a4289a552c2c563c"><rect x="174" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-03-25: 6 entries
+[kreier/actuator] Update README.md
+[kreier/actuator] Merge branch 'master' of https://github.com/kreier/actuator
+[kreier/actuator] Create README.md
+[kreier/actuator] Update README.md
+[kreier/actuator] Update README.md
+[kreier/actuator] Create 5010_bldc.jpg</title></rect></a>
 <rect x="174" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-26: 0 entries</title></rect>
 <rect x="174" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-27: 0 entries</title></rect>
 <rect x="174" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-28: 0 entries</title></rect>
 <rect x="186" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-29: 0 entries</title></rect>
-<rect x="186" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-30: 0 entries</title></rect>
+<a href="https://github.com/kreier/DeepReinforcementLearning/blob/master/README.md"><rect x="186" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-03-30: 1 entry
+[kreier/DeepReinforcementLearning] README.md</title></rect></a>
 <rect x="186" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-31: 0 entries</title></rect>
-<rect x="186" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-04-01: 0 entries</title></rect>
+<a href="https://github.com/kreier/python2018/commit/35bb972de54dddf7979e043598edefd52dc98ac1"><rect x="186" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-04-01: 9 entries
+[kreier/python2018] bump bleach to 3.1.4
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] from https://github.com/Xinyuan-LilyGO/
+[kreier/solarmeter] Add files via upload
+[kreier/solarmeter] TTGO T-Display V1.0 info update
+[kreier/solarmeter] relocated picture ESP32
+[kreier/solarmeter] Add files via upload
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Update README.md</title></rect></a>
 <rect x="186" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-04-02: 0 entries</title></rect>
 <rect x="186" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-04-03: 0 entries</title></rect>
 <rect x="186" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-04-04: 0 entries</title></rect>
 <text x="198" y="12" font-family="sans-serif" font-size="8" fill="#767676">Apr</text>
 <rect x="198" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-04-05: 0 entries</title></rect>
-<rect x="198" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-04-06: 0 entries</title></rect>
+<a href="https://github.com/kreier/solarmeter/commit/3aa6f3ab6a49db2da49c163cd33b5c38f7132dff"><rect x="198" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-04-06: 5 entries
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Create ttgo_disp1.jpg
+[kreier/solarmeter] TTGO standard program after delivery
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Add files via upload</title></rect></a>
 <rect x="198" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-04-07: 0 entries</title></rect>
 <rect x="198" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-04-08: 0 entries</title></rect>
-<rect x="198" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-04-09: 0 entries</title></rect>
+<a href="https://github.com/kreier/actuator/commit/d872a0941f2e13cc573f1f5a9d7a8eaa335be96d"><rect x="198" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-04-09: 1 entry
+[kreier/actuator] Update README.md</title></rect></a>
 <rect x="198" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-04-10: 0 entries</title></rect>
 <rect x="198" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-04-11: 0 entries</title></rect>
 <rect x="210" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-04-12: 0 entries</title></rect>
@@ -134,87 +388,334 @@
 <rect x="246" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-03: 0 entries</title></rect>
 <rect x="246" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-04: 0 entries</title></rect>
 <rect x="246" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-05: 0 entries</title></rect>
-<rect x="246" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-06: 0 entries</title></rect>
-<rect x="246" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-07: 0 entries</title></rect>
-<rect x="246" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-08: 0 entries</title></rect>
+<a href="https://github.com/kreier/labs/commit/34a89fcec53ce5694dc42916d1b136ff48e4d8df"><rect x="246" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-05-06: 9 entries
+[kreier/labs] Add files via upload
+[kreier/labs] Add files via upload
+[kreier/labs] Update README.md
+[kreier/labs] Update README.md
+[kreier/labs] Add files via upload
+[kreier/labs] Create README.md
+[kreier/labs] Add files via upload
+[kreier/labs] Update README.md
+[kreier/labs] Create README.md</title></rect></a>
+<a href="https://github.com/kreier/labs/commit/5eb3328d5cce80f782ef9443feecdecdeca67acf"><rect x="246" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-05-07: 5 entries
+[kreier/labs] Update README.md
+[kreier/labs] updated 2020/05/07
+[kreier/labs] Add files via upload
+[kreier/labs] Update README.md
+[kreier/labs] Add files via upload</title></rect></a>
+<a href="https://github.com/kreier/solarmeter/commit/0f808f462137f12a3b80d14289fab26b498aadbc"><rect x="246" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-05-08: 5 entries
+[kreier/solarmeter] included wind generator
+[kreier/solarmeter] wind generator just arrived - May 8th, 2020
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Add files via upload
+[kreier/solarmeter] power consumption April 28th</title></rect></a>
 <rect x="246" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-09: 0 entries</title></rect>
 <rect x="258" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-10: 0 entries</title></rect>
-<rect x="258" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-11: 0 entries</title></rect>
+<a href="https://github.com/kreier/SoftwareentwicklungSoSe2020_Aufgabe_02/blob/master/README.md"><rect x="258" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-05-11: 1 entry
+[kreier/SoftwareentwicklungSoSe2020_Aufgabe_02] README.md</title></rect></a>
 <rect x="258" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-12: 0 entries</title></rect>
 <rect x="258" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-13: 0 entries</title></rect>
-<rect x="258" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-14: 0 entries</title></rect>
-<rect x="258" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-15: 0 entries</title></rect>
+<a href="https://github.com/kreier/actuator/commit/6351002520112c828da77d8b8bbbd94d56e8002c"><rect x="258" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-05-14: 5 entries
+[kreier/actuator] reorganized 2020/05/14
+[kreier/actuator] involute 48T import
+[kreier/actuator] converted 25.4 inch to mm
+[kreier/actuator] Create Planet_10 v2.stl
+[kreier/actuator] back to school 2020/05/14</title></rect></a>
+<a href="https://github.com/kreier/solarmeter/commit/55ea2b3100bdbbb77dc5c6f8356e83becad79344"><rect x="258" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-05-15: 1 entry
+[kreier/solarmeter] Update README.md</title></rect></a>
 <rect x="258" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-16: 0 entries</title></rect>
-<rect x="270" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-17: 0 entries</title></rect>
-<rect x="270" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-18: 0 entries</title></rect>
-<rect x="270" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-19: 0 entries</title></rect>
-<rect x="270" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-20: 0 entries</title></rect>
+<a href="https://github.com/kreier/solarmeter/commit/8b138252cd036ad9928d0e7bc86fc2e132725204"><rect x="270" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-05-17: 3 entries
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Add files via upload
+[kreier/solarmeter] progress 2020-05-15</title></rect></a>
+<a href="https://github.com/kreier/solarmeter/commit/5c5bcc3af93ed29e6cc3f87a649e52285b31630b"><rect x="270" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-05-18: 5 entries
+[kreier/solarmeter] first sketch 2020-05-16
+[kreier/solarmeter] raw, solar and battery voltage
+[kreier/solarmeter] Create AnalogOut34_35.ino
+[kreier/solarmeter] Add files via upload
+[kreier/solarmeter] Update README.md</title></rect></a>
+<a href="https://github.com/kreier/solarmeter/commit/fb4a76f3c6a206b36473e6bbec31fec9083fb23a"><rect x="270" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-05-19: 4 entries
+[kreier/solarmeter] Create README.md
+[kreier/solarmeter] updated after evening rain
+[kreier/solarmeter] Add files via upload
+[kreier/solarmeter] Update README.md</title></rect></a>
+<a href="https://github.com/kreier/solarmeter/commit/4d72d81236f7bbf539c80a83051cab1d6eddd4cc"><rect x="270" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-05-20: 4 entries
+[kreier/solarmeter] Create SolarMeter_aisvn.ino
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Merge branch 'master' of https://github.com/kreier/solarmeter
+[kreier/solarmeter] Create 2020-05-20_voltage.jpg</title></rect></a>
 <rect x="270" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-21: 0 entries</title></rect>
-<rect x="270" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-22: 0 entries</title></rect>
+<a href="https://github.com/kreier/solarmeter/commit/240cc1d56cae214aef715f420ebe2658902d8eb1"><rect x="270" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-05-22: 13 entries
+[kreier/solarmeter] shortened software sketch, removed LED indication
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] data reorganized
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Update LICENSE
+[kreier/solarmeter] first day with load and measurement
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Merge branch 'master' of https://github.com/kreier/solarmeter
+[kreier/solarmeter] Create 2020-05-21_aisvn.jpg
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Create data_2020-05-21.jpg</title></rect></a>
 <rect x="270" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-23: 0 entries</title></rect>
-<rect x="282" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-24: 0 entries</title></rect>
-<rect x="282" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-25: 0 entries</title></rect>
-<rect x="282" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-26: 0 entries</title></rect>
+<a href="https://github.com/kreier/solarmeter/commit/c5da2ff87230ace48698b892804fde69be62af06"><rect x="282" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-05-24: 5 entries
+[kreier/solarmeter] simplified code example
+[kreier/solarmeter] simplified code example
+[kreier/solarmeter] one week measurement in Phu My Hung
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Add files via upload</title></rect></a>
+<a href="https://github.com/kreier/solarmeter/commit/174acf5f70fea9096f8260b7b139abb5b8e7a71e"><rect x="282" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-05-25: 2 entries
+[kreier/solarmeter] Merge branch 'master' of https://github.com/kreier/solarmeter
+[kreier/solarmeter] documentation pictures May 2020</title></rect></a>
+<a href="https://github.com/kreier/407B/commit/355ce08a96d2d5d6cae799bcd756128532e7ec64"><rect x="282" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-05-26: 11 entries
+[kreier/407B] Update LICENSE
+[kreier/407B] Update README.md
+[kreier/407B] Set theme jekyll-theme-time-machine
+[kreier/407B] Update README.md
+[kreier/kreier.org-aqi] Update LICENSE
+[kreier/rfid] Update LICENSE
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] relocated for integrity
+[kreier/solarmeter] Create 2020-05-26_battery_week.jpg
+[kreier/T110] Update LICENSE
+[kreier/ultrasonic] Update LICENSE</title></rect></a>
 <rect x="282" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-27: 0 entries</title></rect>
-<rect x="282" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-28: 0 entries</title></rect>
+<a href="https://github.com/kreier/solarmeter/commit/05bb4fd5c04900c909bbad29e0133ac31f5d1ffe"><rect x="282" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-05-28: 3 entries
+[kreier/solarmeter] drained battery, new MPPT charger
+[kreier/solarmeter] review first week in graphs
+[kreier/solarmeter] data of first week</title></rect></a>
 <rect x="282" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-29: 0 entries</title></rect>
 <rect x="282" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-30: 0 entries</title></rect>
-<rect x="294" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-31: 0 entries</title></rect>
-<a href="https://kreier.github.io/quartz/Blog/2020/06/Start-of-my-third-Sabbatical"><rect x="294" y="30" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2020-06-01: 2 entries
+<a href="https://github.com/kreier/solarmeter/commit/02861a08f772be6ea7d0a3e9a90a01567967a4a9"><rect x="294" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-05-31: 3 entries
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] data upload using ftp from 2014
+[kreier/solarmeter] measure the current of the solar panel</title></rect></a>
+<a href="https://kreier.github.io/quartz/Blog/2020/06/Start-of-my-third-Sabbatical"><rect x="294" y="30" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2020-06-01: 2 entries
 Start of my third Sabbatical
 Third Sabbatical</title></rect></a>
 <rect x="294" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-02: 0 entries</title></rect>
-<rect x="294" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-03: 0 entries</title></rect>
-<rect x="294" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-04: 0 entries</title></rect>
-<rect x="294" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-05: 0 entries</title></rect>
+<a href="https://github.com/kreier/solarmeter/commit/29614ad369b5dee4a40d96bfcd9a8f84d8110bf9"><rect x="294" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-06-03: 6 entries
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] renamed for consistency
+[kreier/solarmeter] Merge branch 'master' of https://github.com/kreier/solarmeter
+[kreier/solarmeter] Create 2020-06-02_powermeter.jpeg
+[kreier/solarmeter] updated May 2020
+[kreier/solarmeter] data May 2020</title></rect></a>
+<a href="https://github.com/kreier/solarmeter/commit/ff20471c538b5174ebb25dc24688577478f15d6f"><rect x="294" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-06-04: 3 entries
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] smaller version (saves 85% space)
+[kreier/solarmeter] Add files via upload</title></rect></a>
+<a href="https://github.com/kreier/solarmeter/commit/934ebdafc21b8941195a7e83e09dbbbb8b115d2d"><rect x="294" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-06-05: 2 entries
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Create README.md</title></rect></a>
 <rect x="294" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-06: 0 entries</title></rect>
 <text x="306" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jun</text>
 <rect x="306" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-07: 0 entries</title></rect>
-<rect x="306" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-08: 0 entries</title></rect>
-<rect x="306" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-09: 0 entries</title></rect>
-<rect x="306" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-10: 0 entries</title></rect>
-<rect x="306" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-11: 0 entries</title></rect>
-<rect x="306" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-12: 0 entries</title></rect>
+<a href="https://github.com/kreier/solarmeter/commit/358525a049631b85bc0daf1e19993aeed7f02b7a"><rect x="306" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-06-08: 1 entry
+[kreier/solarmeter] weekend test version 2020-06-05</title></rect></a>
+<a href="https://github.com/kreier/solarmeter/commit/cf9f1dee8970a8b67f3330c273ff6b88e6dfe680"><rect x="306" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-06-09: 4 entries
+[kreier/solarmeter] setup Friday last day of school
+[kreier/solarmeter] voltages calibrated, 100x multisample
+[kreier/solarmeter] all voltages calibrated, 100x multisample
+[kreier/solarmeter] Multisampling 100x removes noise but raises 25mV</title></rect></a>
+<a href="https://github.com/kreier/solarmeter/commit/f0b2b760146fb1b1e2c6312d80dcce8a7b9d8619"><rect x="306" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-06-10: 6 entries
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Create 2020-06-06_solar.jpg
+[kreier/solarmeter] Monday June 8th, 2020
+[kreier/solarmeter] solar and wind on Monday
+[kreier/solarmeter] Update README.md</title></rect></a>
+<a href="https://github.com/kreier/solarmeter/commit/375465f006ac8d5f53585148e87f434bdec49df4"><rect x="306" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-06-11: 4 entries
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Add files via upload
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Add files via upload</title></rect></a>
+<a href="https://github.com/kreier/solarmeter/commit/d3ae196c0fc9a8526ce975a17d478acf8628532f"><rect x="306" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-06-12: 7 entries
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Add files via upload
+[kreier/solarmeter] Add files via upload
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] Add files via upload
+[kreier/solarmeter] included measurements from June 11th
+[kreier/solarmeter] corrent and 5 voltages</title></rect></a>
 <rect x="306" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-13: 0 entries</title></rect>
 <rect x="318" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-14: 0 entries</title></rect>
-<rect x="318" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-15: 0 entries</title></rect>
-<rect x="318" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-16: 0 entries</title></rect>
-<rect x="318" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-17: 0 entries</title></rect>
-<rect x="318" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-18: 0 entries</title></rect>
-<rect x="318" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-19: 0 entries</title></rect>
+<a href="https://github.com/kreier/solarmeter/commit/fa66e6657a5149781e6d853a6e0782bc719e2183"><rect x="318" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-06-15: 4 entries
+[kreier/solarmeter] 2020/06/15 v0.8 no more negative voltages
+[kreier/solarmeter] 2020/06/15 v0.7
+[kreier/solarmeter] 2020/06/10 v0.6
+[kreier/solarmeter] 2020/05/17 v0.1</title></rect></a>
+<a href="https://github.com/kreier/labs/commit/6bb3d4d74a014816f24bcbd6804cb25b78966c3d"><rect x="318" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-06-16: 9 entries
+[kreier/labs] Create README.md
+[kreier/labs] found paper data sheet from 2019
+[kreier/solarmeter] Update README.md
+[kreier/solarmeter] 2020/06/15 v0.2 new start with temp and bootcount
+[kreier/solarmeter] 2020/06/05 test version for the weekend
+[kreier/solarmeter] 2020/05/19 v0.2 now raw pin34, solar and battery voltage upload
+[kreier/solarmeter] 2020/05/16 v0.1 first sketch
+[kreier/solarmeter] multi-sampling example included
+[kreier/solarmeter] Add files via upload</title></rect></a>
+<a href="https://github.com/kreier/solarmeter/commit/dff4195f9eae83ca538cc905f519d1314c0442d7"><rect x="318" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-06-17: 6 entries
+[kreier/solarmeter] Update history.md
+[kreier/solarmeter] 2020/06/08 v0.5 voltages calibrated, ADC2 WiFi hack reg_b
+[kreier/solarmeter] 2020/06/07 v0.4 Multisampling 100x removes noise but raises 25mV
+[kreier/solarmeter] 2020/06/17 v0.9 float voltages, power added, 0.85x
+[kreier/solarmeter] 2020/06/17 v0.9 float voltages, power added, 0.85x
+[kreier/solarmeter] Create history.md</title></rect></a>
+<a href="https://github.com/kreier/solarmeter/commit/731de6d9b3080887f25fdb29de0bd9b04d87a1d3"><rect x="318" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-06-18: 6 entries
+[kreier/solarmeter] new box with ESP32, voltage display and two shunts
+[kreier/solarmeter] Google sites link included, new setup June 18th
+[kreier/solarmeter] 20200618 v0.1 deep sleep active pin - proof of concept
+[kreier/solarmeter] circuit from June 5th integrated
+[kreier/solarmeter] general circuit June 5th, part for wind is still missing
+[kreier/solarmeter] code example updated to v0.9</title></rect></a>
+<a href="https://github.com/kreier/jetson-car/commit/f5809275cb55d7f4a8fa59039e825ceca6596abf"><rect x="318" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-06-19: 9 entries
+[kreier/jetson-car] from DLology object detection
+[kreier/jetson-car] for Synology Diskstation
+[kreier/kreier.github.io] included solarmeter and temp.hofkoh.de
+[kreier/solarmeter] 2020/06/19 v0.2 currents calibrated to same value
+[kreier/temp.hofkoh.de] created November 23rd, 2013
+[kreier/temp.hofkoh.de] Merge branch 'master' of https://github.com/kreier/temp.hofkoh.de
+[kreier/temp.hofkoh.de] from January 4th, 2015 - documenting from 2013
+[kreier/temp.hofkoh.de] Update .gitignore for Synology Diskstation
+[kreier/temp.hofkoh.de] Initial commit</title></rect></a>
 <rect x="318" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-20: 0 entries</title></rect>
 <rect x="330" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-21: 0 entries</title></rect>
-<rect x="330" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-22: 0 entries</title></rect>
-<rect x="330" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-23: 0 entries</title></rect>
-<rect x="330" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-24: 0 entries</title></rect>
-<rect x="330" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-25: 0 entries</title></rect>
-<rect x="330" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-26: 0 entries</title></rect>
+<a href="https://github.com/kreier/ESP32/commit/4590ee38e5387b026930d1472cd3cd4305345db0"><rect x="330" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-06-22: 9 entries
+[kreier/ESP32] sniplets from simple investigations June 2020
+[kreier/solarmeter] 2020/06/19 v0.2  current A and B calibrated, upload 120 seconds
+[kreier/solarmeter] 2020/06/18 v0.1 active pin 25 during deep sleep - proof of concept
+[kreier/solarmeter] 2020/06/08 v0.5 register hack to reactivate ADC2 after WiFi
+[kreier/solarmeter] 2020/06/07 v0.4 multisampling 100x removes noise but raises 25 mV
+[kreier/solarmeter] 2020/06/05 v0.3 included current over 0.122 resistor, weekend
+[kreier/solarmeter] 2020/05/19 v0.2 pin34 raw, solar and battery
+[kreier/solarmeter] 2020/05/16 v0.1 first working sketch
+[kreier/solarmeter] test software lines March 2020</title></rect></a>
+<a href="https://github.com/kreier/ESP32/commit/9bd4d3e266bc7cc5d4cec1489cf467947f1f1c53"><rect x="330" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-06-23: 10 entries
+[kreier/ESP32] Update README.md
+[kreier/ESP32] resized picture, new structure
+[kreier/solarmeter] 2020/05/15 first measurements of analog values and calibration
+[kreier/solarmeter] 2020/06/14 v0.2 new measurement, included temp and bootcount
+[kreier/solarmeter] 2020/05/17 v0.1 first automated solar voltage experiment
+[kreier/solarmeter] 2020/06/17 v0.9 voltages as floating point values, credentials.h added
+[kreier/solarmeter] 2020/06/15 v0.8 no more negative voltages, offset solar2 fixed
+[kreier/solarmeter] 2020/06/15 v0.7 more voltage conversions, every 120 seconds
+[kreier/solarmeter] 2020/06/10 v0.6 voltages calibrated, included wind generator
+[kreier/solarmeter] 2020/06/22 hysteresis 12.8 an 12.2 V added</title></rect></a>
+<a href="https://github.com/kreier/ESP32/commit/03a85904ce1cfdbe252b46769a3afd606e6ce78e"><rect x="330" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-06-24: 5 entries
+[kreier/ESP32] 2020/06/23
+[kreier/solarmeter] updated picture of setup on roof
+[kreier/solarmeter] picture taken yesterday in the sun
+[kreier/solarmeter] all 43 pictures linked 2020/06/24
+[kreier/solarmeter] 2020/06/23 v0.4 solar voltage and load indicator fixed</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/fce272c8828ed4665c4a2030199e834e1c68362c"><rect x="330" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-06-25: 8 entries
+[kreier/benchmark] picture fixed, CoreMark added
+[kreier/benchmark] ochrin made ESP8266 and dualcore running
+[kreier/benchmark] Update README.md
+[kreier/benchmark] Update README.md
+[kreier/benchmark] Update README.md
+[kreier/benchmark] Create README.md
+[kreier/benchmark] copy of https://github.com/PaulStoffregen/CoreMark
+[kreier/benchmark] copied from PaulStoffregen</title></rect></a>
+<a href="https://github.com/kreier/solarmeter/commit/169247aa737b242f348e93c8ee8e00fa4937de67"><rect x="330" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-06-26: 1 entry
+[kreier/solarmeter] sketch on paper from June 3rd, 2020</title></rect></a>
 <rect x="330" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-27: 0 entries</title></rect>
 <rect x="342" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-28: 0 entries</title></rect>
-<rect x="342" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-29: 0 entries</title></rect>
-<rect x="342" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-30: 0 entries</title></rect>
-<rect x="342" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-01: 0 entries</title></rect>
-<rect x="342" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-02: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/b71cb919734a10c225626609f8ee5575c7a5f7d8"><rect x="342" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-06-29: 3 entries
+[kreier/benchmark] included Raspberry Pi 3
+[kreier/benchmark] Update README.md
+[kreier/ESP32] included NODEMCU and ATMega 2560</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/166431a190c257b25496f248f2c16e65088fcee9"><rect x="342" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-06-30: 9 entries
+[kreier/benchmark] Merge branch 'master' of https://github.com/kreier/benchmark
+[kreier/benchmark] Create whetstone1.2.ino
+[kreier/benchmark] updated whetstone 1.2
+[kreier/benchmark] included Ubuntu and Roy Longbottom
+[kreier/benchmark] updated Mega 2560
+[kreier/benchmark] initial commit
+[kreier/ESP32] update 20200630
+[kreier/solarmeter] Outline of database
+[kreier/temp.hofkoh.de] project data 2013-2016</title></rect></a>
+<a href="https://github.com/kreier/ESP8266/commit/b93513a709437607558c26a034fd3480571f224c"><rect x="342" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-07-01: 8 entries
+[kreier/ESP8266] linearity of ADC - cut off at 3.1 volt
+[kreier/ESP8266] Create README.md
+[kreier/ESP8266] Create read_analog.ino
+[kreier/ESP8266] fast double blink with inverted logic for ESP8266
+[kreier/ESP8266] Update README.md
+[kreier/ESP8266] make monitor works in /coremark and /helloworld
+[kreier/ESP8266] Create README.md
+[kreier/esp-idf] README.md</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/e560ecc608ac39d88f2a50f17fecc6c2784b1187"><rect x="342" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-07-02: 10 entries
+[kreier/benchmark] Create paper_ICIST_2017.pdf
+[kreier/benchmark] included Amlogic S905W
+[kreier/ESP8266] temperature measurement with LM35
+[kreier/ESP8266] Google Sheets export adjusted for Excel
+[kreier/ESP8266] updated overview with pictures and code
+[kreier/ESP8266] calibration old ESP8266 with 81mA standby
+[kreier/temp.hofkoh.de] included pictures for hardware and software documentation
+[kreier/temp.hofkoh.de] documentation expanded
+[kreier/temp.hofkoh.de] Hardware description updated
+[kreier/temp.hofkoh.de] Create README.md</title></rect></a>
 <rect x="342" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-03: 0 entries</title></rect>
 <rect x="342" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-04: 0 entries</title></rect>
 <text x="354" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jul</text>
 <rect x="354" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-05: 0 entries</title></rect>
-<rect x="354" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-06: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/383f39a05aa1863f9ba7f8a17859d4fd7864041b"><rect x="354" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-07-06: 8 entries
+[kreier/benchmark] updated with Mark/MHz
+[kreier/benchmark] reorganized and linked
+[kreier/ESP32] set time DS3231 with instructions
+[kreier/ESP32] https://github.com/NorthernWidget/DS3231/tree/master/examples
+[kreier/ESP32] link to code included
+[kreier/ESP32] new scanner for RTC
+[kreier/ESP8266] Set theme jekyll-theme-cayman
+[kreier/temp.hofkoh.de] Set theme jekyll-theme-cayman</title></rect></a>
 <rect x="354" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-07: 0 entries</title></rect>
-<rect x="354" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-08: 0 entries</title></rect>
-<rect x="354" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-09: 0 entries</title></rect>
-<rect x="354" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-10: 0 entries</title></rect>
+<a href="https://github.com/kreier/ESP32/commit/35f638b05a2750acb4087d2ccdf07a2600784ac1"><rect x="354" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-07-08: 1 entry
+[kreier/ESP32] get time from DS3231 formatted via i2c</title></rect></a>
+<a href="https://github.com/kreier/T400/commit/78d11b71301ba3981e5de299e23926fb456240a4"><rect x="354" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-07-09: 3 entries
+[kreier/T400] xh254 replacement
+[kreier/T400] system from SparkFun
+[kreier/T400] included i2c connector assignment</title></rect></a>
+<a href="https://github.com/kreier/ESP32/commit/2c69a2bab54a59e1726db9d65e3add9f25f7491d"><rect x="354" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-07-10: 2 entries
+[kreier/ESP32] list of boards updated, and code
+[kreier/ESP32] updated list of boards</title></rect></a>
 <rect x="354" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-11: 0 entries</title></rect>
 <rect x="366" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-12: 0 entries</title></rect>
-<rect x="366" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-13: 0 entries</title></rect>
-<rect x="366" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-14: 0 entries</title></rect>
-<rect x="366" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-15: 0 entries</title></rect>
+<a href="https://github.com/kreier/ESP8266/commit/5dcb457fb07252787408ff8ddd8c73aeb64c1b8a"><rect x="366" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-07-13: 2 entries
+[kreier/ESP8266] updated RTC output
+[kreier/ESP8266] RTC DS3231 on ESP8266</title></rect></a>
+<a href="https://github.com/kreier/ESP8266/commit/ca3bbe01505c13071e469e6860543a5eb100d295"><rect x="366" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-07-14: 5 entries
+[kreier/ESP8266] v0.3 updated pin definition
+[kreier/ESP8266] found i2c on oled and serial
+[kreier/ESP8266] time and temp on 1.3" 26x9 display
+[kreier/ESP8266] display time and temp 26x9 on 1.3" display
+[kreier/ESP8266] v0.2 with 1.3" OLED SPI display for time</title></rect></a>
+<a href="https://github.com/kreier/ar65view/commit/397ff8ee5c88dbd4eed7570a5ec114fe036c4182"><rect x="366" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-07-15: 6 entries
+[kreier/ar65view] included 3 gifs
+[kreier/ar65view] Add files via upload
+[kreier/kreier.github.io] format details fixed
+[kreier/kreier.github.io] relocated date information, included gifs
+[kreier/kreier.github.io] shortened title and description
+[kreier/kreier.github.io] some more pictures included, reorganized</title></rect></a>
 <rect x="366" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-16: 0 entries</title></rect>
-<rect x="366" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-17: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/b5513eb5ec08053054481bca0e48c0714603efae"><rect x="366" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-07-17: 6 entries
+[kreier/benchmark] included CoreMark/MHz
+[kreier/benchmark] comparison coremark per Mhz in Arm and x86 and others
+[kreier/benchmark] included i7 6820HQ and graphics
+[kreier/benchmark] updated results 2020
+[kreier/benchmark] graphics for coremark
+[kreier/benchmark] some results from July 2020</title></rect></a>
 <rect x="366" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-18: 0 entries</title></rect>
 <rect x="378" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-19: 0 entries</title></rect>
 <rect x="378" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-20: 0 entries</title></rect>
-<rect x="378" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-21: 0 entries</title></rect>
+<a href="https://github.com/kreier/kreier.github.io/commit/6ac1d1b641afa2e90e3603424fecf1a1fd737d88"><rect x="378" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-07-21: 5 entries
+[kreier/kreier.github.io] removed double science appearance
+[kreier/kreier.github.io] link to sciencefair 2019
+[kreier/kreier.github.io] fixed links to pictures for robot projects
+[kreier/kreier.github.io] extended ASA
+[kreier/kreier.github.io] include T300</title></rect></a>
 <rect x="378" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-22: 0 entries</title></rect>
 <rect x="378" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-23: 0 entries</title></rect>
 <rect x="378" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-24: 0 entries</title></rect>
@@ -223,7 +724,22 @@ Third Sabbatical</title></rect></a>
 <rect x="390" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-27: 0 entries</title></rect>
 <rect x="390" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-28: 0 entries</title></rect>
 <rect x="390" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-29: 0 entries</title></rect>
-<rect x="390" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-30: 0 entries</title></rect>
+<a href="https://github.com/kreier/ml/commit/7e516aa3ee973c4329165f33766f151364967054"><rect x="390" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2020-07-30: 15 entries
+[kreier/ml] Delete yarn.lock
+[kreier/ml] from hofkoh.de
+[kreier/ml] small fixes
+[kreier/ml] Delete yarn.lock
+[kreier/ml] Update README.md
+[kreier/ml] minimist update
+[kreier/ml] Merge pull request #4 from kreier/dependabot/npm_and_yarn/TensorFlow.js/posenet/demos/lodash-4.17.19
+[kreier/ml] Merge pull request #1 from kreier/dependabot/npm_and_yarn/TensorFlow.js/posenet/mixin-deep-1.3.2
+[kreier/ml] Merge pull request #2 from kreier/dependabot/npm_and_yarn/TensorFlow.js/posenet/lodash-4.17.19
+[kreier/ml] Merge pull request #3 from kreier/dependabot/npm_and_yarn/TensorFlow.js/posenet/demos/elliptic-6.5.3
+[kreier/ml] Set theme jekyll-theme-cayman
+[kreier/ml] fork of tfjs-models/posenet
+[kreier/ml] Create tslint.js
+[kreier/ml] Create README.md
+[kreier/ml] Initial commit</title></rect></a>
 <rect x="390" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-31: 0 entries</title></rect>
 <rect x="390" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-01: 0 entries</title></rect>
 <text x="402" y="12" font-family="sans-serif" font-size="8" fill="#767676">Aug</text>
@@ -235,7 +751,9 @@ Third Sabbatical</title></rect></a>
 <rect x="402" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-07: 0 entries</title></rect>
 <rect x="402" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-08: 0 entries</title></rect>
 <rect x="414" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-09: 0 entries</title></rect>
-<rect x="414" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-10: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/d119fd4ba501bceea514843490687dde7062acbc"><rect x="414" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-08-10: 2 entries
+[kreier/benchmark] Multithread Raspberry 4
+[kreier/benchmark] Raspberry Pi 4 updated</title></rect></a>
 <rect x="414" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-11: 0 entries</title></rect>
 <rect x="414" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-12: 0 entries</title></rect>
 <rect x="414" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-13: 0 entries</title></rect>
@@ -246,79 +764,267 @@ Third Sabbatical</title></rect></a>
 <rect x="426" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-18: 0 entries</title></rect>
 <rect x="426" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-19: 0 entries</title></rect>
 <rect x="426" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-20: 0 entries</title></rect>
-<rect x="426" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-21: 0 entries</title></rect>
+<a href="https://github.com/kreier/kreier.github.io/commit/b3689339c1387f391de01a793a9d6e9a2334cc36"><rect x="426" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-08-21: 2 entries
+[kreier/kreier.github.io] smaller subheadings
+[kreier/kreier.github.io] Update README.md</title></rect></a>
 <rect x="426" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-22: 0 entries</title></rect>
 <rect x="438" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-23: 0 entries</title></rect>
-<rect x="438" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-24: 0 entries</title></rect>
-<rect x="438" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-25: 0 entries</title></rect>
-<rect x="438" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-26: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/43473636faecbaae993095b68cbe7e23e5fa19fa"><rect x="438" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-08-24: 2 entries
+[kreier/benchmark] JetStream 2 for iPhone 7
+[kreier/benchmark] include Raspberry 3</title></rect></a>
+<a href="https://github.com/kreier/history/commit/5c1bd723051ea2957a524ee4485b4927315bbbeb"><rect x="438" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-08-25: 3 entries
+[kreier/history] shrinked csv
+[kreier/history] shared with friends
+[kreier/history] prelimary 2019</title></rect></a>
+<a href="https://github.com/kreier/ml/commit/6d6b4c4d78016d87b7d718b851a97b6760ef1861"><rect x="438" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-08-26: 3 entries
+[kreier/ml] August 2020
+[kreier/ml] documentation in pictures
+[kreier/ml] updated history, schedule TF certificate</title></rect></a>
 <rect x="438" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-27: 0 entries</title></rect>
 <rect x="438" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-28: 0 entries</title></rect>
 <rect x="438" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-29: 0 entries</title></rect>
 <rect x="450" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-30: 0 entries</title></rect>
-<rect x="450" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-31: 0 entries</title></rect>
-<rect x="450" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-01: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/029d3cb6fdb0028e65d13087ac56bdf19120ad3d"><rect x="450" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-08-31: 7 entries
+[kreier/benchmark] included 4960 HQ from MBP15 late 2013
+[kreier/ESP8266] short overview or project
+[kreier/ESP8266] design, oled and serial output
+[kreier/ESP8266] screenshot August 26th, 2020
+[kreier/ESP8266] boards and i2c_scanner
+[kreier/ESP8266] Add files via upload
+[kreier/ESP8266] updated I2C scanner</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/e4e85ff1154a3966a64ca730ba781a7f2be61598"><rect x="450" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-09-01: 2 entries
+[kreier/benchmark] i7-4960HQ multi-thread updated
+[kreier/benchmark] Mark/MHz for i7 updated</title></rect></a>
 <rect x="450" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-02: 0 entries</title></rect>
 <rect x="450" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-03: 0 entries</title></rect>
 <rect x="450" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-04: 0 entries</title></rect>
 <rect x="450" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-05: 0 entries</title></rect>
 <text x="462" y="12" font-family="sans-serif" font-size="8" fill="#767676">Sep</text>
 <rect x="462" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-06: 0 entries</title></rect>
-<rect x="462" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-07: 0 entries</title></rect>
-<rect x="462" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-08: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/914f517656a1a2d486bd89d5276d065628ad5638"><rect x="462" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-09-07: 1 entry
+[kreier/benchmark] invluded DS216+II</title></rect></a>
+<a href="https://github.com/kreier/kreier.github.io/commit/3e581e8f2df09755de02c6afe4a5d859b0d032df"><rect x="462" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-09-08: 6 entries
+[kreier/kreier.github.io] link to short list
+[kreier/kreier.github.io] Create short.md
+[kreier/kreier.github.io] list in table form
+[kreier/kreier.github.io] refined design, updated links
+[kreier/kreier.github.io] general outline of 37 projects
+[kreier/kreier.github.io] updated details on the 37 projects</title></rect></a>
 <rect x="462" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-09: 0 entries</title></rect>
 <rect x="462" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-10: 0 entries</title></rect>
-<rect x="462" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-11: 0 entries</title></rect>
+<a href="https://github.com/kreier/kreier.github.io/commit/db73fa6b235944d41cd2a870012301a7e7504cf5"><rect x="462" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-09-11: 5 entries
+[kreier/kreier.github.io] rounded corners
+[kreier/kreier.github.io] Delete short_list.png
+[kreier/kreier.github.io] smaller font
+[kreier/kreier.github.io] included short list button
+[kreier/kreier.github.io] for align right</title></rect></a>
 <rect x="462" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-12: 0 entries</title></rect>
 <rect x="474" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-13: 0 entries</title></rect>
-<rect x="474" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-14: 0 entries</title></rect>
-<rect x="474" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-15: 0 entries</title></rect>
-<rect x="474" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-16: 0 entries</title></rect>
+<a href="https://github.com/kreier/kreier.github.io/commit/ecdc86e39e92ab007589e57083105a6696717231"><rect x="474" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-09-14: 6 entries
+[kreier/kreier.github.io] smaller button
+[kreier/kreier.github.io] just blue button
+[kreier/python2018] changed to green theme
+[kreier/python2018] adjusted color scheme for jekyll cayman
+[kreier/python2018] ignore Synogloy Diskstation files
+[kreier/python2018] Set theme jekyll-theme-cayman</title></rect></a>
+<a href="https://github.com/kreier/solarmeter/commit/a1a7f72f2d63b4eacb1ae67ed3bfcd7e008e914e"><rect x="474" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-09-15: 1 entry
+[kreier/solarmeter] adjusted color profile</title></rect></a>
+<a href="https://github.com/kreier/ar65view/commit/6dbcff6ec8629292109cb61f998bdead3f1bdf58"><rect x="474" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-09-16: 9 entries
+[kreier/ar65view] update jekyll-theme-cayman
+[kreier/benchmark] include ZBook 15 G3 with 6820HQ
+[kreier/kreier.github.io] Update _config.yml
+[kreier/python2018] alternative link to picture that works in jekyll html as well
+[kreier/python2018] fixed ipynb (jupyter) link
+[kreier/python2018] Update README.md
+[kreier/python2018] Update style.scss
+[kreier/python2018] Update _config.yml
+[kreier/solarmeter] Update _config.yml</title></rect></a>
 <rect x="474" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-17: 0 entries</title></rect>
-<rect x="474" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-18: 0 entries</title></rect>
+<a href="https://github.com/kreier/kreier.github.io/commit/9e823243f7d50a57ba4c8e1e255ba1fe0e2012e6"><rect x="474" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-09-18: 2 entries
+[kreier/kreier.github.io] Update short.md
+[kreier/kreier.github.io] link stand out, code darker</title></rect></a>
 <rect x="474" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-19: 0 entries</title></rect>
 <rect x="486" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-20: 0 entries</title></rect>
 <rect x="486" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-21: 0 entries</title></rect>
 <rect x="486" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-22: 0 entries</title></rect>
-<rect x="486" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-23: 0 entries</title></rect>
-<rect x="486" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-24: 0 entries</title></rect>
+<a href="https://github.com/kreier/history/commit/688ea1c53c3f2d4d72641f6a16c40226f0ac7ad8"><rect x="486" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-09-23: 3 entries
+[kreier/history] Update README.md
+[kreier/history] more examples included
+[kreier/history] Create README.md</title></rect></a>
+<a href="https://github.com/kreier/asa/commit/c5f31d6150f30abb100fc60b5040924a5f89e6fe"><rect x="486" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-09-24: 4 entries
+[kreier/asa] inspiration car linked
+[kreier/kreier.github.io] smaller fixes, image centered
+[kreier/kreier.github.io] ESP projects are capitalized
+[kreier/kreier.github.io] updated list of projects</title></rect></a>
 <rect x="486" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-25: 0 entries</title></rect>
 <rect x="486" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-26: 0 entries</title></rect>
 <rect x="498" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-27: 0 entries</title></rect>
-<rect x="498" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-28: 0 entries</title></rect>
+<a href="https://github.com/kreier/impact/commit/197dfc9a86c62f9f09bd666cd119186f5fbe2815"><rect x="498" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-09-28: 5 entries
+[kreier/impact] #156989 collor center
+[kreier/impact] cyan color scheme
+[kreier/impact] Update _config.yml
+[kreier/impact] general concept, simple start in math
+[kreier/kreier.github.io] Update README.md</title></rect></a>
 <rect x="498" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-29: 0 entries</title></rect>
-<rect x="498" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-30: 0 entries</title></rect>
-<rect x="498" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-01: 0 entries</title></rect>
+<a href="https://github.com/kreier/asa3/commit/1faf103f7c7bf51ec3032a8806db404242d34010"><rect x="498" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-09-30: 11 entries
+[kreier/asa3] Merge branch 'master' of https://github.com/kreier/asa3
+[kreier/asa3] updated design
+[kreier/asa3] Set theme jekyll-theme-cayman
+[kreier/asa3] relocated for centralized documentation
+[kreier/asa3] initial website in /docs folder
+[kreier/asa3] darkened headers
+[kreier/asa3] color adjustment
+[kreier/asa3] Update README.md
+[kreier/asa3] Set theme jekyll-theme-cayman
+[kreier/impact] color scheme changed to red/blue
+[kreier/asa3] README.md</title></rect></a>
+<a href="https://github.com/kreier/ESP32/commit/c81186c97d0043efab46bce5c1f431baa5c5b333"><rect x="498" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-01: 5 entries
+[kreier/ESP32] adopt blue color scheme
+[kreier/rfid] README is processed second by Jekyll
+[kreier/rfid] index or readme
+[kreier/rfid] link to images updated
+[kreier/rfid] github pages documentation</title></rect></a>
 <rect x="498" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-02: 0 entries</title></rect>
 <rect x="498" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-03: 0 entries</title></rect>
 <text x="510" y="12" font-family="sans-serif" font-size="8" fill="#767676">Oct</text>
 <rect x="510" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-04: 0 entries</title></rect>
 <rect x="510" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-05: 0 entries</title></rect>
-<rect x="510" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-06: 0 entries</title></rect>
-<rect x="510" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-07: 0 entries</title></rect>
-<rect x="510" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-08: 0 entries</title></rect>
-<rect x="510" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-09: 0 entries</title></rect>
+<a href="https://github.com/kreier/movies/commit/cb3dfdb27a3739fbdc858cc8ec4611b621e79926"><rect x="510" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-06: 4 entries
+[kreier/movies] Create import.py
+[kreier/movies] documentation in html
+[kreier/movies] Initial commit
+[kreier/rfid] Create .gitignore</title></rect></a>
+<a href="https://github.com/kreier/labs/commit/4c48fb6e5ddd1c0aeb34ee056b061b2ddee6f892"><rect x="510" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-10-07: 7 entries
+[kreier/labs] investigation November 2019
+[kreier/labs] syntax highlighting and graph included
+[kreier/labs] rendered in Google Colaboratory
+[kreier/labs] three graphs from jupyter included
+[kreier/movies] Update index.md
+[kreier/movies] heading color adjusted
+[kreier/movies] overview 2010-2020</title></rect></a>
+<a href="https://github.com/kreier/impact/commit/5a92cb84ceff6932f4bfa8bc8654de7a6c901f44"><rect x="510" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-08: 4 entries
+[kreier/impact] skip to content removed
+[kreier/impact] home folder for html relocated
+[kreier/impact] change theme color to red
+[kreier/impact] adjust theme color</title></rect></a>
+<a href="https://github.com/kreier/labs/commit/d94ad223dd0e8d3e3ee265ba105e063eeb6f2ff3"><rect x="510" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-09: 4 entries
+[kreier/labs] determine vitamin C concentration
+[kreier/labs] findings November 2019 visualized
+[kreier/labs] Update README.md
+[kreier/labs] converted files</title></rect></a>
 <rect x="510" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-10: 0 entries</title></rect>
 <rect x="522" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-11: 0 entries</title></rect>
-<rect x="522" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-12: 0 entries</title></rect>
-<rect x="522" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-13: 0 entries</title></rect>
-<rect x="522" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-14: 0 entries</title></rect>
-<rect x="522" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-15: 0 entries</title></rect>
-<rect x="522" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-16: 0 entries</title></rect>
+<a href="https://github.com/kreier/ESP32/commit/8ca0601cd562e79622210958fce9f94f78d4151d"><rect x="522" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-12: 4 entries
+[kreier/ESP32] Set theme jekyll-theme-hacker
+[kreier/movies] link does not work?
+[kreier/movies] included graph
+[kreier/rfid] path to images updated blob - tree</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/49a6dc806d4cfcba6440ea81d1302509fc769ca0"><rect x="522" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-13: 4 entries
+[kreier/benchmark] fixed pictures, added details
+[kreier/benchmark] Create README.md
+[kreier/benchmark] historic results 2008 to 2020
+[kreier/labs] phosphate background information</title></rect></a>
+<a href="https://github.com/kreier/aqi/commit/1cae63b131eaa06b60cbd5e369b059c830b738e7"><rect x="522" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-10-14: 12 entries
+[kreier/aqi] Update _config.yml
+[kreier/ar65view] fixed link to image
+[kreier/ar65view] jekyll theme cayman
+[kreier/ar65view] proper html info page
+[kreier/benchmark] hdparm values from Yoga 370
+[kreier/benchmark] Update README.md
+[kreier/benchmark] Update _config.yml
+[kreier/benchmark] Update README.md
+[kreier/benchmark] test speed of /dev/sda
+[kreier/ESP32] Update and rename Blink2020_sweep.ino to Blink2020sweep.ino
+[kreier/history] Update README.md
+[kreier/labs] Update _config.yml</title></rect></a>
+<a href="https://github.com/kreier/ESP32/commit/8edf47d7f35d5a920295de332cb552a1087642d2"><rect x="522" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-10-15: 9 entries
+[kreier/ESP32] Merge branch 'master' of https://github.com/kreier/ESP32
+[kreier/ESP32] instructions for plotting included
+[kreier/movies] sample data from 1999
+[kreier/movies] Merge branch 'main' of https://github.com/kreier/movies into main
+[kreier/movies] theme color adjusted to #286A99
+[kreier/movies] second graph, purpose of project explained
+[kreier/movies] included second graph, explained purpose
+[kreier/movies] Moview 1975-2000 watched in 2014-2020
+[kreier/ESP_WiFiManager] README.md</title></rect></a>
+<a href="https://github.com/kreier/T80/commit/5aeaffdd59b47e5fc708a6bf27e7950d0095f56d"><rect x="522" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-16: 5 entries
+[kreier/T80] Merge branch 'master' of https://github.com/kreier/T80
+[kreier/T80] Update _config.yml
+[kreier/T80] Create README.md
+[kreier/T80] documentation in separate html folder
+[kreier/T80] README.md</title></rect></a>
 <rect x="522" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-17: 0 entries</title></rect>
 <rect x="534" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-18: 0 entries</title></rect>
-<rect x="534" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-19: 0 entries</title></rect>
-<rect x="534" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-20: 0 entries</title></rect>
-<rect x="534" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-21: 0 entries</title></rect>
-<rect x="534" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-22: 0 entries</title></rect>
-<rect x="534" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-23: 0 entries</title></rect>
+<a href="https://github.com/kreier/movies/commit/af231ee62b94b20f2c0c4de6f332ac074fe716fe"><rect x="534" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-19: 5 entries
+[kreier/movies] Merge branch 'main' of https://github.com/kreier/movies into main
+[kreier/movies] labeled the years 2020-2013
+[kreier/movies] Update index.md
+[kreier/movies] progress in 7 years
+[kreier/solarmeter] relocated by Arduino IDE</title></rect></a>
+<a href="https://github.com/kreier/T100/commit/c967d4add54c632e73972ce7c73c939026d12350"><rect x="534" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-10-20: 7 entries
+[kreier/T100] Set theme jekyll-theme-cayman
+[kreier/T100] updated optics
+[kreier/T100] Update index.md
+[kreier/T100] Update _config.yml
+[kreier/T100] Update README.md
+[kreier/T100] update
+[kreier/T100] documentation</title></rect></a>
+<a href="https://github.com/kreier/actuator/commit/af81df83f969d024100d28b02cce60cde76b147b"><rect x="534" y="54" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2020-10-21: 16 entries
+[kreier/actuator] Update _config.yml
+[kreier/kreier.github.io] Update README.md
+[kreier/movies] Update default.html
+[kreier/T100] page title is just repository name
+[kreier/T100] change project name display default setting
+[kreier/T100] blue-red design
+[kreier/T100] Update index.md
+[kreier/T110] style and docu update
+[kreier/T110] Update index.md
+[kreier/T110] html documentation updated
+[kreier/T200] resolved merge
+[kreier/T200] Update _config.yml
+[kreier/T200] updated layout
+[kreier/T200] Set theme jekyll-theme-cayman
+[kreier/T200] html documentation
+[kreier/T110] README.md</title></rect></a>
+<a href="https://github.com/kreier/ESP32/commit/eab83db697e00e28b7a720540235a6076eed7697"><rect x="534" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-10-22: 8 entries
+[kreier/ESP32] Merge branch 'master' of https://github.com/kreier/ESP32
+[kreier/ESP32] new boards, reorganized
+[kreier/ESP32] Update README.md
+[kreier/ESP32] relocated important project
+[kreier/ESP32] Create README.md
+[kreier/ESP32] Create startup-post.ino
+[kreier/python2018] separate file for jekyll
+[kreier/python2018] Set theme jekyll-theme-hacker</title></rect></a>
+<a href="https://github.com/kreier/T200/commit/4b24ada577918cdb117d49d4858ecb8afb0573e6"><rect x="534" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-23: 4 entries
+[kreier/T200] updated color optics
+[kreier/T300] html documentation
+[kreier/T300] red-blue style
+[kreier/T200] README.md</title></rect></a>
 <rect x="534" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-24: 0 entries</title></rect>
 <rect x="546" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-25: 0 entries</title></rect>
-<rect x="546" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-26: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/82086185d9525f3bf51792256d403ad2c9904b7a"><rect x="546" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-10-26: 7 entries
+[kreier/benchmark] link to browser benchmarks
+[kreier/benchmark] Update README.md
+[kreier/benchmark] Create README.md
+[kreier/ESP32] sends float temp to serial for plotter
+[kreier/ESP32] updated pins
+[kreier/ESP32] updated NodeMCU
+[kreier/solarmeter] calibrations from end of June 2020</title></rect></a>
 <rect x="546" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-27: 0 entries</title></rect>
-<rect x="546" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-28: 0 entries</title></rect>
-<rect x="546" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-29: 0 entries</title></rect>
-<rect x="546" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-30: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/9466335a750552e9749c87ab2d185f41360bcf56"><rect x="546" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-28: 2 entries
+[kreier/benchmark] shortened SuperPi
+[kreier/benchmark] included i5 7300U</title></rect></a>
+<a href="https://github.com/kreier/ESP32/commit/be8658af865e79a10a3ccdabb678578684cf4bd2"><rect x="546" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-29: 5 entries
+[kreier/ESP32] updated setup in science library D1 HCM
+[kreier/solarmeter] definitions and calibrations in #define head
+[kreier/solarmeter] restructure for reusable code
+[kreier/solarmeter] Merge branch 'master' of https://github.com/kreier/solarmeter
+[kreier/solarmeter] relocated for Arduino IDE requirements</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/ea8c74c3329f8ef4ef70363e34ea739f2f616ff7"><rect x="546" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-30: 4 entries
+[kreier/benchmark] two more results
+[kreier/benchmark] Speedometer 2.0 results
+[kreier/solarmeter] upgrade credentials
+[kreier/solarmeter] relocated for Arduino IDE compability</title></rect></a>
 <rect x="546" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-31: 0 entries</title></rect>
 <text x="558" y="12" font-family="sans-serif" font-size="8" fill="#767676">Nov</text>
 <rect x="558" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-01: 0 entries</title></rect>
@@ -326,35 +1032,168 @@ Third Sabbatical</title></rect></a>
 <rect x="558" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-03: 0 entries</title></rect>
 <rect x="558" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-04: 0 entries</title></rect>
 <rect x="558" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-05: 0 entries</title></rect>
-<rect x="558" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-06: 0 entries</title></rect>
+<a href="https://github.com/kreier/ESP32/commit/4148255a9c78e148f345a4455cf5fa5a677d6990"><rect x="558" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-11-06: 3 entries
+[kreier/ESP32] Update analog_pins_read.ino
+[kreier/ESP32] sample stages to determine power consumption
+[kreier/ESP32] Create analog_pins_read.ino</title></rect></a>
 <rect x="558" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-07: 0 entries</title></rect>
 <rect x="570" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-08: 0 entries</title></rect>
-<rect x="570" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-09: 0 entries</title></rect>
-<rect x="570" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-10: 0 entries</title></rect>
-<rect x="570" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-11: 0 entries</title></rect>
-<rect x="570" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-12: 0 entries</title></rect>
-<rect x="570" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-13: 0 entries</title></rect>
+<a href="https://github.com/kreier/t-display/commit/8647ac027d40ef5a23bd65a39ee4003f052d5db2"><rect x="570" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-11-09: 5 entries
+[kreier/t-display] Create WiFiScan.ino
+[kreier/t-display] project start
+[kreier/t-display] Update README.md
+[kreier/t-display] Update .gitignore for Synology Diskstation
+[kreier/t-display] Initial commit</title></rect></a>
+<a href="https://github.com/kreier/aqi/commit/6e21a4dde5a4369255bb8c3b033055d5238b0c7a"><rect x="570" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-11-10: 13 entries
+[kreier/aqi] worldwide sensor maps updated
+[kreier/aqi] worldwide sensor map
+[kreier/aqi] Merge branch 'master' of https://github.com/kreier/aqi
+[kreier/aqi] data from 2020
+[kreier/aqi] Set theme jekyll-theme-cayman
+[kreier/aqi] red-blue color scheme
+[kreier/aqi] new website setup
+[kreier/ESP32] better formatted output of 18 analog pins
+[kreier/rfid] updated users
+[kreier/solarmeter] Update SolarAISVN2.ino
+[kreier/t-display] Merge branch 'main' of https://github.com/kreier/t-display into main
+[kreier/t-display] two sample projects adapted for 135x240 display
+[kreier/t-display] new blue-red color scheme</title></rect></a>
+<a href="https://github.com/kreier/solarmeter/commit/28b39e30115dc5f4008cb14fa914f20c455a66f8"><rect x="570" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-11-11: 8 entries
+[kreier/solarmeter] subheadings for T-Display parts
+[kreier/t-display] simple Hello world!
+[kreier/t-display] measure power consuption over USB and LiPo
+[kreier/t-display] included starfield simulation
+[kreier/t-display] pinmap included
+[kreier/t-display] Add files via upload
+[kreier/t-display] Update index.md
+[kreier/t-display] schematics from TTGO</title></rect></a>
+<a href="https://github.com/kreier/asa2/commit/12cedad5e0a754e60d21fda15fdcd8922d9a6759"><rect x="570" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-11-12: 9 entries
+[kreier/asa2] Set theme jekyll-theme-cayman
+[kreier/asa2] documentation extended
+[kreier/asa2] Update README.md
+[kreier/asa2] Merge branch 'master' of https://github.com/kreier/asa2
+[kreier/asa2] examples expanded
+[kreier/asa2] Update README.md
+[kreier/asa2] Update _config.yml
+[kreier/t-display] shortened demo
+[kreier/asa2] README.md</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/2db81d56a5043b791336c5bce3d89673d44e2631"><rect x="570" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-11-13: 7 entries
+[kreier/benchmark] layout rendering html fixed
+[kreier/benchmark] update 2020-11-13
+[kreier/benchmark] updated 2020-11-13
+[kreier/benchmark] Update README.md
+[kreier/benchmark] Create README.md
+[kreier/benchmark] Update README.md
+[kreier/benchmark] Create README.md</title></rect></a>
 <rect x="570" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-14: 0 entries</title></rect>
 <rect x="582" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-15: 0 entries</title></rect>
-<rect x="582" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-16: 0 entries</title></rect>
-<rect x="582" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-17: 0 entries</title></rect>
-<rect x="582" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-18: 0 entries</title></rect>
-<rect x="582" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-19: 0 entries</title></rect>
-<rect x="582" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-20: 0 entries</title></rect>
+<a href="https://github.com/kreier/aisvn/commit/f38715fc7dcf4fcf8dbb86225ac305eb559965d0"><rect x="582" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-11-16: 11 entries
+[kreier/aisvn] reorganized
+[kreier/aisvn-solarpower] Jekyll theme Cayman
+[kreier/aisvn-solarpower] Create index.md
+[kreier/benchmark] Merge branch 'master' of https://github.com/kreier/benchmark
+[kreier/benchmark] Update geekbench.xlsx
+[kreier/benchmark] Update geekbench.xlsx
+[kreier/remote] Update index.md
+[kreier/remote] updated to progress from February 2020
+[kreier/remote] compatibility included
+[kreier/remote] screenshot rather than html code example
+[kreier/remote] updated with example layout</title></rect></a>
+<a href="https://github.com/kreier/T410/commit/4a0bfde0cecba38b66e464b264127edc06327a00"><rect x="582" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-11-17: 6 entries
+[kreier/T410] Merge branch 'main' of https://github.com/kreier/T410 into main
+[kreier/T410] example calculation
+[kreier/T410] proper introduction
+[kreier/T410] Set theme jekyll-theme-cayman
+[kreier/T410] project description
+[kreier/T410] Initial commit</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/7d80200ddfe62082070218a1f6b5ed91cfb597b9"><rect x="582" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-11-18: 4 entries
+[kreier/benchmark] updated 2020/11/18
+[kreier/t-display] Merge branch 'main' of https://github.com/kreier/t-display into main
+[kreier/t-display] Create factory.ino
+[kreier/T410] layout change</title></rect></a>
+<a href="https://github.com/kreier/t-display/commit/2f7213e6bf2c95e3e0f95911c8767681235858d4"><rect x="582" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-11-19: 7 entries
+[kreier/t-display] Measure 13 input values and battery
+[kreier/t-display] Merge branch 'main' of https://github.com/kreier/t-display into main
+[kreier/t-display] use analog pins for measurement
+[kreier/t-display] Update README.md
+[kreier/t-display] backlight on pin 4?
+[kreier/t-display] copied from fork
+[kreier/T410] updated and image of RPi included</title></rect></a>
+<a href="https://github.com/kreier/aisvn-solarpower/commit/452ebc610f2608231652d36c0c40910c1fa72d2c"><rect x="582" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-11-20: 3 entries
+[kreier/aisvn-solarpower] submit corrected data
+[kreier/T410] Add files via upload
+[kreier/T410] Wifi installation update</title></rect></a>
 <rect x="582" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-21: 0 entries</title></rect>
 <rect x="594" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-22: 0 entries</title></rect>
-<rect x="594" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-23: 0 entries</title></rect>
-<rect x="594" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-24: 0 entries</title></rect>
-<rect x="594" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-25: 0 entries</title></rect>
+<a href="https://github.com/kreier/ESP32/commit/a45c860e36e6aa314ca0e78c821d0e701d5a0b60"><rect x="594" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-11-23: 9 entries
+[kreier/ESP32] expanded documentation
+[kreier/kreier.github.io] Update README.md
+[kreier/kreier.github.io] Update README.md
+[kreier/kreier.github.io] sniplet from 2020
+[kreier/python2018] Update requirements.txt
+[kreier/t-display] Update index.md
+[kreier/t-display] implemented issue 493 solution
+[kreier/t-display] adjusted for smaller screen
+[kreier/t-display] display test examples</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/45c0d629644c47888835e05fc658033922e0971a"><rect x="594" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-11-24: 7 entries
+[kreier/benchmark] results for Raspberry Pi 3
+[kreier/t-display] highlight important points
+[kreier/t-display] extended documentation
+[kreier/t-display] binaries are included in the release
+[kreier/t-display] Merge pull request #1 from kreier/bodmer
+[kreier/t-display] easy install firmware with st7789
+[kreier/t-display] simplified instructions</title></rect></a>
+<a href="https://github.com/kreier/ESP32/commit/6b972e408646f205ba4297ed3272a3f4077f61ee"><rect x="594" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-11-25: 3 entries
+[kreier/ESP32] corrected link
+[kreier/t-display] Merge branch 'main' of https://github.com/kreier/t-display into main
+[kreier/t-display] switch of backlight added (T-Display)</title></rect></a>
 <rect x="594" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-26: 0 entries</title></rect>
-<rect x="594" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-27: 0 entries</title></rect>
+<a href="https://github.com/kreier/ESP32/commit/1fc2f0cc970fe48a85295cd71c3bc7e8e78839fd"><rect x="594" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-11-27: 12 entries
+[kreier/ESP32] Merge branch 'master' of https://github.com/kreier/ESP32
+[kreier/ESP32] expanded power consumption measurements
+[kreier/remote] Update _config.yml
+[kreier/t-display] update i2c connector
+[kreier/t-display] resource image files
+[kreier/t-display] updated private logo
+[kreier/T400] updated I2C connector definition
+[kreier/T400] layout fix 2020/11/27
+[kreier/T400] fix
+[kreier/T400] updated website documentation
+[kreier/T400] images relocated
+[kreier/remote] README.md</title></rect></a>
 <rect x="594" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-28: 0 entries</title></rect>
 <rect x="606" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-29: 0 entries</title></rect>
-<rect x="606" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-30: 0 entries</title></rect>
-<rect x="606" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-01: 0 entries</title></rect>
-<rect x="606" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-02: 0 entries</title></rect>
+<a href="https://github.com/kreier/ESP32/commit/17b371e81680493507929eb0663790b162517280"><rect x="606" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-11-30: 2 entries
+[kreier/ESP32] cleanup
+[kreier/ESP32] new values</title></rect></a>
+<a href="https://github.com/kreier/t-display/commit/d482aedb2a1eee8af5f1974c5160094587b6361f"><rect x="606" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-12-01: 2 entries
+[kreier/t-display] Merge branch 'main' of https://github.com/kreier/t-display into main
+[kreier/t-display] simple start</title></rect></a>
+<a href="https://github.com/kreier/aisvn/commit/010702f66389bb5e4d58360e76eb8e7bcb772514"><rect x="606" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-12-02: 11 entries
+[kreier/aisvn] minor layout fixes
+[kreier/aisvn] remove two more analogWrite()
+[kreier/aisvn] removed Serial1 and analogWrite for ESP32
+[kreier/aisvn] hopefully only "unused" warnings but successful build
+[kreier/aisvn] any meaningful code removed ...
+[kreier/aisvn] no inclusion - but Travis fails ...
+[kreier/aisvn] T300 testrun with Travis
+[kreier/T300] updated with inspiration from aisvn
+[kreier/T300] extended documentation
+[kreier/T410] Create .gitignore
+[kreier/T410] README.md</title></rect></a>
 <rect x="606" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-03: 0 entries</title></rect>
-<rect x="606" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-04: 0 entries</title></rect>
+<a href="https://github.com/kreier/dat.bike/commit/3944bf4d30b72124eeb98e7590fdf78d14d48b9a"><rect x="606" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-12-04: 11 entries
+[kreier/dat.bike] Set theme jekyll-theme-cayman
+[kreier/dat.bike] calculations 2020/12/04
+[kreier/dat.bike] Initial commit
+[kreier/kreier.github.io] extended labs with link and graph
+[kreier/labs] fixed optics, rearranged order
+[kreier/labs] included titration December 2020
+[kreier/labs] included Derricks EE
+[kreier/labs] included EE from Derrick
+[kreier/labs] EE Derrick 2020
+[kreier/kreier.github.io] README.md
+[kreier/labs] README.md</title></rect></a>
 <rect x="606" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-05: 0 entries</title></rect>
 <text x="618" y="12" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
 <rect x="618" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-06: 0 entries</title></rect>
@@ -362,25 +1201,60 @@ Third Sabbatical</title></rect></a>
 <rect x="618" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-08: 0 entries</title></rect>
 <rect x="618" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-09: 0 entries</title></rect>
 <rect x="618" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-10: 0 entries</title></rect>
-<rect x="618" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-11: 0 entries</title></rect>
+<a href="https://github.com/kreier/aisvn-solarpower/commit/6a6ca0cdf88a2c37362a80541ad556c80f0962ed"><rect x="618" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-12-11: 4 entries
+[kreier/aisvn-solarpower] Display the license and latest release
+[kreier/dat.bike] geometrics comparison
+[kreier/solarmeter] included license and releases
+[kreier/T400] i2c connector</title></rect></a>
 <rect x="618" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-12: 0 entries</title></rect>
 <rect x="630" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-13: 0 entries</title></rect>
 <rect x="630" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-14: 0 entries</title></rect>
-<rect x="630" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-15: 0 entries</title></rect>
-<rect x="630" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-16: 0 entries</title></rect>
-<rect x="630" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-17: 0 entries</title></rect>
+<a href="https://github.com/kreier/history/commit/67a0be6ae1dd66de3ab2107e52cf2066f91fa5f5"><rect x="630" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-12-15: 8 entries
+[kreier/history] included 2020 with ESP32
+[kreier/kreier.org-aqi] update to ignore Synology Diskstation
+[kreier/kreier.org-aqi] Merge pull request #1 from kreier/master
+[kreier/kreier.org-aqi] date an location updated
+[kreier/kreier.org-aqi] documents relocated
+[kreier/ultrasonic] Set theme jekyll-theme-cayman
+[kreier/kreier.org-aqi] README.md
+[kreier/ultrasonic] README.md</title></rect></a>
+<a href="https://github.com/kreier/407B/commit/cb59e424e8882b698eac060e15fbe69b8a2c7b51"><rect x="630" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-12-16: 11 entries
+[kreier/407B] repository, branch and folder fixed
+[kreier/aisvn-solarpower] Update SolarAISVN.ino
+[kreier/rfid] Merge pull request #2 from kreier/master
+[kreier/rfid] branch and repository have been renamed
+[kreier/rfid] Update README.md
+[kreier/rfid] Merge pull request #1 from kreier/main
+[kreier/rfid] Update README.md
+[kreier/temp.hofkoh.de] expanded list of materials
+[kreier/407B] README.md
+[kreier/rfid] README.md
+[kreier/temp.hofkoh.de] README.md</title></rect></a>
+<a href="https://github.com/kreier/asa/commit/00fcd70beee2c009988193b5fdac827551cb467c"><rect x="630" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-12-17: 7 entries
+[kreier/asa] fixed timeline from 2019
+[kreier/asa] licence badge and release indicator
+[kreier/asa] extended timeline
+[kreier/ESP8266] Merge pull request #1 from kreier/master
+[kreier/ESP8266] documented display driver and i2c scanner
+[kreier/ml] Update .gitignore for Synology Diskstation
+[kreier/T300] build fails ...</title></rect></a>
 <rect x="630" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-18: 0 entries</title></rect>
 <rect x="630" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-19: 0 entries</title></rect>
 <rect x="642" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-20: 0 entries</title></rect>
 <rect x="642" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-21: 0 entries</title></rect>
-<rect x="642" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-22: 0 entries</title></rect>
+<a href="https://github.com/kreier/physics/blob/main/README.md"><rect x="642" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-12-22: 1 entry
+[kreier/physics] README.md</title></rect></a>
 <rect x="642" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-23: 0 entries</title></rect>
 <rect x="642" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-24: 0 entries</title></rect>
 <rect x="642" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-25: 0 entries</title></rect>
 <rect x="642" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-26: 0 entries</title></rect>
 <rect x="654" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-27: 0 entries</title></rect>
 <rect x="654" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-28: 0 entries</title></rect>
-<rect x="654" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-29: 0 entries</title></rect>
+<a href="https://github.com/kreier/aqi/commit/fe1971c824167561804906bc9aeb52db7171b8a5"><rect x="654" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-12-29: 4 entries
+[kreier/aqi] updated list, included 4872940
+[kreier/aqi] Merge pull request #1 from kreier/master
+[kreier/aqi] updated with some recent data
+[kreier/aqi] some recent measured data with new interface</title></rect></a>
 <rect x="654" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-30: 0 entries</title></rect>
 <rect x="654" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-31: 0 entries</title></rect>
 <rect x="30" y="112" width="8" height="8" fill="#30a14e" rx="1" ry="1"/>

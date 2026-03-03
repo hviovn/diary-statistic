@@ -2,228 +2,958 @@
 <text x="5" y="39" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="63" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="87" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
-<a href="https://kreier.github.io/quartz/Diary/2024"><rect x="30" y="30" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2024-01-01: 1 entry
-2024</title></rect></a>
+<a href="https://kreier.github.io/quartz/Diary/2024"><rect x="30" y="30" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2024-01-01: 6 entries
+2024
+[kreier/circuitpython] Revert "change MADCTL 0x68 to 0x60 from BGR back to RGB"
+[kreier/ESP8266] almost done, just percent not working
+[kreier/T-Display_S3] what I learned about Circuitpython end of 2023
+[kreier/circuitpython] README.md
+[kreier/T-Display_S3] README.md</title></rect></a>
 <rect x="30" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-02: 0 entries</title></rect>
-<rect x="30" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-03: 0 entries</title></rect>
-<rect x="30" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-04: 0 entries</title></rect>
-<rect x="30" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-05: 0 entries</title></rect>
-<rect x="30" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-06: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/3996573d082e863a22cfbedaecd85522302e2774"><rect x="30" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-03: 1 entry
+[kreier/benchmark] newer results, new software, new 2696v3</title></rect></a>
+<a href="https://github.com/kreier/ESP8266/commit/729d0b4c70f3460478aa71252e879a5cd3c99124"><rect x="30" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-04: 3 entries
+[kreier/ESP8266] fixed time measurement for longer periods
+[kreier/timeline] Merge pull request #14 from kreier/3.6
+[kreier/timeline] fixed vietnamese translation with feedback from Susana and Thương</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/009f914498db4fac2be84a9c1b9971db081d9fb1"><rect x="30" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-05: 1 entry
+[kreier/timeline] initial fixes for 4.0 - 2024</title></rect></a>
+<a href="https://github.com/kreier/128x64/commit/beda7ff61f7e3e05aef2d0eadc9c321839406871"><rect x="30" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-01-06: 9 entries
+[kreier/128x64] fixed mistakes, WF1 is a good start for 32px displays
+[kreier/128x64] expanded documentation
+[kreier/128x64] Update README.md
+[kreier/128x64] Initial commit
+[kreier/t-display] Merge branch 'main' of https://github.com/kreier/t-display
+[kreier/t-display] fixed pin errors, added battery pin
+[kreier/t-display] fixed mistakes in MADCTL and image links
+[kreier/t-display] document MADCTL
+[kreier/timeline] ignore created PDFs until submitted intentionally</title></rect></a>
 <text x="42" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
-<rect x="42" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-07: 0 entries</title></rect>
-<rect x="42" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-08: 0 entries</title></rect>
-<rect x="42" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-09: 0 entries</title></rect>
-<rect x="42" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-10: 0 entries</title></rect>
-<a href="https://kreier.github.io/quartz/Projects/Computer/HP-ProDesk-600-G4-mini-i5-8500T"><rect x="42" y="66" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2024-01-11: 1 entry
-HP ProDesk 600 G4 mini i5-8500T</title></rect></a>
-<rect x="42" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-12: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/9259a59caf9a8240a9f12ec0e9548fd63ad562e9"><rect x="42" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-07: 6 entries
+[kreier/benchmark] nbench instructions for Windows and Linux - macOS follows
+[kreier/creators] add unique creation_id for the 4M variant of the T-Display ESP32
+[kreier/my_raspberry_pi] Create README.md
+[kreier/my_raspberry_pi] adjusted settings for 3.5 display from 2020-11-20
+[kreier/my_raspberry_pi] Initial commit
+[kreier/creators] README.md</title></rect></a>
+<a href="https://github.com/kreier/t-display/commit/555edc01e5d94e83c41992542a60f731a7e5ca6d"><rect x="42" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-08: 1 entry
+[kreier/t-display] the oled 128x64 arrived!</title></rect></a>
+<a href="https://github.com/kreier/128x64/commit/446f239175ffb16187f7420e45c97781101edc68"><rect x="42" y="42" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2024-01-09: 29 entries
+[kreier/128x64] flying toasters working without PROGMEM
+[kreier/128x64] 3 examples for circuitpython on oled
+[kreier/128x64] Create hello_world.py
+[kreier/AI-C3] schematics from January 2022
+[kreier/AI-C3] Merge branch 'main' of https://github.com/kreier/AI-C3
+[kreier/AI-C3] documentation of the board part 1
+[kreier/AI-C3] describe process and inspiration from DevKit C3 and Lolin S3
+[kreier/AI-C3] fix dimensions
+[kreier/AI-C3] updated images
+[kreier/AI-C3] description of the idea
+[kreier/AI-C3] hopefully C was the correct template
+[kreier/AI-C3] Initial commit
+[kreier/ESP8266] adapted for rp2040
+[kreier/my_raspberry_pi] all 3 Raspberry Pi's and the Jetson Nano
+[kreier/t-display] Create oled_128x64_button.py
+[kreier/T100] description updated
+[kreier/T100] remotely controlled again 2024-01-09
+[kreier/T100] include latest update to library from 2018
+[kreier/T100] motorshield library 2016/10/16
+[kreier/T100] reactivated 2024
+[kreier/T100] works with BlueDuino
+[kreier/T100] udated to work with BlueDuino
+[kreier/T100] speed for BT is 38400
+[kreier/T100] workflow build no longer with TRAVIS but within github
+[kreier/T100] Update README.md for Bluetooth controller
+[kreier/T100] Create .gitignore 2024-01-09
+[kreier/T300] build status now done by Github, no longer Travis CI
+[kreier/timeline] include other projects and products in the decsription
+[kreier/AI-C3] README.md</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/0e20af87241b56740b01f34907c77c01b0eeb1b3"><rect x="42" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-10: 5 entries
+[kreier/benchmark] include updated results in markdown list
+[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
+[kreier/benchmark] updated results early 2024
+[kreier/T100] link correct app: Blueduino
+[kreier/timeline] started French translation</title></rect></a>
+<a href="https://kreier.github.io/quartz/Projects/Computer/HP-ProDesk-600-G4-mini-i5-8500T"><rect x="42" y="66" width="10" height="10" fill="#ef9a9a" rx="2" ry="2"><title>2024-01-11: 10 entries
+HP ProDesk 600 G4 mini i5-8500T
+[kreier/arduino] programs from October-December 2015
+[kreier/arduino] projects from 2023
+[kreier/arduino] projects from 2022
+[kreier/arduino] projects from 2021
+[kreier/arduino] document software from 2019
+[kreier/arduino] update programs from 2020
+[kreier/arduino] TFT paint program from 2014
+[kreier/arduino] document drivers for the display
+[kreier/arduino] Create tft_2.4_320x240_ILI9341_test.ino</title></rect></a>
+<a href="https://github.com/kreier/solarmeter/commit/f58d4c2de9b6f9c815f0fbe016a346e2e03b3281"><rect x="42" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-12: 2 entries
+[kreier/solarmeter] relabeled latest working edition as v1.0
+[kreier/solarmeter] included updated build process for pages</title></rect></a>
 <rect x="42" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-13: 0 entries</title></rect>
 <rect x="54" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-14: 0 entries</title></rect>
 <rect x="54" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-15: 0 entries</title></rect>
-<rect x="54" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-16: 0 entries</title></rect>
-<rect x="54" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-17: 0 entries</title></rect>
-<rect x="54" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-18: 0 entries</title></rect>
-<rect x="54" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-19: 0 entries</title></rect>
-<rect x="54" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-20: 0 entries</title></rect>
+<a href="https://github.com/kreier/arduino/commit/1ac9a9d6025f1699abb6679f00e13212140af0b8"><rect x="54" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-16: 2 entries
+[kreier/arduino] tft display works
+[kreier/arduino] works with library UTFTGLUE from MCUFRIEND_kbv</title></rect></a>
+<a href="https://github.com/kreier/beschleunigungssensor/commit/4ec69b97a69be027ec83c177af108875b5fa8226"><rect x="54" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-01-17: 9 entries
+[kreier/beschleunigungssensor] Create static.yml
+[kreier/beschleunigungssensor] Create privacy.html
+[kreier/beschleunigungssensor] Add files via upload
+[kreier/beschleunigungssensor] Create README.md
+[kreier/beschleunigungssensor] Update README.md
+[kreier/beschleunigungssensor] include Synology
+[kreier/beschleunigungssensor] Initial commit
+[kreier/timeline] first test with Russian and Japanese
+[kreier/beschleunigungssensor] README.md</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/cc2b23c7cef4a91171031069ba9a3a7b4865fe63"><rect x="54" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-18: 6 entries
+[kreier/timeline] test_multibyte_jpn.py actually works!
+[kreier/timeline] tackle down issues with Japanese characters
+[kreier/timeline] fixed 7 smaller mistakes
+[kreier/timeline] fixed few minor mistakes in Japanese translation
+[kreier/timeline] completed Japanese edition (first translation, font needs fix ...)
+[kreier/timeline] completed first translation to Russian</title></rect></a>
+<a href="https://github.com/kreier/robotics/commit/110dca823327d67e13502808ce76697d36f5470a"><rect x="54" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-01-19: 9 entries
+[kreier/robotics] sorted code examples
+[kreier/robotics] include code examples
+[kreier/robotics] Add files via upload
+[kreier/robotics] Create jekyll-gh-pages.yml
+[kreier/robotics] initial outline
+[kreier/robotics] good for C (Arduino ?) and Synology, but CircuitPython?
+[kreier/robotics] Initial commit
+[kreier/timeline] continue investigating rendering issues with special characters
+[kreier/robotics] README.md</title></rect></a>
+<a href="https://github.com/kreier/huidu_hd-wf4/commit/7fa7c9040a312f21765d668ab0de90b29be57d81"><rect x="54" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-20: 4 entries
+[kreier/huidu_hd-wf4] hardware and product description
+[kreier/huidu_hd-wf4] Update .gitignore
+[kreier/huidu_hd-wf4] Initial commit
+[kreier/huidu_hd-wf4] README.md</title></rect></a>
 <rect x="66" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-21: 0 entries</title></rect>
 <rect x="66" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-22: 0 entries</title></rect>
-<rect x="66" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-23: 0 entries</title></rect>
+<a href="https://github.com/kreier/t-display/commit/6323629f686e72a6f536749cdcf02d995548d966"><rect x="66" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-23: 1 entry
+[kreier/t-display] first indications of RAM speed PSRAM</title></rect></a>
 <rect x="66" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-24: 0 entries</title></rect>
-<rect x="66" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-25: 0 entries</title></rect>
-<rect x="66" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-26: 0 entries</title></rect>
-<rect x="66" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-27: 0 entries</title></rect>
-<rect x="78" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-28: 0 entries</title></rect>
-<rect x="78" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-29: 0 entries</title></rect>
-<rect x="78" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-30: 0 entries</title></rect>
-<rect x="78" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-31: 0 entries</title></rect>
-<rect x="78" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-01: 0 entries</title></rect>
-<rect x="78" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-02: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/d59309d30cb90290c6dc1c2162d5079f786c701a"><rect x="66" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-25: 1 entry
+[kreier/timeline] included Haggai and Zechariah</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/aa15aabc864735a70b9c5e2b05961a21712478f1"><rect x="66" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-26: 2 entries
+[kreier/timeline] finally working with CJK languages
+[kreier/timeline] Create example.py for forum request at reportlabs</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/bdb7019f22860208811f679f732075ddc1573127"><rect x="66" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-27: 6 entries
+[kreier/timeline] relocated Ezra and Nehemiah to comply with CJK glyphs
+[kreier/timeline] added Zerubbabel
+[kreier/timeline] first iteration of Korean translation
+[kreier/timeline] japanese workflow reintegrated into regular file
+[kreier/timeline] updated for reorganized fonts
+[kreier/timeline] reorganized fonts</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/d4fb1cf850f3a722849aa5706d7a4e4bb8f0702a"><rect x="78" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-28: 3 entries
+[kreier/benchmark] include Tanix TX3 mini
+[kreier/timeline] outline for simplified chinese (SC) started
+[kreier/timeline] completed google-translate Korean dictionary</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/5c2427b74d7f7c8fcc8d6eed3d6c649dbe92344c"><rect x="78" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-29: 3 entries
+[kreier/timeline] updated rendering of BCE and CE, there is no year zero!
+[kreier/timeline] refined the report of Job
+[kreier/timeline] first steps in chinese</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/124b4711ab57dbb8432c3b12b583606e12186e99"><rect x="78" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-01-30: 8 entries
+[kreier/timeline] Update README.md
+[kreier/timeline] include current translation and language (CJK) support in January 2024
+[kreier/timeline] Merge pull request #15 from kreier/4.0
+[kreier/timeline] fixed many small details, mainly in Chinese and soviet union
+[kreier/timeline] first results for zh-CN with Google translate and some refinements
+[kreier/timeline] created automated script for translation
+[kreier/timeline] included Iloko
+[kreier/timeline] included information about the translation efforts</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/a6c1c051583ae9399bb0ba401c9fc805cd08f860"><rect x="78" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-31: 2 entries
+[kreier/timeline] 40mm wider total paper, details for Iloko
+[kreier/timeline] better translation to Iloko</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/17cdfa30458b389c765ad34497608dab7dc549a6"><rect x="78" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-01: 6 entries
+[kreier/timeline] little adjustments for relocating Job
+[kreier/timeline] updated files for Iloko (Ilocano)
+[kreier/timeline] initial support for Finish (Suomi)
+[kreier/timeline] initial support for Arabic
+[kreier/timeline] included Adams chart into size comparison
+[kreier/timeline] include Iloko (Ilocano)</title></rect></a>
+<a href="https://github.com/kreier/circuitpython-org/blob/main/README.md"><rect x="78" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-02: 1 entry
+[kreier/circuitpython-org] README.md</title></rect></a>
 <a href="https://kreier.github.io/quartz/Projects/Computer/MXQ-Pro-4K"><rect x="78" y="90" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2024-02-03: 1 entry
 MXQ Pro 4K</title></rect></a>
 <text x="90" y="12" font-family="sans-serif" font-size="8" fill="#767676">Feb</text>
-<rect x="90" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-04: 0 entries</title></rect>
-<rect x="90" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-05: 0 entries</title></rect>
-<rect x="90" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-06: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/8f9ac6df329fce7c8aff96a1eeb715a2b56db4cd"><rect x="90" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-04: 6 entries
+[kreier/benchmark] Update i3-10100.txt
+[kreier/benchmark] new results
+[kreier/benchmark] included sbc-bench
+[kreier/t-display] new build for T-Display S3 has BUTTON0 and BUTTON1
+[kreier/t-display] updated for T-Display S3
+[kreier/t-display] README.md</title></rect></a>
+<a href="https://github.com/kreier/arduino/commit/213f631d10f65ae687044eff708691641c8f4856"><rect x="90" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-05: 6 entries
+[kreier/arduino] Create README.md
+[kreier/arduino] updated information
+[kreier/arduino] testing speed of RAM and PSRAM
+[kreier/benchmark] second run
+[kreier/timeline] added notes column
+[kreier/arduino] README.md</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/ff621e67f872a7219328fe12282e686cb325e430"><rect x="90" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-02-06: 9 entries
+[kreier/timeline] local version for direct download over github-pages
+[kreier/timeline] include local japanese translation for direct download
+[kreier/timeline] a few improvements inspired from the website version
+[kreier/timeline] updated version for the project website
+[kreier/timeline] updated translations and languages
+[kreier/timeline] Improved Japanese translation
+[kreier/timeline] shortened some Japanese expressions to make it fit
+[kreier/timeline] 38 lines correctly translated to Japanese
+[kreier/timeline] removed spaces behind names in Japanese</title></rect></a>
 <rect x="90" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-07: 0 entries</title></rect>
 <rect x="90" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-08: 0 entries</title></rect>
-<rect x="90" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-09: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/c47788bc8bcb5136116bc36c9d645930a66c683c"><rect x="90" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-09: 2 entries
+[kreier/benchmark] start with phoronix
+[kreier/benchmark] recent results</title></rect></a>
 <rect x="90" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-10: 0 entries</title></rect>
 <rect x="102" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-11: 0 entries</title></rect>
-<a href="https://kreier.github.io/quartz/Projects/Computer/Raspberry-Pi-3-with-1-GB-RAM"><rect x="102" y="30" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2024-02-12: 1 entry
-Raspberry Pi 3 with 1 GB RAM</title></rect></a>
-<rect x="102" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-13: 0 entries</title></rect>
+<a href="https://kreier.github.io/quartz/Projects/Computer/Raspberry-Pi-3-with-1-GB-RAM"><rect x="102" y="30" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2024-02-12: 6 entries
+Raspberry Pi 3 with 1 GB RAM
+[kreier/benchmark] include RTX 3070 Ti
+[kreier/benchmark] Update README.md
+[kreier/benchmark] results for UHD 620 and 630
+[kreier/benchmark] new fluidX3D benchmark
+[kreier/benchmark] new 64bit results Raspberry Pi 3</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/59a2a8a98ab2e3046d99b380cf5c5d8ecc7a4077"><rect x="102" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-02-13: 9 entries
+[kreier/benchmark] included graphs
+[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
+[kreier/benchmark] include more SBCs
+[kreier/benchmark] include GTX 960
+[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
+[kreier/benchmark] included more SBCs and systems
+[kreier/benchmark] include AMD RX 470 4GB
+[kreier/benchmark] Test results from M1 8CU 16GB RAM
+[kreier/benchmark] include Quadro M1000M</title></rect></a>
 <rect x="102" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-14: 0 entries</title></rect>
-<rect x="102" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-15: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/035b18dffe1eadb90c2524b3c6b8c7dd41668265"><rect x="102" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-15: 1 entry
+[kreier/timeline] small Finnish update</title></rect></a>
 <rect x="102" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-16: 0 entries</title></rect>
 <rect x="102" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-17: 0 entries</title></rect>
 <rect x="114" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-18: 0 entries</title></rect>
-<rect x="114" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-19: 0 entries</title></rect>
-<rect x="114" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-20: 0 entries</title></rect>
-<rect x="114" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-21: 0 entries</title></rect>
-<rect x="114" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-22: 0 entries</title></rect>
-<rect x="114" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-23: 0 entries</title></rect>
-<rect x="114" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-24: 0 entries</title></rect>
+<a href="https://github.com/kreier/logo/commit/e44769a0d8674b999786a97c786bfc081ddb7e58"><rect x="114" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-19: 3 entries
+[kreier/logo] more examples from November 2019
+[kreier/logo] documentation saiht.de
+[kreier/logo] updated documentation since 2019</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/a0c61536e419bb8fbe226f425353e36966d5a071"><rect x="114" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-20: 3 entries
+[kreier/benchmark] three more results R24 8500T 6820HQ 2696v3
+[kreier/benchmark] R23 result for 2696 v3
+[kreier/benchmark] included Cinebench 2024</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/2207c92fc2c10c8d086a0ec3ee71e2af8d49ff5c"><rect x="114" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-21: 4 entries
+[kreier/benchmark] include result for RX470
+[kreier/timeline] Merge pull request #16 from kreier/4.1
+[kreier/timeline] Finnish is reviewed for 4.1
+[kreier/timeline] updated Finnish translation</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/ee9bddf69d05ab27506705dda432039da24644fe"><rect x="114" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-22: 4 entries
+[kreier/benchmark] included recent results RX470
+[kreier/benchmark] Results for some SBCs and desktops
+[kreier/timeline] imported font to support Sinhala
+[kreier/timeline] first step with Sinhalese translation</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/f657119b0833d8bdfd2f7b7ebad0d816f384631d"><rect x="114" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-23: 3 entries
+[kreier/benchmark] results for RX 6600
+[kreier/benchmark] result from RX 6600 - limited by memory speed?
+[kreier/benchmark] include RX 6600</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/2aab555444d87283322cd142f7364b34548464e4"><rect x="114" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-24: 1 entry
+[kreier/benchmark] include OpenCL names for INT8 to INT64 and clinfo</title></rect></a>
 <rect x="126" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-25: 0 entries</title></rect>
-<rect x="126" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-26: 0 entries</title></rect>
-<rect x="126" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-27: 0 entries</title></rect>
-<rect x="126" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-28: 0 entries</title></rect>
-<rect x="126" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-29: 0 entries</title></rect>
-<rect x="126" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-01: 0 entries</title></rect>
-<rect x="126" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-02: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/490d777d8f3225ea87b550c08d01c015f6601d74"><rect x="126" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-26: 1 entry
+[kreier/benchmark] updated results for UHD 620 with OpenCL 1.2</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/9529084eac59c1b9de804911f4abdbaac43b766e"><rect x="126" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-02-27: 11 entries
+[kreier/benchmark] R23 result 8500T and added core-count
+[kreier/timeline] include pictures
+[kreier/timeline] add tests from source reportlab 4.1.0 for gradient
+[kreier/timeline] changes for 4.2 - import pictures
+[kreier/timeline] updated files February 2024
+[kreier/timeline] Merge pull request #17 from kreier/4.1
+[kreier/timeline] fix last king of Judah for color scheme import
+[kreier/timeline] information to v4.1
+[kreier/timeline] fixed Zedekia - Zedekiah
+[kreier/timeline] refined Sinhalese translation
+[kreier/timeline] update a few names in Sinhala</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/2968c3a6a6389d03a7447ec973eccfa3b0ba8491"><rect x="126" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-28: 5 entries
+[kreier/benchmark] Add files via upload
+[kreier/benchmark] include graph, fix markdown for links
+[kreier/benchmark] updated increased speed results
+[kreier/benchmark] updated results for R23 and 2024
+[kreier/timeline] include 3 images</title></rect></a>
+<a href="https://github.com/kreier/location24/commit/bff679a2cdf87395ef53446db6db75591f1e0286"><rect x="126" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-29: 6 entries
+[kreier/location24] Update README.md
+[kreier/location24] Add files via upload
+[kreier/location24] Initial commit
+[kreier/timeline] included 5 world kingdoms from Daniel 2
+[kreier/timeline] improved fading, fixed king of the north
+[kreier/timeline] finer gradient for fading color boxes</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/ef21633d0163d5e9a94f8f978045d572870101f1"><rect x="126" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2024-03-01: 20 entries
+[kreier/timeline] Merge pull request #20 from kreier/4.2
+[kreier/timeline] FINALLY fix the year bug with Jared - since October 2023!
+[kreier/timeline] bugfix, moved family tree up and right
+[kreier/timeline] added Vietnamese and German translation of Terah family
+[kreier/timeline] Merge branch '4.2' of https://github.com/kreier/timeline into 4.2
+[kreier/timeline] autotranslate the new 73 lines
+[kreier/timeline] Merge pull request #19 from kreier/main
+[kreier/timeline] completed Ishmaels Family
+[kreier/timeline] changed persons to people, include items
+[kreier/timeline] included Terah's family tree
+[kreier/timeline] Merge pull request #18 from kreier/4.2
+[kreier/timeline] add some statistic data
+[kreier/timeline] document January 2024
+[kreier/timeline] updates for v4.0
+[kreier/timeline] include reference to comparison of the same time frame after 15 years
+[kreier/timeline] separate people from books and items/things
+[kreier/timeline] fix transition Greece-Rome from Israels perspective
+[kreier/timeline] moved king north/south up a bit to separate from Daniel 2
+[kreier/timeline] include 400 years of infliction
+[kreier/timeline] update Daniel 2 and Daniel 7 details</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/881b688a31ffb3001c27c37e73319abe9fab4839"><rect x="126" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-02: 2 entries
+[kreier/timeline] include vector version of Daniel 2 image, and details
+[kreier/timeline] more space for the 12 sons of Ishmael</title></rect></a>
 <text x="138" y="12" font-family="sans-serif" font-size="8" fill="#767676">Mar</text>
-<rect x="138" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-03: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/8e654d16b7e8e71457b8d1b18a63111cd831979b"><rect x="138" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-03: 1 entry
+[kreier/timeline] progress documentation with Terah included</title></rect></a>
 <rect x="138" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-04: 0 entries</title></rect>
 <rect x="138" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-05: 0 entries</title></rect>
-<rect x="138" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-06: 0 entries</title></rect>
-<rect x="138" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-07: 0 entries</title></rect>
-<rect x="138" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-08: 0 entries</title></rect>
-<rect x="138" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-09: 0 entries</title></rect>
-<rect x="150" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-10: 0 entries</title></rect>
-<rect x="150" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-11: 0 entries</title></rect>
-<rect x="150" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-12: 0 entries</title></rect>
-<rect x="150" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-13: 0 entries</title></rect>
-<rect x="150" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-14: 0 entries</title></rect>
-<rect x="150" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-15: 0 entries</title></rect>
-<rect x="150" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-16: 0 entries</title></rect>
-<rect x="162" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-17: 0 entries</title></rect>
-<rect x="162" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-18: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/883fc195d26fe953d81c3fda0371df25b6406c6e"><rect x="138" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-06: 1 entry
+[kreier/timeline] 16 new details added</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/3a98c4bb08718c0cf778643bbf5cd040f6ed11ca"><rect x="138" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-07: 2 entries
+[kreier/benchmark] include Xeon E3-1226 v3
+[kreier/timeline] included people of the antique, Daniel 2 details</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/8dc54f4a6757493c85255358b4ca95a056486334"><rect x="138" y="78" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2024-03-08: 24 entries
+[kreier/timeline] Updated description of v4.2 and included permalinks
+[kreier/timeline] English v4.2
+[kreier/timeline] static file names with QR code March 2024
+[kreier/timeline] Merge pull request #24 from kreier/4.2
+[kreier/timeline] Delete latest directory
+[kreier/timeline] Merge pull request #23 from kreier/main
+[kreier/timeline] qr codes for static latest editions
+[kreier/timeline] Delete docs/latest directory
+[kreier/timeline] different link with German edition
+[kreier/timeline] shorter link with github.io
+[kreier/timeline] include first steps for pernalink
+[kreier/timeline] First edition with QR code permalink
+[kreier/timeline] file location for static latest edition
+[kreier/timeline] Merge pull request #22 from kreier/4.2
+[kreier/timeline] simplified font import and language glyph support
+[kreier/timeline] Merge pull request #21 from kreier/4.2
+[kreier/timeline] items are actually objects
+[kreier/timeline] automatically scale down text if it does not fit the box
+[kreier/timeline] simplified drawing of triangles for events
+[kreier/timeline] add triangle indicators
+[kreier/timeline] include 5 pixel images, now from a list
+[kreier/timeline] separate reference events from objects/items
+[kreier/timeline] fix text issue Daniel2 image for German
+[kreier/timeline] add 5 new images, cleanup</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/e14d198940e66eaea251ce9c694da67164e48f83"><rect x="138" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-09: 1 entry
+[kreier/timeline] updates for the French translation</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/35c44a95da8df3d276dbe0bc6c083d430670543f"><rect x="150" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-10: 3 entries
+[kreier/timeline] updated to match root folder, link to Colab Jupyter Notebook
+[kreier/timeline] include French
+[kreier/timeline] v4.3 with Daniel 2 preliminary</title></rect></a>
+<a href="https://github.com/kreier/wifi-car-esp8266/commit/896475e3d6849c336ac4e384ca650b10828d0aee"><rect x="150" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-11: 4 entries
+[kreier/wifi-car-esp8266] Update to Gradle 8.4
+[kreier/wifi-car-esp8266] Merge pull request #1 from lacour-vincent/master
+[kreier/Wificar24] Initial commit
+[kreier/wifi-car-esp8266] README.md</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/e2ba0d49d84fe2736efc7d353415fb2f54cb04bd"><rect x="150" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-03-12: 14 entries
+[kreier/benchmark] include i5-3320M
+[kreier/docs] better description of this repository
+[kreier/docs] example lines
+[kreier/docs] Update .gitignore
+[kreier/docs] Update jekyll-gh-pages.yml
+[kreier/docs] Create jekyll-gh-pages.yml
+[kreier/docs] start for the website
+[kreier/docs] Initial commit
+[kreier/timeline] fix some overlapping text in French
+[kreier/timeline] included Edom in Terah's family
+[kreier/timeline] reorganized layout, now 46 lines
+[kreier/timeline] change TAB to Comma, fix Temple thờ
+[kreier/timeline] change files tsv -&gt; csv
+[kreier/timeline] cleanup, preparation for pure CSV in Jupyter</title></rect></a>
+<a href="https://github.com/kreier/docs/commit/dbd349d58b230af86b50f01dfdf09ec52e7588ab"><rect x="150" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-03-13: 11 entries
+[kreier/docs] latest versions with updated QR code
+[kreier/docs] initial versions to be accessed with a QR code
+[kreier/ESP8266] adjusted for T400 robot with OLED
+[kreier/timeline] shift Daniel 2 image left/right for text
+[kreier/timeline] include support for Thai
+[kreier/timeline] include Igbo
+[kreier/timeline] new location for latest PDF files
+[kreier/timeline] update requirements
+[kreier/timeline] Merge pull request #25 from kreier/4.3
+[kreier/Wificar24] OLED and Wifi control work
+[kreier/Wificar24] Reactivate T400 after 3 years</title></rect></a>
+<a href="https://github.com/kreier/Wificar24/commit/97de51d16ff81d45bfdc853481ef48382f8caf19"><rect x="150" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-14: 6 entries
+[kreier/Wificar24] Stacked composition in a column with Jetpack starts working
+[kreier/Wificar24] slow progress in Jetbrains Compose
+[kreier/Wificar24] new logo, lock rotation to landscape
+[kreier/Wificar24] sketch a logo
+[kreier/Wificar24] Update .gitignore
+[kreier/Wificar24] creation of Kotlin project</title></rect></a>
+<a href="https://github.com/kreier/Wificar24/commit/ed0b7da55b666864583caf3b6e5f6b87c168e596"><rect x="150" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-03-15: 13 entries
+[kreier/Wificar24] Create jekyll-gh-pages.yml
+[kreier/Wificar24] Add files via upload
+[kreier/Wificar24] Create README.md
+[kreier/Wificar24] First running prototype for testing
+[kreier/Wificar24] Test works - the robot runs!
+[kreier/Wificar24] Add a stop button. onRelease() is not there, action listener ...
+[kreier/Wificar24] Merge pull request #2 from kreier/simplified
+[kreier/Wificar24] Update Wificar24_AP.ino
+[kreier/Wificar24] Update State with remember &#123; mutableStateOf( works!
+[kreier/Wificar24] Update .gitignore
+[kreier/Wificar24] SVG arrows for direction input
+[kreier/Wificar24] Simplified toolbar full width
+[kreier/Wificar24] First showing of a toolbar with Preview</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/ad9148f24c09362b3ec2cbf1d971fbdfd2ce3d23"><rect x="150" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-16: 2 entries
+[kreier/timeline] added support for Korean script for ko Google translate
+[kreier/timeline] included autotranslate function</title></rect></a>
+<a href="https://github.com/kreier/docs/commit/a00426ee2ed7c415f688e284b8c082208d7886b8"><rect x="162" y="18" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-03-17: 13 entries
+[kreier/docs] updated to 15 languages and Jupyter link
+[kreier/timeline] Merge branch 'main' of https://github.com/kreier/timeline
+[kreier/timeline] document 20th century
+[kreier/timeline] cleanup archive 2024-03-18
+[kreier/timeline] Update README.md for website with 15 direct links
+[kreier/timeline] updated requirements for cloud processing
+[kreier/timeline] adjusted Glyph Language support for better readability
+[kreier/timeline] fix font import
+[kreier/timeline] update requirement list for Jupyter
+[kreier/timeline] changes in glyphs for supported languages
+[kreier/timeline] support Jupyter, remove clutter
+[kreier/timeline] support 4 more languages with glyphs
+[kreier/timeline] update links to 15 translations, documentation Jupyter notebook</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/52a590289fbaa79cc0b53aa9128430a1875af51a"><rect x="162" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-03-18: 8 entries
+[kreier/timeline] Update README.md
+[kreier/timeline] reorganized, two more images
+[kreier/timeline] fixed missing svg pictures link
+[kreier/timeline] cleanup and bugfix
+[kreier/timeline] extended by 10 pictures
+[kreier/timeline] add a few dynasties, fix image list
+[kreier/Wificar24] reactivating local build for debug
+[kreier/Wificar24] updates for iteration 4</title></rect></a>
 <rect x="162" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-19: 0 entries</title></rect>
 <rect x="162" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-20: 0 entries</title></rect>
-<rect x="162" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-21: 0 entries</title></rect>
-<rect x="162" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-22: 0 entries</title></rect>
-<rect x="162" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-23: 0 entries</title></rect>
-<rect x="174" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-24: 0 entries</title></rect>
-<rect x="174" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-25: 0 entries</title></rect>
-<rect x="174" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-26: 0 entries</title></rect>
-<rect x="174" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-27: 0 entries</title></rect>
-<rect x="174" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-28: 0 entries</title></rect>
-<rect x="174" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-29: 0 entries</title></rect>
-<rect x="174" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-30: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/0dcbe5163b4d4c31fc1177dd24092abf1f157aec"><rect x="162" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-21: 6 entries
+[kreier/timeline] included left fade for periods
+[kreier/timeline] relocated items for better comparison
+[kreier/timeline] two additional images
+[kreier/timeline] include Chinese history
+[kreier/timeline] reorganized items, bug fix
+[kreier/timeline] add DNA and Haber process</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/3b18f7efbf571bdf9c4e1d226076fd25c934d2f3"><rect x="162" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-22: 1 entry
+[kreier/timeline] extended dictionary for 4.4</title></rect></a>
+<a href="https://github.com/kreier/docs/commit/2c12421a3814f89737449d67607ac637afccc635"><rect x="162" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-23: 3 entries
+[kreier/docs] update 4.4
+[kreier/timeline] update German translation 4.4
+[kreier/timeline] reorganized test translate, update</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/927665a6a8afa50233cd70c7d20b15d66b2531d2"><rect x="174" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-24: 3 entries
+[kreier/timeline] adjusted Vietnamese translation
+[kreier/timeline] include Siloam tunnel
+[kreier/timeline] Version 4.4</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/11f77f2691d762427fb61344aa7ec6a0c374e1ac"><rect x="174" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-25: 1 entry
+[kreier/timeline] documentation of image sources</title></rect></a>
+<a href="https://github.com/kreier/daniel2/commit/19f10a29f5a5796d20cf245b6613f8cc21aadb97"><rect x="174" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-03-26: 8 entries
+[kreier/daniel2] include folding arms asset
+[kreier/daniel2] finished internal RIG with inverse kinematics
+[kreier/daniel2] starting point with 2 poses
+[kreier/daniel2] some examples
+[kreier/daniel2] Update .gitignore
+[kreier/daniel2] Update README.md
+[kreier/daniel2] Initial commit
+[kreier/timeline] Merge pull request #26 from kreier/main</title></rect></a>
+<a href="https://github.com/kreier/docs/commit/c3665de0114ccf215f89ca58e7d1ab2924517a56"><rect x="174" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-03-27: 8 entries
+[kreier/docs] preliminary 4.5
+[kreier/docs] update to 4.5, change vn -&gt; vi
+[kreier/timeline] updated ilocano, reference cloud API
+[kreier/timeline] include Manetho, update Herodotus
+[kreier/timeline] include Amarna EA 330
+[kreier/timeline] update vn -&gt; vi
+[kreier/timeline] Merge pull request #27 from kreier/4.5
+[kreier/timeline] adjustments to the Vietnamese vi (not vn) version</title></rect></a>
+<a href="https://github.com/kreier/docs/commit/4abe74fea8ce7f0975bdd34bb4f0b58be3330062"><rect x="174" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-28: 3 entries
+[kreier/docs] link Vietnamese to new site
+[kreier/timeline] adjust language codes (from countries) and new timeline24 destination
+[kreier/timeline] link to new website timeline24.github.io</title></rect></a>
+<a href="https://github.com/kreier/docs/commit/7722acb8556ceabdf82c51fbebcb7db83d7f877f"><rect x="174" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-03-29: 9 entries
+[kreier/docs] new languages codes, new location
+[kreier/timeline] visualize possible 142 color fields
+[kreier/timeline] fixed correcting to proofreading
+[kreier/timeline] improved Sinhalese translation
+[kreier/timeline] compare progress June 2023 - March 2024
+[kreier/timeline] update link to new repository
+[kreier/timeline] language designations adjusted
+[kreier/timeline] last refinements for 4.5
+[kreier/docs] README.md</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/eed6757de231309b1bf39783a5f8d2f1550cacf4"><rect x="174" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-30: 6 entries
+[kreier/timeline] added initial support for Persian (Farsi)
+[kreier/timeline] updated Norwegian
+[kreier/timeline] Merge branch 'main' of https://github.com/kreier/timeline
+[kreier/timeline] update Korean translation
+[kreier/timeline] fixed links to PDFs, included links to releases
+[kreier/timeline] Update files_required.py with language codes</title></rect></a>
 <rect x="186" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-31: 0 entries</title></rect>
-<rect x="186" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-01: 0 entries</title></rect>
-<rect x="186" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-02: 0 entries</title></rect>
-<rect x="186" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-03: 0 entries</title></rect>
-<rect x="186" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-04: 0 entries</title></rect>
+<a href="https://github.com/kreier/codespaces-jupyter/commit/5b6b7e72d4f42df85bb48d5bc0d7e34d56bf00d5"><rect x="186" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-04-01: 5 entries
+[kreier/codespaces-jupyter] created 4 timelines in the browser
+[kreier/codespaces-jupyter] first codespace commit
+[kreier/codespaces-jupyter] Initial commit
+[kreier/timeline] refined some names of Caesars
+[kreier/codespaces-jupyter] README.md</title></rect></a>
+<a href="https://github.com/kreier/logo/commit/58ebcba953e940999ac58f425d5beb056ca740ee"><rect x="186" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-04-02: 6 entries
+[kreier/logo] Add files via upload
+[kreier/logo] Create README.md
+[kreier/logo] add 3D models of logo
+[kreier/logo] added 3D sketch
+[kreier/timeline] increase fontsize for year under pictures
+[kreier/timeline] updated French translation</title></rect></a>
+<a href="https://github.com/kreier/movies/commit/a7decf7c4176c760e7cba4583a83f5f66ddc7586"><rect x="186" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-04-03: 12 entries
+[kreier/movies] make import work after 3.5 years
+[kreier/movies] update to new requirements 2024
+[kreier/movies] start using Jupyter
+[kreier/movies] Create files_required.py
+[kreier/timeline] Update Chinese Mandarin translation
+[kreier/timeline] fix Gad_ (remove space from dictionary)
+[kreier/timeline] update translation
+[kreier/timeline] Merge branch 'main' of https://github.com/kreier/timeline
+[kreier/timeline] update Chinese Mandarin (simplified)
+[kreier/Wificar23] Create LICENSE
+[kreier/Wificar23] Create README.md
+[kreier/Wificar23] initial commit</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/e9691bc1c09bfc8aef4aa34f7b25117717af7f21"><rect x="186" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-04-04: 4 entries
+[kreier/timeline] translated with Azure AI Translate
+[kreier/timeline] include Chinese Cantonese
+[kreier/timeline] two text strings in a single request
+[kreier/timeline] explore Azure Translation API</title></rect></a>
 <rect x="186" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-05: 0 entries</title></rect>
-<rect x="186" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-06: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/9e363e556651b45f87d577256d565fad3fdfd2ce"><rect x="186" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-04-06: 1 entry
+[kreier/timeline] experimenting with Microsoft Translator</title></rect></a>
 <text x="198" y="12" font-family="sans-serif" font-size="8" fill="#767676">Apr</text>
 <rect x="198" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-07: 0 entries</title></rect>
 <rect x="198" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-08: 0 entries</title></rect>
 <rect x="198" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-09: 0 entries</title></rect>
 <rect x="198" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-10: 0 entries</title></rect>
-<rect x="198" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-11: 0 entries</title></rect>
-<rect x="198" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-12: 0 entries</title></rect>
-<rect x="198" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-13: 0 entries</title></rect>
-<rect x="210" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-14: 0 entries</title></rect>
-<rect x="210" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-15: 0 entries</title></rect>
-<rect x="210" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-16: 0 entries</title></rect>
-<rect x="210" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-17: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/3394ed5f67e5d5a163079381644cdb2ae8a44293"><rect x="198" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-04-11: 9 entries
+[kreier/timeline] include 2 additional pictures
+[kreier/timeline] include the Great Tribulation and Armageddon and Millenium
+[kreier/timeline] Create dictionary_fj.csv
+[kreier/timeline] increase font size for year of invention/change/object
+[kreier/timeline] pictures repositioned to be better visible
+[kreier/timeline] update Cantonese translation for Daniel 2
+[kreier/timeline] alternative source of Daniel 2 image
+[kreier/timeline] cleanup, replace CE with K.P. and BCE ...
+[kreier/timeline] updated version Ilocano 4.5</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/d5f441b61a0bf7c217f76701aff710093badbb30"><rect x="198" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-04-12: 8 entries
+[kreier/timeline] include Salamanca, bug fixes
+[kreier/timeline] fixed details in English and German
+[kreier/timeline] remove dublicates
+[kreier/timeline] include world population graph
+[kreier/timeline] include graph for world population last 2000 years
+[kreier/timeline] updated German translation
+[kreier/timeline] rearrange elements to reflect timely progress
+[kreier/timeline] refinements Great Tribulation</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/e74f8c771294b7a39e6df663fbfeadfcefe4e939"><rect x="198" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-04-13: 4 entries
+[kreier/timeline] fixed links, updated reference to pictures
+[kreier/timeline] Update README.md
+[kreier/timeline] Version 4.5
+[kreier/timeline] changes relabeled as 4.5</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/517e2dad02619648a88113b4d8220d9fdac2a932"><rect x="210" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-04-14: 1 entry
+[kreier/timeline] updated Ilocano and French</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/f98c7474bdc10d4e0cc33b1b1303c9d704b2c7b5"><rect x="210" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-04-15: 7 entries
+[kreier/timeline] add references, fixed Russian
+[kreier/timeline] fixed Solomo to Solomon
+[kreier/timeline] updated more than 100 lines in Russian
+[kreier/timeline] first update to Russian translation
+[kreier/timeline] small bug fixes ja and fr
+[kreier/timeline] add transparency / remove background
+[kreier/timeline] updated for Japanese</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/19957d4a06d103c7853a61d032dea718cd24e93e"><rect x="210" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-04-16: 3 entries
+[kreier/timeline] refined Finnish
+[kreier/timeline] fix Solomon, update Finnish
+[kreier/timeline] updated Finnish</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/9add0868d46c57dd0ed74f6360b4f88e10450894"><rect x="210" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-04-17: 1 entry
+[kreier/timeline] no more overflow from Gonghe</title></rect></a>
 <rect x="210" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-18: 0 entries</title></rect>
 <rect x="210" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-19: 0 entries</title></rect>
-<rect x="210" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-20: 0 entries</title></rect>
-<rect x="222" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-21: 0 entries</title></rect>
-<rect x="222" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-22: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/8cb894bbe82054f4364811e0af73f332f854149b"><rect x="210" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-04-20: 2 entries
+[kreier/timeline] update requirements
+[kreier/timeline] include support for Khmer</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/06abcc4e95c541a2236325c77a9914389266ae35"><rect x="222" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-04-21: 2 entries
+[kreier/timeline] updated more than 50 names in Tagalog
+[kreier/timeline] add support for Tagalog or Filipino</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/918a0e027eddb849d1e7cf16c84fb73c79fc1c1f"><rect x="222" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-04-22: 6 entries
+[kreier/timeline] Merge pull request #29 from timeline24/main
+[kreier/timeline] updated Judges and pre-deluge names
+[kreier/timeline] minor details Spanish translation
+[kreier/timeline] include missing details
+[kreier/timeline] small fix
+[kreier/timeline] Merge pull request #28 from timeline24/main</title></rect></a>
 <rect x="222" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-23: 0 entries</title></rect>
-<rect x="222" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-24: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/5202449618fdc0368b0db000cd5a2b6d5bef027e"><rect x="222" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-04-24: 2 entries
+[kreier/timeline] improved support for Arabic
+[kreier/timeline] included support for Kankana-ey</title></rect></a>
 <rect x="222" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-25: 0 entries</title></rect>
 <rect x="222" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-26: 0 entries</title></rect>
-<rect x="222" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-27: 0 entries</title></rect>
-<rect x="234" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-28: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/4053b458ee6e076369326c2e59ccd044a0b30faa"><rect x="222" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-04-27: 1 entry
+[kreier/timeline] start creating a timeline template A4</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/b37f227f224306bb00638978c80d7279d8212af4"><rect x="234" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-04-28: 1 entry
+[kreier/timeline] updated history</title></rect></a>
 <rect x="234" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-29: 0 entries</title></rect>
-<rect x="234" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-30: 0 entries</title></rect>
-<rect x="234" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-01: 0 entries</title></rect>
-<rect x="234" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-02: 0 entries</title></rect>
-<rect x="234" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-03: 0 entries</title></rect>
-<rect x="234" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-04: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/2376ddfca60d8cf03de9a2ad20a66618d5044b84"><rect x="234" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-04-30: 5 entries
+[kreier/timeline] updated translation my native speaker
+[kreier/tripitaka] Update README.md
+[kreier/tripitaka] Update README.md
+[kreier/tripitaka] Update .gitignore
+[kreier/tripitaka] Initial commit</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/f98f1e50da669555c8cb790268b7875d62e02117"><rect x="234" y="54" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2024-05-01: 15 entries
+[kreier/timeline] new system for years next to the Daniel 2 image
+[kreier/timeline] reduce overlap
+[kreier/tripitaka] more size comparisons
+[kreier/tripitaka] Add Abhidhamma Piṭaka
+[kreier/tripitaka] Add Vinaya Piṭaka
+[kreier/tripitaka] Add Sutta Piṭaka with five Nikayas in Pali
+[kreier/tripitaka] create structure for Pali version of Tripitaka in Mahasangiti edition
+[kreier/tripitaka] Create README.md
+[kreier/tripitaka] Create README.md
+[kreier/tripitaka] Create README.md
+[kreier/tripitaka] first rendered edition
+[kreier/tripitaka] determined number of verses in the Bible
+[kreier/tripitaka] start JSON reference
+[kreier/tripitaka] 66 books, README, LICENCE and Books.json
+[kreier/tripitaka] extended overview of Titpitaka content</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/f2dec206e095dd26956b914be92592e2a7281a4c"><rect x="234" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-02: 4 entries
+[kreier/timeline] extended Khmer edition
+[kreier/timeline] Graph of history of Governing Body of JW
+[kreier/tripitaka] typo
+[kreier/tripitaka] dedicated kjv solution</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/8de7756ec2a561467fc7d3c407e8845c5dacde38"><rect x="234" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-03: 2 entries
+[kreier/timeline] add a few more Asian, American and European empires
+[kreier/timeline] fixed and extended image links</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/d805f4a7a9eb9c32879e6f4fc68997f01e18c999"><rect x="234" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-04: 6 entries
+[kreier/timeline] updated Tagalog
+[kreier/timeline] Umayyad, Abbasid, Mamluk
+[kreier/timeline] include 3 sultanate/caliphate
+[kreier/timeline] reorganized some content
+[kreier/timeline] Merge pull request #31 from kreier/main
+[kreier/timeline] fix fading algorithm</title></rect></a>
 <text x="246" y="12" font-family="sans-serif" font-size="8" fill="#767676">May</text>
-<rect x="246" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-05: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/62833fb52920533dfa7975a7e3393fd4e7020fc8"><rect x="246" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-05: 1 entry
+[kreier/timeline] updated Tagalog</title></rect></a>
 <rect x="246" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-06: 0 entries</title></rect>
-<rect x="246" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-07: 0 entries</title></rect>
-<rect x="246" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-08: 0 entries</title></rect>
-<rect x="246" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-09: 0 entries</title></rect>
-<rect x="246" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-10: 0 entries</title></rect>
-<rect x="246" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-11: 0 entries</title></rect>
-<rect x="258" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-12: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/1607282b4f5c0dc49735317b27a2c75616c2b636"><rect x="246" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-05-07: 13 entries
+[kreier/timeline] updated Kankanaey
+[kreier/timeline] updated Tagalog
+[kreier/tripitaka] general parsing for up to 6 books works
+[kreier/tripitaka] all json source files listed in 3 csv files
+[kreier/tripitaka] finally conclusive parsing of number json files
+[kreier/tripitaka] successful parsed 192 folders for 7288 json files
+[kreier/tripitaka] updated visuals
+[kreier/tripitaka] visualize size of 3 baskets
+[kreier/tripitaka] first success in parsing verses of the Tipitaka
+[kreier/tripitaka] Overview of 16 books, details for Vinaya Pitaka
+[kreier/tripitaka] add details for Parivāra - Vinaya Piṭaka (Basket of Discipline)
+[kreier/tripitaka] Merge pull request #1 from kreier/kreier-patch-2024-05-07
+[kreier/tripitaka] update source of suttacentral.net</title></rect></a>
+<a href="https://github.com/kreier/tripitaka/commit/a8147f1799e26e568c0c037e3e5baf1dd2a52d62"><rect x="246" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-08: 2 entries
+[kreier/tripitaka] successful parsed all but 15 json files
+[kreier/tripitaka] parsing improved</title></rect></a>
+<a href="https://github.com/kreier/tripitaka/commit/4c08d4497e48f51d91b9d69db9f0d5bb3eaba57e"><rect x="246" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-09: 5 entries
+[kreier/tripitaka] parsed Abhidhamma
+[kreier/tripitaka] add links for Abhidhamma
+[kreier/tripitaka] finished parsing Vinaya
+[kreier/tripitaka] bug fix, extended overview
+[kreier/tripitaka] add statistics for kjv</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/55ef97de771041c7780b566dd1eeb105325f2778"><rect x="246" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-10: 2 entries
+[kreier/timeline] updated Kankana-ey
+[kreier/timeline] Merge pull request #32 from kreier/main</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/5d2362b850a01a6fca828d5efbef7dfd242d6117"><rect x="246" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-11: 4 entries
+[kreier/timeline] include tablet lament for Ur from Louvre
+[kreier/timeline] details on Islam rise and fall
+[kreier/timeline] add Hammurabi to Algebra
+[kreier/timeline] updated Ilocano</title></rect></a>
+<a href="https://github.com/kreier/tripitaka/commit/80949b93649bb5244fd622413ef4d058e3a8e56e"><rect x="258" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-12: 4 entries
+[kreier/tripitaka] Vergleich der deutschen Übersetzung mit Pali original
+[kreier/tripitaka] Update statistics on German translation
+[kreier/tripitaka] extend data about the included German translation
+[kreier/tripitaka] add German translation sabbamitta of Sutta</title></rect></a>
 <rect x="258" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-13: 0 entries</title></rect>
-<rect x="258" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-14: 0 entries</title></rect>
-<rect x="258" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-15: 0 entries</title></rect>
-<rect x="258" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-16: 0 entries</title></rect>
-<rect x="258" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-17: 0 entries</title></rect>
-<rect x="258" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-18: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/83906a60479734dbb44acf631c04ae776321f34c"><rect x="258" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-14: 1 entry
+[kreier/timeline] fix sporadic NaN errors if no string is provided</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/33800aef176216f144729befad6a3d935b7eb7fb"><rect x="258" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-15: 4 entries
+[kreier/timeline] updated German translation to 4.6
+[kreier/timeline] updated translation with Azure AI Translator
+[kreier/timeline] updated translation parts 4.6
+[kreier/timeline] fill empty spaces NaN with " " to avoid errors</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/97b25d8ed0f6b7a630bacec294c955f14124e4b1"><rect x="258" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-05-16: 10 entries
+[kreier/timeline] update Vietnamese to 4.6
+[kreier/timeline] remove gray border remnants
+[kreier/timeline] Merge pull request #30 from kreier/4.6
+[kreier/timeline] Merge branch 'main' into 4.6
+[kreier/timeline] Merge pull request #33 from kreier/4.5
+[kreier/timeline] Merge branch 'main' into 4.6
+[kreier/timeline] Update to represent 4.6
+[kreier/timeline] Version 4.6
+[kreier/timeline] Updated Ilocano, Tagalog/Filippino and Kankana-ey
+[kreier/timeline] updates to German and Tagalog/Filippino</title></rect></a>
+<a href="https://github.com/kreier/logo/commit/96b0b62df559eaffa0a3817fa3296bd470200b37"><rect x="258" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-17: 3 entries
+[kreier/logo] start documentation
+[kreier/timeline] Merge pull request #34 from kreier/4.6_viet
+[kreier/timeline] Updated Ilocano, Kankana-ey and Tagalog</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/cdd588f26b38d72f145c8434a101cfe0fa247189"><rect x="258" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-18: 1 entry
+[kreier/timeline] removed overlap in Tagalog, Kankana-ey and Iloco</title></rect></a>
 <rect x="270" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-19: 0 entries</title></rect>
-<rect x="270" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-20: 0 entries</title></rect>
-<rect x="270" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-21: 0 entries</title></rect>
-<rect x="270" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-22: 0 entries</title></rect>
-<rect x="270" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-23: 0 entries</title></rect>
-<rect x="270" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-24: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/327b737a813efb4e2c530184d0abdb6d78d048d0"><rect x="270" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-20: 2 entries
+[kreier/timeline] better results for Khmer
+[kreier/timeline] small fixes in Tagalog and Millenium</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/7c8431d704992d3495e3caed360f35a6a87d9292"><rect x="270" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-05-21: 8 entries
+[kreier/timeline] same Unicode rendering error like in reportlab
+[kreier/timeline] two new options to create pdf files
+[kreier/timeline] write pdf into local directory instead of /tmp
+[kreier/timeline] searching alternatives to create pdfs
+[kreier/timeline] Delete .~lock.dictionary_km.csv#
+[kreier/timeline] extended Khmer translation
+[kreier/timeline] include reference values in English
+[kreier/timeline] update support for Khmer</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/e70268918defd4a7b15f2f8465835512a257639e"><rect x="270" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-22: 1 entry
+[kreier/timeline] extend the Khmer test with direct Unicode</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/9cbce6e0abb968ae15bebfb5f1f1eea688294856"><rect x="270" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-23: 1 entry
+[kreier/timeline] document rendering challenges</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/221dfec90048e3f84450e19a53166565a5657391"><rect x="270" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-24: 7 entries
+[kreier/timeline] Merge pull request #37 from kreier/4.6
+[kreier/timeline] Merge branch '4.7' into 4.6
+[kreier/timeline] fixed SVG and other parts for RTL compatibility
+[kreier/timeline] some 4.6 changes included
+[kreier/timeline] start support for RTL
+[kreier/timeline] start support for RTL
+[kreier/timeline] align examples for reportlab and pymupdf</title></rect></a>
 <rect x="270" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-25: 0 entries</title></rect>
 <rect x="282" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-26: 0 entries</title></rect>
-<rect x="282" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-27: 0 entries</title></rect>
-<rect x="282" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-28: 0 entries</title></rect>
-<rect x="282" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-29: 0 entries</title></rect>
-<rect x="282" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-30: 0 entries</title></rect>
-<rect x="282" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-05-31: 0 entries</title></rect>
-<rect x="282" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-01: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/90620877872f3e63741a914029741b2aa9cc02a8"><rect x="282" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-27: 1 entry
+[kreier/timeline] one more timeline example</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/e278aabe96485b95ddacf24c6fb88fe217dcf249"><rect x="282" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-28: 1 entry
+[kreier/timeline] Merge pull request #38 from kreier/4.6</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/ea951a709d9ba71a504e90ab95f766a6cf45dc02"><rect x="282" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-29: 3 entries
+[kreier/timeline] Create example_iText.java
+[kreier/timeline] updated pom.xml to work with maven
+[kreier/timeline] first steps with iText</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/029ffb862dce41c4586d979a5cc27e43fa097e66"><rect x="282" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-30: 7 entries
+[kreier/timeline] first successful output with fpdf2
+[kreier/timeline] Merge pull request #39 from kreier/4.6
+[kreier/timeline] prepare for release 4.6
+[kreier/timeline] one more solution for Hindi and Devanagari
+[kreier/timeline] finalized examples in Khmer and Sinhala
+[kreier/timeline] Merge branch '4.6' of https://github.com/kreier/timeline into 4.6
+[kreier/timeline] finally a solution for Khmer with uharfbuzz</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/83b0f5e6a8900cfadcc4a17fa1d38e0a0139a8d1"><rect x="282" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-05-31: 4 entries
+[kreier/timeline] Rendering Adam-Moses and Israel kings finished
+[kreier/timeline] first results for Adam to Moses
+[kreier/timeline] paper size, scale and years label finished
+[kreier/timeline] explain dimension considerations</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/27231b956f4235637485c1fde35e183479413a80"><rect x="282" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-01: 3 entries
+[kreier/timeline] Merge pull request #40 from kreier/main
+[kreier/timeline] description 4.6 and 4.7
+[kreier/timeline] include hyperlinks to project, image license and source list of images</title></rect></a>
 <text x="294" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jun</text>
-<rect x="294" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-02: 0 entries</title></rect>
-<rect x="294" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-03: 0 entries</title></rect>
-<rect x="294" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-04: 0 entries</title></rect>
-<rect x="294" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-05: 0 entries</title></rect>
-<rect x="294" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-06: 0 entries</title></rect>
-<rect x="294" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-07: 0 entries</title></rect>
-<rect x="294" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-08: 0 entries</title></rect>
-<rect x="306" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-09: 0 entries</title></rect>
-<rect x="306" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-10: 0 entries</title></rect>
-<rect x="306" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-11: 0 entries</title></rect>
-<rect x="306" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-12: 0 entries</title></rect>
-<rect x="306" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-13: 0 entries</title></rect>
-<rect x="306" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-14: 0 entries</title></rect>
+<a href="https://github.com/kreier/logo/commit/775539406740fe7b970ec9432283bd874d322de5"><rect x="294" y="18" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-06-02: 8 entries
+[kreier/logo] documentation kreier.org
+[kreier/timeline] shape_engine with pdf.cell() and positioning in Khmer works
+[kreier/timeline] pdf.text() does not work, only pdf.cell() for font shaping
+[kreier/timeline] update the font shaper
+[kreier/timeline] Merge pull request #42 from kreier/main
+[kreier/timeline] fix NaN error in dictionaries
+[kreier/timeline] language and font support in extra file
+[kreier/timeline] updated Igbo to 4.6</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/028c4dbb0473a7daf50643db99b61082a8af00da"><rect x="294" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-03: 1 entry
+[kreier/timeline] left alignment and shape engine width measurement</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/591d9fdec745b4dcdd005df4e4b33ab2b73ed6a8"><rect x="294" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-04: 2 entries
+[kreier/timeline] Khmer stringwidth solved - its Noto fonts
+[kreier/timeline] extended fpdf2 and Khmer support</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/71b33642f45ca0d3c38386e856816360d29f2a81"><rect x="294" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-05: 2 entries
+[kreier/timeline] version 4.6 - reportlab
+[kreier/P1P2MQTT] README.md</title></rect></a>
+<a href="https://github.com/kreier/text-shaping/commit/03d0d4541e4163680290b0053bfc6a9434b99f8f"><rect x="294" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-06-06: 10 entries
+[kreier/text-shaping] updated fpdf2 solves the problem!
+[kreier/text-shaping] Merge branch 'main' of https://github.com/kreier/text-shaping
+[kreier/text-shaping] modifier letter prime U+02B9
+[kreier/text-shaping] Link to script and language tags
+[kreier/text-shaping] updated version for fpdf2
+[kreier/text-shaping] start text shaping tests with Khmer
+[kreier/text-shaping] Update .gitignore
+[kreier/text-shaping] Initial commit
+[kreier/timeline] test for NotoKhmer
+[kreier/timeline] improved language support</title></rect></a>
+<a href="https://github.com/kreier/daniel2/commit/84f18ace3c631c049cc1534425d6371519569d0a"><rect x="294" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-06-07: 9 entries
+[kreier/daniel2] include description from Daniel 2
+[kreier/text-shaping] modifier letter prime U+02B9
+[kreier/timeline] Merge pull request #45 from kreier/main
+[kreier/timeline] Merge branch '4.7' into main
+[kreier/timeline] expanded explanation and translation progress
+[kreier/timeline] Merge pull request #44 from kreier/4.6
+[kreier/timeline] automatically creates wider print edition
+[kreier/timeline] refined 4.6 for upgrade to 4.7
+[kreier/timeline] rendering refinements in settings y_offset</title></rect></a>
+<a href="https://github.com/kreier/text-shaping/commit/f9066b4a812cdd93e8240171687946cc645c27df"><rect x="294" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-08: 4 entries
+[kreier/text-shaping] visualize effect of shaping engine in Sinhala
+[kreier/timeline] updated with books, people, objects and caesars
+[kreier/timeline] fixed output of translated language
+[kreier/timeline] updated for Sinhala</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/200eb048a89d66b5bea6cf17e50fc02165942d8d"><rect x="306" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-09: 1 entry
+[kreier/timeline] Terah included, and images</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/1c565a1371aa2bbc530b64fde562024d57ff3637"><rect x="306" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-10: 4 entries
+[kreier/timeline] updated Japanese
+[kreier/timeline] updated Japanese to 4.6
+[kreier/timeline] shift Terah and population graph
+[kreier/timeline] supported SVG images</title></rect></a>
+<a href="https://github.com/kreier/text-shaping/commit/15f5a3d88ead59c055647ed0cbe7c5c1153e3e4b"><rect x="306" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-06-11: 8 entries
+[kreier/text-shaping] testing reportlab
+[kreier/timeline] output from 4.7 almost identical to 4.6
+[kreier/timeline] Merge pull request #47 from kreier/main
+[kreier/timeline] Merge branch '4.7' into main
+[kreier/timeline] Update README.md
+[kreier/timeline] Merge pull request #46 from kreier/4.6
+[kreier/timeline] Merge branch 'main' into 4.6
+[kreier/text-shaping] README.md</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/ee8063de80d6692f1ccbfe68d38fc95927de8ad4"><rect x="306" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-12: 3 entries
+[kreier/timeline] simplified drawString function, now Arabic RTL works
+[kreier/timeline] update gb.pdf from template.py
+[kreier/timeline] extended first steps for some RTL languages</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/acf22a094be4cf11034d78327343376e6763f6f8"><rect x="306" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-06-13: 8 entries
+[kreier/timeline] add qr codes, dictionary Hebrew and Hindi
+[kreier/timeline] updated Thai and Mandarin
+[kreier/timeline] included Urdu
+[kreier/timeline] restructured, creation process chronological
+[kreier/timeline] version 4.6 2024-06-14
+[kreier/timeline] fix creation of print RTL document
+[kreier/timeline] include print edition option
+[kreier/timeline] minor refinements, bug fixes and cleanup (&lt; 1000 lines)</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/7f591548615d42ac63c841a5c49559ee1639fec6"><rect x="306" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-14: 1 entry
+[kreier/timeline] updated Spanish, Finnish and French</title></rect></a>
 <rect x="306" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-15: 0 entries</title></rect>
-<rect x="318" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-16: 0 entries</title></rect>
-<rect x="318" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-17: 0 entries</title></rect>
-<rect x="318" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-18: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/736b904d9fdff0835d356e36adcf210cf0d6e77c"><rect x="318" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-16: 2 entries
+[kreier/timeline] updated Russiain, fix bug with Kuneiform text
+[kreier/timeline] updated Korean, Russian, Cantonese and Norwegian</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/d12fa66e816e3eade0949e856d175b4bf543b5b2"><rect x="318" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-17: 2 entries
+[kreier/timeline] update Khmer numerals and details
+[kreier/timeline] fix overflow errors in Russian</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/71289a4fdde1174fac5f7042e4df89d08d9a9a86"><rect x="318" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-18: 3 entries
+[kreier/timeline] reordered languages by alphabet
+[kreier/timeline] Size of QR code flexible, text fixed for location and RTL
+[kreier/timeline] updated Khmer</title></rect></a>
 <rect x="318" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-19: 0 entries</title></rect>
 <rect x="318" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-20: 0 entries</title></rect>
-<rect x="318" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-21: 0 entries</title></rect>
-<rect x="318" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-22: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/be45b813fa5f90c8e4da7e9e6b6596b2c7efac29"><rect x="318" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-21: 5 entries
+[kreier/timeline] timeline generation with Colab fixed
+[kreier/timeline] Update files_required.py with 2 missing files
+[kreier/timeline] Merge pull request #49 from kreier/4.7
+[kreier/timeline] Merge pull request #48 from kreier/main
+[kreier/timeline] Update files_required.py</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/fb2c9c3ad8a2abe4779fdefa112d11bab7f6dccc"><rect x="318" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-22: 1 entry
+[kreier/timeline] Merge pull request #50 from kreier/4.7</title></rect></a>
 <rect x="330" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-23: 0 entries</title></rect>
-<rect x="330" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-24: 0 entries</title></rect>
-<rect x="330" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-25: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/67f83e77e6704ca04fa341fd69994008ae3a794c"><rect x="330" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-24: 4 entries
+[kreier/timeline] updated files with Arabic Numerals
+[kreier/timeline] list of versions and translations updated
+[kreier/timeline] include Jupyter Notebook and updated translations
+[kreier/timeline] first edition Khmer with Arabic Numerals</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/02ef8039396d219bd09dd01464e34f8f7a5fa831"><rect x="330" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-25: 2 entries
+[kreier/timeline] updated Persian / Farsi
+[kreier/timeline] updated Arabic</title></rect></a>
 <rect x="330" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-26: 0 entries</title></rect>
 <rect x="330" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-27: 0 entries</title></rect>
-<rect x="330" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-28: 0 entries</title></rect>
+<a href="https://github.com/kreier/circle_k/commit/61834101802b12c93156d2d48a1058640cfdc0b8"><rect x="330" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-28: 7 entries
+[kreier/circle_k] Update jekyll-gh-pages.yml
+[kreier/circle_k] Updated links to images that work in gh-pages too
+[kreier/circle_k] Update for release badge
+[kreier/circle_k] correct Github Actions badge
+[kreier/circle_k] Create jekyll-gh-pages.yml
+[kreier/circle_k] include links to Unit description and releases
+[kreier/circle_k] README.md</title></rect></a>
 <rect x="330" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-29: 0 entries</title></rect>
 <rect x="342" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-30: 0 entries</title></rect>
 <rect x="342" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-01: 0 entries</title></rect>
-<rect x="342" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-02: 0 entries</title></rect>
+<a href="https://github.com/kreier/actuator/commit/48d454207d6a80c5a1e2bbce5fa12ee106d2935d"><rect x="342" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-02: 2 entries
+[kreier/actuator] Create jekyll-gh-pages.yml
+[kreier/actuator] README.md</title></rect></a>
 <rect x="342" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-03: 0 entries</title></rect>
 <rect x="342" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-04: 0 entries</title></rect>
 <rect x="342" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-05: 0 entries</title></rect>
-<rect x="342" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-06: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/0af96bb888864e102e978cd97c7017ea61c53226"><rect x="342" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-06: 5 entries
+[kreier/benchmark] getting hpl working on wsl2
+[kreier/benchmark] Software with downloads
+[kreier/benchmark] updated for website and test results
+[kreier/benchmark] History 16bit to 64bit for microcomputers and linpack application
+[kreier/benchmark] Update linpack with TOP500 and DP 64bit</title></rect></a>
 <text x="354" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jul</text>
 <rect x="354" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-07: 0 entries</title></rect>
-<rect x="354" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-08: 0 entries</title></rect>
-<rect x="354" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-09: 0 entries</title></rect>
-<rect x="354" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-10: 0 entries</title></rect>
-<rect x="354" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-11: 0 entries</title></rect>
+<a href="https://github.com/kreier/logo/commit/bfcc89dffa2f8dc001941ff76716a2d34dc71d55"><rect x="354" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-08: 3 entries
+[kreier/logo] Create static.yml
+[kreier/logo] Add files via upload
+[kreier/logo] Create README.md</title></rect></a>
+<a href="https://github.com/kreier/jetson-car/commit/ea514dadbcbc90992a20f11fba54a806cdd1cf27"><rect x="354" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-09: 6 entries
+[kreier/jetson-car] fixed image links for Jekyll
+[kreier/jetson-car] fix image links
+[kreier/jetson-car] extended documentation 2019-2024
+[kreier/jetson-car] updated resources, videos
+[kreier/jetson-car] quick history overview
+[kreier/jetson-car] Create jekyll-gh-pages.yml</title></rect></a>
+<a href="https://github.com/kreier/jetson-car/commit/9f5cce246a45a91d0a8b8c3534cd8e5149dd0375"><rect x="354" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-10: 1 entry
+[kreier/jetson-car] update webcam, 144001 drive base</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/83d0b2c8c380f71f47852f4d96f202e99f256504"><rect x="354" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-11: 1 entry
+[kreier/timeline] version 4.6 french 2024-07-11</title></rect></a>
 <rect x="354" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-12: 0 entries</title></rect>
 <rect x="354" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-13: 0 entries</title></rect>
 <rect x="366" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-14: 0 entries</title></rect>
 <rect x="366" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-15: 0 entries</title></rect>
-<rect x="366" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-16: 0 entries</title></rect>
-<rect x="366" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-17: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/10b5134980ea63c807823239386f0c77750cee4d"><rect x="366" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-16: 2 entries
+[kreier/benchmark] results for Geekbench 6
+[kreier/benchmark] link some Geekbench ML results for v0.6</title></rect></a>
+<a href="https://github.com/kreier/nano-gpt/commit/e8539367a8cfb7828448a4b1a13d3a2c03ffd8aa"><rect x="366" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-17: 3 entries
+[kreier/nano-gpt] Update README.md
+[kreier/nano-gpt] Update .gitignore
+[kreier/nano-gpt] Initial commit</title></rect></a>
 <rect x="366" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-18: 0 entries</title></rect>
-<rect x="366" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-19: 0 entries</title></rect>
-<rect x="366" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-20: 0 entries</title></rect>
+<a href="https://github.com/kreier/ml/commit/feca2d255f73f3faa23b72175a1e36941836a2b0"><rect x="366" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-07-19: 12 entries
+[kreier/ml] Merge branch 'main' of https://github.com/kreier/ml
+[kreier/ml] memory and parameter size for AlexNet
+[kreier/ml] include Jetson Nano and 2024
+[kreier/ml] document 2018-2019 developments, fix image
+[kreier/ml] original folder was deleted on tfjs-models
+[kreier/nano-gpt] first working prototype
+[kreier/nano-gpt] state of 42:04 in accompanying video
+[kreier/nano-gpt] input from OpenAI
+[kreier/nano-gpt] reflect on needed computation for this example
+[kreier/nano-gpt] Include highlights from Andrej Karpathy talk September 25, 2016
+[kreier/nano-gpt] illustration of CNNs
+[kreier/nano-gpt] a little history</title></rect></a>
+<a href="https://github.com/kreier/jetson-car/commit/4e7be0286696c52b2996c4fc34422af9022c6e1e"><rect x="366" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-20: 4 entries
+[kreier/jetson-car] refinement
+[kreier/jetson-car] examples Hiwonder and ComputerExplained
+[kreier/nano-gpt] updated needed compute power
+[kreier/jetson-car] README.md</title></rect></a>
 <rect x="378" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-21: 0 entries</title></rect>
 <rect x="378" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-22: 0 entries</title></rect>
 <rect x="378" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-23: 0 entries</title></rect>
-<rect x="378" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-24: 0 entries</title></rect>
-<rect x="378" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-25: 0 entries</title></rect>
+<a href="https://github.com/kreier/nano-gpt/commit/fadbf471d404024f28adef958958bad05b4861c5"><rect x="378" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-24: 3 entries
+[kreier/nano-gpt] fixed image links, years of microarchitecture
+[kreier/nano-gpt] document yolo history
+[kreier/nano-gpt] document test runs of nanoGPT</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/d9efe4de8191c5a9c080629fb9c2dec993d5101a"><rect x="378" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-07-25: 12 entries
+[kreier/benchmark] Results zBook 15 G3
+[kreier/benchmark] Update Geekbench ML results
+[kreier/benchmark] preliminary results
+[kreier/timeline] Arabic version 4.7 RTL
+[kreier/timeline] update documentation for 4.7
+[kreier/timeline] document font shape engine
+[kreier/timeline] shorten text to avoid overlap
+[kreier/timeline] Merge pull request #52 from kreier/4.7
+[kreier/timeline] implement suggestions from chi Thuy An
+[kreier/timeline] remove spaces from dictionary vi
+[kreier/timeline] fix align problems with arabic strings after printing latin characters
+[kreier/timeline] visualize problem language change</title></rect></a>
 <rect x="378" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-26: 0 entries</title></rect>
-<rect x="378" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-27: 0 entries</title></rect>
-<rect x="390" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-28: 0 entries</title></rect>
-<rect x="390" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-29: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/b451503314b33ffd965098689e0fe168fbff6e52"><rect x="378" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-27: 1 entry
+[kreier/timeline] sync the github.io page with info on github.com</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/183f44aa71a69f79c907429d44394f7ca2797b21"><rect x="390" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-28: 5 entries
+[kreier/benchmark] Cloud run on T4 GPU in colab.google
+[kreier/benchmark] Include results for T4 Tesla GPU, fix links
+[kreier/nano-gpt] working cloud solution on T4 instance
+[kreier/nano-gpt] running nanoGPT in the cloud on T4 GPU in colab.google
+[kreier/nano-gpt] results from running in Google Colaboratory</title></rect></a>
+<a href="https://github.com/kreier/nano-gpt/commit/ad0fdd934f190f8b0bf08ced6649ec462c3bf678"><rect x="390" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-29: 2 entries
+[kreier/nano-gpt] update FLOP and power consumption
+[kreier/nano-gpt] README.md</title></rect></a>
 <rect x="390" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-30: 0 entries</title></rect>
 <rect x="390" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-31: 0 entries</title></rect>
 <rect x="390" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-01: 0 entries</title></rect>
@@ -235,14 +965,20 @@ Raspberry Pi 3 with 1 GB RAM</title></rect></a>
 <rect x="402" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-06: 0 entries</title></rect>
 <rect x="402" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-07: 0 entries</title></rect>
 <rect x="402" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-08: 0 entries</title></rect>
-<rect x="402" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-09: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/e70530921fa7ea5834609fbb2ab85ee25dd87718"><rect x="402" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-08-09: 1 entry
+[kreier/benchmark] CoreMark results Raspberry Pico 2 and M1 to be expected</title></rect></a>
 <rect x="402" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-10: 0 entries</title></rect>
-<rect x="414" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-11: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/756b0a214c9a96270e93801eb0c236da8eb6779c"><rect x="414" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-08-11: 3 entries
+[kreier/benchmark] updated values
+[kreier/benchmark] include N4500 with HD Graphics Gen11
+[kreier/benchmark] ML results for Intel Celeron N4500</title></rect></a>
 <rect x="414" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-12: 0 entries</title></rect>
 <rect x="414" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-13: 0 entries</title></rect>
 <rect x="414" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-14: 0 entries</title></rect>
-<rect x="414" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-15: 0 entries</title></rect>
-<rect x="414" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-16: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/a20120f4605501ffc47bc3aa9e74832f8074ba39"><rect x="414" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-08-15: 1 entry
+[kreier/benchmark] include the just released Geekbench AI</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/e9d8bd6376289c9720d56c86d772142b6e0949c6"><rect x="414" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-08-16: 1 entry
+[kreier/benchmark] add Qualcomm Neural Network QNN for Note 20 5G</title></rect></a>
 <rect x="414" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-17: 0 entries</title></rect>
 <rect x="426" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-18: 0 entries</title></rect>
 <rect x="426" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-19: 0 entries</title></rect>
@@ -256,10 +992,34 @@ Raspberry Pi 3 with 1 GB RAM</title></rect></a>
 <rect x="438" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-27: 0 entries</title></rect>
 <rect x="438" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-28: 0 entries</title></rect>
 <rect x="438" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-29: 0 entries</title></rect>
-<rect x="438" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-30: 0 entries</title></rect>
+<a href="https://github.com/kreier/KLZ/commit/ba16d638fe7c013944e685e571f43319e175c32e"><rect x="438" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2024-08-30: 18 entries
+[kreier/KLZ] include cpp example
+[kreier/KLZ] Updates vom CodeSpace Visual Studio
+[kreier/KLZ] Better description of each issue
+[kreier/KLZ] fix image link
+[kreier/KLZ] relocate image files
+[kreier/KLZ] license, release und build integrated
+[kreier/KLZ] include license
+[kreier/KLZ] switch from MIT to CC0 license
+[kreier/KLZ] diversity in programming languages
+[kreier/KLZ] prime in java
+[kreier/KLZ] calculate prime numbers
+[kreier/KLZ] first line of code
+[kreier/KLZ] Links aktualisiert
+[kreier/KLZ] first review and reorganization
+[kreier/KLZ] documentation of first weeks
+[kreier/KLZ] Erstes Gerüst
+[kreier/KLZ] Create .gitignore
+[kreier/KLZ] Create LICENSE</title></rect></a>
 <rect x="438" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-31: 0 entries</title></rect>
 <text x="450" y="12" font-family="sans-serif" font-size="8" fill="#767676">Sep</text>
-<rect x="450" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-01: 0 entries</title></rect>
+<a href="https://github.com/kreier/KLZ/commit/0754c9644bb64d4d62ef2f0113368d9e115c8683"><rect x="450" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-09-01: 6 entries
+[kreier/KLZ] cleanup rust code
+[kreier/KLZ] veröffentlicht am 1. September 2024
+[kreier/KLZ] included QR and third edition
+[kreier/KLZ] linked third edition
+[kreier/KLZ] Update README.md with QR code
+[kreier/KLZ] Add files via upload</title></rect></a>
 <rect x="450" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-02: 0 entries</title></rect>
 <rect x="450" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-03: 0 entries</title></rect>
 <rect x="450" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-04: 0 entries</title></rect>
@@ -268,7 +1028,9 @@ Raspberry Pi 3 with 1 GB RAM</title></rect></a>
 <rect x="450" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-07: 0 entries</title></rect>
 <rect x="462" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-08: 0 entries</title></rect>
 <rect x="462" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-09: 0 entries</title></rect>
-<rect x="462" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-10: 0 entries</title></rect>
+<a href="https://github.com/kreier/KLZ/commit/55bf11b6fbce65c6fe6db03c698fe364137dc5d3"><rect x="462" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-09-10: 2 entries
+[kreier/KLZ] reorganize programming code
+[kreier/timeline] update 2024-09-10 with Susan's friends</title></rect></a>
 <rect x="462" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-11: 0 entries</title></rect>
 <rect x="462" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-12: 0 entries</title></rect>
 <rect x="462" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-13: 0 entries</title></rect>
@@ -278,64 +1040,181 @@ Raspberry Pi 3 with 1 GB RAM</title></rect></a>
 <rect x="474" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-17: 0 entries</title></rect>
 <rect x="474" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-18: 0 entries</title></rect>
 <rect x="474" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-19: 0 entries</title></rect>
-<rect x="474" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-20: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/8010151575f309a700c5502e8389705e2e0f759e"><rect x="474" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-09-20: 4 entries
+[kreier/benchmark] include OpenVINO for CPU
+[kreier/benchmark] Update README.md with 13700T
+[kreier/benchmark] Results i7 13700T
+[kreier/benchmark] Results AI for 13700T</title></rect></a>
 <rect x="474" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-21: 0 entries</title></rect>
 <rect x="486" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-22: 0 entries</title></rect>
 <rect x="486" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-23: 0 entries</title></rect>
 <rect x="486" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-24: 0 entries</title></rect>
 <rect x="486" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-25: 0 entries</title></rect>
-<rect x="486" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-26: 0 entries</title></rect>
-<rect x="486" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-27: 0 entries</title></rect>
-<rect x="486" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-28: 0 entries</title></rect>
-<rect x="498" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-29: 0 entries</title></rect>
-<rect x="498" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-30: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/c9efef23bfcf4b84768d10ef8efb81558e8f1dfe"><rect x="486" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-09-26: 7 entries
+[kreier/benchmark] include M1 and 13700T
+[kreier/benchmark] Solved the macOS compiling error
+[kreier/benchmark] include results for 13700T
+[kreier/benchmark] Update instructions
+[kreier/my_raspberry_pi] fixed typos
+[kreier/my_raspberry_pi] updated projects
+[kreier/my_raspberry_pi] Create README.md</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/07e69fce6872dbb1693540b62afee8b707663a4e"><rect x="486" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-09-27: 5 entries
+[kreier/timeline] Add small lines in each corner for better printout
+[kreier/timeline] Merge pull request #54 from kreier/4.7
+[kreier/timeline] Now it works with latest version of fpdf2
+[kreier/timeline] visualize problem in Farsi
+[kreier/timeline] Merge pull request #53 from kreier/main</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/50ad13da110afb63c62be45bcc3d0e522cfa4f97"><rect x="486" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-09-28: 2 entries
+[kreier/timeline] extended Terah's family tree
+[kreier/timeline] shift images to the left, reorganize</title></rect></a>
+<a href="https://github.com/kreier/ml/commit/5733b6c0323d22fcde5d696c55aa55546b948d72"><rect x="498" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-09-29: 3 entries
+[kreier/ml] update to at least 2.79.2 to fix DOM Clobbering Gadget
+[kreier/ml] Update package.json to version 2024
+[kreier/timeline] include Keturah and children, 6 nations in Terah's family tree</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/cc4b4a9c68f071751c7c41dadf991d64bb24b6fb"><rect x="498" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-09-30: 2 entries
+[kreier/benchmark] include 10100 and 3070Ti for Geekbench AI
+[kreier/benchmark] include FP16 result for 3070Ti with new software, driver 555.85</title></rect></a>
 <rect x="498" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-01: 0 entries</title></rect>
 <rect x="498" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-02: 0 entries</title></rect>
-<rect x="498" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-03: 0 entries</title></rect>
-<rect x="498" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-04: 0 entries</title></rect>
+<a href="https://github.com/kreier/calendar/commit/622d11366c6fda30b176a3aa0b295832a071c7ad"><rect x="498" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-10-03: 14 entries
+[kreier/calendar] periods and events of 2019
+[kreier/calendar] weekends are highlighted in color
+[kreier/calendar] got rainbow colors
+[kreier/calendar] updated dimensions
+[kreier/calendar] first successful calendar
+[kreier/calendar] create first pdf
+[kreier/calendar] Update README.md with dimensions and structure
+[kreier/calendar] Initial commit
+[kreier/hacks] Update README.md
+[kreier/hacks] Create jekyll-gh-pages.yml
+[kreier/hacks] Create prime.c
+[kreier/hacks] remove write protection from USB flash drives
+[kreier/hacks] Initial commit
+[kreier/timeline] remove redundancy</title></rect></a>
+<a href="https://github.com/kreier/calendar/commit/d31b7a266c90937eba19b927f20ccd6869f1ef98"><rect x="498" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-10-04: 3 entries
+[kreier/calendar] include pictures to visualize the idea of this project
+[kreier/calendar] colors intensified
+[kreier/calendar] documentation January 4th, 2024</title></rect></a>
 <rect x="498" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-05: 0 entries</title></rect>
 <text x="510" y="12" font-family="sans-serif" font-size="8" fill="#767676">Oct</text>
-<rect x="510" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-06: 0 entries</title></rect>
+<a href="https://github.com/kreier/vex/commit/919c0ceb3b23f85a96ccd223d1ced00df8b2ba19"><rect x="510" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-10-06: 1 entry
+[kreier/vex] Document 2017 to 2024</title></rect></a>
 <rect x="510" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-07: 0 entries</title></rect>
-<rect x="510" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-08: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/dd0eaf7b37260c71045b578354cd3dc7b61ed13d"><rect x="510" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-10-08: 14 entries
+[kreier/benchmark] updated graphics
+[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
+[kreier/benchmark] Update README.md
+[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
+[kreier/benchmark] include 13700T in CoreMark comparison graph
+[kreier/benchmark] fix the small graphs
+[kreier/benchmark] include visual for the GPU category
+[kreier/benchmark] comparison with historic supercomputers
+[kreier/benchmark] enhance visualization
+[kreier/calendar] Create jekyll-gh-pages.yml
+[kreier/calendar] fixed naming of the folders
+[kreier/my_raspberry_pi] Create jekyll-gh-pages.yml
+[kreier/vex] historic files from early 2023
+[kreier/my_raspberry_pi] README.md</title></rect></a>
 <rect x="510" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-09: 0 entries</title></rect>
 <rect x="510" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-10: 0 entries</title></rect>
-<rect x="510" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-11: 0 entries</title></rect>
+<a href="https://github.com/kreier/bilder/commit/127eb246391f5ef13a0a921bc943db17a801ff5b"><rect x="510" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-10-11: 12 entries
+[kreier/bilder] add support for UTF-8 (German folder names)
+[kreier/bilder] include total size in bytes
+[kreier/bilder] export to csv
+[kreier/bilder] list subfolders with files and size
+[kreier/bilder] first edition
+[kreier/bilder] Update README.md
+[kreier/bilder] Initial commit
+[kreier/diary] Create jekyll-gh-pages.yml
+[kreier/diary] Update README.md
+[kreier/diary] Update .gitignore
+[kreier/diary] Initial commit
+[kreier/diary] README.md</title></rect></a>
 <rect x="510" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-12: 0 entries</title></rect>
 <rect x="522" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-13: 0 entries</title></rect>
 <rect x="522" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-14: 0 entries</title></rect>
-<rect x="522" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-15: 0 entries</title></rect>
-<rect x="522" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-16: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/c45c561466ce9eae7223878edc033b656630e99b"><rect x="522" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-10-15: 3 entries
+[kreier/benchmark] include 3060 Ti
+[kreier/benchmark] include 3060 Ti
+[kreier/Racer] README.md</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/2075fc68e730883fd2fcc3d931fa220fca185a86"><rect x="522" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-10-16: 2 entries
+[kreier/benchmark] fixed details in graph
+[kreier/benchmark] updated results from 2024 for CoreMark</title></rect></a>
 <rect x="522" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-17: 0 entries</title></rect>
 <rect x="522" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-18: 0 entries</title></rect>
-<rect x="522" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-19: 0 entries</title></rect>
-<rect x="534" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-20: 0 entries</title></rect>
-<rect x="534" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-21: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/e1bf7f17c549e8c8fe50ccf155965507ea0fcab5"><rect x="522" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-10-19: 2 entries
+[kreier/benchmark] Update 13700T, i7-8700 and RTX 3060 Ti
+[kreier/benchmark] Update 13700T result</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/c95bc12f98b0b9025d31644fc90b5173f86b09a7"><rect x="534" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-10-20: 2 entries
+[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
+[kreier/benchmark] include G2030 and details for CPUs</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/be0c1247e47c5c82ff21d84e14d6ae235e3db867"><rect x="534" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-10-21: 1 entry
+[kreier/benchmark] include Apple M1 and GTX 960</title></rect></a>
 <rect x="534" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-22: 0 entries</title></rect>
 <rect x="534" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-23: 0 entries</title></rect>
 <rect x="534" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-24: 0 entries</title></rect>
 <rect x="534" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-25: 0 entries</title></rect>
 <rect x="534" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-26: 0 entries</title></rect>
 <rect x="546" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-27: 0 entries</title></rect>
-<rect x="546" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-28: 0 entries</title></rect>
+<a href="https://github.com/kreier/ml/commit/e456e71a13ea4c28d3c75bec9512ebba2c40663a"><rect x="546" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-10-28: 2 entries
+[kreier/ml] updated graphics for training in AA
+[kreier/ml] better structured time of development</title></rect></a>
 <rect x="546" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-29: 0 entries</title></rect>
-<rect x="546" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-30: 0 entries</title></rect>
-<rect x="546" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-31: 0 entries</title></rect>
-<a href="https://kreier.github.io/quartz/Blog/2024/11/A-humble-beginning-2024"><rect x="546" y="78" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2024-11-01: 4 entries
+<a href="https://github.com/kreier/kinhthanh/commit/03196903cbac82368d3baa28eab15758da8339bb"><rect x="546" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-10-30: 11 entries
+[kreier/kinhthanh] audio Vietnamese 2024/10/30
+[kreier/kinhthanh] updated results English 2020
+[kreier/kinhthanh] exact values for English 2023
+[kreier/kinhthanh] start automated analysis
+[kreier/tripitaka] updated comparison and graph
+[kreier/tripitaka] update website
+[kreier/tripitaka] include links, small bug fixes
+[kreier/tripitaka] Updated description, visualization
+[kreier/tripitaka] size of Tripitaka and 16 main books
+[kreier/tripitaka] include overview and reflection on audio 2023
+[kreier/tripitaka] include reading progress bible</title></rect></a>
+<a href="https://github.com/kreier/kinhthanh/commit/b3895e5dab73d728b8f5c09ff063902ee93564bf"><rect x="546" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-10-31: 1 entry
+[kreier/kinhthanh] 66 hours available in German</title></rect></a>
+<a href="https://kreier.github.io/quartz/Blog/2024/11/A-humble-beginning-2024"><rect x="546" y="78" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2024-11-01: 5 entries
 A humble beginning 2024
 First use of Obsidian
 Ideas about the Structure of my Obsidian vault
-Note the second</title></rect></a>
-<rect x="546" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-02: 0 entries</title></rect>
+Note the second
+[kreier/bilder] try to create a pdf with images in them</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/ae9a556dc212d74deceb727d4658c3e5d70fb11a"><rect x="546" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-02: 3 entries
+[kreier/benchmark] include 13700T
+[kreier/benchmark] include i3-10100
+[kreier/benchmark] link to fix the msvcp140.dll error message</title></rect></a>
 <text x="558" y="12" font-family="sans-serif" font-size="8" fill="#767676">Nov</text>
-<rect x="558" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-03: 0 entries</title></rect>
-<rect x="558" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-04: 0 entries</title></rect>
-<rect x="558" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-05: 0 entries</title></rect>
-<rect x="558" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-06: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/9f8289b6c98626ea26e195577c476642f6c59ce5"><rect x="558" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-03: 2 entries
+[kreier/benchmark] include i7-8700 and driver instructions
+[kreier/ml] info about triton compiler from OpenAI require CUDA CC 7.0</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/686e8e9e1e986f2c5f090ba223d53c8eb6f38724"><rect x="558" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-04: 2 entries
+[kreier/benchmark] visualize generation speed differences
+[kreier/benchmark] GPUs and LLMs speed</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/f82c70041e96559d347a276a84b82cb005fe5d71"><rect x="558" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-05: 1 entry
+[kreier/benchmark] fix typo, 13700T now with dual channel memory</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/ba359bff19614e4d05acba4eb939700774eb117b"><rect x="558" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-06: 2 entries
+[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
+[kreier/benchmark] results of test runs 2024/11/05</title></rect></a>
 <rect x="558" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-07: 0 entries</title></rect>
-<rect x="558" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-08: 0 entries</title></rect>
-<rect x="558" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-09: 0 entries</title></rect>
-<rect x="570" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-10: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/81193e214cefece6b2f4e9e59d31d96743396d77"><rect x="558" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-08: 6 entries
+[kreier/benchmark] updated experiments with LLMs
+[kreier/hacks] result of trying the RX 470 - too old
+[kreier/hacks] use RX 6600 for ollama
+[kreier/ml] document progress with LLMs
+[kreier/ml] Merge branch 'main' of https://github.com/kreier/ml
+[kreier/ml] chatGPT API test</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/3949d566e86437ea16916f27a035a6d48c42419e"><rect x="558" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-09: 6 entries
+[kreier/benchmark] compare M1 to M4 with Pro and Max
+[kreier/benchmark] include Apple M1 GPU
+[kreier/benchmark] include llama3.2:3b for comparison
+[kreier/benchmark] improved graph for inference
+[kreier/ml] include Apple M1 GPU
+[kreier/ml] updated inference results</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/8f9b4d65636d88b2a106340cfc7cf03070c69890"><rect x="570" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-10: 3 entries
+[kreier/benchmark] update results with i7-13700T
+[kreier/benchmark] include E5-2696 v3
+[kreier/benchmark] include i7-6820HQ</title></rect></a>
 <rect x="570" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-11: 0 entries</title></rect>
 <rect x="570" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-12: 0 entries</title></rect>
 <rect x="570" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-13: 0 entries</title></rect>
@@ -343,18 +1222,64 @@ Note the second</title></rect></a>
 <rect x="570" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-15: 0 entries</title></rect>
 <rect x="570" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-16: 0 entries</title></rect>
 <rect x="582" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-17: 0 entries</title></rect>
-<rect x="582" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-18: 0 entries</title></rect>
-<rect x="582" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-19: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/034baf6937d1d3e8ed5d640f01f5e0b7ff0a1b04"><rect x="582" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-11-18: 14 entries
+[kreier/benchmark] include Nvidia P106-100
+[kreier/kinhthanh] Update README.md
+[kreier/kinhthanh] Update jekyll-gh-pages.yml
+[kreier/kinhthanh] fix theme error
+[kreier/kinhthanh] Update jekyll-gh-pages.yml
+[kreier/kinhthanh] updated for Jekyll
+[kreier/kinhthanh] math_engine changed from mathjax to katex
+[kreier/kinhthanh] different workflow badge
+[kreier/kinhthanh] Create jekyll-gh-pages.yml - KaTeX just missing
+[kreier/kinhthanh] link german csv file
+[kreier/kinhthanh] document German audio files
+[kreier/kinhthanh] include a little history
+[kreier/kinhthanh] Create static.yml
+[kreier/ml] newer results</title></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/1432365f6577debbb5336655e308a853773eeec5"><rect x="582" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-19: 2 entries
+[kreier/benchmark] updated GFLOPS processing power last decades
+[kreier/benchmark] updated graphs for data and memory transfer speed</title></rect></a>
 <rect x="582" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-20: 0 entries</title></rect>
-<rect x="582" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-21: 0 entries</title></rect>
-<rect x="582" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-22: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/7fa6d5488c9ef28f4bf2d8faf1db7b5025233b31"><rect x="582" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-21: 5 entries
+[kreier/benchmark] Explain fp64
+[kreier/kinhthanh] cleanup, include chapters and minutes
+[kreier/KLZ] now password protected
+[kreier/KLZ] Update 2024-08-12_original.pdf
+[kreier/kinhthanh] README.md</title></rect></a>
+<a href="https://github.com/kreier/Wificar23/commit/a3edfafd35ae137352cc013b38a7b109f0f08c96"><rect x="582" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-11-22: 11 entries
+[kreier/Wificar23] upgrade Gradle to 8.9 and agp to 8.7.2
+[kreier/Wificar23] update Android Studio to 2024.2 Ladybug
+[kreier/Wificar24] latest key signing actually let the app run
+[kreier/Wificar24] new run November 2024
+[kreier/Wificar24] badge for website
+[kreier/Wificar24] add badges
+[kreier/Wificar24] extend website content
+[kreier/Wificar24] reopened in Android Studio 2024.2.1 Ladybug
+[kreier/Wificar24] link Arduino example files
+[kreier/Wificar24] Expand the explanation
+[kreier/Wificar23] README.md</title></rect></a>
 <rect x="582" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-23: 0 entries</title></rect>
-<rect x="594" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-24: 0 entries</title></rect>
+<a href="https://github.com/kreier/ml/commit/321d8964f4b437fb5477cba03e21ebbd79a958c1"><rect x="594" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-24: 4 entries
+[kreier/ml] reciprocal of tokens/s to show linear relationship
+[kreier/ml] include time_per_token
+[kreier/ml] included dependency in formula
+[kreier/ml] updated history</title></rect></a>
 <rect x="594" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-25: 0 entries</title></rect>
-<rect x="594" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-26: 0 entries</title></rect>
+<a href="https://github.com/kreier/ml/commit/487973e9bfb700552683c1ddccee5e488babbbe5"><rect x="594" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-26: 3 entries
+[kreier/ml] update wording
+[kreier/ml] include speculative execution, typos
+[kreier/ml] visualize speculative execution</title></rect></a>
 <rect x="594" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-27: 0 entries</title></rect>
 <rect x="594" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-28: 0 entries</title></rect>
-<rect x="594" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-29: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/6ff06792c44b54cf3dd967b9c3a90e6739ca81f7"><rect x="594" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-29: 7 entries
+[kreier/timeline] fixed non-existing year 0 to start of CE
+[kreier/timeline] 2024-11-29 latest for documentation
+[kreier/timeline] version 4.9
+[kreier/timeline] Merge pull request #55 from kreier/4.9
+[kreier/timeline] include additions of last 3 months
+[kreier/timeline] include life expectancy from 1500 BC
+[kreier/timeline] workaround until googletrans v4.0.0 is released</title></rect></a>
 <rect x="594" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-30: 0 entries</title></rect>
 <text x="606" y="12" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
 <a href="https://kreier.github.io/quartz/Blog/2024/12/Writing-pages-in-Obsidian"><rect x="606" y="18" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2024-12-01: 1 entry
@@ -369,7 +1294,12 @@ Writing pages in Obsidian</title></rect></a>
 <rect x="618" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-09: 0 entries</title></rect>
 <rect x="618" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-10: 0 entries</title></rect>
 <rect x="618" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-11: 0 entries</title></rect>
-<rect x="618" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-12: 0 entries</title></rect>
+<a href="https://github.com/kreier/ml/commit/f5eb363f03ac040c9e6098d6e6fbd6245258d28c"><rect x="618" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-12-12: 5 entries
+[kreier/ml] include list of memory speed comparison
+[kreier/timeline] Link to the github project page from webpage, fixed second sentence
+[kreier/timeline] include link to Github project page
+[kreier/Wificar24] Update README.md
+[kreier/Wificar24] README.md</title></rect></a>
 <rect x="618" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-13: 0 entries</title></rect>
 <rect x="618" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-14: 0 entries</title></rect>
 <rect x="630" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-15: 0 entries</title></rect>
@@ -377,18 +1307,55 @@ Writing pages in Obsidian</title></rect></a>
 <rect x="630" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-17: 0 entries</title></rect>
 <rect x="630" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-18: 0 entries</title></rect>
 <rect x="630" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-19: 0 entries</title></rect>
-<rect x="630" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-20: 0 entries</title></rect>
-<rect x="630" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-21: 0 entries</title></rect>
+<a href="https://github.com/kreier/calendar/commit/a53eb824c1eae8f1c4b42a2573f693fd992b832a"><rect x="630" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-12-20: 7 entries
+[kreier/calendar] exclude .DS_Store from Synology Diskstation
+[kreier/managing-state] include badges and images
+[kreier/managing-state] include images
+[kreier/managing-state] Update .gitignore
+[kreier/managing-state] first two lessons
+[kreier/managing-state] Create jekyll-gh-pages.yml
+[kreier/managing-state] README.md</title></rect></a>
+<a href="https://github.com/kreier/calendar/commit/c3a3ca75428c617e15b80ce654a22c4c32cdaf00"><rect x="630" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-12-21: 1 entry
+[kreier/calendar] include vertical events</title></rect></a>
 <rect x="642" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-22: 0 entries</title></rect>
-<rect x="642" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-23: 0 entries</title></rect>
-<rect x="642" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-24: 0 entries</title></rect>
-<rect x="642" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-25: 0 entries</title></rect>
-<rect x="642" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-26: 0 entries</title></rect>
+<a href="https://github.com/kreier/calendar/commit/d7e6133a9a897a6a383ab398c068a78cfbc8e69d"><rect x="642" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-12-23: 5 entries
+[kreier/calendar] created with v1.0.24.12
+[kreier/calendar] Update README.md with badges
+[kreier/calendar] Delete .github/workflows/jekyll-gh-pages.yml
+[kreier/calendar] Update jekyll-gh-pages.yml
+[kreier/CoreMark-RP2040] README.md</title></rect></a>
+<a href="https://github.com/kreier/timeline/commit/390b3ca2f1173416989f2f33a07352313d6065bf"><rect x="642" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-12-24: 4 entries
+[kreier/timeline] fix reference dictionary for all partly supported languages
+[kreier/timeline] Update README.md
+[kreier/timeline] Include 430 year time period
+[kreier/clpeak] README.md</title></rect></a>
+<a href="https://github.com/kreier/GIPHYKEYBOARD-APP/commit/1f9ac197cecb1389a51531cc6b0cf0a7b031cbd7"><rect x="642" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-12-25: 7 entries
+[kreier/GIPHYKEYBOARD-APP] Update .gitignore for Synology
+[kreier/GIPHYKEYBOARD-APP] Create LICENSE
+[kreier/timeline] include calculated start of Maya calendar - proleptic Gregorian calendar
+[kreier/timeline] include image for Maya calendar 11.8.3114 BC
+[kreier/timeline] fixed exodus event time indicator length
+[kreier/timeline] included content for 5.1 Keturah to 430 years
+[kreier/GIPHYKEYBOARD-APP] README.md</title></rect></a>
+<a href="https://github.com/kreier/aisvn/commit/e01f3b8e46d348793e529d06b21061a88f1aaeb1"><rect x="642" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-12-26: 9 entries
+[kreier/aisvn] build status update - replaced Travis CI on the master branch
+[kreier/aisvn] Include badge for version
+[kreier/aisvn] no longer built with Travis CI, but Github Actions
+[kreier/benchmark] include Nvidia P106-100
+[kreier/benchmark] include Nvidia P106-100
+[kreier/timeline] Merge pull request #56 from kreier/main
+[kreier/timeline] list of versions and translations updated
+[kreier/timeline] include Maya calender starting date in reference
+[kreier/aisvn] README.md</title></rect></a>
 <rect x="642" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-27: 0 entries</title></rect>
 <rect x="642" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-28: 0 entries</title></rect>
 <rect x="654" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-29: 0 entries</title></rect>
 <rect x="654" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-30: 0 entries</title></rect>
-<rect x="654" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-31: 0 entries</title></rect>
+<a href="https://github.com/kreier/timeline/commit/9a040e0d4e50bb2588c7657e263e1f8bf4e0bc44"><rect x="654" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-12-31: 4 entries
+[kreier/timeline] add image of Giza pyramids to visualize the meaning of the Aegyptiaca
+[kreier/timeline] include second oldest date of Maya calendar 32 BC at Tres Zapotes
+[kreier/timeline] include mystic Xia dynasty in regular timespan
+[kreier/timeline] fixed second time period of holy roman empire, starting 962 CE</title></rect></a>
 <rect x="30" y="112" width="8" height="8" fill="#30a14e" rx="1" ry="1"/>
 <text x="42" y="119" font-family="sans-serif" font-size="7" fill="#767676">WordPress</text>
 <rect x="100" y="112" width="8" height="8" fill="#e57373" rx="1" ry="1"/>
