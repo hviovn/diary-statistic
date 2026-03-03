@@ -306,7 +306,7 @@ def fetch_legacy_html(base_url, exclude_paths=None):
         (r'\b(\d{1,2}\. [A-Z][a-z]+ \d{4})\b', '%d. %B %Y')
     ]
 
-    while to_visit and len(visited) < 300:
+    while to_visit and len(visited) < 800:
         url = to_visit.pop(0)
         url_no_frag = url.split('#')[0]
         if url_no_frag in visited: continue
@@ -361,6 +361,7 @@ def fetch_legacy_html(base_url, exclude_paths=None):
                         'title': title,
                         'type': 'legacy_html'
                     })
+                    print(".", end='', flush=True)
 
         links = re.findall(r'href=["\'](.*?)["\']', content)
         for link in links:
