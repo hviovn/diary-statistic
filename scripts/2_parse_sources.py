@@ -5,6 +5,18 @@ import os
 import csv
 import html
 import sys
+import platform
+
+try:
+    import msvcrt
+except Exception:
+    msvcrt = None
+try:
+    import tty
+    import termios
+except Exception:
+    tty = None
+    termios = None
 
 # Increase the CSV field size limit for large content
 csv.field_size_limit(sys.maxsize)
@@ -132,14 +144,101 @@ def process_csv(source_type, data_dir):
             writer.writerow(row)
     print(f"Saved to {output_file}")
 
+def _getch():
+    if msvcrt:
+        return msvcrt.getch()
+    else:
+        fd = sys.stdin.fileno()
+        old_settings = termios.tcgetattr(fd)
+        try:
+            tty.setraw(sys.stdin.fileno())
+            ch = sys.stdin.read(1)
+            return ch.encode()
+        finally:
+            termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
+
+
+def interactive_menu(options, title=None):
+    idx = 0
+    while True:
+        # clear screen
+        if os.name == 'nt':
+            os.system('cls')
+        else:
+            os.system('clear')
+
+        if title:
+            print(title)
+        print('Use Up/Down arrows and Enter to select. Ctrl-C to cancel.')
+        for i, opt in enumerate(options):
+            prefix = '=> ' if i == idx else '   '
+            print(f"{prefix}{opt}")
+
+        try:
+            ch = _getch()
+        except Exception:
+            print('\nInput error; falling back to numeric selection.')
+            for i, opt in enumerate(options):
+                print(f"{i+1}. {opt}")
+            try:
+                choice = int(input('Enter number: ')) - 1
+                if 0 <= choice < len(options):
+                    return choice
+            except Exception:
+                return None
+
+        # Windows msvcrt returns b'\r' for Enter, arrow keys are two-byte sequences
+        if msvcrt:
+            if ch in (b'\r', b'\n'):
+                return idx
+            if ch in (b'\x00', b'\xe0'):
+                ch2 = msvcrt.getch()
+                if ch2 == b'H':
+                    idx = (idx - 1) % len(options)
+                elif ch2 == b'P':
+                    idx = (idx + 1) % len(options)
+        else:
+            # Unix: arrow sequences start with ESC (27)
+            if ch == b'\n' or ch == b'\r':
+                return idx
+            if ch == b'\x1b':
+                # read two more
+                rest = sys.stdin.read(2)
+                if rest == '[A':
+                    idx = (idx - 1) % len(options)
+                elif rest == '[B':
+                    idx = (idx + 1) % len(options)
+
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     data_dir = os.path.join(os.path.dirname(script_dir), "data")
     os.makedirs(data_dir, exist_ok=True)
 
-    sources = ['wordpress', 'quartz', 'legacy_html', 'github']
-    for source in sources:
-        process_csv(source, data_dir)
+    sources_file = os.path.join(script_dir, "sources.json")
+    if not os.path.exists(sources_file):
+        print(f"Sources file {sources_file} not found.")
+        return
+
+    with open(sources_file, "r") as f:
+        sources = json.load(f)
+
+    # CLI arg handling: if called with 'all', process all sources
+    selected_sources = []
+    if len(sys.argv) > 1 and sys.argv[1].lower() == 'all':
+        selected_sources = sources
+    else:
+        # Build menu items
+        menu_items = [f"{s.get('type')} - {s.get('url')}" for s in sources]
+        sel = interactive_menu(menu_items, title="Select a source to parse (Enter to confirm)")
+        if sel is None:
+            print("No selection made. Exiting.")
+            return
+        selected_sources = [sources[sel]]
+
+    # Identify unique types to process
+    types_to_process = set(s['type'] for s in selected_sources)
+    for source_type in types_to_process:
+        process_csv(source_type, data_dir)
 
 if __name__ == "__main__":
     main()

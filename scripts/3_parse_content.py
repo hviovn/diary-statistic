@@ -2,6 +2,7 @@ import csv
 import os
 import re
 import sys
+import json
 
 # Increase the CSV field size limit for large content
 csv.field_size_limit(sys.maxsize)
@@ -60,7 +61,12 @@ def process_statistics(source_type, data_dir):
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     data_dir = os.path.join(os.path.dirname(script_dir), "data")
-    sources = ['wordpress', 'quartz', 'legacy_html', 'github']
+
+    sources_file = os.path.join(script_dir, "sources.json")
+    with open(sources_file, "r") as f:
+        sources_data = json.load(f)
+
+    sources = list(set(s['type'] for s in sources_data))
     for source in sources:
         process_statistics(source, data_dir)
 

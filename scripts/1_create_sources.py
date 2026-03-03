@@ -140,7 +140,7 @@ def fetch_quartz(base_url):
                     print(f"Error parsing RSS item: {e}")
     return posts
 
-def fetch_github(username):
+def fetch_github(username, exclude_repos=None, exclude_forks=False):
     import time
 
     print(f"Fetching GitHub data for user: {username} (per-repo mode)...")
@@ -215,6 +215,11 @@ def fetch_github(username):
         except Exception:
             pass
 
+    if exclude_forks or exclude_repos:
+        original_count = len(repos)
+        repos = [r for r in repos if not (exclude_forks and r.get('fork')) and r.get('name') not in (exclude_repos or []) and r.get('full_name') not in (exclude_repos or [])]
+        print(f"Filtered repos: {len(repos)} remaining (from {original_count})")
+
     all_entries = []
     repos_latest = {}
 
@@ -281,7 +286,7 @@ def fetch_github(username):
 
     return all_entries
 
-def fetch_legacy_html(base_url):
+def fetch_legacy_html(base_url, exclude_paths=None):
     print(f"Fetching Legacy HTML: {base_url}...")
     base_url = base_url.rstrip('/') + '/'
     to_visit = [base_url]
@@ -301,10 +306,14 @@ def fetch_legacy_html(base_url):
         (r'\b(\d{1,2}\. [A-Z][a-z]+ \d{4})\b', '%d. %B %Y')
     ]
 
-    while to_visit and len(visited) < 300:
+    while to_visit and len(visited) < 800:
         url = to_visit.pop(0)
         url_no_frag = url.split('#')[0]
         if url_no_frag in visited: continue
+
+        if exclude_paths and any(url_no_frag.startswith(ex) for ex in exclude_paths):
+            continue
+
         visited.add(url_no_frag)
 
         content = fetch_url(url_no_frag)
@@ -352,6 +361,7 @@ def fetch_legacy_html(base_url):
                         'title': title,
                         'type': 'legacy_html'
                     })
+                    print(".", end='', flush=True)
 
         links = re.findall(r'href=["\'](.*?)["\']', content)
         for link in links:
@@ -419,9 +429,9 @@ def main():
         elif type_name == 'quartz':
             data = fetch_quartz(source['url'])
         elif type_name == 'legacy_html':
-            data = fetch_legacy_html(source['url'])
+            data = fetch_legacy_html(source['url'], exclude_paths=source.get('exclude'))
         elif type_name == 'github':
-            data = fetch_github(source['url'])
+            data = fetch_github(source['url'], exclude_repos=source.get('exclude'), exclude_forks=source.get('exclude_forks', False))
 
         save_to_csv_with_dir(data, f"sources_{type_name}.csv", data_dir)
 
