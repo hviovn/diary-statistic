@@ -137,7 +137,11 @@ def main():
     data_dir = os.path.join(os.path.dirname(script_dir), "data")
     os.makedirs(data_dir, exist_ok=True)
 
-    sources = ['wordpress', 'quartz', 'legacy_html', 'github']
+    sources_file = os.path.join(script_dir, "sources.json")
+    with open(sources_file, "r") as f:
+        sources_data = json.load(f)
+
+    sources = list(set(s['type'] for s in sources_data))
     for source in sources:
         process_csv(source, data_dir)
 
