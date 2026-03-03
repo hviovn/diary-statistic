@@ -24,8 +24,7 @@
 <rect x="42" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-09: 0 entries</title></rect>
 <rect x="54" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-10: 0 entries</title></rect>
 <rect x="54" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-11: 0 entries</title></rect>
-<a href="https://github.com/kreier/aisvn-solarpower/commit/c56a331f029859bdb1c74f7ffeff9a1701c3ef88"><rect x="54" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-01-12: 1 entry
-[kreier/aisvn-solarpower] update to 0.7 with fixed timeframe</title></rect></a>
+<rect x="54" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-12: 0 entries</title></rect>
 <rect x="54" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-13: 0 entries</title></rect>
 <rect x="54" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-14: 0 entries</title></rect>
 <a href="https://github.com/kreier/ml/commit/02943c450cba19af11ae0dcdcea43d1fbf020590"><rect x="54" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-01-15: 4 entries
@@ -455,10 +454,8 @@
 <a href="https://github.com/kreier/ESP32/commit/2632c6ab6fdcc74742ee95e0e0a94a9049b743af"><rect x="630" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-12-13: 2 entries
 [kreier/ESP32] completed power table
 [kreier/t-display] finally include the power consumption</title></rect></a>
-<a href="https://github.com/kreier/aisvn-solarpower/commit/2af5e4cd61490903c5de6e4284069165fda64288"><rect x="630" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-12-14: 3 entries
-[kreier/aisvn-solarpower] updates from version v0.8
-[kreier/t-display] extended pins and power consumption values
-[kreier/aisvn-solarpower] README.md</title></rect></a>
+<a href="https://github.com/kreier/t-display/commit/31d0f6b0e8191f929c6560c75507951c2ddfd3c6"><rect x="630" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-12-14: 1 entry
+[kreier/t-display] extended pins and power consumption values</title></rect></a>
 <rect x="630" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-15: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP32/commit/0a48b949c9476c9b70fb863f82c2919b9aadc059"><rect x="630" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-12-16: 2 entries
 [kreier/ESP32] Merge pull request #2 from kreier/aisvn-data-patch-1
@@ -474,12 +471,10 @@
 [kreier/aisvn] removed non-working link
 [kreier/dat.bike] updates December 2021
 [kreier/dat.bike] README.md</title></rect></a>
-<a href="https://github.com/kreier/ssis.bit/commit/9d41ece25675d98cf94ac087699b5ebfd1f5893a"><rect x="642" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-12-22: 1 entry
-[kreier/ssis.bit] documentation for http</title></rect></a>
-<a href="https://github.com/kreier/history/commit/8e875e8c2c71295efc95cc4e7341561b1002493d"><rect x="642" y="66" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2021-12-23: 5 entries
+<rect x="642" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-22: 0 entries</title></rect>
+<a href="https://github.com/kreier/history/commit/8e875e8c2c71295efc95cc4e7341561b1002493d"><rect x="642" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-12-23: 4 entries
 [kreier/history] included referenced data
 [kreier/history] included degrading batteries
-[kreier/ssis.bit] first basic circuitpython code
 [kreier/swift2021] included prime code
 [kreier/swift2021] README.md</title></rect></a>
 <a href="https://github.com/kreier/vex/commit/5413e04946ffabff7ca8cb39f4963ca1103602fb"><rect x="642" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-12-24: 1 entry
@@ -487,11 +482,9 @@
 <rect x="642" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-25: 0 entries</title></rect>
 <rect x="654" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-26: 0 entries</title></rect>
 <rect x="654" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-27: 0 entries</title></rect>
-<a href="https://github.com/kreier/ssis.bit/commit/eecc4c3e17dbada934de1f7261d8952de0c5d48b"><rect x="654" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-12-28: 1 entry
-[kreier/ssis.bit] expanded documentation</title></rect></a>
+<rect x="654" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-28: 0 entries</title></rect>
 <rect x="654" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-29: 0 entries</title></rect>
-<a href="https://github.com/kreier/ssis.bit/commit/f37b679af7fa25b2652d86be7cedd85022e7778f"><rect x="654" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-12-30: 1 entry
-[kreier/ssis.bit] redefined similar to BBC micro:bit</title></rect></a>
+<rect x="654" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-30: 0 entries</title></rect>
 <a href="https://github.com/kreier/vex/commit/6e0bf461d5951cf3d8d8f4ba10ca072d847fed51"><rect x="654" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-12-31: 1 entry
 [kreier/vex] Merge pull request #9 from kreier/ssis2021-patch-1</title></rect></a>
 <rect x="30" y="112" width="8" height="8" fill="#30a14e" rx="1" ry="1"/>

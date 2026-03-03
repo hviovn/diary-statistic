@@ -9,9 +9,8 @@
 <rect x="42" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-03: 0 entries</title></rect>
 <rect x="42" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-04: 0 entries</title></rect>
 <rect x="42" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-05: 0 entries</title></rect>
-<a href="https://github.com/kreier/asa/commit/c7357d6735300942386048d6d75675c8164816e2"><rect x="42" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-06: 5 entries
+<a href="https://github.com/kreier/asa/commit/c7357d6735300942386048d6d75675c8164816e2"><rect x="42" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-06: 4 entries
 [kreier/asa] Merge pull request #1 from kreier/master
-[kreier/ssis.bit] GPIO documentation
 [kreier/t-display] Merge pull request #2 from kreier/kreier-patch-1
 [kreier/vex] Merge pull request #10 from kreier/ssis2021-patch-2
 [kreier/asa] README.md</title></rect></a>
@@ -21,27 +20,19 @@
 <rect x="42" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-08: 0 entries</title></rect>
 <rect x="54" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-09: 0 entries</title></rect>
 <rect x="54" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-10: 0 entries</title></rect>
-<a href="https://github.com/kreier/ssis.bit/commit/7eeb2b6635501aa89720b4af4409c6ff10449ff4"><rect x="54" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-11: 3 entries
-[kreier/ssis.bit] buttons to switch USB OTG
-[kreier/ssis.bit] include flashing instructions
-[kreier/ssis.bit] example programs</title></rect></a>
-<a href="https://github.com/kreier/ssis.bit/commit/9d45f85009ef92f694eb8879cb1aeb187c4a40d5"><rect x="54" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-12: 1 entry
-[kreier/ssis.bit] schematics from LilyGo</title></rect></a>
-<a href="https://github.com/kreier/floatwheel/commit/74fe6566311a926b6d3f6dcd78390c969628e190"><rect x="54" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-13: 4 entries
-[kreier/floatwheel] Initial commit
-[kreier/ssis.bit] Merge pull request #14 from ssisbit/kreier-patch3
-[kreier/ssis.bit] Merge branch 'main' into kreier-patch3
-[kreier/ssis.bit] example programs</title></rect></a>
+<rect x="54" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-11: 0 entries</title></rect>
+<rect x="54" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-12: 0 entries</title></rect>
+<a href="https://github.com/kreier/floatwheel/commit/74fe6566311a926b6d3f6dcd78390c969628e190"><rect x="54" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-13: 1 entry
+[kreier/floatwheel] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/a8baba52c7f2ec95f67892c9cfaa6d2d018f1b71"><rect x="54" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-14: 3 entries
 [kreier/benchmark] Merge pull request #1 from kreier/master
 [kreier/benchmark] Update README.md
 [kreier/floatwheel] documentation</title></rect></a>
 <rect x="54" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-15: 0 entries</title></rect>
 <rect x="66" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-16: 0 entries</title></rect>
-<a href="https://github.com/kreier/aisvn/commit/44a532931400221a3ebdd341353b3125351fdb25"><rect x="66" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-17: 3 entries
+<a href="https://github.com/kreier/aisvn/commit/44a532931400221a3ebdd341353b3125351fdb25"><rect x="66" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-17: 2 entries
 [kreier/aisvn] Merge pull request #3 from kreier/kreier-patch-1
-[kreier/history] Merge pull request #1 from kreier/kreier-patch-1
-[kreier/ssis.bit] I2C connector documentation</title></rect></a>
+[kreier/history] Merge pull request #1 from kreier/kreier-patch-1</title></rect></a>
 <a href="https://github.com/kreier/floatwheel/commit/b9b92df16e2ad0927b9f676b2fda16bbf781c5d0"><rect x="66" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-18: 4 entries
 [kreier/floatwheel] Set theme jekyll-theme-leap-day
 [kreier/floatwheel] Update index.md
@@ -73,10 +64,7 @@
 [kreier/floatwheel] README.md
 [kreier/rc] README.md</title></rect></a>
 <rect x="78" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-26: 0 entries</title></rect>
-<a href="https://github.com/kreier/ssis.bit/commit/64c538afe53117ebded49197e24687bdd75e7be8"><rect x="78" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-27: 3 entries
-[kreier/ssis.bit] Merge pull request #17 from ssisbit/ssisbit-patch-1
-[kreier/ssis.bit] pno055 project
-[kreier/ssis.bit] faster interface</title></rect></a>
+<rect x="78" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-27: 0 entries</title></rect>
 <rect x="78" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-28: 0 entries</title></rect>
 <rect x="78" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-29: 0 entries</title></rect>
 <rect x="90" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-30: 0 entries</title></rect>
@@ -88,10 +76,7 @@
 <rect x="90" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-02-05: 0 entries</title></rect>
 <text x="102" y="12" font-family="sans-serif" font-size="8" fill="#767676">Feb</text>
 <rect x="102" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-02-06: 0 entries</title></rect>
-<a href="https://github.com/kreier/ssis.bit/commit/fe11c0e2dd3b1824f305bac94fabaa057ddbcb43"><rect x="102" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-02-07: 3 entries
-[kreier/ssis.bit] updated blink and post
-[kreier/ssis.bit] bootpost blackpill
-[kreier/ssis.bit] testcode on blackpill</title></rect></a>
+<rect x="102" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-02-07: 0 entries</title></rect>
 <rect x="102" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-02-08: 0 entries</title></rect>
 <rect x="102" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-02-09: 0 entries</title></rect>
 <rect x="102" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-02-10: 0 entries</title></rect>
@@ -102,13 +87,7 @@
 [kreier/t-display] test speed IO and FPU</title></rect></a>
 <rect x="114" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-02-15: 0 entries</title></rect>
 <rect x="114" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-02-16: 0 entries</title></rect>
-<a href="https://github.com/kreier/rvr_circuitpython/commit/73b1563bd2973d14f7816c556cfbfca536c277fd"><rect x="114" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-02-17: 6 entries
-[kreier/rvr_circuitpython] Merge branch 'development' into kreier-patch-1
-[kreier/rvr_circuitpython] Merge pull request #2 from kreier/kreier-patch-1
-[kreier/rvr_circuitpython] Merge pull request #1 from kreier/kreier-patch-2
-[kreier/rvr_circuitpython] added respective libraries
-[kreier/rvr_circuitpython] pin documentation
-[kreier/rvr_circuitpython] running four microcontroller with the rvr</title></rect></a>
+<rect x="114" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-02-17: 0 entries</title></rect>
 <a href="https://github.com/kreier/temp/commit/123b66987bef025341e2028c49148a852841551d"><rect x="114" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-02-18: 2 entries
 [kreier/temp] Create README.md
 [kreier/temp] requirement framework</title></rect></a>
@@ -323,12 +302,10 @@
 [kreier/heatpipe] Create main.py
 [kreier/heatpipe] Initial commit</title></rect></a>
 <rect x="270" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-05-21: 0 entries</title></rect>
-<a href="https://github.com/kreier/aa/commit/ac9f097a5e0ed963842559ef23bda1a5ebcf78f7"><rect x="282" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-05-22: 5 entries
+<a href="https://github.com/kreier/aa/commit/ac9f097a5e0ed963842559ef23bda1a5ebcf78f7"><rect x="282" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-05-22: 3 entries
 [kreier/aa] Set theme jekyll-theme-cayman
 [kreier/aa] Update README.md
-[kreier/aa] Initial commit
-[kreier/android-compose-codelabs] Update fragment_plant_detail.xml
-[kreier/android-compose-codelabs] README.md</title></rect></a>
+[kreier/aa] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/aa/commit/bee5ffd67a8a474f54492655ca95584ff2500b08"><rect x="282" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-05-23: 3 entries
 [kreier/aa] Evan's reference code
 [kreier/heatpipe] Merge pull request #1 from kreier/friday-patch
@@ -384,22 +361,12 @@
 [kreier/csv-reader-pressures] README.md</title></rect></a>
 <a href="https://github.com/kreier/ssisolar/commit/3fe8254439ba8246d5ac9a5d35112158bd352f99"><rect x="294" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-06-02: 1 entry
 [kreier/ssisolar] Merge pull request #2 from ssis-ideacenter/patch-1</title></rect></a>
-<a href="https://github.com/kreier/fan_tachometer/commit/a9d3f79d6f0b631298b5e9ece2810ce259caad4d"><rect x="294" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-06-03: 6 entries
-[kreier/fan_tachometer] Create fan_rpm_threshold.py
-[kreier/magnet-spinny-thing] adjusted display example for Raspberry Pico
-[kreier/magnet-spinny-thing] Update README.md
-[kreier/magnet-spinny-thing] Add files via upload
-[kreier/magnet-spinny-thing] Create README.md
-[kreier/magnet-spinny-thing] Create README.md</title></rect></a>
+<a href="https://github.com/kreier/fan_tachometer/commit/a9d3f79d6f0b631298b5e9ece2810ce259caad4d"><rect x="294" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-06-03: 1 entry
+[kreier/fan_tachometer] Create fan_rpm_threshold.py</title></rect></a>
 <rect x="294" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-04: 0 entries</title></rect>
 <text x="306" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jun</text>
-<a href="https://github.com/kreier/magnet-spinny-thing/commit/30a996182383b173dbde123e59f1488c6582c291"><rect x="306" y="18" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-06-05: 6 entries
-[kreier/magnet-spinny-thing] Update README.md
-[kreier/magnet-spinny-thing] Update README.md
-[kreier/magnet-spinny-thing] Merge pull request #1 from ssis-robotics/main
-[kreier/magnet-spinny-thing] working with Raspberry Pico
-[kreier/vex] test gyroscope
-[kreier/magnet-spinny-thing] README.md</title></rect></a>
+<a href="https://github.com/kreier/vex/commit/0fe6ae9e4713dc1cf3a845b01bf5831551492460"><rect x="306" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-06-05: 1 entry
+[kreier/vex] test gyroscope</title></rect></a>
 <rect x="306" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-06: 0 entries</title></rect>
 <rect x="306" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-07: 0 entries</title></rect>
 <a href="https://github.com/kreier/fan_tachometer/commit/19ca7040e98ae40210ed4e292124886db964cdc9"><rect x="306" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-06-08: 1 entry
@@ -516,11 +483,7 @@
 <rect x="414" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-09: 0 entries</title></rect>
 <rect x="414" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-10: 0 entries</title></rect>
 <rect x="414" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-11: 0 entries</title></rect>
-<a href="https://github.com/kreier/functions-and-modular-code/commit/2a268c51ecabcf764561998f873de9c1d1ae2752"><rect x="414" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-08-12: 4 entries
-[kreier/functions-and-modular-code] add code below line 218
-[kreier/functions-and-modular-code] adjusted for javascript
-[kreier/functions-and-modular-code] Create drinkmachine.js
-[kreier/functions-and-modular-code] Initial commit</title></rect></a>
+<rect x="414" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-12: 0 entries</title></rect>
 <rect x="414" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-13: 0 entries</title></rect>
 <rect x="426" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-14: 0 entries</title></rect>
 <rect x="426" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-15: 0 entries</title></rect>
@@ -531,40 +494,12 @@
 [kreier/hello_world] Write my first outline.
 [kreier/hello_world] Initial commit</title></rect></a>
 <rect x="426" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-18: 0 entries</title></rect>
-<a href="https://github.com/kreier/shockdetector/commit/64ba0995de2c1ba751d65943807133871d2a0c75"><rect x="426" y="78" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2022-08-19: 18 entries
-[kreier/shockdetector] working example
-[kreier/shockdetector] shortened to 120 lines
-[kreier/shockdetector] Merge pull request #2 from kreier/main
-[kreier/shockdetector] Delete .DS_Store
-[kreier/shockdetector] Merge branch 'ssis-aa:main' into main
-[kreier/shockdetector] included pictures of videos
-[kreier/shockdetector] renamed image files
-[kreier/shockdetector] Merge branch 'ssis-aa:main' into main
-[kreier/shockdetector] Merge branch 'main' of https://github.com/ssis-aa/shockdetector
-[kreier/shockdetector] pictures of Mr. Weinbergs videos
-[kreier/shockdetector] updated for Synology Diskstation
-[kreier/shockdetector] more references and links
-[kreier/shockdetector] documents for the project
-[kreier/shockdetector] Expanded description
-[kreier/shockdetector] down to 120 lines
-[kreier/shockdetector] fixed code from Mr. Kreier
-[kreier/shockdetector] copied original code from Mr. Weinberg
-[kreier/shockdetector] Initial commit</title></rect></a>
+<rect x="426" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-19: 0 entries</title></rect>
 <rect x="426" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-20: 0 entries</title></rect>
 <rect x="438" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-21: 0 entries</title></rect>
-<a href="https://github.com/kreier/shockdetector/commit/6a0f1ebbdf03e24df6ba5f6826fcc24f006ee3e0"><rect x="438" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-08-22: 1 entry
-[kreier/shockdetector] Reset with button A works</title></rect></a>
-<a href="https://github.com/kreier/functions-and-modular-code/commit/cf1c8b0c00e54aaa2b6f073ee9c64b32b30e0404"><rect x="438" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-08-23: 11 entries
-[kreier/functions-and-modular-code] included shock detector code link
-[kreier/functions-and-modular-code] Create shockdetector.js
-[kreier/functions-and-modular-code] Update README.md
-[kreier/functions-and-modular-code] Create modularCodeExampleStart.js
+<rect x="438" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-22: 0 entries</title></rect>
+<a href="https://github.com/kreier/hello_world/commit/ce0d24806e696d6560696414242609e0f49c89ec"><rect x="438" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-08-23: 2 entries
 [kreier/hello_world] Create helloworld.js
-[kreier/shockdetector] Merge pull request #4 from kreier/main
-[kreier/shockdetector] Merge branch 'main' into main
-[kreier/shockdetector] Merge pull request #3 from khangpham24/main
-[kreier/shockdetector] Merge pull request #1 from ssis-aa/kreier-patch-1
-[kreier/shockdetector] reference student starter code
 [kreier/hello_world] README.md</title></rect></a>
 <rect x="438" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-24: 0 entries</title></rect>
 <a href="https://github.com/kreier/csp2022/commit/0c6bbe8cb6d56ffadab616d64575deddfc2fe376"><rect x="438" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-08-25: 5 entries
@@ -577,9 +512,7 @@
 <rect x="438" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-27: 0 entries</title></rect>
 <rect x="450" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-28: 0 entries</title></rect>
 <rect x="450" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-29: 0 entries</title></rect>
-<a href="https://github.com/kreier/functions-and-modular-code/commit/caa40c6e0ac28b5d6551ea8f52ecbca05fd06a68"><rect x="450" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-08-30: 2 entries
-[kreier/functions-and-modular-code] Working example from video
-[kreier/functions-and-modular-code] README.md</title></rect></a>
+<rect x="450" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-30: 0 entries</title></rect>
 <a href="https://github.com/kreier/aa/commit/b3a3f5a66db7e4113bf98109ce894d32c5ca19d5"><rect x="450" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-08-31: 7 entries
 [kreier/aa] reference code @emwdx 2022-01-26
 [kreier/aa] Create README.md
@@ -589,10 +522,8 @@
 [kreier/python2018] Merge pull request #17 from kreier/dependabot/pip/lxml-4.9.1
 [kreier/python2018] Merge pull request #20 from kreier/dependabot/pip/nbconvert-6.5.1</title></rect></a>
 <rect x="450" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-01: 0 entries</title></rect>
-<a href="https://github.com/kreier/ls/commit/95108997a0127d3f340112e3269c4884f9418e3e"><rect x="450" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-09-02: 4 entries
+<a href="https://github.com/kreier/ls/commit/95108997a0127d3f340112e3269c4884f9418e3e"><rect x="450" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-09-02: 2 entries
 [kreier/ls] updated links and structure
-[kreier/shockdetector] included network graph
-[kreier/shockdetector] Activity in 1 week of August 2022
 [kreier/ls] README.md</title></rect></a>
 <rect x="450" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-03: 0 entries</title></rect>
 <text x="462" y="12" font-family="sans-serif" font-size="8" fill="#767676">Sep</text>
@@ -603,19 +534,12 @@
 [kreier/aa] Create 5-1_modularCodeExampleStart.js
 [kreier/aa] fix order of links
 [kreier/aa] extended to day 6 to 9</title></rect></a>
-<a href="https://github.com/kreier/aa/commit/0fe6f6dc62f79ddb9ae06854224a1cf0f199c8e2"><rect x="462" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-09-07: 5 entries
+<a href="https://github.com/kreier/aa/commit/0fe6f6dc62f79ddb9ae06854224a1cf0f199c8e2"><rect x="462" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-09-07: 4 entries
 [kreier/aa] scaffold for unit 2
 [kreier/aa] link the first 9 days
 [kreier/aa] detail fixed
-[kreier/aa] updated structure
-[kreier/english-words] README.md</title></rect></a>
-<a href="https://github.com/kreier/managing-state/commit/9fc8289c41adbc20551ebecd6e318bb7bd685259"><rect x="462" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-09-08: 6 entries
-[kreier/managing-state] Create bitstring_to_ascii.py
-[kreier/managing-state] fixed typos
-[kreier/managing-state] Create bits_to_ascii_attempt.py
-[kreier/managing-state] Create code.txt
-[kreier/managing-state] Update README.md
-[kreier/managing-state] Initial commit</title></rect></a>
+[kreier/aa] updated structure</title></rect></a>
+<rect x="462" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-08: 0 entries</title></rect>
 <rect x="462" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-09: 0 entries</title></rect>
 <rect x="462" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-10: 0 entries</title></rect>
 <rect x="474" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-11: 0 entries</title></rect>
@@ -640,15 +564,8 @@
 [kreier/csp2022] Update README.md
 [kreier/littleCV] Initial Commit
 [kreier/csp2022] README.md</title></rect></a>
-<a href="https://github.com/kreier/csp/commit/6c16c93eaa7039e153022f391c538e279a641fd6"><rect x="486" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-09-22: 5 entries
-[kreier/csp] updated documentation
-[kreier/csp] overview updated
-[kreier/csp] general solution
-[kreier/csp] no conditional statements or lists
-[kreier/csp] Wayne 6 lines 2022/09/19</title></rect></a>
-<a href="https://github.com/kreier/csp/commit/2e67358c95f3701bc37e58f0564cd1fcdaf744c1"><rect x="486" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-09-23: 2 entries
-[kreier/csp] included France and Italy, now painting Italy
-[kreier/csp] Create NorwayFlag.py</title></rect></a>
+<rect x="486" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-22: 0 entries</title></rect>
+<rect x="486" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-23: 0 entries</title></rect>
 <rect x="486" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-24: 0 entries</title></rect>
 <rect x="498" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-25: 0 entries</title></rect>
 <rect x="498" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-26: 0 entries</title></rect>
@@ -670,15 +587,12 @@
 <a href="https://github.com/kreier/python2018/commit/cd84f660c84e9ad8607231e2d04c67d0dda694fe"><rect x="510" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-03: 1 entry
 [kreier/python2018] Merge pull request #21 from kreier/dependabot/pip/joblib-1.2.0</title></rect></a>
 <rect x="510" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-04: 0 entries</title></rect>
-<a href="https://github.com/kreier/benchmark/commit/733fc96f4cb5c7ee26ec26ee5030f65159daa01c"><rect x="510" y="54" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2022-10-05: 17 entries
+<a href="https://github.com/kreier/benchmark/commit/733fc96f4cb5c7ee26ec26ee5030f65159daa01c"><rect x="510" y="54" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2022-10-05: 14 entries
 [kreier/benchmark] Update README.md
 [kreier/benchmark] Update README.md
 [kreier/benchmark] Create README.md
 [kreier/benchmark] Create launch.json
 [kreier/benchmark] included mandelbrot with timer
-[kreier/csp] more challenge
-[kreier/csp] Add files via upload
-[kreier/csp] Create mandelbrot.py
 [kreier/logo] experimental addition
 [kreier/logo] documentation 2019
 [kreier/logo] update for Synology
@@ -688,33 +602,44 @@
 [kreier/python2018] Create README.md
 [kreier/python2018] Create guess_passcode.py
 [kreier/python2018] Create semesterexam.py</title></rect></a>
-<a href="https://github.com/kreier/circle_k_project-mrangstrup24/commit/86dcf1568f0fd6acead488fde3539ee6c08d834d"><rect x="510" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-10-06: 6 entries
-[kreier/circle_k_project-mrangstrup24] correct file format
-[kreier/collaborative-art_2021-2022] Create collaborative-art.js
-[kreier/collaborative-art_2021-2022] documentation with image and network
-[kreier/collaborative-art_2021-2022] Add files via upload
-[kreier/circle_k_project-mrangstrup24] README.md
-[kreier/collaborative-art_2021-2022] README.md</title></rect></a>
-<rect x="510" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-07: 0 entries</title></rect>
-<rect x="510" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-08: 0 entries</title></rect>
+<rect x="510" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-06: 0 entries</title></rect>
+<a href="https://github.com/kreier/p5js/commit/7660e1292862e1c993e550fd2e80a47a4391a086"><rect x="510" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-10-07: 9 entries
+[kreier/p5js] included mandelbrot set
+[kreier/p5js] cycling through colors
+[kreier/p5js] Add files via upload
+[kreier/p5js] documented last color iteration
+[kreier/p5js] live drawing in color 600x400
+[kreier/p5js] drawing top to bottom - no need to wait for final picture
+[kreier/p5js] bw in 600x400 range
+[kreier/p5js] update for Synology Diskstation
+[kreier/p5js] Initial commit</title></rect></a>
+<a href="https://github.com/kreier/p5js/commit/ea981bf4dda8be0f8eb6791e4486b7658990a5ad"><rect x="510" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-08: 3 entries
+[kreier/p5js] disruption update
+[kreier/p5js] mandelbrot examples
+[kreier/p5js] Create mandelbrot5.js</title></rect></a>
 <rect x="522" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-09: 0 entries</title></rect>
-<a href="https://github.com/kreier/open-3d-viewer/blob/master/README.md"><rect x="522" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-10: 1 entry
-[kreier/open-3d-viewer] README.md</title></rect></a>
-<rect x="522" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-11: 0 entries</title></rect>
-<rect x="522" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-12: 0 entries</title></rect>
+<a href="https://github.com/kreier/p5js/commit/14c29f6de17aac4586a01d2a7702384bac807f19"><rect x="522" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-10-10: 10 entries
+[kreier/p5js] updated and included disruption
+[kreier/p5js] Add files via upload
+[kreier/p5js] included color and a color gradient
+[kreier/p5js] link to p5js.org code to directly execute
+[kreier/prime] Create README.md
+[kreier/prime] Create README.md
+[kreier/prime] tested on Playground Express 1.3 seconds
+[kreier/prime] worked on t-display
+[kreier/prime] calculating prime numbers in swift
+[kreier/prime] Initial commit</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/71628c49d239da8588b3f2dbe025262308352750"><rect x="522" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-11: 1 entry
+[kreier/prime] this worked in exam.net</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/4c8fcf0e3cd33f586e86532672d204612fad45ab"><rect x="522" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-12: 2 entries
+[kreier/prime] documentation of challenge
+[kreier/prime] faster algorithm</title></rect></a>
 <a href="https://github.com/kreier/python2018/commit/5c64ac9f20338d91f4700d4a020a5dcc0519ceea"><rect x="522" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-13: 3 entries
 [kreier/python2018] this displays the image!
 [kreier/python2018] Merge branch 'main' of https://github.com/kreier/python2018
 [kreier/python2018] load and display image</title></rect></a>
-<a href="https://github.com/kreier/csp/commit/2341a63b59f96ad70f3a286de8b4e6131623fda5"><rect x="522" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-14: 4 entries
-[kreier/csp] Create mandelbrot_600x400.py
-[kreier/csp] Create color_gradient_box.py
-[kreier/csp] using hue to rgb
-[kreier/csp] Create random_color_box.py</title></rect></a>
-<a href="https://github.com/kreier/almond-bread-gl/commit/ea3c746157af7ec3411dd6226fe47ce309474f8b"><rect x="522" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-15: 3 entries
-[kreier/almond-bread-gl] documented in pictures
-[kreier/almond-bread-gl] Create README.md
-[kreier/almond-bread-gl] README.md</title></rect></a>
+<rect x="522" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-14: 0 entries</title></rect>
+<rect x="522" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-15: 0 entries</title></rect>
 <rect x="534" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-16: 0 entries</title></rect>
 <a href="https://github.com/kreier/sandwich/commit/45921d9879c42a7864a414cdd9562a3029d2ad62"><rect x="534" y="30" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2022-10-17: 13 entries
 [kreier/sandwich] cleanup - removing duplicates
@@ -736,16 +661,15 @@
 [kreier/sandwich] refactored
 [kreier/Burger1] README.md
 [kreier/sandwich] README.md</title></rect></a>
-<rect x="534" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-19: 0 entries</title></rect>
-<a href="https://github.com/kreier/clue/commit/2e66c5995473588092799e93efdd828f3d9d1aa1"><rect x="534" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-10-20: 7 entries
+<a href="https://github.com/kreier/prime/commit/92ec07043f9ebfd49b6f40d50f99c131ee03eb10"><rect x="534" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-19: 2 entries
+[kreier/prime] documented 123x speed increase
+[kreier/prime] 8 stages documented in playground book</title></rect></a>
+<a href="https://github.com/kreier/clue/commit/2e66c5995473588092799e93efdd828f3d9d1aa1"><rect x="534" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-20: 4 entries
 [kreier/clue] plotter for input temp pressure uvm
 [kreier/clue] 1.8 seconds
 [kreier/clue] sketches of the first day
-[kreier/clue] Initial commit
-[kreier/csp] Add files via upload
-[kreier/csp] Create README.md
-[kreier/csp] draws random rectangles with rounded corners in random colors</title></rect></a>
-<a href="https://github.com/kreier/aa/commit/1e5f91186ec64e69761e19d56dd0162a038c0b18"><rect x="534" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-10-21: 8 entries
+[kreier/clue] Initial commit</title></rect></a>
+<a href="https://github.com/kreier/aa/commit/1e5f91186ec64e69761e19d56dd0162a038c0b18"><rect x="534" y="78" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2022-10-21: 17 entries
 [kreier/aa] Feather M0 artifacts
 [kreier/aa] restructured
 [kreier/aa] include Synology Diskstation
@@ -753,23 +677,44 @@
 [kreier/clue] Delete .DS_Store
 [kreier/clue] include lib for easier deployment on new devices
 [kreier/clue] Delete .DS_Store
-[kreier/clue] include Synology Diskstation</title></rect></a>
+[kreier/clue] include Synology Diskstation
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] 1.8 seconds on M1 MacBook
+[kreier/prime] included blackpill and esp32-s2
+[kreier/prime] relative speed included
+[kreier/prime] included micro:bit and MicroPython
+[kreier/prime] Update README.md
+[kreier/prime] Update README.md
+[kreier/prime] faster algorithms
+[kreier/prime] new algorithm</title></rect></a>
 <rect x="534" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-22: 0 entries</title></rect>
 <rect x="546" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-23: 0 entries</title></rect>
-<a href="https://github.com/kreier/aa/commit/62e2c93fff7329d62456610dc7f5e2bef8ff7cd5"><rect x="546" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-10-24: 7 entries
+<a href="https://github.com/kreier/aa/commit/62e2c93fff7329d62456610dc7f5e2bef8ff7cd5"><rect x="546" y="30" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2022-10-24: 14 entries
 [kreier/aa] Merge pull request #1 from matthiaskreier/patch-1
-[kreier/managing-state] Merge pull request #1 from ssis-aa/kreier-patch-1
-[kreier/shockdetector] Merge pull request #1 from kreier/kreier-patch-1
-[kreier/shockdetector] Merge branch 'main' into kreier-patch-1
+[kreier/prime] updated faster algorithm
+[kreier/prime] updated code and speed
+[kreier/prime] include esp32
+[kreier/prime] number of primes, time on M1
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] recompiled for M1 Mac
+[kreier/prime] fixed typos
+[kreier/prime] updated python speed
+[kreier/prime] faster code with C
+[kreier/prime] picture and circuitpython code example
+[kreier/prime] successful running circuitpython 8.0.0
 [kreier/temp] extended documentation October 2022
-[kreier/shockdetector] README.md
 [kreier/temp] README.md</title></rect></a>
-<rect x="546" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-25: 0 entries</title></rect>
-<rect x="546" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-26: 0 entries</title></rect>
-<a href="https://github.com/kreier/ssisolar/commit/9eee69fec63be869eac0a307cefe474116be31cf"><rect x="546" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-27: 3 entries
+<a href="https://github.com/kreier/prime/commit/edfc61b8b19c8a9cc99dbdbe673037e68afb33c0"><rect x="546" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-25: 2 entries
+[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime
+[kreier/prime] updated details</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/4ee2e7f7ecb513c95326e663d8087ffd81f76fc5"><rect x="546" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-26: 3 entries
+[kreier/prime] included Plagrounds (Swift) simulator
+[kreier/prime] Delete .DS_Store
+[kreier/prime] include Synology Diskstation</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/f67988df754afd9279a0f723b993494ba2b2b343"><rect x="546" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-27: 3 entries
+[kreier/prime] tested speed on M1 A12Z and A10X
 [kreier/ssisolar] updated progress indicator for display, every second
-[kreier/ssisolar] for TTGO ESP32-S2 2022-10-28
-[kreier/PhoneSelector] README.md</title></rect></a>
+[kreier/ssisolar] for TTGO ESP32-S2 2022-10-28</title></rect></a>
 <a href="https://github.com/kreier/clue/commit/ef768328e04326b39fc5fef1aab5e2cd06d4f3a2"><rect x="546" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2022-10-28: 15 entries
 [kreier/clue] first colorful render
 [kreier/clue] clue sensor plotter added
@@ -788,15 +733,25 @@
 [kreier/mandelbrot-basic] Initial commit</title></rect></a>
 <rect x="546" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-29: 0 entries</title></rect>
 <rect x="558" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-30: 0 entries</title></rect>
-<a href="https://github.com/kreier/circuit-playground-express/commit/1c4360d1d8ced0ed2bc120faf05e228a433965f8"><rect x="558" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-31: 4 entries
+<a href="https://github.com/kreier/circuit-playground-express/commit/1c4360d1d8ced0ed2bc120faf05e228a433965f8"><rect x="558" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-31: 5 entries
 [kreier/circuit-playground-express] initial commit
 [kreier/circuit-playground-express] Update .gitignore
 [kreier/circuit-playground-express] Initial commit
-[kreier/clue] with external stemma i2c modules</title></rect></a>
-<rect x="558" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-01: 0 entries</title></rect>
-<a href="https://github.com/kreier/clue/commit/f24aeab2c9cf194cf3e34e702fc7a02ca32e65b6"><rect x="558" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-11-02: 2 entries
+[kreier/clue] with external stemma i2c modules
+[kreier/prime] Speed of new ESP32-S3</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/8b7a8d3985b529c7f8fd8a16dfbc80502887e304"><rect x="558" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-11-01: 3 entries
+[kreier/prime] fixed code for 10000 iterations
+[kreier/prime] text example
+[kreier/prime] updated T8 ESP32-S2</title></rect></a>
+<a href="https://github.com/kreier/clue/commit/f24aeab2c9cf194cf3e34e702fc7a02ca32e65b6"><rect x="558" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-11-02: 8 entries
 [kreier/clue] fix
-[kreier/mandelbrot-basic] 20 seconds to paint</title></rect></a>
+[kreier/mandelbrot-basic] 20 seconds to paint
+[kreier/picow] blink optical feedback of operation
+[kreier/picow] libraries needed for circuitpython, and /lib
+[kreier/picow] wifi is working!
+[kreier/picow] initial Wi-Fi setup
+[kreier/picow] got my new module today
+[kreier/picow] Initial commit</title></rect></a>
 <rect x="558" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-03: 0 entries</title></rect>
 <rect x="558" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-04: 0 entries</title></rect>
 <rect x="558" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-05: 0 entries</title></rect>
@@ -807,15 +762,20 @@
 [kreier/mandelbrot-ios] Create .gitignore
 [kreier/mandelbrot-ios] Create LICENCE
 [kreier/mandelbrot-ios] Create README.md</title></rect></a>
-<a href="https://github.com/kreier/csp/commit/c291e0b60387503e6a6baa6ed88765990574ba4f"><rect x="570" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-11-09: 7 entries
-[kreier/csp] Create README.md
-[kreier/csp] modified code from Tristan
+<a href="https://github.com/kreier/mandelbrot-ios/commit/93f03165f51b4b9b1c2bce5582164b2324e38958"><rect x="570" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-11-09: 4 entries
 [kreier/mandelbrot-ios] Merge branch 'main' of https://github.com/kreier/mandelbrot-ios
 [kreier/mandelbrot-ios] Update ContentView.swift
 [kreier/mandelbrot-ios] software status
-[kreier/mandelbrot-ios] slow improvements
-[kreier/csp] README.md</title></rect></a>
-<rect x="570" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-10: 0 entries</title></rect>
+[kreier/mandelbrot-ios] slow improvements</title></rect></a>
+<a href="https://github.com/kreier/prime/commit/3ea98ca83dfa4b704b1c65ed96ce5b481fe567bf"><rect x="570" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-11-10: 8 entries
+[kreier/prime] Add files via upload
+[kreier/prime] with esp8266 and esp32 -C3 and -S3
+[kreier/prime] updated esp8266 and esp32 240MHz
+[kreier/prime] 0.90 seconds to 10000 on esp8266
+[kreier/prime] 541 seconds on ESP8266
+[kreier/prime] Add files via upload
+[kreier/prime] This takes more that 21.57 seconds on ESP8266
+[kreier/prime] Create README.md</title></rect></a>
 <a href="https://github.com/kreier/badge/commit/a76f0b18f8c7927d23b83fae97885debf3f03e2a"><rect x="570" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-11-11: 6 entries
 [kreier/badge] finished
 [kreier/badge] Add files via upload
@@ -857,8 +817,9 @@
 [kreier/rp2040] Update .gitignore
 [kreier/rp2040] Initial commit
 [kreier/circular_art_2022] README.md</title></rect></a>
-<a href="https://github.com/kreier/mandelbrot-basic/commit/b4b96f26d22a9dfa16edc83a52450b9f5ccf7287"><rect x="582" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-11-16: 1 entry
-[kreier/mandelbrot-basic] does not support complex numbers</title></rect></a>
+<a href="https://github.com/kreier/mandelbrot-basic/commit/b4b96f26d22a9dfa16edc83a52450b9f5ccf7287"><rect x="582" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-11-16: 2 entries
+[kreier/mandelbrot-basic] does not support complex numbers
+[kreier/prime] include link to source</title></rect></a>
 <a href="https://github.com/kreier/clue/commit/bab9f4abb06f0dd6f64bc422ebe4a270115de715"><rect x="582" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-11-17: 2 entries
 [kreier/clue] documentation kittenbot
 [kreier/clue] included kittenbot update</title></rect></a>
@@ -889,16 +850,9 @@
 [kreier/rp2040] rp2040 upgraded with TFT 320x200
 [kreier/rp2040] saved from rvr_sphero
 [kreier/clue] README.md</title></rect></a>
-<a href="https://github.com/kreier/circle_k/commit/b01056409abbdd315035fce882dfb4594ffe4050"><rect x="594" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-11-25: 9 entries
+<a href="https://github.com/kreier/circle_k/commit/b01056409abbdd315035fce882dfb4594ffe4050"><rect x="594" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-11-25: 2 entries
 [kreier/circle_k] updated wider image
-[kreier/circle_k] Add files via upload
-[kreier/Dongjae_Collaborative-Project] Update README.md
-[kreier/Dongjae_Collaborative-Project] Update README.md
-[kreier/Dongjae_Collaborative-Project] Update README.md
-[kreier/Dongjae_Collaborative-Project] Merge pull request #1 from kreier/patch-1
-[kreier/Dongjae_Collaborative-Project] Add files via upload
-[kreier/Dongjae_Collaborative-Project] Create flag_code.js
-[kreier/Dongjae_Collaborative-Project] README.md</title></rect></a>
+[kreier/circle_k] Add files via upload</title></rect></a>
 <rect x="594" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-26: 0 entries</title></rect>
 <rect x="606" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-27: 0 entries</title></rect>
 <a href="https://github.com/kreier/rp2040/commit/1b66a59862f35bbcfab927193a4dced83a3840e7"><rect x="606" y="30" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2022-11-28: 14 entries
@@ -927,7 +881,8 @@
 <rect x="618" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-04: 0 entries</title></rect>
 <rect x="618" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-05: 0 entries</title></rect>
 <rect x="618" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-06: 0 entries</title></rect>
-<rect x="618" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-07: 0 entries</title></rect>
+<a href="https://github.com/kreier/p5js/commit/38ed7690c3210c44082bef02a0a60918d7a2e3b2"><rect x="618" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-12-07: 1 entry
+[kreier/p5js] Create alpha.js</title></rect></a>
 <rect x="618" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-08: 0 entries</title></rect>
 <rect x="618" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-09: 0 entries</title></rect>
 <rect x="618" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-10: 0 entries</title></rect>

@@ -177,16 +177,6 @@ https://github.com/kreier/aisvn/commit/41d3015041fbb0345923f141a1c2680b13005f5d,
 https://github.com/kreier/aisvn/commit/ceff8a8dd868be254d79209f43bc56bffb0056b8,2019-12-18,[kreier/aisvn] Create README.md,github commit
 https://github.com/kreier/aisvn/commit/eaba1cf482f24da3a4bc9724996910a30c87155a,2019-12-18,[kreier/aisvn] Create README.md,github commit
 https://github.com/kreier/aisvn/commit/09fdb1dd53437ddba91dd4b3cd5333b4ad85ec38,2019-12-18,[kreier/aisvn] Initial commit,github commit
-https://github.com/kreier/aisvn-solarpower/commit/2af5e4cd61490903c5de6e4284069165fda64288,2021-12-14,[kreier/aisvn-solarpower] updates from version v0.8,github commit
-https://github.com/kreier/aisvn-solarpower/commit/c56a331f029859bdb1c74f7ffeff9a1701c3ef88,2021-01-12,[kreier/aisvn-solarpower] update to 0.7 with fixed timeframe,github commit
-https://github.com/kreier/aisvn-solarpower/commit/4132232d8c342d7ff0a7d406bfeb55bb734d0f63,2020-12-16,[kreier/aisvn-solarpower] Update SolarAISVN.ino,github commit
-https://github.com/kreier/aisvn-solarpower/commit/6a6ca0cdf88a2c37362a80541ad556c80f0962ed,2020-12-11,[kreier/aisvn-solarpower] Display the license and latest release,github commit
-https://github.com/kreier/aisvn-solarpower/commit/452ebc610f2608231652d36c0c40910c1fa72d2c,2020-11-20,[kreier/aisvn-solarpower] submit corrected data,github commit
-https://github.com/kreier/aisvn-solarpower/commit/2009da4cefbbdce0dc35318dc61514439e651d9d,2020-11-16,[kreier/aisvn-solarpower] Jekyll theme Cayman,github commit
-https://github.com/kreier/aisvn-solarpower/commit/50710f64230d8e854960f8a26599bac5bdace283,2020-11-16,[kreier/aisvn-solarpower] Create index.md,github commit
-https://github.com/kreier/almond-bread-gl/commit/ea3c746157af7ec3411dd6226fe47ce309474f8b,2022-10-15,[kreier/almond-bread-gl] documented in pictures,github commit
-https://github.com/kreier/almond-bread-gl/commit/1cefa33fa6114f3d735591ba7277aa399884467e,2022-10-15,[kreier/almond-bread-gl] Create README.md,github commit
-https://github.com/kreier/android-compose-codelabs/commit/fc2acf9ca6c759369a5531da424f04446656eabd,2022-05-22,[kreier/android-compose-codelabs] Update fragment_plant_detail.xml,github commit
 https://github.com/kreier/app1/commit/43cb01b7914d9ffe8d6bf2634dfac7abf6ff8efa,2022-05-25,[kreier/app1] more standards added,github commit
 https://github.com/kreier/app1/commit/54f87ec4bdbb965962d0b9c92a84d86a4fcfd41e,2022-05-25,[kreier/app1] Merge branch 'main' of https://github.com/kreier/app1,github commit
 https://github.com/kreier/app1/commit/dae0d6e2b2c878356f326da54170eeb27a1c9d3f,2022-05-25,[kreier/app1] curriculum documentation,github commit
@@ -770,7 +760,6 @@ https://github.com/kreier/circle_k/commit/8c1a9e6c8e3aeae782f2685cb308e9c8bb8e3d
 https://github.com/kreier/circle_k/commit/45f971cadfa5ea1128a84c4cab4c00c7aee15957,2022-11-23,[kreier/circle_k] Create sketch.js,github commit
 https://github.com/kreier/circle_k/commit/f5855d345bc297c6ba65d325b97c2e77331ab969,2022-11-23,[kreier/circle_k] Create .gitignore,github commit
 https://github.com/kreier/circle_k/commit/fe02030072c4279d656fd0a0a46c92933776e472,2022-11-23,[kreier/circle_k] Initial commit,github commit
-https://github.com/kreier/circle_k_project-mrangstrup24/commit/86dcf1568f0fd6acead488fde3539ee6c08d834d,2022-10-06,[kreier/circle_k_project-mrangstrup24] correct file format,github commit
 https://github.com/kreier/circuit-playground-express/commit/a259439c252d0436f0c0af2451c5fe842196a2de,2023-05-05,[kreier/circuit-playground-express] fixed letter F,github commit
 https://github.com/kreier/circuit-playground-express/commit/599713130071467e1564c1ff10a08f60f66a2ffe,2023-05-05,[kreier/circuit-playground-express] Create lightsensor_read_morse.py,github commit
 https://github.com/kreier/circuit-playground-express/commit/944c32732c8c04e6ec02f1a34462dc5d72e9b467,2023-05-05,[kreier/circuit-playground-express] Create boot.py,github commit
@@ -802,21 +791,6 @@ https://github.com/kreier/circuit-playground-express/commit/11c095ac5769196e90c4
 https://github.com/kreier/circuit-playground-express/commit/1c4360d1d8ced0ed2bc120faf05e228a433965f8,2022-10-31,[kreier/circuit-playground-express] initial commit,github commit
 https://github.com/kreier/circuit-playground-express/commit/7c482fe8b48db45b183694ee8c93650df12cc40b,2022-10-31,[kreier/circuit-playground-express] Update .gitignore,github commit
 https://github.com/kreier/circuit-playground-express/commit/cc762d24da5f58425fe0f254f00720a21f848268,2022-10-31,[kreier/circuit-playground-express] Initial commit,github commit
-https://github.com/kreier/circuitpython/commit/537ec3ef7f61e3eeb683089bf843befbcc8a9ac5,2024-01-01,"[kreier/circuitpython] Revert ""change MADCTL 0x68 to 0x60 from BGR back to RGB""",github commit
-https://github.com/kreier/circuitpython/commit/4165a3c281a480ae703337a434e9fcc674c4a2e4,2023-12-30,[kreier/circuitpython] change MADCTL 0x68 to 0x60 from BGR back to RGB,github commit
-https://github.com/kreier/circuitpython/commit/c7531f76979ff4e1ab79a01c3300f129e459388f,2023-12-30,"[kreier/circuitpython] fix init sequence, remove auto brightness setting",github commit
-https://github.com/kreier/circuitpython/commit/2fd974ebe57ca2a9653f6c526ce0be5c1bed389e,2023-12-30,[kreier/circuitpython] Add ten missing pins 17-29 including LED,github commit
-https://github.com/kreier/circuitpython/commit/093a36987c9a0e71234b7dc21f9853a2bec5b179,2023-12-30,[kreier/circuitpython] Merge branch 'adafruit:main' into main,github commit
-https://github.com/kreier/circuitpython/commit/8c9b260b1f03878e2a9a852fa099f5fbbf0ac49e,2023-12-28,[kreier/circuitpython] Merge pull request #3 from kreier/lilygo_t_display_rp2040,github commit
-https://github.com/kreier/circuitpython/commit/8838538e0b68545754eac7132a97151478d8ab8b,2023-12-28,[kreier/circuitpython] Merge branch 'main' into lilygo_t_display_rp2040,github commit
-https://github.com/kreier/circuitpython/commit/f1c06825cc0a3993833740b8f786fbf5248768c7,2023-12-28,[kreier/circuitpython] Merge pull request #2 from adafruit/main,github commit
-https://github.com/kreier/circuitpython/commit/f5b8b8d6f22eed5e36499060d085eb88812a35ca,2023-03-13,[kreier/circuitpython] tailing whitespace removed (pre-commit run failed),github commit
-https://github.com/kreier/circuitpython/commit/49e9ea2e9aa77060275b764d064d025a29b43712,2023-03-13,"[kreier/circuitpython] add missing pins 4, 36 and 39 - and 4 aliases",github commit
-https://github.com/kreier/circuitpython/commit/1433e14f3bf668ce43d451b9d10c27b14d64c8c5,2023-03-13,"[kreier/circuitpython] inspired by @erongd, fixed errors, added 17, 19, 20, 23, 24, 26, 27, 28, 29",github commit
-https://github.com/kreier/circuitpython/commit/2d3460e1d9fee475e6daaf9bf40ffe0a01743089,2023-03-13,[kreier/circuitpython] copied from @erongd,github commit
-https://github.com/kreier/circuitpython/commit/efa00761ec657f841c9d7b988eb7da99a2607fb7,2023-03-13,[kreier/circuitpython] adjusted for pid.codes pull request,github commit
-https://github.com/kreier/circuitpython/commit/2ac94966dd2997d2cd7cc5b4c7f96bbe96f003ad,2023-03-13,[kreier/circuitpython] copy from @erongd with little adjustment,github commit
-https://github.com/kreier/circuitpython/commit/7d078e83cb903feb58c52865d876f8e1971eb584,2023-03-13,[kreier/circuitpython] copy from @erongd ,github commit
 https://github.com/kreier/circuitpython_vid_pid/commit/d9e50276694d6266332984539cb170b456eb4e08,2023-04-14,[kreier/circuitpython_vid_pid] History for T-Display rp2040,github commit
 https://github.com/kreier/circuitpython_vid_pid/commit/080d7bba2c9ef6ef18499c1f068e655614441df7,2023-03-13,[kreier/circuitpython_vid_pid] Update README.md,github commit
 https://github.com/kreier/circuitpython_vid_pid/commit/90120eca359c1065e50ce1f5e49c7fe7ca25936e,2023-03-09,[kreier/circuitpython_vid_pid] Update README.md,github commit
@@ -867,9 +841,6 @@ https://github.com/kreier/clue/commit/9568bbd03e493d7d09b8d87f539935ce7dfcf027,2
 https://github.com/kreier/codespaces-jupyter/commit/5b6b7e72d4f42df85bb48d5bc0d7e34d56bf00d5,2024-04-01,[kreier/codespaces-jupyter] created 4 timelines in the browser,github commit
 https://github.com/kreier/codespaces-jupyter/commit/c6cf745ea0258036d0ea6f9cb9d4d922cff76430,2024-04-01,[kreier/codespaces-jupyter] first codespace commit,github commit
 https://github.com/kreier/codespaces-jupyter/commit/394b0c645a16a1a20d3f5d80a27417f3a42b58ad,2024-04-01,[kreier/codespaces-jupyter] Initial commit,github commit
-https://github.com/kreier/collaborative-art_2021-2022/commit/6f4565ec68ce1385d3da4453dfc9dc316270a91d,2022-10-06,[kreier/collaborative-art_2021-2022] Create collaborative-art.js,github commit
-https://github.com/kreier/collaborative-art_2021-2022/commit/92412804968834c8908e9e0d3e81ed4bb239bb4c,2022-10-06,[kreier/collaborative-art_2021-2022] documentation with image and network,github commit
-https://github.com/kreier/collaborative-art_2021-2022/commit/7163014a7e63ff98357f3ff5d563dca5dcdc4066,2022-10-06,[kreier/collaborative-art_2021-2022] Add files via upload,github commit
 https://github.com/kreier/collatz/commit/4f6c00add85f39a0585ecea078dc0a1765b5f693,2023-11-04,"[kreier/collatz] output control, more details",github commit
 https://github.com/kreier/collatz/commit/604b1e88d23e7d56d59193dbac06b8c7a9dc6e09,2023-11-04,[kreier/collatz] first program,github commit
 https://github.com/kreier/collatz/commit/3f89b3d546bf1cbf8744e9d67a0266bf44507c93,2023-11-04,[kreier/collatz] reference link to Veritasium video,github commit
@@ -894,51 +865,6 @@ https://github.com/kreier/communicationspeed/commit/65de6feacf97e4b04c3283ae1f15
 https://github.com/kreier/communicationspeed/commit/5c2c748d15854a4e26e5321a5a45aa59b5015467,2025-10-10,[kreier/communicationspeed] Update .gitignore for Synology Diskstation,github commit
 https://github.com/kreier/communicationspeed/commit/5624d81d67ce75afa094db1ddd9e92c6e7dff096,2025-10-10,[kreier/communicationspeed] Update README.md,github commit
 https://github.com/kreier/communicationspeed/commit/6e3271667a2f7c1d3c9eaefa4cb93ddd0038bdc8,2025-10-10,[kreier/communicationspeed] Initial commit,github commit
-https://github.com/kreier/control_system_examples_2023/commit/2ce16b32f83256edd41136daa90fde1b72e43af8,2023-03-01,[kreier/control_system_examples_2023] Merge pull request #4 from kreier/main,github commit
-https://github.com/kreier/control_system_examples_2023/commit/66977ff8431b374729e2749c318c71441aa5f816,2023-03-01,[kreier/control_system_examples_2023] Merge branch 'ssis-aa:main' into main,github commit
-https://github.com/kreier/control_system_examples_2023/commit/228ff101152613943464a6dd82af1a8241fd2e50,2023-03-01,[kreier/control_system_examples_2023] final random cycle,github commit
-https://github.com/kreier/control_system_examples_2023/commit/fe861c9a6edeb96917bd745fefc951ee2adb894a,2023-03-01,[kreier/control_system_examples_2023] final version cycles through the set angles,github commit
-https://github.com/kreier/control_system_examples_2023/commit/211d30425b8f5f8cd173ce13c1942eba10da461e,2023-03-01,[kreier/control_system_examples_2023] Merge pull request #3 from kreier/main,github commit
-https://github.com/kreier/control_system_examples_2023/commit/65007f3a13da04345fb20d7f24c702375634f39b,2023-03-01,[kreier/control_system_examples_2023] complete PID algorithm for arm control,github commit
-https://github.com/kreier/control_system_examples_2023/commit/0c435f2997b64d5ebf86727dc3a84afee4e8020e,2023-03-01,[kreier/control_system_examples_2023] minute 7:00 from Mr. Weinberg's video,github commit
-https://github.com/kreier/control_system_examples_2023/commit/bc800497fbb36ff825fb650ca0097298b5ceecf9,2023-03-01,[kreier/control_system_examples_2023] proportional example from https://youtu.be/swJ7ECbuKfY?t=198,github commit
-https://github.com/kreier/control_system_examples_2023/commit/60b8f0633b801dab061da05de8a6eb712d45e954,2023-03-01,[kreier/control_system_examples_2023] document progress from p5js,github commit
-https://github.com/kreier/control_system_examples_2023/commit/920f4c34cf44d67fd07490137d7fd691b0411d9d,2023-03-01,[kreier/control_system_examples_2023] moved Dan's code,github commit
-https://github.com/kreier/control_system_examples_2023/commit/e470f879188ec244fff89d7d214dd754a5e0bd7d,2023-03-01,[kreier/control_system_examples_2023] Merge pull request #2 from kreier/main,github commit
-https://github.com/kreier/control_system_examples_2023/commit/ef5eb1f791ad9355a68193a3b582dce1a98416e9,2023-03-01,[kreier/control_system_examples_2023] Merge branch 'ssis-aa:main' into main,github commit
-https://github.com/kreier/control_system_examples_2023/commit/60d50f1ead7c2c8a0cc30fa4e5e79b68a04ba739,2023-02-27,[kreier/control_system_examples_2023] three examples visualized,github commit
-https://github.com/kreier/control_system_examples_2023/commit/98d23834f7e0d45190c632d13f767b4de9cfbfa0,2023-02-27,[kreier/control_system_examples_2023] included pictures,github commit
-https://github.com/kreier/control_system_examples_2023/commit/d8c4db57d8b2050294a7fc39fcdec8206305acc4,2023-02-27,[kreier/control_system_examples_2023] updated documentation,github commit
-https://github.com/kreier/control_system_examples_2023/commit/f643c50d1dd96ab26406f74570143a40aceaa076,2023-02-27,[kreier/control_system_examples_2023] Update README.md,github commit
-https://github.com/kreier/control_system_examples_2023/commit/e9f2b701f9898ac1f478782ed4930136f95ce748,2023-02-27,[kreier/control_system_examples_2023] Add files via upload,github commit
-https://github.com/kreier/control_system_examples_2023/commit/d445104100dac8f625c204871e70746ce53eec46,2023-02-27,[kreier/control_system_examples_2023] Create README.md,github commit
-https://github.com/kreier/control_system_examples_2023/commit/62792c607e2306de1ef829e147b4f41e29610b54,2023-02-27,[kreier/control_system_examples_2023] Update README.md,github commit
-https://github.com/kreier/control_system_examples_2023/commit/ad7af612ecc2ca847f89cab8c683e5df59837884,2023-02-27,[kreier/control_system_examples_2023] Create README.md,github commit
-https://github.com/kreier/control_system_examples_2023/commit/3da1bb0aea848b44656f893b8cae2e33052b4ba6,2023-02-27,[kreier/control_system_examples_2023] current screenshots 2023-02-27,github commit
-https://github.com/kreier/control_system_examples_2023/commit/2873368a7c52b86299eb80785588986b0c577748,2023-02-27,[kreier/control_system_examples_2023] Create SpacecraftSim.py,github commit
-https://github.com/kreier/control_system_examples_2023/commit/89c7feec66cd151ad8176fae848ac5be49385c47,2023-02-27,[kreier/control_system_examples_2023] Create main.py,github commit
-https://github.com/kreier/control_system_examples_2023/commit/07bfc674a9a83b099e95e5899091e86002cbc90e,2023-02-26,[kreier/control_system_examples_2023] code from https://editor.p5js.org/mkreier/sketches/1oCHPXX3T,github commit
-https://github.com/kreier/control_system_examples_2023/commit/6729e4d4392b59c03cebdf66720deb10e2bebc71,2023-02-26,[kreier/control_system_examples_2023] from https://replit.com/@kreier/WaterValveSimulation#AnalogSensorSim.py,github commit
-https://github.com/kreier/control_system_examples_2023/commit/442da4e2b98f0c80b93f8922804ef12c9bea70da,2023-02-26,[kreier/control_system_examples_2023] Create Shayan.txt,github commit
-https://github.com/kreier/control_system_examples_2023/commit/016e72cd32eab7c7b0273d92a36b67264dd73a7a,2023-02-26,[kreier/control_system_examples_2023] Create main.py,github commit
-https://github.com/kreier/control_system_examples_2023/commit/963fae27d20a5272372e9889bdcb8df68c369485,2023-02-23,[kreier/control_system_examples_2023] Merge pull request #1 from kreier/main,github commit
-https://github.com/kreier/control_system_examples_2023/commit/5d5a0167ce1e749de387671269a2cdb0486bbd72,2023-02-23,[kreier/control_system_examples_2023] simulation of motorized arm with torque slider,github commit
-https://github.com/kreier/control_system_examples_2023/commit/afab80bbf99bcd91e27682e73909f705317e6124,2023-02-23,[kreier/control_system_examples_2023] added on/off control,github commit
-https://github.com/kreier/control_system_examples_2023/commit/7b62d9e2b367f932bc976ff8b647f670552413d0,2023-02-23,[kreier/control_system_examples_2023] export from webinterface,github commit
-https://github.com/kreier/control_system_examples_2023/commit/e6288e20517c8d2a587aeee31e9b1cd54bba4e29,2023-02-23,[kreier/control_system_examples_2023] updated 2023/02/23,github commit
-https://github.com/kreier/control_system_examples_2023/commit/1552a82bd6fa63d12c6941e300d05a45793af315,2023-02-23,[kreier/control_system_examples_2023] update 2023,github commit
-https://github.com/kreier/control_system_examples_2023/commit/43c70b5bfbe8d339cfa12fa050bc54c7ecc2693e,2023-02-23,[kreier/control_system_examples_2023] updated with PID control,github commit
-https://github.com/kreier/control_system_examples_2023/commit/b768ebbd4e10f85b70988e00db6ef765c1d0270f,2023-02-23,[kreier/control_system_examples_2023] Create .gitignore,github commit
-https://github.com/kreier/control_system_examples_2023/commit/351a0a024c65f340c8893b2e6ed2239c41a0cf0e,2023-02-22,[kreier/control_system_examples_2023] updated for 2023,github commit
-https://github.com/kreier/control_system_examples_2023/commit/88653903635452c245b14348718cc758ac33661f,2023-02-22,[kreier/control_system_examples_2023] unique VEX format,github commit
-https://github.com/kreier/control_system_examples_2023/commit/2943f6a61918c323584f8c716f381d9ba3e45ee3,2023-02-22,[kreier/control_system_examples_2023] definition in introduction no longer work,github commit
-https://github.com/kreier/control_system_examples_2023/commit/fe458ac09bbb76640baa5cbf2230fea4ce381854,2023-02-22,[kreier/control_system_examples_2023] Create README.md,github commit
-https://github.com/kreier/coremark/commit/0ac6e42dc4ac735c2f5bc8142442ab715ba007d7,2025-05-12,[kreier/coremark] Create LICENSE,github commit
-https://github.com/kreier/coremark/commit/3c662fff354c64d31decfaeb010190e1653baae4,2025-05-12,[kreier/coremark] update - but you need Python 2.7,github commit
-https://github.com/kreier/creators/commit/f7939b58be31cee7b4747c474d708c3dacb6d88b,2024-01-07,[kreier/creators] add unique creation_id for the 4M variant of the T-Display ESP32,github commit
-https://github.com/kreier/creators/commit/a96f44931ba803a440ed82ff9687744103b0cd41,2023-04-03,[kreier/creators] add TTGO T-18 at the right spot,github commit
-https://github.com/kreier/creators/commit/28d4f78ac80ebcf0d5cea911d293565ea23b3a03,2023-04-03,[kreier/creators] Merge branch 'creationid:main' into lilygo_t18,github commit
-https://github.com/kreier/creators/commit/c59a7746fa211ea26f80e5fb98130caaa13f201a,2023-03-13,[kreier/creators] Update lilygo.md,github commit
 https://github.com/kreier/cru/commit/00693a119a4f7dd5787f4f69e26aed5e603e2957,2025-10-01,[kreier/cru] restore original GPL-3 text,github commit
 https://github.com/kreier/cru/commit/757d0114ff40a491ff9b19b35524662ea1b349ce,2025-10-01,[kreier/cru] Merge branch 'main' of https://github.com/kreier/cru,github commit
 https://github.com/kreier/cru/commit/c53ac36db139dd4cdb35625c1fa17bb5caa9144a,2025-10-01,[kreier/cru] use license text provided by ToastyX,github commit
@@ -975,25 +901,6 @@ https://github.com/kreier/cru/commit/f3b438f3e458e7adc6f4a5428378374bba55e28f,20
 https://github.com/kreier/cru/commit/dcbc8dfddc79254e3279a2e75ecdc9d0040e0d9f,2025-01-17,[kreier/cru] short outline of the software,github commit
 https://github.com/kreier/cru/commit/5d13bcbb013adf8234b9cc720a7cab12647fa0c4,2025-01-17,[kreier/cru] Update .gitignore for Synology,github commit
 https://github.com/kreier/cru/commit/7460930c56134792aaa97a77db7db18a7f8fc3bd,2025-01-17,[kreier/cru] Initial commit,github commit
-https://github.com/kreier/csp/commit/c291e0b60387503e6a6baa6ed88765990574ba4f,2022-11-09,[kreier/csp] Create README.md,github commit
-https://github.com/kreier/csp/commit/ba32850505cdcbe3475dcb9852af443680aae59f,2022-11-09,[kreier/csp] modified code from Tristan,github commit
-https://github.com/kreier/csp/commit/088940a15a3adef0ebfc3f35d58c07164c382027,2022-10-20,[kreier/csp] Add files via upload,github commit
-https://github.com/kreier/csp/commit/c84e46e1b050d60a7f56cbc0282e4a3da66dd4bb,2022-10-20,[kreier/csp] Create README.md,github commit
-https://github.com/kreier/csp/commit/ff2b120de3b7eadae740ee69a48549ed730d9d8e,2022-10-20,[kreier/csp] draws random rectangles with rounded corners in random colors,github commit
-https://github.com/kreier/csp/commit/2341a63b59f96ad70f3a286de8b4e6131623fda5,2022-10-14,[kreier/csp] Create mandelbrot_600x400.py,github commit
-https://github.com/kreier/csp/commit/e88899605165df43d45a8efeffbf683433d2dbda,2022-10-14,[kreier/csp] Create color_gradient_box.py,github commit
-https://github.com/kreier/csp/commit/52cb88c1b8aebe4f3235e5a6e47750954976369f,2022-10-14,[kreier/csp] using hue to rgb,github commit
-https://github.com/kreier/csp/commit/f5b7bdf47ab50227c98a1f4a24ffeeb4ea5465cc,2022-10-14,[kreier/csp] Create random_color_box.py,github commit
-https://github.com/kreier/csp/commit/e5843e6b96222996174bcf08f4738dc449b55e9e,2022-10-05,[kreier/csp] more challenge,github commit
-https://github.com/kreier/csp/commit/88b22181fe6298e2161211e3292173be2c670038,2022-10-05,[kreier/csp] Add files via upload,github commit
-https://github.com/kreier/csp/commit/39688037bb0089f588505c4e13073ca4727d8b94,2022-10-05,[kreier/csp] Create mandelbrot.py,github commit
-https://github.com/kreier/csp/commit/2e67358c95f3701bc37e58f0564cd1fcdaf744c1,2022-09-23,"[kreier/csp] included France and Italy, now painting Italy",github commit
-https://github.com/kreier/csp/commit/0f3270d858d70d1b0c7593e12dabeeaa1af0df51,2022-09-23,[kreier/csp] Create NorwayFlag.py,github commit
-https://github.com/kreier/csp/commit/6c16c93eaa7039e153022f391c538e279a641fd6,2022-09-22,[kreier/csp] updated documentation,github commit
-https://github.com/kreier/csp/commit/a2a1edbaecd1aae0e26e60a6686dd9e855eeb41a,2022-09-22,[kreier/csp] overview updated,github commit
-https://github.com/kreier/csp/commit/b7336a68caaab2512f45f074f2b01404d3f84664,2022-09-22,[kreier/csp] general solution,github commit
-https://github.com/kreier/csp/commit/5408a4e11609a116fcf9107e7d0513c13ac62493,2022-09-22,[kreier/csp] no conditional statements or lists,github commit
-https://github.com/kreier/csp/commit/bd18d37de5ae7a03569659f85dc18436b1ece080,2022-09-22,[kreier/csp] Wayne 6 lines 2022/09/19,github commit
 https://github.com/kreier/csp2022/commit/11e2202220b8a7f85acca70ab5519a9da2e05271,2022-09-21,[kreier/csp2022] two more fast solutions - 5 lines,github commit
 https://github.com/kreier/csp2022/commit/43ea717af755a07847e4f6ffd437adb634827032,2022-09-21,[kreier/csp2022] Update README.md,github commit
 https://github.com/kreier/csp2022/commit/0282715d42a402754ae898dae203ec3a5bcac95d,2022-09-20,[kreier/csp2022] fix mistakes,github commit
@@ -1072,12 +979,6 @@ https://github.com/kreier/docs/commit/3123964be27ce16e646d1c79c0ba5accdf7a803c,2
 https://github.com/kreier/docs/commit/f18aa6d9e6dacd7baf0b7c142665510aa3e2f23f,2024-03-12,[kreier/docs] Create jekyll-gh-pages.yml,github commit
 https://github.com/kreier/docs/commit/9c7a13b0a3be306b950cd2e6a444cd6a9bf90cf1,2024-03-12,[kreier/docs] start for the website,github commit
 https://github.com/kreier/docs/commit/18bd954ab599e6960e03f83b7dea6da6ce548a4f,2024-03-12,[kreier/docs] Initial commit,github commit
-https://github.com/kreier/Dongjae_Collaborative-Project/commit/1498308ddde1abdd79eb0cf0c4550258586a2d6e,2022-11-25,[kreier/Dongjae_Collaborative-Project] Update README.md,github commit
-https://github.com/kreier/Dongjae_Collaborative-Project/commit/94fb1fac935616920f9d9ef7467ad4a321ffc320,2022-11-25,[kreier/Dongjae_Collaborative-Project] Update README.md,github commit
-https://github.com/kreier/Dongjae_Collaborative-Project/commit/65e6d9028ef00c860d2d7b6437a4cb24254046ad,2022-11-25,[kreier/Dongjae_Collaborative-Project] Update README.md,github commit
-https://github.com/kreier/Dongjae_Collaborative-Project/commit/c314f1488775e174f692a67aaa432780e39be67c,2022-11-25,[kreier/Dongjae_Collaborative-Project] Merge pull request #1 from kreier/patch-1,github commit
-https://github.com/kreier/Dongjae_Collaborative-Project/commit/f2785de3c3182c48ac0e43bd67d27f4dfb6a7032,2022-11-25,[kreier/Dongjae_Collaborative-Project] Add files via upload,github commit
-https://github.com/kreier/Dongjae_Collaborative-Project/commit/fc84605718dbdc97b0e0ae478a5689dab777e0b5,2022-11-25,[kreier/Dongjae_Collaborative-Project] Create flag_code.js,github commit
 https://github.com/kreier/dragoncoin/commit/09093062ca32673cddff5d6c1808a216e49cc51a,2022-06-20,[kreier/dragoncoin] expanded examples,github commit
 https://github.com/kreier/dragoncoin/commit/5844fdadb153f2a6768c5cf12a397a668ddebfef,2022-06-20,[kreier/dragoncoin] Synology Diskstation,github commit
 https://github.com/kreier/dragoncoin/commit/af8ccad4f45c1857e4bc277aa42664c59c72162f,2022-06-16,[kreier/dragoncoin] still 1 error in remix,github commit
@@ -1245,41 +1146,12 @@ https://github.com/kreier/Food-PMH/commit/62e837bbd430e0f84ac182d9fa17d347d15c4b
 https://github.com/kreier/Food-PMH/commit/13e1075078fffc840b88e84dc9ca4f9f508a95e2,2023-01-02,[kreier/Food-PMH] patch 2023 to work from Argentina,github commit
 https://github.com/kreier/Food-PMH/commit/c30d8b1cab9591b3ae062f0659aef657c5855026,2022-11-29,[kreier/Food-PMH] Create .gitignore,github commit
 https://github.com/kreier/Food-PMH/commit/5d896fd45b8f8dbeb59676dd0d694a0495e04cbe,2022-11-29,[kreier/Food-PMH] Create README.md,github commit
-https://github.com/kreier/force-curves/commit/8d72e885434d69b0715ee20b1e06ef2b56dc3ee7,2025-03-06,[kreier/force-curves] fixed links to data files,github commit
-https://github.com/kreier/force-curves/commit/8def6d44e084dac6a44e24932c9fddc68fd00ce3,2025-03-06,[kreier/force-curves] include links to the remaining more than 1000 switches,github commit
-https://github.com/kreier/force-curves/commit/cafe92419d083f0750417e079b09a4fb0deed4e0,2025-03-06,[kreier/force-curves] fix badge after Jekyll fix,github commit
-https://github.com/kreier/force-curves/commit/c0a14d90676ed7b04a29d4b0ad4f4f3a8d6a5844,2025-03-06,[kreier/force-curves] Update jekyll.yml,github commit
-https://github.com/kreier/force-curves/commit/476ca1889e0c5b1a346f17a10f87c9d3017d0b2b,2025-03-06,[kreier/force-curves] Delete .github/workflows/static.yml,github commit
-https://github.com/kreier/force-curves/commit/06a5e8d7bb6557d3da857dbd43e52c24cc374da8,2025-03-06,[kreier/force-curves] Create jekyll.yml,github commit
-https://github.com/kreier/force-curves/commit/3fba36a79b530b04ce11de76dddc97cc8022f9bd,2025-03-06,[kreier/force-curves] Create static.yml,github commit
-https://github.com/kreier/force-curves/commit/a1541e27e4b72a8d48ef13afdf106f67f4f8912c,2025-03-05,[kreier/force-curves] include B and C,github commit
-https://github.com/kreier/force-curves/commit/d16ec311f20990780f37f4d704a7ccfb38592e67,2025-03-04,"[kreier/force-curves] fix, delete oversized artifacts, excluded _data",github commit
-https://github.com/kreier/force-curves/commit/2a2bceeff919e35c79c5742efc25b53005b20de4,2025-03-04,[kreier/force-curves] reorganized 2025-03-04,github commit
-https://github.com/kreier/force-curves/commit/7eb8e19333988642d0636eac4e5e2920e201263e,2025-03-04,[kreier/force-curves] move data to _data subfolder to be ignored by jekyll,github commit
-https://github.com/kreier/force-curves/commit/b58c0dc38bc75b76817e5b8edacb5dfd187071f1,2025-03-04,[kreier/force-curves] Update README.md,github commit
-https://github.com/kreier/force-curves/commit/bd5c7b23722959bb85e1cc0a0360b1e43fa06128,2025-03-04,[kreier/force-curves] Merge branch 'main' of https://github.com/kreier/force-curves,github commit
-https://github.com/kreier/force-curves/commit/e4599fa98039666109cce28fc8d8cd0db779c0fa,2025-03-04,[kreier/force-curves] expand documentation,github commit
-https://github.com/kreier/force-curves/commit/b1ef2ee83d494c72caf14f12e69477e86ce10ee7,2025-03-04,[kreier/force-curves] Create .gitignore,github commit
-https://github.com/kreier/force-curves/commit/cc79d61a8fa03c09625fe6ae3ee8a1e12588a74e,2025-03-04,[kreier/force-curves] Create LICENSE,github commit
-https://github.com/kreier/force-curves/commit/2997d1833ca71189925a12e219a1448e9bb33887,2025-03-04,"[kreier/force-curves] expand information, add links to other projects",github commit
-https://github.com/kreier/force-curves/commit/b3771436fe6c9668acc3a55502bcbb01949b276f,2025-03-04,[kreier/force-curves] move all data into the data subfolder,github commit
 https://github.com/kreier/frc/commit/8ed99ef18a320c9bbc791dce93a7ae6cb601b835,2022-12-29,[kreier/frc] outlook 2023,github commit
 https://github.com/kreier/frc/commit/7922df8f9a6d28646f1d635042f91e0e52b6aa2c,2022-05-12,[kreier/frc] update LICENCE to comply with FRC,github commit
 https://github.com/kreier/frc/commit/404b886a80144199d8ba3d0b6ac9e4045e8fad83,2022-05-12,[kreier/frc] documentation 2020,github commit
 https://github.com/kreier/frc/commit/7b27fde2e5de7c8552e49f49fad630d7fb3b96ec,2022-05-12,[kreier/frc] updated for Synology Diskstation,github commit
 https://github.com/kreier/frc/commit/6a641e8182ba2072b16f45943ea82214151b5cad,2022-05-12,[kreier/frc] short overview,github commit
 https://github.com/kreier/frc/commit/a7d2316d4f3e0acbe6a3429f1de280dd2e177e2e,2022-05-12,[kreier/frc] Initial commit,github commit
-https://github.com/kreier/functions-and-modular-code/commit/caa40c6e0ac28b5d6551ea8f52ecbca05fd06a68,2022-08-30,[kreier/functions-and-modular-code] Working example from video,github commit
-https://github.com/kreier/functions-and-modular-code/commit/cf1c8b0c00e54aaa2b6f073ee9c64b32b30e0404,2022-08-23,[kreier/functions-and-modular-code] included shock detector code link,github commit
-https://github.com/kreier/functions-and-modular-code/commit/ec29e69a982de58f412e37732a5c68dd329e2ced,2022-08-23,[kreier/functions-and-modular-code] Create shockdetector.js,github commit
-https://github.com/kreier/functions-and-modular-code/commit/333b4d471ce9a395fc9e73af67acb6fb7d8425ed,2022-08-23,[kreier/functions-and-modular-code] Update README.md,github commit
-https://github.com/kreier/functions-and-modular-code/commit/43ae14dda472c48b1851ec57f68feffea9086441,2022-08-23,[kreier/functions-and-modular-code] Create modularCodeExampleStart.js,github commit
-https://github.com/kreier/functions-and-modular-code/commit/2a268c51ecabcf764561998f873de9c1d1ae2752,2022-08-12,[kreier/functions-and-modular-code] add code below line 218,github commit
-https://github.com/kreier/functions-and-modular-code/commit/084c8dd300faf4b99bb6b946a4e1e56e1757b9ac,2022-08-12,[kreier/functions-and-modular-code] adjusted for javascript,github commit
-https://github.com/kreier/functions-and-modular-code/commit/929a9791e4634947e87f3d2d9dddca6c7e613fd9,2022-08-12,[kreier/functions-and-modular-code] Create drinkmachine.js,github commit
-https://github.com/kreier/functions-and-modular-code/commit/18f6746ab12185ba7d349d90ae482f583b0af4f9,2022-08-12,[kreier/functions-and-modular-code] Initial commit,github commit
-https://github.com/kreier/GIPHYKEYBOARD-APP/commit/1f9ac197cecb1389a51531cc6b0cf0a7b031cbd7,2024-12-25,[kreier/GIPHYKEYBOARD-APP] Update .gitignore for Synology,github commit
-https://github.com/kreier/GIPHYKEYBOARD-APP/commit/38d6282f80c0125d80c09680b3fa263576b51236,2024-12-25,[kreier/GIPHYKEYBOARD-APP] Create LICENSE,github commit
 https://github.com/kreier/gocart23/commit/bc95fd19c17feb01f99d67ae5d385e613c6988bc,2022-12-26,"[kreier/gocart23] found more CIM motors, 2 in the robot and 6 available for projects",github commit
 https://github.com/kreier/gocart23/commit/bd5074fb19e5be9848cc38c9ad1f64d6a1fc6217,2022-12-26,[kreier/gocart23] timing belts and motor update,github commit
 https://github.com/kreier/gocart23/commit/5a28b0fac90ef5dac237b79539b92287755f21c0,2022-12-24,[kreier/gocart23] included pictures for documentation,github commit
@@ -1577,9 +1449,6 @@ https://github.com/kreier/jetson-car/commit/191a4eed673156db6c485a6a6885b0294d77
 https://github.com/kreier/jetson-car/commit/60c836f8829b461e8aa82a9ad8e880a92cda6752,2020-01-21,[kreier/jetson-car] 2020/01/21,github commit
 https://github.com/kreier/jetson-car/commit/d1857d401ac8e2231d35b00c57b8c48c455059bb,2020-01-21,[kreier/jetson-car] Update README.md,github commit
 https://github.com/kreier/jetson-car/commit/4c435de83246edf5814d10988c4e229f1e727786,2020-01-21,[kreier/jetson-car] Initial commit,github commit
-https://github.com/kreier/jetson_nano_overclock/commit/71f1c8a914904949838a9af91a69cfb80af893a5,2025-04-25,[kreier/jetson_nano_overclock] link to Jetson Archived Documentation 32.7.5,github commit
-https://github.com/kreier/jetson_nano_overclock/commit/de55f11a2f4c0fd6a4086676369621edabd7ff0c,2025-04-25,[kreier/jetson_nano_overclock] include jetson_clocks,github commit
-https://github.com/kreier/jetson_nano_overclock/commit/9159efc9d6fe4a22286ecf2046c4e0d3423ba110,2025-04-25,[kreier/jetson_nano_overclock] Include incstructions to compile patch,github commit
 https://github.com/kreier/keyboard/commit/65949bc77228cda6bb9ff3bbf852837feacdd5e6,2025-03-05,[kreier/keyboard] document MacBook12 and setup 2018,github commit
 https://github.com/kreier/keyboard/commit/ec3d0769c30073507c288b8df9b7c3c2611fe3cc,2025-03-04,"[kreier/keyboard] include script, v1",github commit
 https://github.com/kreier/keyboard/commit/19f4279c1172d88d4edfb8b6bc13fc8be3d6d086,2025-03-04,[kreier/keyboard] fix images,github commit
@@ -1617,44 +1486,6 @@ https://github.com/kreier/kinhthanh/commit/474f46cdad6b8e9cc44741ee51d75e7220f90
 https://github.com/kreier/kinhthanh/commit/1307d9c19500d80aeb186291440c9e6144ebf519,2023-12-21,[kreier/kinhthanh] Create compile_markdown.py,github commit
 https://github.com/kreier/kinhthanh/commit/791433e844fa8a288ce869720b8056946d544d72,2023-12-21,[kreier/kinhthanh] Update .gitignore,github commit
 https://github.com/kreier/kinhthanh/commit/865baee9a68981b47ef3b43df58c53bb50672f0d,2023-12-21,[kreier/kinhthanh] Initial commit,github commit
-https://github.com/kreier/KLZ/commit/7026a8649238991e35f2bb79b04ad6d447570f8a,2025-07-18,[kreier/KLZ] Update README.md as landing page for github,github commit
-https://github.com/kreier/KLZ/commit/df9a94eb97b882061a9dad8f5c8b690c84022053,2025-07-11,[kreier/KLZ] Update README.md for Website,github commit
-https://github.com/kreier/KLZ/commit/632fc265017f683dde9b611913819311fb70e4c0,2025-07-11,[kreier/KLZ] last edition from 2024-2025,github commit
-https://github.com/kreier/KLZ/commit/86d4f4e5317a6a6db904f73c606d67ccbc7bd855,2025-07-11,[kreier/KLZ] Merge branch 'main' of https://github.com/LiBeKra/KLZ,github commit
-https://github.com/kreier/KLZ/commit/ab1144620dbdcd0b0043721a624d38d1c1fcbc85,2025-07-11,[kreier/KLZ] update 4 editions from 2024,github commit
-https://github.com/kreier/KLZ/commit/2b7d2a58fb345f450a7af89f4c1ea7bbc39ee6d1,2025-06-17,[kreier/KLZ] include four more editions in the overview,github commit
-https://github.com/kreier/KLZ/commit/d93269c37dbf3ec1be7c54b0308063c301e2dd48,2025-06-17,[kreier/KLZ] vierte Ausgabe mit einer Woche Verspätung,github commit
-https://github.com/kreier/KLZ/commit/724d697ffc695f8f5c92962e2aa3c3952683b8d1,2025-02-06,[kreier/KLZ] add password protection to older versions,github commit
-https://github.com/kreier/KLZ/commit/50ae5e138971ed8631612a03b87220cdf80f6a3b,2025-02-06,[kreier/KLZ] reorganized to prepare for future password protection,github commit
-https://github.com/kreier/KLZ/commit/166dd0f7309b3290ae408fa4305d48aab9cf3dc1,2025-02-06,"[kreier/KLZ] fixed typo, reorganized badges",github commit
-https://github.com/kreier/KLZ/commit/ad392ffd129d1b14a3fbfe51f7958d6929109704,2025-02-06,[kreier/KLZ] prepare for new version upload,github commit
-https://github.com/kreier/KLZ/commit/18ad5e62117a10d38423a1eb2eb0fbd5e4e2d93f,2024-11-21,[kreier/KLZ] now password protected,github commit
-https://github.com/kreier/KLZ/commit/01663cfc685308a4e150523969527c05f243fcac,2024-11-21,[kreier/KLZ] Update 2024-08-12_original.pdf,github commit
-https://github.com/kreier/KLZ/commit/55bf11b6fbce65c6fe6db03c698fe364137dc5d3,2024-09-10,[kreier/KLZ] reorganize programming code,github commit
-https://github.com/kreier/KLZ/commit/0754c9644bb64d4d62ef2f0113368d9e115c8683,2024-09-01,[kreier/KLZ] cleanup rust code,github commit
-https://github.com/kreier/KLZ/commit/dd0a674f08d06d5a12495092fb45b00190dfe04c,2024-09-01,[kreier/KLZ] veröffentlicht am 1. September 2024,github commit
-https://github.com/kreier/KLZ/commit/2cdea43cbc9efb5e9073c30dcfb353b47b33809d,2024-09-01,[kreier/KLZ] included QR and third edition,github commit
-https://github.com/kreier/KLZ/commit/cfe0640385401af35ec9c8b86458003968cb3f46,2024-09-01,[kreier/KLZ] linked third edition,github commit
-https://github.com/kreier/KLZ/commit/4c45094e3bdbd107f21f2a55b2753f280e25a285,2024-09-01,[kreier/KLZ] Update README.md with QR code,github commit
-https://github.com/kreier/KLZ/commit/5a6243225644e24777ef3df94ad890763ca914fb,2024-09-01,[kreier/KLZ] Add files via upload,github commit
-https://github.com/kreier/KLZ/commit/ba16d638fe7c013944e685e571f43319e175c32e,2024-08-30,[kreier/KLZ] include cpp example,github commit
-https://github.com/kreier/KLZ/commit/0cf1f6e0729c805c21249f2a4bbb0afb279c4f74,2024-08-30,[kreier/KLZ] Updates vom CodeSpace Visual Studio,github commit
-https://github.com/kreier/KLZ/commit/f86fc39950ba3270977b586b6052f40a8b342c4d,2024-08-30,[kreier/KLZ] Better description of each issue,github commit
-https://github.com/kreier/KLZ/commit/6b50daa0b99557a17763d9a488124624d5234cb9,2024-08-30,[kreier/KLZ] fix image link,github commit
-https://github.com/kreier/KLZ/commit/b5b9bca0e48e8dd1e9adb6dc35d127010c620ee3,2024-08-30,[kreier/KLZ] relocate image files,github commit
-https://github.com/kreier/KLZ/commit/aa54ae86d27773c6fb33f7d0c74b5676efa1335b,2024-08-30,"[kreier/KLZ] license, release und build integrated",github commit
-https://github.com/kreier/KLZ/commit/8481eef0cf62331cd5cb0aec9eb3cf328998037a,2024-08-30,[kreier/KLZ] include license,github commit
-https://github.com/kreier/KLZ/commit/a38c88efaeceff38d606e155a2c76b053c4b531d,2024-08-30,[kreier/KLZ] switch from MIT to CC0 license,github commit
-https://github.com/kreier/KLZ/commit/864505170ff31513c407f9e4c93c185970e2b066,2024-08-30,[kreier/KLZ] diversity in programming languages,github commit
-https://github.com/kreier/KLZ/commit/21103153c727d70f03c7f841fb6ea8c5b400d6ac,2024-08-30,[kreier/KLZ] prime in java,github commit
-https://github.com/kreier/KLZ/commit/66059d0ffc56a798634a54b584f266813f4118c9,2024-08-30,[kreier/KLZ] calculate prime numbers,github commit
-https://github.com/kreier/KLZ/commit/9edeb03e0413c92e3574637c9cc65f1ba3b2e997,2024-08-30,[kreier/KLZ] first line of code,github commit
-https://github.com/kreier/KLZ/commit/ce8321af3d2fdd7198985b7f703ef3ebe0576a57,2024-08-30,[kreier/KLZ] Links aktualisiert,github commit
-https://github.com/kreier/KLZ/commit/14b783df18c7fba7f8112b81defc2e09c381896f,2024-08-30,[kreier/KLZ] first review and reorganization,github commit
-https://github.com/kreier/KLZ/commit/3097427cef03e6e9f8a3752ffd1722640571ee25,2024-08-30,[kreier/KLZ] documentation of first weeks,github commit
-https://github.com/kreier/KLZ/commit/f9a4664417029c94f780ca063257672e8b688602,2024-08-30,[kreier/KLZ] Erstes Gerüst,github commit
-https://github.com/kreier/KLZ/commit/639d0f6611848863806fb7c9bd985084d1d62e1c,2024-08-30,[kreier/KLZ] Create .gitignore,github commit
-https://github.com/kreier/KLZ/commit/3d9631482d0a640c8bdf509220f36c285c6e3190,2024-08-30,[kreier/KLZ] Create LICENSE,github commit
 https://github.com/kreier/kreier.github.io/commit/028857360c0257caee469e215582b6ac0cd54ed2,2020-12-04,[kreier/kreier.github.io] extended labs with link and graph,github commit
 https://github.com/kreier/kreier.github.io/commit/489eb7c345fafaf4e31659f8385960f0c62549fe,2020-11-23,[kreier/kreier.github.io] Update README.md,github commit
 https://github.com/kreier/kreier.github.io/commit/dc535dbd1919e89dfb81f668eaea561f7943f914,2020-11-23,[kreier/kreier.github.io] Update README.md,github commit
@@ -1950,27 +1781,6 @@ https://github.com/kreier/ls/commit/740e4cb20b3f4a478d2e29f24efdccffbbcf0616,202
 https://github.com/kreier/ls/commit/5220008eb3b70754c7a472d8d2ea48bdbd0d6b51,2022-06-14,[kreier/ls] sketch idea,github commit
 https://github.com/kreier/ls/commit/8de2ec380859241e406028250dc60379a450da18,2022-05-25,[kreier/ls] Set theme jekyll-theme-cayman,github commit
 https://github.com/kreier/ls/commit/627dcda25f5eb6a5c1e255f1fefe7ec2f6363451,2022-05-25,[kreier/ls] Initial commit,github commit
-https://github.com/kreier/magnet-spinny-thing/commit/30a996182383b173dbde123e59f1488c6582c291,2022-06-05,[kreier/magnet-spinny-thing] Update README.md,github commit
-https://github.com/kreier/magnet-spinny-thing/commit/94f137816452c0d9e0cf07f4f27f2b4c4eb49b54,2022-06-05,[kreier/magnet-spinny-thing] Update README.md,github commit
-https://github.com/kreier/magnet-spinny-thing/commit/be4e923aeb93e81b54b08b18406f6dbcf13f4038,2022-06-05,[kreier/magnet-spinny-thing] Merge pull request #1 from ssis-robotics/main,github commit
-https://github.com/kreier/magnet-spinny-thing/commit/23804003419ba2b2bd28479f90a93d6bd9832c82,2022-06-05,[kreier/magnet-spinny-thing] working with Raspberry Pico,github commit
-https://github.com/kreier/magnet-spinny-thing/commit/9489d18bb40ee4d458f01062c149eee07644ab93,2022-06-03,[kreier/magnet-spinny-thing] adjusted display example for Raspberry Pico,github commit
-https://github.com/kreier/magnet-spinny-thing/commit/9961bd3bea6c156e20e37def0f0ea9d11fc2f61e,2022-06-03,[kreier/magnet-spinny-thing] Update README.md,github commit
-https://github.com/kreier/magnet-spinny-thing/commit/bc97b2a13da07d4ae97050f3ec166cbd984a9591,2022-06-03,[kreier/magnet-spinny-thing] Add files via upload,github commit
-https://github.com/kreier/magnet-spinny-thing/commit/eca57061846e2398e24b9b3f1aad531b14cde51a,2022-06-03,[kreier/magnet-spinny-thing] Create README.md,github commit
-https://github.com/kreier/magnet-spinny-thing/commit/bbb45fb99a42824b18702e4c20888bf47db2771f,2022-06-03,[kreier/magnet-spinny-thing] Create README.md,github commit
-https://github.com/kreier/managing-state/commit/cd1a7a06e647084396878b75fd04496f3f5d3b97,2024-12-20,[kreier/managing-state] include badges and images,github commit
-https://github.com/kreier/managing-state/commit/24d9ee651b6cb2f6418f4fec07d9dce07e068916,2024-12-20,[kreier/managing-state] include images,github commit
-https://github.com/kreier/managing-state/commit/e0870584dd6028045af1756267045dffd11df3b0,2024-12-20,[kreier/managing-state] Update .gitignore,github commit
-https://github.com/kreier/managing-state/commit/b5a335da641753fd28b878f0e73d2b8de3542051,2024-12-20,[kreier/managing-state] first two lessons,github commit
-https://github.com/kreier/managing-state/commit/a72d5a04e83b0746062a5a74b2d039438f7990b0,2024-12-20,[kreier/managing-state] Create jekyll-gh-pages.yml,github commit
-https://github.com/kreier/managing-state/commit/febe21842221f7a118b8c440f0f0e965a0d952ac,2022-10-24,[kreier/managing-state] Merge pull request #1 from ssis-aa/kreier-patch-1,github commit
-https://github.com/kreier/managing-state/commit/9fc8289c41adbc20551ebecd6e318bb7bd685259,2022-09-08,[kreier/managing-state] Create bitstring_to_ascii.py,github commit
-https://github.com/kreier/managing-state/commit/1fb9e85c6855825c9ac8dd80a2a93adfdb985b94,2022-09-08,[kreier/managing-state] fixed typos,github commit
-https://github.com/kreier/managing-state/commit/cfe727d3000ed1adba18d69fa47e9b5ac0d75de9,2022-09-08,[kreier/managing-state] Create bits_to_ascii_attempt.py,github commit
-https://github.com/kreier/managing-state/commit/a509bd61d8c65ce1767385e1dd47e08a488074b6,2022-09-08,[kreier/managing-state] Create code.txt,github commit
-https://github.com/kreier/managing-state/commit/58e58126a683bf0ba9cafd5a2b8dba2a2b5c0e61,2022-09-08,[kreier/managing-state] Update README.md,github commit
-https://github.com/kreier/managing-state/commit/39ea0ca76af2bc715793036e87ded07427a247be,2022-09-08,[kreier/managing-state] Initial commit,github commit
 https://github.com/kreier/mandelbrot-basic/commit/452fb479b63ffbdfc9921edb077bcf7fb9eea500,2023-02-06,[kreier/mandelbrot-basic] fix for presentation,github commit
 https://github.com/kreier/mandelbrot-basic/commit/c139da09ed246cd6d77750e7c7662d31bb1d600e,2022-11-18,[kreier/mandelbrot-basic] display a pre-calculated image,github commit
 https://github.com/kreier/mandelbrot-basic/commit/b4b96f26d22a9dfa16edc83a52450b9f5ccf7287,2022-11-16,[kreier/mandelbrot-basic] does not support complex numbers,github commit
@@ -2141,6 +1951,472 @@ https://github.com/kreier/nano-gpt/commit/e8539367a8cfb7828448a4b1a13d3a2c03ffd8
 https://github.com/kreier/nano-gpt/commit/3aeb454a48c6c828da3271d2475b5bc6729a1951,2024-07-17,[kreier/nano-gpt] Update .gitignore,github commit
 https://github.com/kreier/nano-gpt/commit/7047d52f61c99699f2fe377b911d57b1e3feb38a,2024-07-17,[kreier/nano-gpt] Initial commit,github commit
 https://github.com/kreier/notes/commit/b91bbf34b4d8773dc975283591a0a6d0b5087ca5,2025-10-21,[kreier/notes] Initial commit,github commit
+https://github.com/kreier/obsidian/commit/ab4f8f561c1cfdd1fbcd4fbe9fa93398f9e2b594,2026-02-25,[kreier/obsidian] step two in automated syncing,github commit
+https://github.com/kreier/obsidian/commit/ea79d2272f9f4f165bcf6aabd3d6151f1c878768,2026-02-25,[kreier/obsidian] sync: update vault/saiht from quartz/content (2026-02-25),github commit
+https://github.com/kreier/obsidian/commit/056f5502203d8c7ab35981a4c1102242830434d2,2026-02-25,[kreier/obsidian] start automated workflow,github commit
+https://github.com/kreier/obsidian/commit/27fe2ef6a506a3084f8779452177888a65e04c77,2026-02-25,[kreier/obsidian] Add 'vault/saiht/' from commit '8facfbedf07014a37b4cc6c6ef7a1756492e5795',github commit
+https://github.com/kreier/obsidian/commit/13fd581c7b7e6cd7ca54f70e149025d80fb23dc7,2026-02-25,[kreier/obsidian] Move saiht to saiht_old to clear path for subtree,github commit
+https://github.com/kreier/obsidian/commit/8facfbedf07014a37b4cc6c6ef7a1756492e5795,2026-02-25,[kreier/obsidian] branch for Obsidian content,github commit
+https://github.com/kreier/obsidian/commit/eb49403b0fd6801a178747670cb6d51cff8bc91b,2026-02-25,[kreier/obsidian] prepare complete history import,github commit
+https://github.com/kreier/obsidian/commit/69e14bef4a86c7571565216612fef7117265b8a9,2026-02-23,[kreier/obsidian] some llama.cpp tests,github commit
+https://github.com/kreier/obsidian/commit/eb32b620c60e7f7744f70fab264d36b1360f1d6b,2026-02-22,[kreier/obsidian] include some hiking experience,github commit
+https://github.com/kreier/obsidian/commit/1a08ff84daa51602cbd1481b2b789bd819b52fb2,2026-02-21,[kreier/obsidian] include Black Virgin Mountain,github commit
+https://github.com/kreier/obsidian/commit/263368b3b544998193998a4c2d582bf283e127f1,2026-02-20,[kreier/obsidian] document ar65view and related events,github commit
+https://github.com/kreier/obsidian/commit/4404c54574d9e73d76623d347c25213674c096ec,2026-02-20,[kreier/obsidian] expand on Penta-GPU server,github commit
+https://github.com/kreier/obsidian/commit/a42b109d9aba9eb8703f564827bfe523915f833d,2026-02-19,[kreier/obsidian] Laptops 2020 and Penta-GPU server,github commit
+https://github.com/kreier/obsidian/commit/c0c7bb0802059e7342385d0a55b17c4a10ea9290,2026-02-18,[kreier/obsidian] Penta-GPU server is running,github commit
+https://github.com/kreier/obsidian/commit/8521fb2c2854335d5099bb6ff13d1c171025304c,2026-02-18,[kreier/obsidian] hardware update documentation,github commit
+https://github.com/kreier/obsidian/commit/797c7b617b0eafbabcd3c273b6109617dd1d934e,2026-02-13,[kreier/obsidian] Document both Raspberrys Pi3 and Pi4,github commit
+https://github.com/kreier/obsidian/commit/86226fa28b1751ce94a240c0c2f45a2b8822f56a,2026-02-10,[kreier/obsidian] Include mining and the Triple GPU server,github commit
+https://github.com/kreier/obsidian/commit/078af7156ca04f6c9e47aec6a5ac823655bf809e,2026-02-10,[kreier/obsidian] Update quartz landing page,github commit
+https://github.com/kreier/obsidian/commit/48928d483c16b9eda71ac1d033cd9ded6e00948d,2026-02-10,[kreier/obsidian] document 3 PCs and one M590 mouse fix,github commit
+https://github.com/kreier/obsidian/commit/e5ce44163edea529275a12b1a3044426457940cc,2026-02-09,[kreier/obsidian] more history of Vietnam 2024-12-26,github commit
+https://github.com/kreier/obsidian/commit/c8ab443a094650ef9b238c4c5702684b6ec07d3e,2026-02-08,"[kreier/obsidian] Quartz sync: Feb 9, 2026, 1:15 AM",github commit
+https://github.com/kreier/obsidian/commit/1a5045e8a8b023dc549727c25550ee70edb28de6,2026-02-06,[kreier/obsidian] some homelab updates,github commit
+https://github.com/kreier/obsidian/commit/3c63764ae62e6ba524d32a42187c26d96b70be8e,2026-01-19,"[kreier/obsidian] Quartz sync: Jan 20, 2026, 1:35 AM",github commit
+https://github.com/kreier/obsidian/commit/6b0399b8edcd90590071d779167d7251c5608bd8,2026-01-15,[kreier/obsidian] parsing artifact from 2025/12/21,github commit
+https://github.com/kreier/obsidian/commit/30a62ac78181d564543b386b709e60edb907ee68,2026-01-15,[kreier/obsidian] Make comparison between vaults easier,github commit
+https://github.com/kreier/obsidian/commit/4a078ff6edd4bee62627d741bffd8d38577f3837,2026-01-15,[kreier/obsidian] Update early January 2026,github commit
+https://github.com/kreier/obsidian/commit/d3eb5355ff0b16565d642d0406932680c723598d,2026-01-15,"[kreier/obsidian] Quartz sync: Jan 15, 2026, 6:35 PM",github commit
+https://github.com/kreier/obsidian/commit/debfad66e98416d288e08149e12812e2c85072d0,2026-01-02,[kreier/obsidian] include some 2026 history,github commit
+https://github.com/kreier/obsidian/commit/2d791e28257b85ea7e9f538b2d4a25dab021a23f,2026-01-01,"[kreier/obsidian] updated version from January 1st, 2026",github commit
+https://github.com/kreier/obsidian/commit/c651093aac8248546638c555f3376deff9d03aa1,2026-01-01,"[kreier/obsidian] Quartz sync: Jan 1, 2026, 2:53 PM",github commit
+https://github.com/kreier/obsidian/commit/594d3710e61b44ecbd8c60843f03739dca2ceee2,2026-01-01,"[kreier/obsidian] Quartz sync: Jan 1, 2026, 2:43 PM",github commit
+https://github.com/kreier/obsidian/commit/bec93c395df94ffb29daa916f1bb3a58b3a30bde,2025-12-30,[kreier/obsidian] Fix title to have no question mark,github commit
+https://github.com/kreier/obsidian/commit/f641eed98757c8b6c829988cc493e6d1227dbe5b,2025-12-28,"[kreier/obsidian] Fix a few links, include external pictures",github commit
+https://github.com/kreier/obsidian/commit/7ce4df897b42f37fa985a040a31ca12a9c9da169,2025-12-28,[kreier/obsidian] update entries from December and June,github commit
+https://github.com/kreier/obsidian/commit/9a364b1712454a40020a90e7efe030b1fb289857,2025-12-26,"[kreier/obsidian] Quartz sync: Dec 26, 2025, 9:45 AM",github commit
+https://github.com/kreier/obsidian/commit/5f8567f1fd7a4c18000c673f6722af8759e55aad,2025-12-26,"[kreier/obsidian] Quartz sync: Dec 26, 2025, 7:29 AM",github commit
+https://github.com/kreier/obsidian/commit/ffc2ec2e86fe618df4c65cf5db4f832f5e4d0091,2025-12-25,[kreier/obsidian] reorganized travel,github commit
+https://github.com/kreier/obsidian/commit/df96a9bd50999becc69934f4fa227379b41bc361,2025-12-25,[kreier/obsidian] update from coffee Trung 3T,github commit
+https://github.com/kreier/obsidian/commit/ca0156cb37f6574c1f7f01a5f3853b8993fb45e8,2025-12-23,"[kreier/obsidian] Quartz sync: Dec 23, 2025, 11:37 PM",github commit
+https://github.com/kreier/obsidian/commit/313593dc9e3df70783b485ebc00e4ed8f0b7d7a4,2025-12-23,[kreier/obsidian] Enhance README with badges and statistics,github commit
+https://github.com/kreier/obsidian/commit/1497a58735d3a88420e0966fde1b5c5ebdecdef2,2025-12-22,"[kreier/obsidian] Quartz sync: Dec 22, 2025, 11:14 PM",github commit
+https://github.com/kreier/obsidian/commit/77f19d34da9ad48c00963c3967fca85cd1501312,2025-12-22,"[kreier/obsidian] Quartz sync: Dec 22, 2025, 5:48 PM",github commit
+https://github.com/kreier/obsidian/commit/c75173663cf30426a2a7cf5b02349f6bb2669b0a,2025-12-22,[kreier/obsidian] Merge branch 'main' of https://github.com/kreier/obsidian,github commit
+https://github.com/kreier/obsidian/commit/cc372edf62927eb7054ed0a342732a4bd5ff61f5,2025-12-22,[kreier/obsidian] backup of quartz vault,github commit
+https://github.com/kreier/obsidian/commit/3d96db000f8fc87e212e277cf8ebd4b1c360ee07,2025-12-22,"[kreier/obsidian] Quartz sync: Dec 22, 2025, 4:52 PM",github commit
+https://github.com/kreier/obsidian/commit/cb25e8213c9007054a7c9a69055e0d2851b253c6,2025-12-20,[kreier/obsidian] Add files via upload,github commit
+https://github.com/kreier/obsidian/commit/f1f75b11757b79d2c0b9f9a201eb028e6c32cfe0,2025-12-20,[kreier/obsidian] Create README.md for data repository,github commit
+https://github.com/kreier/obsidian/commit/c19cae30412aeaa7f748de013b305833ba6cc4d2,2025-12-19,"[kreier/obsidian] Quartz sync: Dec 20, 2025, 1:12 AM",github commit
+https://github.com/kreier/obsidian/commit/bc334e66ebbb1ff43a3a474ff4ca66a7928fd8b0,2025-12-19,"[kreier/obsidian] Quartz sync: Dec 19, 2025, 11:47 PM",github commit
+https://github.com/kreier/obsidian/commit/60f3736f24b499828c6d7f1081ab08a7642fb10a,2025-12-15,"[kreier/obsidian] Quartz sync: Dec 15, 2025, 7:01 PM",github commit
+https://github.com/kreier/obsidian/commit/0ac3f96af78574110e9a384fdd97607ed05338f1,2025-12-13,"[kreier/obsidian] Quartz sync: Dec 13, 2025, 3:21 PM",github commit
+https://github.com/kreier/obsidian/commit/97685ea0b28ae1ca065b36dfa14c42f26197245b,2025-12-09,"[kreier/obsidian] Quartz sync: Dec 9, 2025, 11:58 AM",github commit
+https://github.com/kreier/obsidian/commit/06441b286828b817e3b515e5c7bf099e8cd88b79,2025-12-09,"[kreier/obsidian] Quartz sync: Dec 9, 2025, 11:51 AM",github commit
+https://github.com/kreier/obsidian/commit/ef49da94ab730405f4ab596b8ab9ebe881fb3d09,2025-12-08,"[kreier/obsidian] Quartz sync: Dec 9, 2025, 1:31 AM",github commit
+https://github.com/kreier/obsidian/commit/fa9f93cd166030f233988d3e34a777ed7b97a2d7,2025-12-08,"[kreier/obsidian] Quartz sync: Dec 9, 2025, 1:20 AM",github commit
+https://github.com/kreier/obsidian/commit/16ef033d3d28077438a32c2656474d0a096b350b,2025-11-18,"[kreier/obsidian] Quartz sync: Nov 19, 2025, 2:00 AM",github commit
+https://github.com/kreier/obsidian/commit/54a12270dd0b84f1f116477c544a5697d8588b11,2025-11-15,"[kreier/obsidian] Quartz sync: Nov 16, 2025, 2:42 AM",github commit
+https://github.com/kreier/obsidian/commit/325a4a173a85d7899aa9258c1f5839a39a0880ba,2025-11-15,"[kreier/obsidian] Quartz sync: Nov 16, 2025, 2:21 AM",github commit
+https://github.com/kreier/obsidian/commit/600d10176df23fe0ea6311cbe2d9c31e16b6d888,2025-11-15,"[kreier/obsidian] Quartz sync: Nov 16, 2025, 2:17 AM",github commit
+https://github.com/kreier/obsidian/commit/f6a7cf7d364fca22537214504c659e6b815bfe32,2025-11-15,[kreier/obsidian] slowly finding a working structure and date format,github commit
+https://github.com/kreier/obsidian/commit/ca0ebcb89da0fc49d1d0c7bf2c6dd7ebff34c117,2025-11-15,"[kreier/obsidian] Quartz sync: Nov 15, 2025, 12:38 PM",github commit
+https://github.com/kreier/obsidian/commit/b5c26dc32db98e7985077b61865fbc7e25b622ca,2025-11-12,[kreier/obsidian] little restructure,github commit
+https://github.com/kreier/obsidian/commit/cccf0c8878d4af8982fcac52c9010bfad034bc30,2025-10-27,[kreier/obsidian] updated structure with distinct folder names (for Breadcrumbs),github commit
+https://github.com/kreier/obsidian/commit/b76e62bbbf9a64c13b5ef90b56a6d1a38894a984,2025-10-27,[kreier/obsidian] Projects and project was still mixed up,github commit
+https://github.com/kreier/obsidian/commit/cd89de84453421eb1da3b6394fcb5796f506173c,2025-10-27,"[kreier/obsidian] new overview, empty link removed",github commit
+https://github.com/kreier/obsidian/commit/c1a2b66371cdc73d54c94002b7161c29224d3142,2025-10-27,"[kreier/obsidian] remove canvas, reorganize",github commit
+https://github.com/kreier/obsidian/commit/50aade6e20ecf0baec002a8edc661270595a7070,2025-10-27,"[kreier/obsidian] reorganized, removed suffix",github commit
+https://github.com/kreier/obsidian/commit/801643b4f6e997e41ba11983da91a5c4467c6691,2025-10-27,"[kreier/obsidian] tags added to kreier.org, sitemap and timeline. And created date.",github commit
+https://github.com/kreier/obsidian/commit/f89824ddafb6b0ac20625e7bddf4bd4d98dd0a09,2025-10-27,[kreier/obsidian] finally all nodes are connected for the Graph,github commit
+https://github.com/kreier/obsidian/commit/52da3c47aaaa244ab37c1db0b6d55cb94b5217ed,2025-10-27,[kreier/obsidian] Hanoi morning update,github commit
+https://github.com/kreier/obsidian/commit/9a6c6bee7338ed2363060d01bd7bd2f4b18f6b08,2025-10-21,[kreier/obsidian] Reorganized,github commit
+https://github.com/kreier/obsidian/commit/a7c11513b98d2923113b1fb853e9906dcb245b30,2025-10-21,"[kreier/obsidian] Quartz sync: Oct 21, 2025, 10:47 PM",github commit
+https://github.com/kreier/obsidian/commit/b8505845f22b768611664cebb29c61c10e6e0db6,2025-10-21,[kreier/obsidian] Prepare for Quartz 4 with npm and node.js,github commit
+https://github.com/kreier/obsidian/commit/757d919a782dd7067e32b4774cb39895f67830b1,2025-10-21,[kreier/obsidian] New entry at new location of fault,github commit
+https://github.com/kreier/obsidian/commit/bd9109486f95cd116eb88c52776b841f6651d66b,2025-10-21,[kreier/obsidian] backup 2014,github commit
+https://github.com/kreier/obsidian/commit/edecc1e2a3e6439a6d1363466b698f48a433da0d,2025-10-21,[kreier/obsidian] Update .gitignore to ignore .DS_Store for Synology Diskstation,github commit
+https://github.com/kreier/obsidian/commit/c1e00d3ad7578cb20354bf3c971306e9194a09e7,2025-10-21,[kreier/obsidian] Initial commit,github commit
+https://github.com/kreier/p5js/commit/978c58790aa0f8996815a44ec29fc5141c3e45cd,2023-03-27,[kreier/p5js] finished example,github commit
+https://github.com/kreier/p5js/commit/5d635ad404987bf598e50a97901cc47df65ce738,2023-03-27,[kreier/p5js] start for https://youtu.be/8HEgeAbYphA,github commit
+https://github.com/kreier/p5js/commit/2325334c4739c54fb1f26642526e05b089a9d43a,2023-03-27,[kreier/p5js] from https://editor.p5js.org/kreier/sketches/wU1BiVBfo,github commit
+https://github.com/kreier/p5js/commit/89eada69d0513a38afbe277fe4864d4c95b74524,2023-03-27,[kreier/p5js] Create sketch.js,github commit
+https://github.com/kreier/p5js/commit/392b507bb48fde73d805b38972a0aee7aedf48a1,2023-03-13,[kreier/p5js] documentation AA Unit 4 in February 2023,github commit
+https://github.com/kreier/p5js/commit/38ed7690c3210c44082bef02a0a60918d7a2e3b2,2022-12-07,[kreier/p5js] Create alpha.js,github commit
+https://github.com/kreier/p5js/commit/14c29f6de17aac4586a01d2a7702384bac807f19,2022-10-10,[kreier/p5js] updated and included disruption,github commit
+https://github.com/kreier/p5js/commit/5d4ced4805d19598b4184aed1d4d4f4a61cc5a19,2022-10-10,[kreier/p5js] Add files via upload,github commit
+https://github.com/kreier/p5js/commit/d481eb61fa6cc3f33549db0ef7200e49625ad334,2022-10-10,[kreier/p5js] included color and a color gradient,github commit
+https://github.com/kreier/p5js/commit/ec0d5683f0c4fcef41b4347f68cfd9d413f010fe,2022-10-10,[kreier/p5js] link to p5js.org code to directly execute,github commit
+https://github.com/kreier/p5js/commit/ea981bf4dda8be0f8eb6791e4486b7658990a5ad,2022-10-08,[kreier/p5js] disruption update,github commit
+https://github.com/kreier/p5js/commit/69c975ff9173d005f48d69b45b5664acad217422,2022-10-08,[kreier/p5js] mandelbrot examples,github commit
+https://github.com/kreier/p5js/commit/cd1a7ac9e4b141a2e0f9c1a116a55b006cdadaf1,2022-10-08,[kreier/p5js] Create mandelbrot5.js,github commit
+https://github.com/kreier/p5js/commit/7660e1292862e1c993e550fd2e80a47a4391a086,2022-10-07,[kreier/p5js] included mandelbrot set,github commit
+https://github.com/kreier/p5js/commit/10d19b7df4b6c8f4978ddd5091a44437da4221d7,2022-10-07,[kreier/p5js] cycling through colors,github commit
+https://github.com/kreier/p5js/commit/944c7c1e3879c04daccc55d7575ee2464c076f6b,2022-10-07,[kreier/p5js] Add files via upload,github commit
+https://github.com/kreier/p5js/commit/fe9864d58ef6f0b13d850fc0ea3fa4cf2339528c,2022-10-07,[kreier/p5js] documented last color iteration,github commit
+https://github.com/kreier/p5js/commit/36ece7f836998c68ff55a9e4574d3bc00bfc48b9,2022-10-07,[kreier/p5js] live drawing in color 600x400,github commit
+https://github.com/kreier/p5js/commit/ea1e7e1145662ee21215f49dd58c118ebf200230,2022-10-07,[kreier/p5js] drawing top to bottom - no need to wait for final picture,github commit
+https://github.com/kreier/p5js/commit/71526caf7e6103bf124472b7825e2b8b4414ba63,2022-10-07,[kreier/p5js] bw in 600x400 range,github commit
+https://github.com/kreier/p5js/commit/5ddad5c915cfd448bdecbc2667b63ada886d51c8,2022-10-07,[kreier/p5js] update for Synology Diskstation,github commit
+https://github.com/kreier/p5js/commit/f21a7bc8de4a417f09f69ab415dac56b541d473e,2022-10-07,[kreier/p5js] Initial commit,github commit
+https://github.com/kreier/physics/commit/3cf3bf1ff8d0a366473c062d231369625f10c873,2020-12-22,[kreier/physics] June 2020 update,github commit
+https://github.com/kreier/physics/commit/0d69dd548d170b8a7bd22cc022cf6bc9eb07e17d,2020-12-22,[kreier/physics] Merge pull request #1 from kreier/master,github commit
+https://github.com/kreier/physics/commit/dee951744097eef9af55499573228cb2f817baa3,2020-12-22,[kreier/physics] Instructions from Summer 2020 for class of 2021,github commit
+https://github.com/kreier/physics/commit/3e81f359cf4d8757cc8617c22cc94b8607cae2c9,2020-09-16,[kreier/physics] Update _config.yml,github commit
+https://github.com/kreier/physics/commit/035d3fcc1b0daf08652b871039a30d9912d1995c,2020-09-15,[kreier/physics] darkened links and headings,github commit
+https://github.com/kreier/physics/commit/66c6adcef61f2300ae22cd9c5ca0971c50d8f1f0,2020-03-02,[kreier/physics] Update .gitignore,github commit
+https://github.com/kreier/physics/commit/6864c01e0eeaea773234801745d0352b8b43e772,2020-03-02,[kreier/physics] Created using Colaboratory,github commit
+https://github.com/kreier/physics/commit/50eac4fb0de8a7d2af1323afadc7abdb4e079410,2020-02-19,[kreier/physics] docx and pdf included,github commit
+https://github.com/kreier/physics/commit/1e09cc54b1c575b7ffa3dff1b228311bcd53eea8,2020-02-19,[kreier/physics] Update README.md,github commit
+https://github.com/kreier/physics/commit/bb3406586ed912b420900b31eb70b550c20299ea,2020-02-19,[kreier/physics] Update README.md,github commit
+https://github.com/kreier/physics/commit/9bf711ff0e51023ac5cc315babaf1518f831bc99,2020-02-19,[kreier/physics] Update README.md,github commit
+https://github.com/kreier/physics/commit/51cd2a3f175cc4132b987bcbdab2aaaf39a2aa14,2020-02-19,[kreier/physics] Add files via upload,github commit
+https://github.com/kreier/physics/commit/237f0d8f61a994d32c8439e2b65fa9e369aca0e3,2020-02-19,[kreier/physics] Create README.md,github commit
+https://github.com/kreier/physics/commit/f80be9b4faa0f985706b455b6585bc06baf103a5,2020-02-19,[kreier/physics] Update README.md,github commit
+https://github.com/kreier/physics/commit/ff5eba71fb434009ec7bed5e939362d32b21e2f4,2020-02-19,[kreier/physics] restructured,github commit
+https://github.com/kreier/physics/commit/a7e8a230aefdfef3930877859ae158c3419e4b93,2020-02-18,[kreier/physics] Add files via upload,github commit
+https://github.com/kreier/physics/commit/1387f42bb523740932a1484f12f46136f07af873,2020-02-18,[kreier/physics] Update README.md,github commit
+https://github.com/kreier/physics/commit/9f2952aa8d4600768ad5a4b7fca9af52560f92e4,2020-02-18,[kreier/physics] Update README.md,github commit
+https://github.com/kreier/physics/commit/e6ae227d0811449240834db1dabfaa4e67ad3664,2020-02-18,[kreier/physics] Update README.md,github commit
+https://github.com/kreier/physics/commit/619eb85e1c59239945725c3f252b4dc7c7a95ab9,2020-02-18,[kreier/physics] Update README.md,github commit
+https://github.com/kreier/physics/commit/070dc47d92d514c16b7b56ada5abb82e1af79a66,2020-02-17,[kreier/physics] created 2019/12/18,github commit
+https://github.com/kreier/physics/commit/080a196fa02b6241d0d096469dba6bacdf2eb3af,2020-02-17,[kreier/physics] created 2020/02/17,github commit
+https://github.com/kreier/physics/commit/8967aa5f04f616dcc0f67bbcb16b830890b67831,2020-02-17,[kreier/physics] Set theme jekyll-theme-cayman,github commit
+https://github.com/kreier/physics/commit/516d0f2ac8420eba50847fddc14fa62360794743,2020-02-17,[kreier/physics] Update README.md,github commit
+https://github.com/kreier/physics/commit/1660716908b63f9094dd1c7bf3eaa2629e628698,2020-02-17,[kreier/physics] Initial commit,github commit
+https://github.com/kreier/picow/commit/b21ee1b0546ad049468c0991fa6a937b2182f101,2026-01-21,[kreier/picow] Create CNAME,github commit
+https://github.com/kreier/picow/commit/03ab818ddfeca2781b64492845f73420b246af41,2026-01-21,[kreier/picow] Merge branch 'main' of https://github.com/kreier/picow,github commit
+https://github.com/kreier/picow/commit/537b68589b4877236e13dc03c8c9b293e0ceec95,2026-01-21,[kreier/picow] prepare for kreier.eu.org,github commit
+https://github.com/kreier/picow/commit/76a14a87d4219c98f5841faf388c73b3d1f355c4,2026-01-20,[kreier/picow] Delete CNAME,github commit
+https://github.com/kreier/picow/commit/707e3e62152c3e68a2b436df6f3413298a1eb60c,2026-01-20,[kreier/picow] Revise README with project title and badges,github commit
+https://github.com/kreier/picow/commit/9634c9ec23005bde90a1167754693c162096ee1a,2026-01-20,[kreier/picow] Create CNAME,github commit
+https://github.com/kreier/picow/commit/2b4735b0ccf5dd74f1dc6ca31c2ec765438fe798,2022-11-02,[kreier/picow] blink optical feedback of operation,github commit
+https://github.com/kreier/picow/commit/9ea35a8968cd053975a6685a44246f9f38bdb654,2022-11-02,"[kreier/picow] libraries needed for circuitpython, and /lib",github commit
+https://github.com/kreier/picow/commit/9b927d0e54d1e62f9c747efa98cb70eb233981d6,2022-11-02,[kreier/picow] wifi is working!,github commit
+https://github.com/kreier/picow/commit/f2d5a5bb3649b55f416437d3897ede5dcb289ae4,2022-11-02,[kreier/picow] initial Wi-Fi setup,github commit
+https://github.com/kreier/picow/commit/c4ccd6a16603f7468c08b9181336ff5fa5375464,2022-11-02,[kreier/picow] got my new module today,github commit
+https://github.com/kreier/picow/commit/f5f510e100cca62a361ccba358fbbf031b9a34f8,2022-11-02,[kreier/picow] Initial commit,github commit
+https://github.com/kreier/prime/commit/00ead6097651e5a30270e5cded98093ee290b7aa,2026-02-09,[kreier/prime] finished benchmarks after 2 days,github commit
+https://github.com/kreier/prime/commit/9f562553cc253dd7a63692e15c8f2fabdf92d6c4,2026-02-06,[kreier/prime] v5.6.2026 with fixed time measurement,github commit
+https://github.com/kreier/prime/commit/cf17386725b7747045ef474ff655966878ecb95a,2026-02-06,[kreier/prime] preliminary results for 32bit,github commit
+https://github.com/kreier/prime/commit/b4f0c1f2333f69aa4bfc1d384e9192207756be18,2026-02-05,[kreier/prime] results from May 2025,github commit
+https://github.com/kreier/prime/commit/297749079b51de99166d1580fc1498ded0932f65,2026-02-02,[kreier/prime] updated to CircuitPython 10.0,github commit
+https://github.com/kreier/prime/commit/b0d8d498ebf3c925baa058e8775d1aa652e57606,2026-01-30,[kreier/prime] updated results from Pi4 run on C,github commit
+https://github.com/kreier/prime/commit/e71f5c08b6fc07ff63c49e97438ed3e66fbafef3,2026-01-29,[kreier/prime] preliminary results 2026-01-30,github commit
+https://github.com/kreier/prime/commit/df6d8aaaccafca3bee85b55e7b492278ecef59b8,2026-01-29,[kreier/prime] results from 2026-01-30,github commit
+https://github.com/kreier/prime/commit/8809df2795adb82ce9663e2d95337938a309c54b,2026-01-29,[kreier/prime] run 2025-05-11 to 2025-06-29,github commit
+https://github.com/kreier/prime/commit/b4ec61845acdedd14202b9052a685f5510d84803,2025-05-12,"[kreier/prime] outline, results will follow",github commit
+https://github.com/kreier/prime/commit/4e66b7c8c70bba0c7f0135b17709c86ac51bc28e,2025-05-11,[kreier/prime] adjust for wrap-around after 49 days in tick_ms(),github commit
+https://github.com/kreier/prime/commit/13c002692b191b237fb44d67aeb40a4d84611eb3,2025-05-11,[kreier/prime] results MicroPython 1.21.0 on esp8266,github commit
+https://github.com/kreier/prime/commit/7ede06dcac06f10b09ab44d2c45b6640b913b03a,2025-05-11,[kreier/prime] resluts ESP32 C3 RISC-V 32bit CPU,github commit
+https://github.com/kreier/prime/commit/7da7e95e6ea1e9d0cdc68563ad341f79e5a8c2ca,2025-05-11,[kreier/prime] results of LilyGo T8 st7789 with SD,github commit
+https://github.com/kreier/prime/commit/f7bafcfe9755e535262ab3a06a08b5a891df7031,2025-05-10,"[kreier/prime] rp2350 just arrived, benchmarked 2025-05-10",github commit
+https://github.com/kreier/prime/commit/f6f972e19ca17836fc6a1f78f348c7097e496ab3,2025-05-10,[kreier/prime] old 3Blue1Brown explanation for 69,github commit
+https://github.com/kreier/prime/commit/1298baef6efa478497a95a03c4607a8d34bc7ee4,2025-05-07,"[kreier/prime] minimal rust 8MB, installer msi only 2.7 MB",github commit
+https://github.com/kreier/prime/commit/fafd411d6d907e95611db2b6a75ddababf5f62bc,2025-05-07,[kreier/prime] include GUI environment,github commit
+https://github.com/kreier/prime/commit/38986610c40199217ae7c6e9650c0858cefb4dff,2025-04-26,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/582c63e74ce3aeb8c6a23f3aa563d6e3c188ddd8,2025-04-26,[kreier/prime] benchmark i7-13700T 2025-04-26,github commit
+https://github.com/kreier/prime/commit/d8e532d3e75fcdab83be41065df0821f7d8c30d5,2025-04-26,[kreier/prime] change trigger back to main,github commit
+https://github.com/kreier/prime/commit/6ae92e1084fa469f13e6a61d603dfae161d4ab36,2025-04-26,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/724e9b9aaa3d8ff349d3f2ddf77436283b57b621,2025-04-26,[kreier/prime] results Jetson 2025-04-26,github commit
+https://github.com/kreier/prime/commit/4f46420c26d6cb48e6c2c8e96c60032278a0c03f,2025-04-26,[kreier/prime] include badge and Sieve of Eratosthenes,github commit
+https://github.com/kreier/prime/commit/d28cd6bb603f1469ec72e8b9294197de58a0f717,2025-04-26,[kreier/prime] Update jekyll-gh-pages.yml to recent action script versions,github commit
+https://github.com/kreier/prime/commit/cabb407f54f6ef5c4bcd78738811948b4122c4de,2025-04-26,[kreier/prime] Update actions/checkout@4 since v3 is no longer supported,github commit
+https://github.com/kreier/prime/commit/9eaa2a9b66e4310fe4b7fde2883b1398e1e9944a,2025-04-26,[kreier/prime] Update README.md,github commit
+https://github.com/kreier/prime/commit/cf74ffa365d46ab4006fbb4314d3758dfb779b48,2024-06-14,[kreier/prime] Include the Sieve of Eratosthenes,github commit
+https://github.com/kreier/prime/commit/53a324c6a3d329110b16992f03cdf4d5e6437ce7,2024-06-14,[kreier/prime] testrun v5.4 on 2024-06-14 with CircuitPython 9.0.5,github commit
+https://github.com/kreier/prime/commit/f265b3d9890e914b38da1ed268e10b5d22e55110,2024-06-14,[kreier/prime] prime v5.4 CircuitPython,github commit
+https://github.com/kreier/prime/commit/24a0e56585542a0d2f863a06155630a73fd136b7,2024-06-14,[kreier/prime] Create sd_card.py for T8 ST7789,github commit
+https://github.com/kreier/prime/commit/e8a6efba636a072d4e78b6d37146d50a89d79344,2024-02-04,[kreier/prime] running 42 days for 2E31 result,github commit
+https://github.com/kreier/prime/commit/51d2c3a9a145e2d92a90b23c2475bdf1fa19a6a0,2024-01-28,[kreier/prime] results for 1m and 2E31,github commit
+https://github.com/kreier/prime/commit/d728f0d2904e8ebdc6c67ec550cee0de26c92951,2024-01-21,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/6e796c2eb114ecae99bf1c5b0e9b524a22fdc2d0,2024-01-21,[kreier/prime] Update prime_logging.py,github commit
+https://github.com/kreier/prime/commit/a9f72a4b94530c829cff060bebdef4c1805968be,2024-01-21,[kreier/prime] results 2024-01-22,github commit
+https://github.com/kreier/prime/commit/1c6d6fdf97323c6ee8f2ee02b31341bc3e83a90f,2024-01-19,[kreier/prime] updated estimate after 700 hours,github commit
+https://github.com/kreier/prime/commit/955cc43a0ea2b4a59e74a086b27433faa57a88e1,2024-01-18,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/558a0429a57debb311875810c9cfef5c26a6bef4,2024-01-18,[kreier/prime] finished all calculations to 2E32 on 8500T,github commit
+https://github.com/kreier/prime/commit/435d28701719c99f181ae8a42d9c6a9f7e9d58a0,2024-01-18,[kreier/prime] reference run on 8500T for comparison,github commit
+https://github.com/kreier/prime/commit/113747b793500a6e630aa387eef7d2bd60a6e575,2024-01-17,[kreier/prime] finished calculation to 25million - largest possible with v5.4,github commit
+https://github.com/kreier/prime/commit/091576851b112d7f727eb1f2316e1b4165de064d,2024-01-16,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/cfbb36d27aa858b6953a13a6e85d4f10d67d4482,2024-01-16,[kreier/prime] results v0.8 and v5.4 for 8500T,github commit
+https://github.com/kreier/prime/commit/c48e703c439c71164267142774dad935dda8d977,2024-01-16,[kreier/prime] Update prime_ArduinoMega_tft_1billion.ino,github commit
+https://github.com/kreier/prime/commit/8e88c5e4457d3e5795410a2ef34500d7320c1fd2,2024-01-16,[kreier/prime] calculation to 1 billion in 120 days almost working,github commit
+https://github.com/kreier/prime/commit/be00eeaaff9322e7db26745724a6834767e6b7c4,2024-01-16,[kreier/prime] initial working example,github commit
+https://github.com/kreier/prime/commit/704655ef520716ba584cf39ef9364649eaaa3a11,2024-01-16,[kreier/prime] Update prime_ArduinoUno_tft.ino,github commit
+https://github.com/kreier/prime/commit/0e91ba9b864994ba5a7b9c49f0832e77a896ae07,2024-01-16,[kreier/prime] adjusted limits for Mega 2560,github commit
+https://github.com/kreier/prime/commit/1be04af6df456e7fa8334ad5ae963aa0bb8b68c2,2024-01-15,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/30e81668d8c5c553828e55d3094cd63975cf651d,2024-01-15,[kreier/prime] first results on TFT screen,github commit
+https://github.com/kreier/prime/commit/aa23ea6cb610abaa3add6c10ca08934379faaec8,2024-01-15,[kreier/prime] results from new processor,github commit
+https://github.com/kreier/prime/commit/ad827b8fa5d961ff72d2273236f4d28cf20ecd16,2024-01-12,[kreier/prime] clear EEPROM and read recent results,github commit
+https://github.com/kreier/prime/commit/c46f01337bb9ad66a9c6594e4ff58bafb0ab10e8,2024-01-12,[kreier/prime] first output of results on tft,github commit
+https://github.com/kreier/prime/commit/c9c9c8f7c415ab3c1189de6ee0dd53af1098cb34,2024-01-09,[kreier/prime] rp2040 finished calculation to 2E32 after 120h,github commit
+https://github.com/kreier/prime/commit/751aab1ef5a2ef7d8fa1be5f159d8ac4ee988f62,2024-01-04,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/7bec8f446d0aac27306db324f7ac1cea050faf8a,2024-01-04,"[kreier/prime] finished calculation 2E31, update estimates",github commit
+https://github.com/kreier/prime/commit/330e2322251b67b5f04f15d07c6976ca7b9aa064,2024-01-04,[kreier/prime] fix elapsed time correct for later iteration,github commit
+https://github.com/kreier/prime/commit/ef33b456d8c9dcf97ef6b853ae63f3c1ee93ec7f,2024-01-02,[kreier/prime] updated code and results Jan 2nd,github commit
+https://github.com/kreier/prime/commit/62c97d9740b7329487ef8c8eecd9600bc904ae0a,2024-01-01,[kreier/prime] concluding with rp2040 to 2E32,github commit
+https://github.com/kreier/prime/commit/4b5a1fc3bb67496801fe420612a958d2e524b5fa,2024-01-01,[kreier/prime] location of calculation fixed,github commit
+https://github.com/kreier/prime/commit/22b4f607e8c3a02dc8c842115a38ce8eb464fcae,2024-01-01,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/905ebfb62121fc1330a0f1fc37d31e209cb62864,2024-01-01,[kreier/prime] calculation updates after 10 days,github commit
+https://github.com/kreier/prime/commit/f202bc5aa6a620cca81057fe383144987f624910,2023-12-29,[kreier/prime] fix for 2E31 calculation,github commit
+https://github.com/kreier/prime/commit/78ea6d812466eebd47f24f00f8f6cd8fdabd72a4,2023-12-27,[kreier/prime] made it work with the STM32F103 to 2E32,github commit
+https://github.com/kreier/prime/commit/0aff3020d206ea358ccf1c8495a6a209869f0764,2023-12-27,[kreier/prime] fixed mistake: prime factors can be stored as uint16_t,github commit
+https://github.com/kreier/prime/commit/fe85471dccaeeb23034234c9fa2042025dbcba0f,2023-12-27,[kreier/prime] results after 349 hours,github commit
+https://github.com/kreier/prime/commit/e21da59739c96909d7b84c1695b693bdc9135ceb,2023-12-27,[kreier/prime] more than 4 days later v1.1.2000 2E31,github commit
+https://github.com/kreier/prime/commit/ecef0b0add8dcfd653fa2da42757e8e75a0a9b32,2023-12-27,[kreier/prime] faster results,github commit
+https://github.com/kreier/prime/commit/e18214e630bb7c313410f428056bec18672c4e05,2023-12-25,[kreier/prime] faster speeds over serial,github commit
+https://github.com/kreier/prime/commit/f5e1a12675b368c4fdf2e35db3299e1fc40d2b87,2023-12-25,[kreier/prime] new CircuitPython results,github commit
+https://github.com/kreier/prime/commit/47a480bc739290678ad281feb6da4a225c39671c,2023-12-25,[kreier/prime] results esp32c3 in circuitpython,github commit
+https://github.com/kreier/prime/commit/8dc499e23d58f8708606e590fbb0f45bed814df1,2023-12-25,[kreier/prime] testing esp32c3,github commit
+https://github.com/kreier/prime/commit/5486c0a38599bc3042c75b9131e443e03689d774,2023-12-24,[kreier/prime] Swift runs on Windows!,github commit
+https://github.com/kreier/prime/commit/b08caa61b1f8c8ad22f386bf7743848cf0cb6e02,2023-12-24,[kreier/prime] preliminary ESP32 results,github commit
+https://github.com/kreier/prime/commit/3fe34c213904ecf013209a3857f07b253b705103,2023-12-24,[kreier/prime] results esp32s2 in circuitpython,github commit
+https://github.com/kreier/prime/commit/1c8384691ea73cfe30a5a16a2e5b957ce2c9b9ff,2023-12-24,[kreier/prime] results STM32F411 and F401,github commit
+https://github.com/kreier/prime/commit/fbc69f44104e5ab66d2ef4d371195f088d830693,2023-12-24,[kreier/prime] finished results to 100 million rp2040,github commit
+https://github.com/kreier/prime/commit/4905430b4831c24056bfab796019e9013d506d48,2023-12-23,[kreier/prime] Display the progress on the small LCD,github commit
+https://github.com/kreier/prime/commit/c54179f121ec9f83115f6f515be810d40988a8f3,2023-12-23,[kreier/prime] latest result on M1 with uint32_t,github commit
+https://github.com/kreier/prime/commit/95266a3338c5f03213b398897f6b9ca6fc5568ad,2023-12-23,[kreier/prime] prime 2E32 in C logging,github commit
+https://github.com/kreier/prime/commit/a3aad65d46f3a52f016cfb0d576ba7618981e5a7,2023-12-23,[kreier/prime] results T-Display rp2040,github commit
+https://github.com/kreier/prime/commit/1ce1edad03305422fe00b772382b712f6a1c6241,2023-12-23,[kreier/prime] updated environment for T-Display rp2040,github commit
+https://github.com/kreier/prime/commit/792ab87c3e96608b0c807d5ecf440c43ee20664d,2023-12-23,[kreier/prime] finished 2E32 with ESP32-S3,github commit
+https://github.com/kreier/prime/commit/2fd2ea0586b1a97ab172815896fa67f8b0c76637,2023-12-22,[kreier/prime] results for ESP32-S3 and algorithm v1.1,github commit
+https://github.com/kreier/prime/commit/fbc18ea8b6c6f6e08c739dee1bb95d467d37205a,2023-12-22,[kreier/prime] primes 100 to 10 million with oled summary,github commit
+https://github.com/kreier/prime/commit/d12f6433aa3faee823b61681a505603e4ab71e0d,2023-12-21,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/cc27173226e577cd0559c8eaef8608337841f68b,2023-12-21,[kreier/prime] esp8266 update,github commit
+https://github.com/kreier/prime/commit/284033d00491db093320a6836238c06e5f7a52bf,2023-12-21,[kreier/prime] updated for results to 2E31 and 2E32,github commit
+https://github.com/kreier/prime/commit/d2660f8494190574859b59d613b1ac80308527ad,2023-12-21,[kreier/prime] Mega2560 to 100 million,github commit
+https://github.com/kreier/prime/commit/6ae10cdb1af694ef95fa68e039520c88103c9c1b,2023-12-20,[kreier/prime] new results from ESP32-C3-DevKitM-1 with C3N4,github commit
+https://github.com/kreier/prime/commit/b035ae76213c5a3eaf888c28c21c2436a33adc2f,2023-12-20,[kreier/prime] updates for ESP32-S2 and ESP32-S3,github commit
+https://github.com/kreier/prime/commit/719738bd334417d3de64f2420c8ac84260465fc3,2023-12-20,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/c1256f68989ebd826c46ee79bab34e8ede8f099a,2023-12-20,[kreier/prime] updated results and code fix for 2E32,github commit
+https://github.com/kreier/prime/commit/e2a8b13b01853dba01799cef5dd2db18ce61d038,2023-12-20,[kreier/prime] results esp8266 and Mega2560,github commit
+https://github.com/kreier/prime/commit/a1658c4bf0c8c2a85642a5341a17befa30ecc7cf,2023-12-20,[kreier/prime] updates for the STM32F boards F103 F401 and F411,github commit
+https://github.com/kreier/prime/commit/6cab93498f6717af521f32f6b7648539b55dd1cb,2023-12-18,[kreier/prime] LED works with PC13,github commit
+https://github.com/kreier/prime/commit/5fc941d2979c6a0d44c015a1a0a1977360002c6d,2023-12-18,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/142a5b4829d6c8347c89c6e39e30c49a27844601,2023-12-18,[kreier/prime] new STM32 programs,github commit
+https://github.com/kreier/prime/commit/03cf9f52a808c09456492cbf486da9bbaac8d595,2023-12-17,[kreier/prime] adjusted for Arduino Uno to 25 million,github commit
+https://github.com/kreier/prime/commit/4616013aea3e867eb9617954fbbfab82bbeb0c0c,2023-12-17,[kreier/prime] results of ESP8266 after 4 days,github commit
+https://github.com/kreier/prime/commit/5e193ed08dd7705eea6c4e741f8d59166a2275fe,2023-12-16,[kreier/prime] slightly faster C algorithm,github commit
+https://github.com/kreier/prime/commit/a7a92ed31128dcc5443d2fdea0abe565872a974e,2023-12-16,[kreier/prime] adaptation STM32F411 for 2E32 calculation,github commit
+https://github.com/kreier/prime/commit/3443fdd145521ec2201443ef319a17622a0d72a7,2023-12-16,[kreier/prime] results Mega2560,github commit
+https://github.com/kreier/prime/commit/c36a2e56a0eed820df9728e671e6fb3e47e02bfe,2023-12-15,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/72e1af1b6ca1401e2feacbe176be6a1323de5c96,2023-12-15,[kreier/prime] minor fixes,github commit
+https://github.com/kreier/prime/commit/38a95430cbbb453a5dbc4ad9f8ee7f94a9a3553f,2023-12-15,[kreier/prime] include graphs for speed comparison on 4 parameters,github commit
+https://github.com/kreier/prime/commit/28938574ab4d21508256fe29dde7a27c7f81193b,2023-12-15,[kreier/prime] updated results from Arduino,github commit
+https://github.com/kreier/prime/commit/559c1b86324eff616e18900c7bb95d87e262ea19,2023-12-14,[kreier/prime] two new boards arrived 2023/12/14,github commit
+https://github.com/kreier/prime/commit/4eca37121daca73156d3ca1a8e00dd6134f86b5a,2023-12-14,[kreier/prime] logging results in EEPROM until next run,github commit
+https://github.com/kreier/prime/commit/108d60b1a5508a99edd1a73faabead02359eb150,2023-12-14,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/e46e725768c2feae4462760826caece96306ea60,2023-12-14,[kreier/prime] new rp2040 board with NeoPixel,github commit
+https://github.com/kreier/prime/commit/83d5e987e74ce49c8d9014755ba2f3f35f73d85a,2023-12-14,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/5048c37e69e7755c03a7a749ad6d0ad7e0ddf36e,2023-12-14,[kreier/prime] updated for ESP8266,github commit
+https://github.com/kreier/prime/commit/2269ea33df8f4aea0e7abb85b96c601f297c0677,2023-12-14,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/2f960d8b62fb41dbd00406c7cce8241b0d0b6c6f,2023-12-14,[kreier/prime] updated results esp8266 in Arduino C,github commit
+https://github.com/kreier/prime/commit/6a0c642404dc0cf775d7627fd2c2fe9f15dcb05a,2023-12-14,[kreier/prime] 16 parallel processes result,github commit
+https://github.com/kreier/prime/commit/e28ebfe693804c981c4f913509b01431210629c0,2023-12-14,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/6159bc21a82ee18e2dc7e88d6b6ff48b45b5a408,2023-12-14,[kreier/prime] 3 day run on Xeon X5550,github commit
+https://github.com/kreier/prime/commit/8a5758af5add0f13dbf81e524bcdc0e538ef5e75,2023-12-14,[kreier/prime] reorganizing 2023/12/14,github commit
+https://github.com/kreier/prime/commit/06ac90b8577c8e0db7c7b58328a43798c62561e2,2023-12-13,[kreier/prime] reference values i5-2520M,github commit
+https://github.com/kreier/prime/commit/cf8d6b4f31185ace0993ee67664ed23db7de8a78,2023-12-12,[kreier/prime] included visual feedback with led,github commit
+https://github.com/kreier/prime/commit/93814a028997d7cfa9bb214090e0f0eb7d6985a2,2023-12-11,[kreier/prime] new calculations with ESP8266,github commit
+https://github.com/kreier/prime/commit/a62846fab28097db16735c5f62260ba27a6728be,2023-12-11,[kreier/prime] new working MicroPython v1.12 code v5.2,github commit
+https://github.com/kreier/prime/commit/8d0a9d333718d02da88956e5304db546cb8f7e2b,2023-12-11,[kreier/prime] cirpuitpython over WiFi on the C3,github commit
+https://github.com/kreier/prime/commit/321136c549ecabdd522684a5a012b387c9d03e9b,2023-12-11,[kreier/prime] experiment from 2023/11/25,github commit
+https://github.com/kreier/prime/commit/161ea9b257c37707a89ffa7f5c2ffec533e94389,2023-12-11,[kreier/prime] minor bugfixes,github commit
+https://github.com/kreier/prime/commit/9446ff522e4b99f6508aedcdf132de1a3f3d4197,2023-12-11,[kreier/prime] v5.0 on T-Display rp2040,github commit
+https://github.com/kreier/prime/commit/f1b7686dd7919ae0194b4d29e45501024d98880e,2023-12-11,[kreier/prime] running on circuitpython 7.1.1,github commit
+https://github.com/kreier/prime/commit/4f8df264a5c4087d5c2e2034eb6fe4473a84bd57,2023-12-11,[kreier/prime] updated v5.2 for esp32,github commit
+https://github.com/kreier/prime/commit/80e4d52de862b39cfd265cfa75847a7b02cfedc1,2023-12-11,[kreier/prime] current state for esp32 on circuitpython 8.2.8,github commit
+https://github.com/kreier/prime/commit/28f3ac43898f454e004468e577be61d254748044,2023-12-10,[kreier/prime] cycle in Java from 100 to 1 billion,github commit
+https://github.com/kreier/prime/commit/91614aaafb322e6f2ee543526b6addeb2eea526e,2023-12-09,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/5ba5692660068a6d4059f4177c5c62fa3f210b8b,2023-12-09,[kreier/prime] results Xeon X5550 round 4,github commit
+https://github.com/kreier/prime/commit/acafe3f46cee8f3477de794175faea40563a7f35,2023-12-09,[kreier/prime] testing 10-year old laptop,github commit
+https://github.com/kreier/prime/commit/575c0cb470828422d9062ad31f2be8472707e5ba,2023-12-09,[kreier/prime] better progress indication for long calculations,github commit
+https://github.com/kreier/prime/commit/856052e86e6ecb23865eb77cf7bd471c92f02971,2023-12-09,[kreier/prime] results Xeon X5550 batch 3,github commit
+https://github.com/kreier/prime/commit/bc328e27f908c04ea98a190be07e776e64aa7a78,2023-12-09,[kreier/prime] results X5550 round 2,github commit
+https://github.com/kreier/prime/commit/1198b002cf28ae749a31dea64875bfbfb1949c6f,2023-12-08,[kreier/prime] results for X5550 round 1,github commit
+https://github.com/kreier/prime/commit/571cb0641a45bf5ca8fa7140bb9c416b53b8975e,2023-12-07,[kreier/prime] 5 seconds to activate write access to the filesystem,github commit
+https://github.com/kreier/prime/commit/0553d5af3179ed1e09b97ed2b54fd1cc1ea64ff3,2023-12-07,[kreier/prime] code will take days for 1 billion,github commit
+https://github.com/kreier/prime/commit/52e624d0fec778c3c2ddafd49b051451696ef493,2023-12-07,[kreier/prime] completed more calculations,github commit
+https://github.com/kreier/prime/commit/fbf980d53b19a192daec668b96aeb8d4b213a13b,2023-12-06,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/8721cc968e85c500cffe071fd1ba7ec6d6136727,2023-12-06,[kreier/prime] results for 1 billion,github commit
+https://github.com/kreier/prime/commit/01cd7258bda3ed3c195e318a697e4cffa96c6eda,2023-12-06,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/1deb66c157495743e700f974f4f05847f53fb60d,2023-12-06,[kreier/prime] progress indication on CircuitPython too,github commit
+https://github.com/kreier/prime/commit/9c2aee0ce01f5055042de0ec9bc1ea53adb8a05c,2023-12-06,[kreier/prime] finished calculation,github commit
+https://github.com/kreier/prime/commit/7e9732c63f961b8e309161aa04660b11c9081d8a,2023-12-06,"[kreier/prime] bugfix for percentage, new millis() version",github commit
+https://github.com/kreier/prime/commit/bb927ff91d5540c5969cf2920579f5b44cbc58c5,2023-12-06,[kreier/prime] more microcontroller results,github commit
+https://github.com/kreier/prime/commit/a8004259aec938b018af519833958f131ef361f0,2023-12-05,[kreier/prime] improved v5 in Arduino C,github commit
+https://github.com/kreier/prime/commit/25aca6ad449db4c694ff0b488f5ac7e565ba99dd,2023-12-05,[kreier/prime] new results,github commit
+https://github.com/kreier/prime/commit/3c16c8ea326026ff99064c985607ed6555c6ff83,2023-12-05,[kreier/prime] Wednesday morning update,github commit
+https://github.com/kreier/prime/commit/6d35e07abdda6dbfb10301222adb313f4d752f97,2023-12-05,[kreier/prime] 2023/12/04,github commit
+https://github.com/kreier/prime/commit/1b5c23979d3791a4d87831a0be50648271cc12f1,2023-12-05,[kreier/prime] finished calculation to 1 billion with v1.0,github commit
+https://github.com/kreier/prime/commit/911aec8f7ab4232ca2f7e4489905284e06577a71,2023-12-05,[kreier/prime] extended feedback on calculation progress in Arduino,github commit
+https://github.com/kreier/prime/commit/b2cbbfc1aa2dee1c09095fca87f606426964ecc1,2023-12-04,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/41d712c1c277b30405b190af9a4a7e3b23efb47d,2023-12-04,[kreier/prime] updated Java 2023/12/04,github commit
+https://github.com/kreier/prime/commit/1f645718e81c2a9b90a7e2dc3cefd790bfd3fef4,2023-12-04,[kreier/prime] zbook 15 G3,github commit
+https://github.com/kreier/prime/commit/9ce20734840a22e6825bbc2d4e487ee957a5d9ea,2023-12-03,[kreier/prime] Update README.md,github commit
+https://github.com/kreier/prime/commit/b4a54eaaefce71063702a6293e40656106f017d0,2023-12-03,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/49cfd23beaa5615f38acadb610c5262fe9465a3c,2023-12-03,"[kreier/prime] initial version in rust, slower than C",github commit
+https://github.com/kreier/prime/commit/4c346de5f55efd4d9e744d232027e9a7f89a80cc,2023-12-02,[kreier/prime] i5-2520M parallel,github commit
+https://github.com/kreier/prime/commit/036331e70f464b0cac77d58fe25d264c6107a3af,2023-12-01,[kreier/prime] M1 results,github commit
+https://github.com/kreier/prime/commit/5f96e5d82f0d946b927ed8d364071c4c9739687a,2023-12-01,[kreier/prime] save a summary of all 9 calculations,github commit
+https://github.com/kreier/prime/commit/4bf03fe8f9d5bf41babad04307e6543d109034d3,2023-12-01,[kreier/prime] parallel python on i3-10100,github commit
+https://github.com/kreier/prime/commit/3c6a2f3981f5cde098fead5771061b74e6113152,2023-12-01,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/7fbfccf578d6b5cdf2d37144f56b28814895c0de,2023-12-01,[kreier/prime] result i5-2520M,github commit
+https://github.com/kreier/prime/commit/047984d8098d317b6e72c3f949801baac5dfaca2,2023-12-01,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/f8e86669dc1a270af61d1b7865f153285a41908a,2023-12-01,[kreier/prime] support v6.0 parallel,github commit
+https://github.com/kreier/prime/commit/a4da1ce3356a87e5bada607d2fd67b925c8eee4d,2023-12-01,[kreier/prime] Results i5-2520,github commit
+https://github.com/kreier/prime/commit/6c1485f3d93267accb3ad0a7190296b3d3bd5b72,2023-12-01,[kreier/prime] parallel computing 3.2x,github commit
+https://github.com/kreier/prime/commit/25f3c21acb4df6d9818e969795ba6ad4b33dfd7e,2023-11-30,[kreier/prime] final 1 billion benchmark,github commit
+https://github.com/kreier/prime/commit/e0aa49768010851dd74030ce9fa1017b3a0b8edf,2023-11-30,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/980dae9db81cd3cd467d258014a4353ee3a58f2c,2023-11-30,[kreier/prime] result i5-2520M,github commit
+https://github.com/kreier/prime/commit/ad81781541be1ab8aa46443984b8df5b20a3244b,2023-11-30,[kreier/prime] benchmark 2023/11/30,github commit
+https://github.com/kreier/prime/commit/fac59156b29bbb1d8e5550001f0c038bfc2bf3a4,2023-11-30,[kreier/prime] results 2023/11/30,github commit
+https://github.com/kreier/prime/commit/4b872768aa1488fbf0f7b5ab6053bb45186c18f1,2023-11-29,[kreier/prime] included logging for Arduino C,github commit
+https://github.com/kreier/prime/commit/5d3094af7d832f4184c377aa49b54c091e83b5f5,2023-11-29,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/d345b012c970498c89048684044fa7fd13550990,2023-11-29,[kreier/prime] updated v3.0 times,github commit
+https://github.com/kreier/prime/commit/d97dbf3790426e5853936bf37fe8be4337ef5cab,2023-11-29,[kreier/prime] v2.0.2022 from November 23,github commit
+https://github.com/kreier/prime/commit/cf357a85261c98d17ced61ec9a46120b13f6e2f0,2023-11-28,[kreier/prime] corrected times for v3.0,github commit
+https://github.com/kreier/prime/commit/1fd3e42cf5a6d6d2d16903c0ffc95696f6c89126,2023-11-28,[kreier/prime] original algorithm from 1989,github commit
+https://github.com/kreier/prime/commit/a07ff4cb7008bcc2f795721bdb6b1b4ddf78d5af,2023-11-28,[kreier/prime] updated code in 1990,github commit
+https://github.com/kreier/prime/commit/b728b8cf4888da8bfbdb15a6c15b7bbe7abc07a0,2023-11-28,[kreier/prime] rerun v1.0.1991,github commit
+https://github.com/kreier/prime/commit/4fdf830cfbf0c91a7535872b5add6f2e9da38f76,2023-11-28,[kreier/prime] updated labeling of benchmark files,github commit
+https://github.com/kreier/prime/commit/1832abbedab53b07a2667b837b0c1bb6ec09c37f,2023-11-28,[kreier/prime] version 1.0 from 1991,github commit
+https://github.com/kreier/prime/commit/ecd5cd6efe76942a0163bf5bf6100211169d83b9,2023-11-28,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/c39b4400284a9ecb75669a2130b5987377b670b4,2023-11-28,[kreier/prime] version 1.1 from 2000,github commit
+https://github.com/kreier/prime/commit/a22d0bd198c13573892cac7e1eec031487d90f16,2023-11-27,"[kreier/prime] expanded details, fixed number of prime numbers in a billion",github commit
+https://github.com/kreier/prime/commit/35760401b2acfb4d88c3d2b93dd67fa70019a884,2023-11-27,[kreier/prime] fastest algorithm without multithreading,github commit
+https://github.com/kreier/prime/commit/ee12f803e25cbb1bdf776eda2441278e19f2aa22,2023-11-27,[kreier/prime] results in C until 1 billion,github commit
+https://github.com/kreier/prime/commit/3e27d2ba88348cab60345b0e7efd352720aa5e7d,2023-11-27,[kreier/prime] prime calculation exported to a function,github commit
+https://github.com/kreier/prime/commit/e06a44abedc44c399d016589fd6d0ef317e35ef9,2023-11-27,[kreier/prime] fastest solution so far with C,github commit
+https://github.com/kreier/prime/commit/71ecf8d765e23e5eef3347480f2e3e1bbab48d38,2023-11-27,[kreier/prime] prime in cpp,github commit
+https://github.com/kreier/prime/commit/88eb03956e5722e3e440dee059115992759fa456,2023-11-27,[kreier/prime] updated v5.0,github commit
+https://github.com/kreier/prime/commit/6098dcf1f29d679d5ab9f3944eaaf6211287943b,2023-11-27,[kreier/prime] fixed number primes to 1 billion,github commit
+https://github.com/kreier/prime/commit/d28d6b71fc0e8455d65b25f639430a8ea9696a6a,2023-11-27,[kreier/prime] finished 1 billion,github commit
+https://github.com/kreier/prime/commit/a6b05c6120fc53082f73e99661c7d006d32df713,2023-11-25,[kreier/prime] currently fastest single thread python algorithm,github commit
+https://github.com/kreier/prime/commit/2076b930322851f892968565240b20d70f71d0ce,2023-11-25,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/05f8040f6bbec003266be72e9d22eee203c5e50d,2023-11-25,[kreier/prime] document version v3.0.2023,github commit
+https://github.com/kreier/prime/commit/78bf91c0bcf94c5f9f2c15a12cc906490f74140f,2023-11-25,[kreier/prime] document improvements in algorithm,github commit
+https://github.com/kreier/prime/commit/354a9e61f4be628f2b20a7167ba0171464f5933f,2023-11-25,[kreier/prime] document speed for v2.0.2022,github commit
+https://github.com/kreier/prime/commit/f4e579b7f930d27896f0abb06f27fcf4dc558bea,2023-11-25,[kreier/prime] automated logging of results on Windows,github commit
+https://github.com/kreier/prime/commit/cb9e9f8a43da675a1f18c94acfa4ef66fe2a22e9,2023-11-25,[kreier/prime] included esp32s2 on T8 display st7789,github commit
+https://github.com/kreier/prime/commit/28f02739991ff60f2ee4f3b61c20b9b6df0103c8,2023-11-25,[kreier/prime] store results in files on T-Display rp2040,github commit
+https://github.com/kreier/prime/commit/926a8a5e7d96c1cd4c1c0fffadcd49bc4735d211,2023-11-24,[kreier/prime] more methods to initialize,github commit
+https://github.com/kreier/prime/commit/fdf00760e010a35a58ae8cf43700a12c468f3758,2023-11-24,[kreier/prime] experiments to increase the algorithm speed,github commit
+https://github.com/kreier/prime/commit/a3b6f809268c81012101e71c978ec7469e3aa591,2023-11-24,[kreier/prime] racecondition error,github commit
+https://github.com/kreier/prime/commit/cef1b66d253115b2e88091f22feccb3fa4c25885,2023-11-24,[kreier/prime] new code with higher speed,github commit
+https://github.com/kreier/prime/commit/e5cfef3516f3251e7c47540e92ac0f9ef534cfb8,2023-11-24,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/4fa242104385b731a72648f4184c045f0f55b007,2023-11-24,[kreier/prime] updated C code,github commit
+https://github.com/kreier/prime/commit/c90e2fd2145e7524563dd7390ae638235dcd574b,2023-11-24,[kreier/prime] Create prime_3.1.py,github commit
+https://github.com/kreier/prime/commit/275d3eab0310b4998b23d9df4f7dcde0b2bae0ab,2023-11-23,[kreier/prime] comparisons in 2023 with new Circuitpython,github commit
+https://github.com/kreier/prime/commit/d85c7e5e96db6b4e8d1fcf1ea5e36d48e0160227,2023-11-23,[kreier/prime] new testrun on M1,github commit
+https://github.com/kreier/prime/commit/226cd1c07a1b1cc53ff533a2b2bf045662a5cb46,2023-11-23,[kreier/prime] multicore improvement November 2023,github commit
+https://github.com/kreier/prime/commit/f46c758d4675e41643c8b33a53fd64f363033466,2023-11-23,[kreier/prime] improved time measurement for code from 2022,github commit
+https://github.com/kreier/prime/commit/cc7ca379db428e09b5ea7947158e842ede94c5d7,2023-11-23,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/8a122ddaf46d88ba696aeddf19e50211e59fb53e,2023-11-23,[kreier/prime] 25% faster if function is used,github commit
+https://github.com/kreier/prime/commit/f3fdb679880892850ddc242039512e9e2cd30b05,2023-11-23,[kreier/prime] description up to date,github commit
+https://github.com/kreier/prime/commit/8298b5611162a2bbd7b9cb1e46330a3113a7e111,2023-11-23,[kreier/prime] original algorithm from 1991,github commit
+https://github.com/kreier/prime/commit/68c8f2b7926b2201c605669871da09d71639e1aa,2023-11-23,[kreier/prime] updated version from 2022,github commit
+https://github.com/kreier/prime/commit/a0167ffdd999d36124dc1e9d400d8da338a88a0e,2023-11-23,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/c24e10a2ea1dbe110fb6ceda3c60caa8988f6c4f,2023-11-23,[kreier/prime] report process count,github commit
+https://github.com/kreier/prime/commit/af6df149873ed8e91ab323c646000695ed829103,2023-11-23,[kreier/prime] multitasking implemented,github commit
+https://github.com/kreier/prime/commit/82ad580507e530674a77ea69ae2fbd5f0b08d85f,2023-11-23,[kreier/prime] now working in parallel,github commit
+https://github.com/kreier/prime/commit/0c75eacfdd779cee6a11a6072677574df340fcd0,2023-11-23,[kreier/prime] code now 40% faster!,github commit
+https://github.com/kreier/prime/commit/372ea7f5079d635a0f5f8de39674ff850b445e16,2023-11-23,"[kreier/prime] extended to 10 million, multithreading",github commit
+https://github.com/kreier/prime/commit/ab3613bcc52ea75cecbe3ab113e2bf18e0e04059,2023-11-20,[kreier/prime] Create jekyll-gh-pages.yml,github commit
+https://github.com/kreier/prime/commit/aa404c5e7cb7700bfa9d98adf927eaaf5ee38dc4,2023-11-20,[kreier/prime] correct compile command,github commit
+https://github.com/kreier/prime/commit/78b5a18f9608764a624d8b68a11199e70f5f0bb2,2023-11-20,[kreier/prime] re-run on i3 10100,github commit
+https://github.com/kreier/prime/commit/a05eb6749bf15b5bc8403538ee2dc740290ba87b,2023-11-20,[kreier/prime] Update README.md,github commit
+https://github.com/kreier/prime/commit/7b5e4ca171b28447a8b0820bb36d139e2fb52bfa,2023-04-17,[kreier/prime] Add files via upload,github commit
+https://github.com/kreier/prime/commit/90c1335abde8731384755e0254c164fb4773947b,2023-04-17,[kreier/prime] speed data from Python and C,github commit
+https://github.com/kreier/prime/commit/3fe4a1f016fad48cc6b54f99f214ab0031b91e33,2023-04-03,[kreier/prime] move second image to the bottom,github commit
+https://github.com/kreier/prime/commit/c8d155a9b91b244a4d329ab98d12f1dab4f96bb5,2023-04-03,[kreier/prime] saving space,github commit
+https://github.com/kreier/prime/commit/f5ef1a83a58d9026e899f099844dbce349ae4ec4,2023-03-21,[kreier/prime] original file,github commit
+https://github.com/kreier/prime/commit/dc233748758838101cd6f1e38c1d0ee212ca19f8,2023-03-21,[kreier/prime] new picture,github commit
+https://github.com/kreier/prime/commit/fbac3ff8cbbeb9cf72cd0faa75515828af7f4ddb,2023-03-21,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/486d1d4126cc1575b3091abc657e14699133eb22,2023-03-21,[kreier/prime] working on T-Display esp32s2,github commit
+https://github.com/kreier/prime/commit/1e46a38652b083653b58f527c4df812e1163138e,2023-03-21,[kreier/prime] finally working,github commit
+https://github.com/kreier/prime/commit/90c86c1c71d6d7631c3bb0776aff9215fc03b89f,2023-03-21,[kreier/prime] shortened java and C code,github commit
+https://github.com/kreier/prime/commit/87275dfd958cb47af8c63d9b0aae61046e4c2821,2023-03-21,"[kreier/prime] rearranged, working java code",github commit
+https://github.com/kreier/prime/commit/2386668be0b77252270d34413b7f5b6907c005d8,2023-03-21,[kreier/prime] Create prime10000.java,github commit
+https://github.com/kreier/prime/commit/52e8f9ff83380c61a5d9d720e52dc052ecbfdab6,2023-03-15,[kreier/prime] empty hello world starting point,github commit
+https://github.com/kreier/prime/commit/6643757f293cf50d51840da8fd31f4948ee178c1,2023-03-15,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/f0ea38b369a51270b8739ea1dfdf4b8786c2081c,2023-03-15,[kreier/prime] testrun March 2023,github commit
+https://github.com/kreier/prime/commit/4113e501271df31f492314839950463007f02c21,2023-03-15,[kreier/prime] included code for python and c,github commit
+https://github.com/kreier/prime/commit/4b41c97b68a4564b44a7f3f04c6a549c7fa3a2b1,2023-03-06,[kreier/prime] check running time,github commit
+https://github.com/kreier/prime/commit/563cdbf63ce48f261458537fba8aca46722831ba,2023-03-06,[kreier/prime] more board compared,github commit
+https://github.com/kreier/prime/commit/5c8db23ee321ae1f1c077cf0a53e7168aa5a6d70,2022-11-16,[kreier/prime] include link to source,github commit
+https://github.com/kreier/prime/commit/3ea98ca83dfa4b704b1c65ed96ce5b481fe567bf,2022-11-10,[kreier/prime] Add files via upload,github commit
+https://github.com/kreier/prime/commit/3bf57a59ef91dd09d99f48501ca3534c9282bc66,2022-11-10,[kreier/prime] with esp8266 and esp32 -C3 and -S3,github commit
+https://github.com/kreier/prime/commit/4f425058e61934e5298e8129e1c7c54018a43c85,2022-11-10,[kreier/prime] updated esp8266 and esp32 240MHz,github commit
+https://github.com/kreier/prime/commit/1ef9c0fddcf29b99bb9f68d914c364e6a38b247e,2022-11-10,[kreier/prime] 0.90 seconds to 10000 on esp8266,github commit
+https://github.com/kreier/prime/commit/7210326e2eccad39b067b67bd3da987c68ea25c6,2022-11-10,[kreier/prime] 541 seconds on ESP8266,github commit
+https://github.com/kreier/prime/commit/ad76b2ed147026d04527c9b87fcb2f94f035f6c7,2022-11-10,[kreier/prime] Add files via upload,github commit
+https://github.com/kreier/prime/commit/d6e2e05b7a6f538cec81e10ccfc6e4e727d6a642,2022-11-10,[kreier/prime] This takes more that 21.57 seconds on ESP8266,github commit
+https://github.com/kreier/prime/commit/280b8cb3570269947f1430a2b29f9b8b6d6887fa,2022-11-10,[kreier/prime] Create README.md,github commit
+https://github.com/kreier/prime/commit/8b7a8d3985b529c7f8fd8a16dfbc80502887e304,2022-11-01,[kreier/prime] fixed code for 10000 iterations,github commit
+https://github.com/kreier/prime/commit/48eb8cb5d652502eac68bac886572c24183a98da,2022-11-01,[kreier/prime] text example,github commit
+https://github.com/kreier/prime/commit/5ac92c7a55195775d278ef41256179f2c1a82baf,2022-11-01,[kreier/prime] updated T8 ESP32-S2,github commit
+https://github.com/kreier/prime/commit/3dbef13cbf95ddd83dfc88f09ea3b9c061c78828,2022-10-31,[kreier/prime] Speed of new ESP32-S3,github commit
+https://github.com/kreier/prime/commit/f67988df754afd9279a0f723b993494ba2b2b343,2022-10-27,[kreier/prime] tested speed on M1 A12Z and A10X,github commit
+https://github.com/kreier/prime/commit/4ee2e7f7ecb513c95326e663d8087ffd81f76fc5,2022-10-26,[kreier/prime] included Plagrounds (Swift) simulator,github commit
+https://github.com/kreier/prime/commit/a90a31bd267f40fc310e429e02026e060af2f304,2022-10-26,[kreier/prime] Delete .DS_Store,github commit
+https://github.com/kreier/prime/commit/af73db8b069b0e9c9e1c6cd1714fa44383d3802e,2022-10-26,[kreier/prime] include Synology Diskstation,github commit
+https://github.com/kreier/prime/commit/edfc61b8b19c8a9cc99dbdbe673037e68afb33c0,2022-10-25,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/ea44a5a4fcb76246f95f4fd38c0918065a3589ba,2022-10-25,[kreier/prime] updated details,github commit
+https://github.com/kreier/prime/commit/48236023708c12c9a147addc1dc146ce132e841b,2022-10-24,[kreier/prime] updated faster algorithm,github commit
+https://github.com/kreier/prime/commit/1435c0bcc1d03b01f36077fee5bdb4473f406035,2022-10-24,[kreier/prime] updated code and speed,github commit
+https://github.com/kreier/prime/commit/39838ce5713eece685cdbb008e4037125f790298,2022-10-24,[kreier/prime] include esp32,github commit
+https://github.com/kreier/prime/commit/8170649bc30532aabd5eaf8f3c4ff48727a87b26,2022-10-24,"[kreier/prime] number of primes, time on M1",github commit
+https://github.com/kreier/prime/commit/0ba10245758ffa30390ac72652bd8294fe4c4061,2022-10-24,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/79485c5c8c42010197ab3ad100b8f2e0fbb93cee,2022-10-24,[kreier/prime] recompiled for M1 Mac,github commit
+https://github.com/kreier/prime/commit/4b436585251042c8d0adaf785bf1a1859ac07b57,2022-10-24,[kreier/prime] fixed typos,github commit
+https://github.com/kreier/prime/commit/3593b20c4d7ec5b8a10da6fe57ad038e6b1f19c5,2022-10-24,[kreier/prime] updated python speed,github commit
+https://github.com/kreier/prime/commit/8a038e8403df34c41ee4af1099fd2a39ed12c6d5,2022-10-24,[kreier/prime] faster code with C,github commit
+https://github.com/kreier/prime/commit/3cb1d306edd6399bc01cb5eb9a858d67f55df870,2022-10-24,[kreier/prime] picture and circuitpython code example,github commit
+https://github.com/kreier/prime/commit/95e05997e4b3b018d66d26bf79e9459ab62f8805,2022-10-24,[kreier/prime] successful running circuitpython 8.0.0,github commit
+https://github.com/kreier/prime/commit/948399b67a2ba34a8dcec1481a7eee8ca3fa5a74,2022-10-21,[kreier/prime] Merge branch 'main' of https://github.com/kreier/prime,github commit
+https://github.com/kreier/prime/commit/34743fda45517ee609002e5515ae37e0a3e57e25,2022-10-21,[kreier/prime] 1.8 seconds on M1 MacBook,github commit
+https://github.com/kreier/prime/commit/91d817d2a5941cb036f472ea5ed4bb88fb3d15e2,2022-10-21,[kreier/prime] included blackpill and esp32-s2,github commit
+https://github.com/kreier/prime/commit/4873b95094fe0c63fc82c245ac28a4963df5aba6,2022-10-21,[kreier/prime] relative speed included,github commit
+https://github.com/kreier/prime/commit/aa293b46304abb1ebd3c5dfaca7edb303145272e,2022-10-21,[kreier/prime] included micro:bit and MicroPython,github commit
+https://github.com/kreier/prime/commit/2ad5f5362f2d4beb0198e159ef808cc853a3cc8b,2022-10-21,[kreier/prime] Update README.md,github commit
+https://github.com/kreier/prime/commit/3807247b8d35b306b0ba93eb450fc32a261699c4,2022-10-21,[kreier/prime] Update README.md,github commit
+https://github.com/kreier/prime/commit/d718be7c9da2bb68a963002b20ecd05abaff1124,2022-10-21,[kreier/prime] faster algorithms,github commit
+https://github.com/kreier/prime/commit/3d432b14e13fba8202e5ff79fc2547fcbacac6eb,2022-10-21,[kreier/prime] new algorithm,github commit
+https://github.com/kreier/prime/commit/92ec07043f9ebfd49b6f40d50f99c131ee03eb10,2022-10-19,[kreier/prime] documented 123x speed increase,github commit
+https://github.com/kreier/prime/commit/abbf4a4b17c1847190eb9b750f8b183405dde130,2022-10-19,[kreier/prime] 8 stages documented in playground book,github commit
+https://github.com/kreier/prime/commit/4c8fcf0e3cd33f586e86532672d204612fad45ab,2022-10-12,[kreier/prime] documentation of challenge,github commit
+https://github.com/kreier/prime/commit/0eff75244f72ec58a311e719d45e8fcac5f0afcf,2022-10-12,[kreier/prime] faster algorithm,github commit
+https://github.com/kreier/prime/commit/71628c49d239da8588b3f2dbe025262308352750,2022-10-11,[kreier/prime] this worked in exam.net,github commit
+https://github.com/kreier/prime/commit/e8ca63be7191b749421df48d47af748335ab2f04,2022-10-10,[kreier/prime] Create README.md,github commit
+https://github.com/kreier/prime/commit/038f3eb855734940e189647544f3c6d4ce6b4e31,2022-10-10,[kreier/prime] Create README.md,github commit
+https://github.com/kreier/prime/commit/0a14bee1fd1ae498cde947e6ab88841c9e199dcd,2022-10-10,[kreier/prime] tested on Playground Express 1.3 seconds,github commit
+https://github.com/kreier/prime/commit/a99663157326af8bfe63ccb5b1e398afb08aec96,2022-10-10,[kreier/prime] worked on t-display,github commit
+https://github.com/kreier/prime/commit/1ea279f6d796b90639992a9a8508b19bdfa2cb6b,2022-10-10,[kreier/prime] calculating prime numbers in swift,github commit
+https://github.com/kreier/prime/commit/92c1643287cc5760c4616b45ac6b42ca25fcd505,2022-10-10,[kreier/prime] Initial commit,github commit
+https://github.com/kreier/prime_gaps_line/commit/839074fd73bf829b5cbaeb3364faa75aad26205f,2025-10-14,[kreier/prime_gaps_line] cosmetic sugar,github commit
+https://github.com/kreier/prime_gaps_line/commit/87eb98545cf5c2f2b83126089b7fb878120f5275,2024-04-11,[kreier/prime_gaps_line] Include graph for up to 2E32,github commit
+https://github.com/kreier/prime_gaps_line/commit/9d6ef8612a771f5fab8878dd13e50a4419d13297,2024-04-11,[kreier/prime_gaps_line] line until 4 billion (2E32) - largest 32bit integer,github commit
+https://github.com/kreier/prime_gaps_line/commit/a55723fedf9201a630953688718dd2103b8b4fe6,2024-04-06,[kreier/prime_gaps_line] new source for graph of jumping champion,github commit
+https://github.com/kreier/prime_gaps_line/commit/fdaa832cd5ace060f5a0339aac3a6198ae28ea6d,2024-04-06,"[kreier/prime_gaps_line] gaps between times 2 to 6, later 4",github commit
+https://github.com/kreier/prime_gaps_line/commit/3d959c64ac5ddd7e4bae258eaf8c16bac801cb2d,2024-04-06,[kreier/prime_gaps_line] extended to 2E32 (runs several hours),github commit
+https://github.com/kreier/prime_gaps_line/commit/74156cbee19753f90666e37267dce57759cd78dd,2024-04-06,[kreier/prime_gaps_line] Jupyter Notebook from Colab,github commit
+https://github.com/kreier/prime_gaps_line/commit/da42872d4a989a70b09556e9eda792267a0b8983,2024-04-06,[kreier/prime_gaps_line] include graph to 100 million,github commit
+https://github.com/kreier/prime_gaps_line/commit/e397efac2052d70624353a855b5031ef73fa0930,2024-04-06,[kreier/prime_gaps_line] included graph and program,github commit
+https://github.com/kreier/prime_gaps_line/commit/6fb0f5d0ec5e51196a4c37d1db7c0a9eb643a47f,2024-04-06,[kreier/prime_gaps_line] Create primegap.py,github commit
+https://github.com/kreier/prime_gaps_line/commit/06ccfa67969fec6215466bb6872eb6e694a8a121,2024-04-06,[kreier/prime_gaps_line] Update .gitignore,github commit
+https://github.com/kreier/prime_gaps_line/commit/da9a1abd093b8c0a228dc726fde0e8363db252ac,2024-04-06,[kreier/prime_gaps_line] Update README.md,github commit
+https://github.com/kreier/prime_gaps_line/commit/4ddf70788f65c9c3817cec35873b3800156b3e59,2024-04-06,[kreier/prime_gaps_line] Initial commit,github commit
+https://github.com/kreier/promised-seed/commit/f41f9948c517d373db230dcc1266621cbd357dc7,2025-11-30,[kreier/promised-seed] include comparison with A0 project from 2005,github commit
+https://github.com/kreier/promised-seed/commit/0a8f58c123b2b156a34e026b5206fa85b29ef9c7,2025-11-30,[kreier/promised-seed] image of v0.1 from 2025-11-30,github commit
+https://github.com/kreier/promised-seed/commit/17e0307383947939303107d8cdfbb1f3e48212f3,2025-11-29,[kreier/promised-seed] compare required size for graph,github commit
+https://github.com/kreier/promised-seed/commit/7cadfd25040898a46653bc0922cdf2268472bedb,2025-11-29,[kreier/promised-seed] Enhance README with motivation and size details,github commit
+https://github.com/kreier/promised-seed/commit/b76c2ef65e94340668e835848b431e13a72a2649,2025-11-29,[kreier/promised-seed] proper use of the dictionary for pdf_title,github commit
+https://github.com/kreier/promised-seed/commit/e2d23ecbf64b579a0a7dafbef3bc1c1aba534c46,2025-11-29,[kreier/promised-seed] include Title to this project,github commit
+https://github.com/kreier/promised-seed/commit/b1766af069152047a706e493bc9dd27f02a67d36,2025-11-29,"[kreier/promised-seed] relocate QR code, fixed",github commit
+https://github.com/kreier/promised-seed/commit/596e7c239a8eba020036a482ff682341598eb07f,2025-11-29,[kreier/promised-seed] first successful overview,github commit
+https://github.com/kreier/promised-seed/commit/049265effb0ff0c9b65cc2a50b7cbd3c3c96ff69,2025-11-26,"[kreier/promised-seed] include more women, set structure for couples and children",github commit
+https://github.com/kreier/promised-seed/commit/f1d76fc0fbbeb9ab1624402b741d9dc1133bf2de,2025-11-25,"[kreier/promised-seed] restructured, families for Mary and Josephs side",github commit
+https://github.com/kreier/promised-seed/commit/2344e41173aaca57560f3e2982fba4b8d97656cb,2025-11-19,[kreier/promised-seed] update PDF producer and creator,github commit
+https://github.com/kreier/promised-seed/commit/e1539063c13a664e6ba6e41d652fb91753cab64c,2025-11-19,[kreier/promised-seed] include producer,github commit
+https://github.com/kreier/promised-seed/commit/4dc069524236684aee5b27c0a5e19fa57fd33b29,2025-11-19,[kreier/promised-seed] cleaning up for v0.1 release,github commit
+https://github.com/kreier/promised-seed/commit/d3e922f01f670fce1870bacfb90988f713d65b86,2025-11-19,[kreier/promised-seed] got a A3 document generated!,github commit
+https://github.com/kreier/promised-seed/commit/68bdc779f7d71e5e1a865e124a3720faf9d998a5,2025-11-18,[kreier/promised-seed] Include the history,github commit
+https://github.com/kreier/promised-seed/commit/398158e4d91ff975793b2137847b3754e6d4f729,2025-11-17,[kreier/promised-seed] Merge branch 'main' of https://github.com/kreier/promised-seed,github commit
+https://github.com/kreier/promised-seed/commit/bead54c4160781101bc5ce2a795c2a6d22d984f2,2025-11-17,[kreier/promised-seed] history and size considerations,github commit
+https://github.com/kreier/promised-seed/commit/b211c07ac67cef8574700f832f649e723c94fff8,2025-11-17,[kreier/promised-seed] Update .gitignore to include .DS_Store for Synology Diskstation,github commit
+https://github.com/kreier/promised-seed/commit/94848ca1528a39d621691b86b90451101a7d629b,2025-11-17,[kreier/promised-seed] Initial commit,github commit
 https://github.com/kreier/python2018/commit/12f7a8b6dc18a83d1dd259dc74627ba7aec04151,2026-02-10,[kreier/python2018] Merge pull request #42 from kreier/dependabot/pip/distributed-2026.1.1,github commit
 https://github.com/kreier/python2018/commit/08e35f65d98a3be584c9a0b54fc306d8db30e750,2026-02-10,[kreier/python2018] Merge pull request #43 from kreier/dependabot/pip/nbconvert-7.17.0,github commit
 https://github.com/kreier/python2018/commit/dc1d242c00a9b9ab43dcfcab2dbbf36b22f42714,2026-01-14,"[kreier/python2018] fix typo from 2019, update statistics",github commit
@@ -2370,55 +2646,6 @@ https://github.com/kreier/rc/commit/1939c46a92a64ccaf46669c2eca9d0b9e2adab3d,202
 https://github.com/kreier/rc/commit/107ecb5b3052a6619606c3fe44dd6d87f8a46a9d,2022-01-24,[kreier/rc] Add files via upload,github commit
 https://github.com/kreier/rc/commit/997c43224b26df11dc092198af71ff45edd41c17,2022-01-24,[kreier/rc] Create README.md,github commit
 https://github.com/kreier/rc/commit/956644e985e89e11cc8ebcc71fb45fa0b65f49e6,2022-01-24,[kreier/rc] Initial commit,github commit
-https://github.com/kreier/reactivate23/commit/3fc09c92569bb3e86fb3436f205b99085cbbf760,2023-06-11,[kreier/reactivate23] Create gradle-wrapper.jar,github commit
-https://github.com/kreier/reactivate23/commit/25026eb8255d3656e7e69f684fbb2d4568b36483,2023-06-02,[kreier/reactivate23] document duty cycles,github commit
-https://github.com/kreier/reactivate23/commit/60bbb3b5ef5ac75326e26ade1bdd05b750e65a70,2023-06-02,[kreier/reactivate23] Merge pull request #11 from kreier/main,github commit
-https://github.com/kreier/reactivate23/commit/452603a214d7e3f8c110231f1922d716041a9a36,2023-06-02,[kreier/reactivate23] include dutycycle,github commit
-https://github.com/kreier/reactivate23/commit/8c82f23bd4cef9cb6a1faf86accb91bf90c769c1,2023-06-02,[kreier/reactivate23] Merge pull request #9 from kreier/main,github commit
-https://github.com/kreier/reactivate23/commit/bce2a2ebb77a2392933b34b2e971e14ba32a7e16,2023-06-02,[kreier/reactivate23] Merge branch 'ssis-robotics:main' into main,github commit
-https://github.com/kreier/reactivate23/commit/266c56a282ee7eb2e35434e20d24f03016efd13d,2023-06-01,[kreier/reactivate23] Merge pull request #2 from kreier/drive_4CIM,github commit
-https://github.com/kreier/reactivate23/commit/1c8e376337aabae04841c51fecf05fd24e281ee7,2023-06-01,[kreier/reactivate23] include values from quadencoders,github commit
-https://github.com/kreier/reactivate23/commit/ea4aebb55c8b3e8eecb08ba433030a2e607f86ed,2023-06-01,[kreier/reactivate23] Merge pull request #8 from kreier/main,github commit
-https://github.com/kreier/reactivate23/commit/0e742ab94991fa387faba75685979b5579d85984,2023-06-01,[kreier/reactivate23] Merge pull request #1 from kreier/drive_4CIM,github commit
-https://github.com/kreier/reactivate23/commit/6a7a842ac90a9158d0f7427a0d6cefb7920bffa5,2023-05-31,[kreier/reactivate23] commented non existing hardware,github commit
-https://github.com/kreier/reactivate23/commit/4992899db7f4a0776450431179a0872538ac5a9b,2023-05-31,[kreier/reactivate23] Merge pull request #7 from kreier/main,github commit
-https://github.com/kreier/reactivate23/commit/c013c00395fcfec62bc81b2b185887427b1f2723,2023-05-31,[kreier/reactivate23] Merge branch 'ssis-robotics:main' into main,github commit
-https://github.com/kreier/reactivate23/commit/b63aca1eeca7de86636b79626a62f56dcfaa6cb2,2023-05-31,"[kreier/reactivate23] fixed configuration, robot running again",github commit
-https://github.com/kreier/reactivate23/commit/7b8320b3b8e302b36299730560be96ee8e1df2d5,2023-05-31,[kreier/reactivate23] adjust for driving instead of turning,github commit
-https://github.com/kreier/reactivate23/commit/b72e03c629c0090a566d61b745e3bf7147c0094b,2023-05-31,[kreier/reactivate23] Merge pull request #6 from kreier/main,github commit
-https://github.com/kreier/reactivate23/commit/b562fcbc4df7b16c3e315b9bcfdc6f3351196116,2023-05-30,[kreier/reactivate23] Control Systems Planning included,github commit
-https://github.com/kreier/reactivate23/commit/e7e797dce6e4cc698b1d3fcf72c7df006d47fb09,2023-05-30,[kreier/reactivate23] Merge pull request #5 from kreier/main,github commit
-https://github.com/kreier/reactivate23/commit/fa72099baafd6ed73b2cf12659475a2e74eabf2d,2023-05-30,[kreier/reactivate23] Merge branch 'ssis-robotics:main' into main,github commit
-https://github.com/kreier/reactivate23/commit/5772fb02511f8cd513e729baa2252b789006b31d,2023-05-30,[kreier/reactivate23] reactivated drive base,github commit
-https://github.com/kreier/reactivate23/commit/3e78ca76c0b7a552a4734f42a4bbcb0b1da2f43a,2023-05-30,[kreier/reactivate23] updated firmware,github commit
-https://github.com/kreier/reactivate23/commit/b5c628e92d5ec9d32a7e3a9fbf254ca086880cb2,2023-05-30,[kreier/reactivate23] Update to the WPILib team settings,github commit
-https://github.com/kreier/reactivate23/commit/0b5e9d5910a6c3729d9d4ac53208738d28e946dd,2023-05-30,[kreier/reactivate23] Merge pull request #4 from kreier/main,github commit
-https://github.com/kreier/reactivate23/commit/a02c508710b0bb20bbf92f5fc225ebc9bba14485,2023-05-30,[kreier/reactivate23] Merge branch 'ssis-robotics:main' into main,github commit
-https://github.com/kreier/reactivate23/commit/fda10cf99cd48330bb80a5db5d2e4a931c0a2924,2023-05-30,[kreier/reactivate23] Merge branch 'flooof:main' into main,github commit
-https://github.com/kreier/reactivate23/commit/04f195ab0e206e13b0aa3f20fc72da52ad2cfc5c,2023-05-30,[kreier/reactivate23] successful build in 38 seconds,github commit
-https://github.com/kreier/reactivate23/commit/23ebdedc9c7fdbc48b41bedb5217ced7329da93c,2023-05-30,[kreier/reactivate23] Merge pull request #3 from kreier/main,github commit
-https://github.com/kreier/reactivate23/commit/435ce663e8cbdf0468fab434e047dc3f98c52121,2023-05-30,[kreier/reactivate23] Changed from SpeedControllerGroup to MotorControllerGroup for 2023,github commit
-https://github.com/kreier/reactivate23/commit/f8b84f147092dda50408f153f40387dc49b839c8,2023-05-30,[kreier/reactivate23] changed deprecated SpeedControllerGroup to MotorControllerGroup,github commit
-https://github.com/kreier/reactivate23/commit/5e02b28715afb9ac4253c9d0d6108fb97996ca24,2023-05-30,[kreier/reactivate23] with REVLib.json only 32 errors left,github commit
-https://github.com/kreier/reactivate23/commit/fee0648d77855765373fcea0197154adbbf6e145,2023-05-30,[kreier/reactivate23] added Phoenix.json and only 52 errors left,github commit
-https://github.com/kreier/reactivate23/commit/82748ab47ce49c12609055f378c488e7bb3e6eb3,2023-05-30,[kreier/reactivate23] import to 2023 with 101 error messages,github commit
-https://github.com/kreier/reactivate23/commit/27d59767e32ea533822bf6196ff27aa524f9069e,2023-05-29,[kreier/reactivate23] Merge pull request #2 from kreier/main,github commit
-https://github.com/kreier/reactivate23/commit/a696d121a88dfa43fcbb6dc1981ffd6c60eb2bce,2023-05-29,[kreier/reactivate23] documentation 2020 Team 426 ZACTF,github commit
-https://github.com/kreier/reactivate23/commit/4abfa8b68ce0decdbf949df3b944fe7c205dfea1,2023-05-29,[kreier/reactivate23] reorganize code,github commit
-https://github.com/kreier/reactivate23/commit/83128e8e51cb4673a397be4c315f557455ef6c90,2023-05-29,[kreier/reactivate23] Add files via upload,github commit
-https://github.com/kreier/reactivate23/commit/3dade44d42cec52d687ca2cd163e0d3c9c56db3f,2023-05-29,[kreier/reactivate23] club expo 2020 added,github commit
-https://github.com/kreier/reactivate23/commit/25e367366b81e41c7021eacd3dc57492d5c73979,2023-05-29,[kreier/reactivate23] FRC Driver Station,github commit
-https://github.com/kreier/reactivate23/commit/77f4b95bb17551014a7e3c6b805abb84ee5b51f3,2023-05-29,[kreier/reactivate23] we got the robot 426 running again!,github commit
-https://github.com/kreier/reactivate23/commit/7a334603d54b455b11bd34f111569645ffe92389,2023-05-25,[kreier/reactivate23] Merge pull request #1 from kreier/main,github commit
-https://github.com/kreier/reactivate23/commit/33c30d1581ed68055cb1b5776cbd78067f96861b,2023-05-25,[kreier/reactivate23] included pictures from Taipei,github commit
-https://github.com/kreier/reactivate23/commit/be3edb64329f4b72bd9e4d3f2203954913a6b052,2023-05-25,[kreier/reactivate23] extended details and links,github commit
-https://github.com/kreier/reactivate23/commit/1d2f736e01cd3de6107fbd181f026b6c84fb7442,2023-05-25,[kreier/reactivate23] Add files via upload,github commit
-https://github.com/kreier/reactivate23/commit/6bc8b375f18ba6ca07f842876bca3c2652b9decf,2023-05-25,[kreier/reactivate23] Create _config.yml,github commit
-https://github.com/kreier/reactivate23/commit/b1554b32cf2996b3a25f0302964ca06ce1f1a498,2023-05-25,[kreier/reactivate23] Create README.md,github commit
-https://github.com/kreier/reactivate23/commit/4276a1eabe0d28b18de78afc36f2db6bd2d4c468,2023-05-19,[kreier/reactivate23] Java source files,github commit
-https://github.com/kreier/reactivate23/commit/ec005a58783fcda0b760cf36bb62b74b34c8ebf5,2023-05-19,[kreier/reactivate23] start recreating,github commit
-https://github.com/kreier/reactivate23/commit/0549bbbc8a6111746db5edda14116e5cebb652b1,2023-05-19,[kreier/reactivate23] Create .gitignore for Java,github commit
-https://github.com/kreier/reactivate23/commit/5d58a3f9c3acecb446a871bedcf2c656fd042259,2023-05-19,[kreier/reactivate23] Create README.md,github commit
 https://github.com/kreier/remote/commit/2424804804419a6656841e7c83f977c374e03bfb,2020-11-27,[kreier/remote] Update _config.yml,github commit
 https://github.com/kreier/remote/commit/e0f26927185f990b3230f4e177b1ffba1db3db79,2020-11-16,[kreier/remote] Update index.md,github commit
 https://github.com/kreier/remote/commit/1a8bda963176e6f02243239cc5977c3803baede4,2020-11-16,[kreier/remote] updated to progress from February 2020,github commit
@@ -2444,22 +2671,6 @@ https://github.com/kreier/remote/commit/6724317eaa950c740ad7155275935d6ed676fd58
 https://github.com/kreier/remote/commit/c4a2fca38d91079d1a6cb7c6e163036803b34eb2,2019-11-12,[kreier/remote] inspired by Danila Loginov,github commit
 https://github.com/kreier/remote/commit/ea0147613a65f7d6096a86c314c628716eef2891,2019-11-12,[kreier/remote] initial commit,github commit
 https://github.com/kreier/remote/commit/465a33f0c424669c28a7d353237753d6b7e7d3f7,2019-11-12,[kreier/remote] Initial commit,github commit
-https://github.com/kreier/reset23/commit/2f8aaca90d4ac2ca1f371b00d4bdbb10db72de16,2023-05-25,[kreier/reset23] documented design cycle,github commit
-https://github.com/kreier/reset23/commit/2c82b7670e76a7eade343a0337311d46f0e9c3b1,2023-05-25,[kreier/reset23] reflection of the art party,github commit
-https://github.com/kreier/reset23/commit/aff03df640072417cd1e4be6e5ed664a7718acc1,2023-05-25,[kreier/reset23] pictures from the party,github commit
-https://github.com/kreier/reset23/commit/5b06cb4affdc04db37394dafb482eb985e816d9f,2023-05-24,[kreier/reset23] Merge pull request #1 from kreier/main,github commit
-https://github.com/kreier/reset23/commit/c2249ad2f15dfb77b50f4a6d9aeaba17e0b89277,2023-05-24,[kreier/reset23] expanded documentation,github commit
-https://github.com/kreier/reset23/commit/32014fbb2c2189751c6baa4210d2f67bd762231a,2023-05-24,[kreier/reset23] included inspiration from December 2022,github commit
-https://github.com/kreier/reset23/commit/147b401bbc96f008b572f1aa767ddb2ca0ae526c,2023-05-24,[kreier/reset23] Add files via upload,github commit
-https://github.com/kreier/reset23/commit/69960cd98a6a65c8dcd37a8f50f96a99e8328866,2023-05-23,[kreier/reset23] two more images,github commit
-https://github.com/kreier/reset23/commit/1e57e4050f56d9dcbce9b6e3a4ad656c03a6f6ee,2023-05-23,[kreier/reset23] preparation stage,github commit
-https://github.com/kreier/reset23/commit/e91bb5f67154143460d897a41e2630f043fff552,2023-05-19,[kreier/reset23] adjusted image size,github commit
-https://github.com/kreier/reset23/commit/2c2364d49833102405e9d2e0eb334afc23d2eb74,2023-05-19,[kreier/reset23] initial visualization,github commit
-https://github.com/kreier/reset23/commit/fc03a6c7dcf27b453a2266e19843c191e8ae34a4,2023-05-19,[kreier/reset23] Create README.md,github commit
-https://github.com/kreier/reset23/commit/b1d423d93c867da917f304b10df4f879c6f2b582,2023-05-19,[kreier/reset23] documentation of last weeks,github commit
-https://github.com/kreier/reset23/commit/9a84a00df5927cfbd086ab72f06b214bb441ea82,2023-05-19,[kreier/reset23] Create main.py,github commit
-https://github.com/kreier/reset23/commit/2849dfdc93c60874f38bdcd7181176e0369301a9,2023-05-19,[kreier/reset23] Updated for Circuitpython and Synology Diskstation,github commit
-https://github.com/kreier/reset23/commit/447d9a171120a85d056030fcf94d3df039757dae,2023-05-19,[kreier/reset23] Initial commit,github commit
 https://github.com/kreier/rfid/commit/e1ad74e937d3d78604d0415d7e7119d646b4202c,2020-12-16,[kreier/rfid] Merge pull request #2 from kreier/master,github commit
 https://github.com/kreier/rfid/commit/fbe1eab6162b1cbe119509a6c7394ed1befc6944,2020-12-16,[kreier/rfid] branch and repository have been renamed,github commit
 https://github.com/kreier/rfid/commit/b0cd999cbc664d0afc111d4eb690dabe4b65ba87,2020-12-16,[kreier/rfid] Update README.md,github commit
@@ -2558,21 +2769,6 @@ https://github.com/kreier/rvr/commit/76b11053a6c44a852d98b03d29907a074b9f982b,20
 https://github.com/kreier/rvr/commit/a4f3f2113643183aa9c0109ec33d1b7b756b16e4,2022-02-23,[kreier/rvr] documentation from 2018,github commit
 https://github.com/kreier/rvr/commit/24d2843e157152e07d99651fbdbc0524e04247ec,2022-02-23,[kreier/rvr] initial commit,github commit
 https://github.com/kreier/rvr/commit/37881e545a3156f54255535cdde712c47234e456,2022-02-23,[kreier/rvr] Initial commit,github commit
-https://github.com/kreier/rvr_circuitpython/commit/b5a426faa5008776e7cd37997318375eb6fd49cb,2023-03-08,[kreier/rvr_circuitpython] reintroduced LEDs,github commit
-https://github.com/kreier/rvr_circuitpython/commit/5c6e222e6e169060608ab0dcd2c8af85dab60639,2023-03-08,[kreier/rvr_circuitpython] update 2023,github commit
-https://github.com/kreier/rvr_circuitpython/commit/e4959e60a711807b3278a312a4b17d22c6e77f77,2023-03-07,[kreier/rvr_circuitpython] indicate licence and release,github commit
-https://github.com/kreier/rvr_circuitpython/commit/c58f0488959d31cc612f72b7a2831c28d03407cc,2023-03-07,[kreier/rvr_circuitpython] list 10 current functions of the API,github commit
-https://github.com/kreier/rvr_circuitpython/commit/0e1530ebb7e88e72b54f9b5725abcabbd2e4743e,2023-03-04,[kreier/rvr_circuitpython] update first list of APIs,github commit
-https://github.com/kreier/rvr_circuitpython/commit/a5e650ede774e8f5d0d65d8fa6a2db068a3c1ba4,2023-03-04,[kreier/rvr_circuitpython] Merge branch 'main' of https://github.com/kreier/rvr_circuitpython,github commit
-https://github.com/kreier/rvr_circuitpython/commit/f3966a9b154c167114dabeec8af70f9a1f6b5245,2023-03-04,[kreier/rvr_circuitpython] Merge branch 'main' of https://github.com/emwdx/rvr_circuitpython,github commit
-https://github.com/kreier/rvr_circuitpython/commit/06c8d146f7b8a4f1d0044d20497f4f0bd80db9f5,2023-03-04,[kreier/rvr_circuitpython] reflect Evan's latest changes,github commit
-https://github.com/kreier/rvr_circuitpython/commit/b1451cd151f6e630b04796cb86372d955c812cc8,2023-03-03,[kreier/rvr_circuitpython] document development state,github commit
-https://github.com/kreier/rvr_circuitpython/commit/73b1563bd2973d14f7816c556cfbfca536c277fd,2022-02-17,[kreier/rvr_circuitpython] Merge branch 'development' into kreier-patch-1,github commit
-https://github.com/kreier/rvr_circuitpython/commit/3a900224b67975b399e267536da2febb10259839,2022-02-17,[kreier/rvr_circuitpython] Merge pull request #2 from kreier/kreier-patch-1,github commit
-https://github.com/kreier/rvr_circuitpython/commit/8d64bd4121c7179642042432b3f980ab849b6bf8,2022-02-17,[kreier/rvr_circuitpython] Merge pull request #1 from kreier/kreier-patch-2,github commit
-https://github.com/kreier/rvr_circuitpython/commit/67682210d4922e93b4230b7f6ad964b4c99ebfad,2022-02-17,[kreier/rvr_circuitpython] added respective libraries,github commit
-https://github.com/kreier/rvr_circuitpython/commit/1a8aae990b82a8b75b8510f97bd345e744651519,2022-02-17,[kreier/rvr_circuitpython] pin documentation,github commit
-https://github.com/kreier/rvr_circuitpython/commit/b191e1299f361d2e6f749ded64c99bf5ae0a0e55,2022-02-17,[kreier/rvr_circuitpython] running four microcontroller with the rvr,github commit
 https://github.com/kreier/saiht-parser/commit/821963cb68965856a18bdc1238ed3b0614b5c779,2025-12-23,[kreier/saiht-parser] Revise README for project and historical context,github commit
 https://github.com/kreier/saiht-parser/commit/5d57a62d25aad1309da88ff10127b2cffae8d5b6,2025-10-19,[kreier/saiht-parser] Merge pull request #5 from kreier/beta for v25.10.05beta,github commit
 https://github.com/kreier/saiht-parser/commit/1299ff4bdad242ee87cc8d8f1b99bfdf47db21a3,2025-10-19,[kreier/saiht-parser] now properly sorted,github commit
@@ -2621,34 +2817,6 @@ https://github.com/kreier/sandwich/commit/b7fa09670cca05d2a9a9f0f80df5f8f2c9cdab
 https://github.com/kreier/sandwich/commit/976a3950586c013d15647e374f3c0e23160db96b,2022-10-17,[kreier/sandwich] Create README.md,github commit
 https://github.com/kreier/sandwich/commit/ccc34cef791f2587887c54952c38a1b111e42042,2022-10-17,[kreier/sandwich] another detail,github commit
 https://github.com/kreier/sandwich/commit/0ffb6f614e9348ec5c50e2b0441e5433696096a6,2022-10-17,[kreier/sandwich] Initial Commit,github commit
-https://github.com/kreier/shockdetector/commit/cfaaec4cf7bcf7b5ec06a9b822eeb23e1a43294f,2022-10-24,[kreier/shockdetector] Merge pull request #1 from kreier/kreier-patch-1,github commit
-https://github.com/kreier/shockdetector/commit/bfe47f53061494d267c3c078f6cbdb4c398d603e,2022-10-24,[kreier/shockdetector] Merge branch 'main' into kreier-patch-1,github commit
-https://github.com/kreier/shockdetector/commit/49e93c084aa1e95c562190a719522319dd02bfac,2022-09-02,[kreier/shockdetector] included network graph,github commit
-https://github.com/kreier/shockdetector/commit/d90f0e09a1938008db520d830c3e7bdee072645c,2022-09-02,[kreier/shockdetector] Activity in 1 week of August 2022,github commit
-https://github.com/kreier/shockdetector/commit/c763cbe162e2af8fe5c2b675a04f4a44679dd101,2022-08-23,[kreier/shockdetector] Merge pull request #4 from kreier/main,github commit
-https://github.com/kreier/shockdetector/commit/0170472b2da8a338675d2d3af11bde6176151deb,2022-08-23,[kreier/shockdetector] Merge branch 'main' into main,github commit
-https://github.com/kreier/shockdetector/commit/5cd1c7782e23536eec214ae393a95b390e0cda54,2022-08-23,[kreier/shockdetector] Merge pull request #3 from khangpham24/main,github commit
-https://github.com/kreier/shockdetector/commit/28eb5dfdefc2c96547ced22787ec8e72153c20f0,2022-08-23,[kreier/shockdetector] Merge pull request #1 from ssis-aa/kreier-patch-1,github commit
-https://github.com/kreier/shockdetector/commit/3f08543cc593dcf96e6da0866cdb021aa31a04e4,2022-08-23,[kreier/shockdetector] reference student starter code,github commit
-https://github.com/kreier/shockdetector/commit/6a0f1ebbdf03e24df6ba5f6826fcc24f006ee3e0,2022-08-22,[kreier/shockdetector] Reset with button A works,github commit
-https://github.com/kreier/shockdetector/commit/64ba0995de2c1ba751d65943807133871d2a0c75,2022-08-19,[kreier/shockdetector] working example,github commit
-https://github.com/kreier/shockdetector/commit/b52182d81d31abf01a39fa3bafcc8f9a0fb64055,2022-08-19,[kreier/shockdetector] shortened to 120 lines,github commit
-https://github.com/kreier/shockdetector/commit/5e58b7f1e68f51fb1ebce0cbd88c1f9875bfd29a,2022-08-19,[kreier/shockdetector] Merge pull request #2 from kreier/main,github commit
-https://github.com/kreier/shockdetector/commit/05699dbc88d378989b58a33ff8632f476be9b702,2022-08-19,[kreier/shockdetector] Delete .DS_Store,github commit
-https://github.com/kreier/shockdetector/commit/597ba1ff3222ca4015374473db5a9ade6ff540df,2022-08-19,[kreier/shockdetector] Merge branch 'ssis-aa:main' into main,github commit
-https://github.com/kreier/shockdetector/commit/ccc255b3885aec39d500fd1a1004b7c43d896f17,2022-08-19,[kreier/shockdetector] included pictures of videos,github commit
-https://github.com/kreier/shockdetector/commit/e7909cd9ff4f921fce805844205c669a585a5c52,2022-08-19,[kreier/shockdetector] renamed image files,github commit
-https://github.com/kreier/shockdetector/commit/f7f7216b805af5ced9a059db92885f48cbf017bd,2022-08-19,[kreier/shockdetector] Merge branch 'ssis-aa:main' into main,github commit
-https://github.com/kreier/shockdetector/commit/c56fa24496d8b1d7f4efbe28ce04250d7544cea7,2022-08-19,[kreier/shockdetector] Merge branch 'main' of https://github.com/ssis-aa/shockdetector,github commit
-https://github.com/kreier/shockdetector/commit/9bb7b94d02bac34237cd76d3ed3b58339af15502,2022-08-19,[kreier/shockdetector] pictures of Mr. Weinbergs videos,github commit
-https://github.com/kreier/shockdetector/commit/3f92d30a77cd2f1c2c311b889a5f443bee561882,2022-08-19,[kreier/shockdetector] updated for Synology Diskstation,github commit
-https://github.com/kreier/shockdetector/commit/1c8d3ec5f29c234b7eb755f108325616d272e9d5,2022-08-19,[kreier/shockdetector] more references and links,github commit
-https://github.com/kreier/shockdetector/commit/958951bd16922bd839bc2c4acf1343aab9b5185d,2022-08-19,[kreier/shockdetector] documents for the project,github commit
-https://github.com/kreier/shockdetector/commit/7bd506fb5d12eee0b100fbc255afe8e8506dc290,2022-08-19,[kreier/shockdetector] Expanded description,github commit
-https://github.com/kreier/shockdetector/commit/a29d22e410ab2693fd11938f3316c5d426f75c66,2022-08-19,[kreier/shockdetector] down to 120 lines,github commit
-https://github.com/kreier/shockdetector/commit/78cfecf5fe37811f4b8b91968c0e7fd2de0e1142,2022-08-19,[kreier/shockdetector] fixed code from Mr. Kreier,github commit
-https://github.com/kreier/shockdetector/commit/713bda65c0a9420805d729b7e89ca0603335fbb2,2022-08-19,[kreier/shockdetector] copied original code from Mr. Weinberg,github commit
-https://github.com/kreier/shockdetector/commit/9672e46bf07a70cbabde6527d0b727fffc9bba03,2022-08-19,[kreier/shockdetector] Initial commit,github commit
 https://github.com/kreier/solarmeter/commit/9844bd382fb9a46e79aa33375a118cf626abf19b,2025-12-22,[kreier/solarmeter] Merge pull request #4 from kreier/1.0,github commit
 https://github.com/kreier/solarmeter/commit/f58d4c2de9b6f9c815f0fbe016a346e2e03b3281,2024-01-12,[kreier/solarmeter] relabeled latest working edition as v1.0,github commit
 https://github.com/kreier/solarmeter/commit/eeb7c926ecd725a760439533a41c3b4b2586e0c4,2024-01-12,[kreier/solarmeter] included updated build process for pages,github commit
@@ -2834,30 +3002,6 @@ https://github.com/kreier/sre/commit/984cbb43574a71ade491b47e3c3b448661125932,20
 https://github.com/kreier/sre/commit/f5b9bef60412fba367b86c0c68e21a5ffea5876d,2025-01-30,[kreier/sre] Update README.md,github commit
 https://github.com/kreier/sre/commit/1fd7c12b119cc1d7817f02fb34afbc46ec69ce5f,2025-01-30,[kreier/sre] Update LICENSE to match the version on monitortests.com,github commit
 https://github.com/kreier/sre/commit/d66f69fb7b3c1fe01f1bab77d2d0a7502c1cb98e,2025-01-30,[kreier/sre] Initial commit,github commit
-https://github.com/kreier/ssis.bit/commit/711624be8d16933be445311c2d3ed07925df8795,2023-04-04,[kreier/ssis.bit] Merge pull request #1 from ssisbit/main,github commit
-https://github.com/kreier/ssis.bit/commit/102937b166389cd74c256c819ef9856a0ca45fc6,2023-04-04,[kreier/ssis.bit] Merge pull request #18 from ssis-robotics/main,github commit
-https://github.com/kreier/ssis.bit/commit/92af2c394101a8aa616697b37d67ccae648af064,2023-04-04,[kreier/ssis.bit] document improved update process,github commit
-https://github.com/kreier/ssis.bit/commit/1691e36f812a7d216e8a8fd2303b57480e28cb7b,2023-04-04,[kreier/ssis.bit] minor fixes,github commit
-https://github.com/kreier/ssis.bit/commit/e081b87b502ecc39f7b8867daaf31784e688f7b2,2023-04-04,[kreier/ssis.bit] include T-Display,github commit
-https://github.com/kreier/ssis.bit/commit/fe11c0e2dd3b1824f305bac94fabaa057ddbcb43,2022-02-07,[kreier/ssis.bit] updated blink and post,github commit
-https://github.com/kreier/ssis.bit/commit/49d76848b70a8c78aa2685461422d0684409d9fc,2022-02-07,[kreier/ssis.bit] bootpost blackpill,github commit
-https://github.com/kreier/ssis.bit/commit/1cee13523a8337d60c71588e0d60335569552500,2022-02-07,[kreier/ssis.bit] testcode on blackpill,github commit
-https://github.com/kreier/ssis.bit/commit/64c538afe53117ebded49197e24687bdd75e7be8,2022-01-27,[kreier/ssis.bit] Merge pull request #17 from ssisbit/ssisbit-patch-1,github commit
-https://github.com/kreier/ssis.bit/commit/5e4d3e8ebd84edf0eb89fe4c68d1cf1b663fb619,2022-01-27,[kreier/ssis.bit] pno055 project,github commit
-https://github.com/kreier/ssis.bit/commit/0f30bf0d633b038f091680e3ba71263bf511d508,2022-01-27,[kreier/ssis.bit] faster interface,github commit
-https://github.com/kreier/ssis.bit/commit/3c7ca681b68ddcbec6d98a72816c1509f5c30123,2022-01-17,[kreier/ssis.bit] I2C connector documentation,github commit
-https://github.com/kreier/ssis.bit/commit/c0961103fd01b6a27d90d055bd50e3faecc9b434,2022-01-13,[kreier/ssis.bit] Merge pull request #14 from ssisbit/kreier-patch3,github commit
-https://github.com/kreier/ssis.bit/commit/b92d67da81de624e1d9dddf60b27d4217c826b92,2022-01-13,[kreier/ssis.bit] Merge branch 'main' into kreier-patch3,github commit
-https://github.com/kreier/ssis.bit/commit/ef56320504fc044857ced5528437855cac20f916,2022-01-13,[kreier/ssis.bit] example programs,github commit
-https://github.com/kreier/ssis.bit/commit/9d45f85009ef92f694eb8879cb1aeb187c4a40d5,2022-01-12,[kreier/ssis.bit] schematics from LilyGo,github commit
-https://github.com/kreier/ssis.bit/commit/7eeb2b6635501aa89720b4af4409c6ff10449ff4,2022-01-11,[kreier/ssis.bit] buttons to switch USB OTG,github commit
-https://github.com/kreier/ssis.bit/commit/0847b204d6798ffe53de65d8e5e9549925f30e6a,2022-01-11,[kreier/ssis.bit] include flashing instructions,github commit
-https://github.com/kreier/ssis.bit/commit/68118e46ff4fa3ab5fe22e69709d55851f843c38,2022-01-11,[kreier/ssis.bit] example programs,github commit
-https://github.com/kreier/ssis.bit/commit/3616dd2742699e18b86b39ce86d05c8acac13c42,2022-01-06,[kreier/ssis.bit] GPIO documentation,github commit
-https://github.com/kreier/ssis.bit/commit/f37b679af7fa25b2652d86be7cedd85022e7778f,2021-12-30,[kreier/ssis.bit] redefined similar to BBC micro:bit,github commit
-https://github.com/kreier/ssis.bit/commit/eecc4c3e17dbada934de1f7261d8952de0c5d48b,2021-12-28,[kreier/ssis.bit] expanded documentation,github commit
-https://github.com/kreier/ssis.bit/commit/41aa1768ca77f2af11d63cbb10b7d6466ab7456a,2021-12-23,[kreier/ssis.bit] first basic circuitpython code,github commit
-https://github.com/kreier/ssis.bit/commit/9d41ece25675d98cf94ac087699b5ebfd1f5893a,2021-12-22,[kreier/ssis.bit] documentation for http,github commit
 https://github.com/kreier/ssisolar/commit/37e0b1e3d813366d8519d9f98b78e19cbaeaf4a5,2023-03-15,[kreier/ssisolar] Refinements 2022/04/27 for Metro ESP32S2 Express,github commit
 https://github.com/kreier/ssisolar/commit/10da08da0594496c8db80cfefbc30895b70acf0c,2023-03-15,[kreier/ssisolar] initial code for Metro M4,github commit
 https://github.com/kreier/ssisolar/commit/5ada45fcdbfd27bac9915ed566015c105530a917,2023-03-14,[kreier/ssisolar] documentation of 2022,github commit
@@ -4673,8 +4817,6 @@ https://github.com/kreier/vex2022/commit/a7f55af4c57665757fdf50104c20f3f5773aefe
 https://github.com/kreier/vex2022/commit/35ce80025e68ab3974dad42a90d8e4c4ae9fe538,2022-05-30,[kreier/vex2022] start of documentation,github commit
 https://github.com/kreier/vex2022/commit/b84f3b10da09d188f3da5a3c3b48f7ca281e9b8d,2022-05-30,[kreier/vex2022] initial documentation,github commit
 https://github.com/kreier/vex2022/commit/ef3f18a34509bacdf44f9110a519eac731e6cc92,2022-05-30,[kreier/vex2022] Initial commit,github commit
-https://github.com/kreier/wifi-car-esp8266/commit/896475e3d6849c336ac4e384ca650b10828d0aee,2024-03-11,[kreier/wifi-car-esp8266] Update to Gradle 8.4,github commit
-https://github.com/kreier/wifi-car-esp8266/commit/a4513f4d8a7c3fee359fb95cc071962a52401c90,2024-03-11,[kreier/wifi-car-esp8266] Merge pull request #1 from lacour-vincent/master,github commit
 https://github.com/kreier/Wificar23/commit/a3edfafd35ae137352cc013b38a7b109f0f08c96,2024-11-22,[kreier/Wificar23] upgrade Gradle to 8.9 and agp to 8.7.2,github commit
 https://github.com/kreier/Wificar23/commit/f4090387687bb005d5accb28dd5534a76fdb57b1,2024-11-22,[kreier/Wificar23] update Android Studio to 2024.2 Ladybug,github commit
 https://github.com/kreier/Wificar23/commit/636417e3e26b1038810cc647f30ed1c48113aeb5,2024-04-03,[kreier/Wificar23] Create LICENSE,github commit
@@ -4728,9 +4870,6 @@ https://github.com/kreier/aa2023/blob/main/README.md,2023-03-02,[kreier/aa2023] 
 https://github.com/kreier/actuator/blob/master/README.md,2024-07-02,[kreier/actuator] README.md,github readme
 https://github.com/kreier/AI-C3/blob/main/README.md,2024-01-09,[kreier/AI-C3] README.md,github readme
 https://github.com/kreier/aisvn/blob/main/README.md,2024-12-26,[kreier/aisvn] README.md,github readme
-https://github.com/kreier/aisvn-solarpower/blob/main/README.md,2021-12-14,[kreier/aisvn-solarpower] README.md,github readme
-https://github.com/kreier/almond-bread-gl/blob/master/README.md,2022-10-15,[kreier/almond-bread-gl] README.md,github readme
-https://github.com/kreier/android-compose-codelabs/blob/main/README.md,2022-05-22,[kreier/android-compose-codelabs] README.md,github readme
 https://github.com/kreier/app1/blob/main/README.md,2022-05-25,[kreier/app1] README.md,github readme
 https://github.com/kreier/aqi/blob/main/README.md,2021-04-16,[kreier/aqi] README.md,github readme
 https://github.com/kreier/ar65view/blob/main/README.md,2026-02-20,[kreier/ar65view] README.md,github readme
@@ -4748,48 +4887,30 @@ https://github.com/kreier/bluefruit/blob/main/README.md,2022-12-13,[kreier/bluef
 https://github.com/kreier/Burger1/blob/main/README.md,2022-10-18,[kreier/Burger1] README.md,github readme
 https://github.com/kreier/calendar/blob/main/README.md,2026-01-15,[kreier/calendar] README.md,github readme
 https://github.com/kreier/circle_k/blob/main/README.md,2024-06-28,[kreier/circle_k] README.md,github readme
-https://github.com/kreier/circle_k_project-mrangstrup24/blob/main/README.md,2022-10-06,[kreier/circle_k_project-mrangstrup24] README.md,github readme
 https://github.com/kreier/circuit-playground-express/blob/main/README.md,2023-05-05,[kreier/circuit-playground-express] README.md,github readme
-https://github.com/kreier/circuitpython/blob/main/README.md,2024-01-01,[kreier/circuitpython] README.md,github readme
-https://github.com/kreier/circuitpython-org/blob/main/README.md,2024-02-02,[kreier/circuitpython-org] README.md,github readme
 https://github.com/kreier/circuitpython_vid_pid/blob/main/README.md,2023-04-14,[kreier/circuitpython_vid_pid] README.md,github readme
 https://github.com/kreier/circular_art_2022/blob/main/README.md,2022-11-15,[kreier/circular_art_2022] README.md,github readme
 https://github.com/kreier/click-classifier/blob/main/README.md,2025-03-25,[kreier/click-classifier] README.md,github readme
-https://github.com/kreier/clpeak/blob/master/README.md,2024-12-24,[kreier/clpeak] README.md,github readme
 https://github.com/kreier/clue/blob/main/README.md,2022-11-24,[kreier/clue] README.md,github readme
 https://github.com/kreier/codespaces-jupyter/blob/main/README.md,2024-04-01,[kreier/codespaces-jupyter] README.md,github readme
-https://github.com/kreier/collaborative-art_2021-2022/blob/main/README.md,2022-10-06,[kreier/collaborative-art_2021-2022] README.md,github readme
 https://github.com/kreier/collatz/blob/main/README.md,2023-11-04,[kreier/collatz] README.md,github readme
 https://github.com/kreier/communicationspeed/blob/main/README.md,2025-12-26,[kreier/communicationspeed] README.md,github readme
-https://github.com/kreier/control_system_examples_2023/blob/main/README.md,2023-03-01,[kreier/control_system_examples_2023] README.md,github readme
-https://github.com/kreier/coremark/blob/main/README.md,2025-05-12,[kreier/coremark] README.md,github readme
-https://github.com/kreier/CoreMark-RP2040/blob/main/README.md,2024-12-23,[kreier/CoreMark-RP2040] README.md,github readme
-https://github.com/kreier/creators/blob/main/README.md,2024-01-07,[kreier/creators] README.md,github readme
 https://github.com/kreier/cru/blob/main/README.md,2025-10-01,[kreier/cru] README.md,github readme
-https://github.com/kreier/csp/blob/main/README.md,2022-11-09,[kreier/csp] README.md,github readme
 https://github.com/kreier/csp2022/blob/main/README.md,2022-09-21,[kreier/csp2022] README.md,github readme
 https://github.com/kreier/csv-reader-pressures/blob/main/README.md,2022-06-01,[kreier/csv-reader-pressures] README.md,github readme
 https://github.com/kreier/cuda/blob/main/README.md,2025-04-26,[kreier/cuda] README.md,github readme
 https://github.com/kreier/daniel2/blob/main/README.md,2025-03-24,[kreier/daniel2] README.md,github readme
 https://github.com/kreier/dat.bike/blob/main/README.md,2021-12-21,[kreier/dat.bike] README.md,github readme
-https://github.com/kreier/DeepReinforcementLearning/blob/master/README.md,2020-03-30,[kreier/DeepReinforcementLearning] README.md,github readme
 https://github.com/kreier/diary/blob/main/README.md,2024-10-11,[kreier/diary] README.md,github readme
 https://github.com/kreier/dictionary/blob/main/README.md,2026-03-01,[kreier/dictionary] README.md,github readme
 https://github.com/kreier/docs/blob/main/README.md,2024-03-29,[kreier/docs] README.md,github readme
-https://github.com/kreier/Dongjae_Collaborative-Project/blob/main/README.md,2022-11-25,[kreier/Dongjae_Collaborative-Project] README.md,github readme
 https://github.com/kreier/dragoncoin/blob/main/README.md,2022-06-20,[kreier/dragoncoin] README.md,github readme
-https://github.com/kreier/english-words/blob/master/README.md,2022-09-07,[kreier/english-words] README.md,github readme
-https://github.com/kreier/esp-idf/blob/master/README.md,2020-07-01,[kreier/esp-idf] README.md,github readme
 https://github.com/kreier/ESP32/blob/main/README.md,2025-09-30,[kreier/ESP32] README.md,github readme
 https://github.com/kreier/ESP8266/blob/main/README.md,2025-05-12,[kreier/ESP8266] README.md,github readme
-https://github.com/kreier/ESP_WiFiManager/blob/master/README.md,2020-10-15,[kreier/ESP_WiFiManager] README.md,github readme
 https://github.com/kreier/fan_tachometer/blob/main/README.md,2022-06-17,[kreier/fan_tachometer] README.md,github readme
 https://github.com/kreier/floatwheel/blob/main/README.md,2022-01-25,[kreier/floatwheel] README.md,github readme
 https://github.com/kreier/Food-PMH/blob/main/README.md,2023-01-02,[kreier/Food-PMH] README.md,github readme
-https://github.com/kreier/force-curves/blob/main/README.md,2025-03-06,[kreier/force-curves] README.md,github readme
 https://github.com/kreier/frc/blob/main/README.md,2022-12-29,[kreier/frc] README.md,github readme
-https://github.com/kreier/functions-and-modular-code/blob/main/README.md,2022-08-30,[kreier/functions-and-modular-code] README.md,github readme
-https://github.com/kreier/GIPHYKEYBOARD-APP/blob/master/README.md,2024-12-25,[kreier/GIPHYKEYBOARD-APP] README.md,github readme
 https://github.com/kreier/gocart23/blob/main/README.md,2022-12-26,[kreier/gocart23] README.md,github readme
 https://github.com/kreier/gps-relativity/blob/main/README.md,2025-03-21,[kreier/gps-relativity] README.md,github readme
 https://github.com/kreier/hacks/blob/main/README.md,2025-04-19,[kreier/hacks] README.md,github readme
@@ -4804,10 +4925,8 @@ https://github.com/kreier/impact/blob/master/README.md,2026-02-10,[kreier/impact
 https://github.com/kreier/java23/blob/main/README.md,2023-03-27,[kreier/java23] README.md,github readme
 https://github.com/kreier/jetson/blob/main/README.md,2025-05-09,[kreier/jetson] README.md,github readme
 https://github.com/kreier/jetson-car/blob/main/README.md,2024-07-20,[kreier/jetson-car] README.md,github readme
-https://github.com/kreier/jetson_nano_overclock/blob/jetpack32.7.6/README.md,2025-04-25,[kreier/jetson_nano_overclock] README.md,github readme
 https://github.com/kreier/keyboard/blob/main/README.md,2025-03-05,[kreier/keyboard] README.md,github readme
 https://github.com/kreier/kinhthanh/blob/main/README.md,2024-11-21,[kreier/kinhthanh] README.md,github readme
-https://github.com/kreier/KLZ/blob/main/README.md,2025-07-18,[kreier/KLZ] README.md,github readme
 https://github.com/kreier/kreier.github.io/blob/master/README.md,2020-12-04,[kreier/kreier.github.io] README.md,github readme
 https://github.com/kreier/kreier.org-aqi/blob/main/README.md,2020-12-15,[kreier/kreier.org-aqi] README.md,github readme
 https://github.com/kreier/labs/blob/main/README.md,2020-12-04,[kreier/labs] README.md,github readme
@@ -4818,51 +4937,36 @@ https://github.com/kreier/llama.cpp-jetson.nano/blob/main/README.md,2025-04-20,[
 https://github.com/kreier/location24/blob/main/README.md,2026-02-04,[kreier/location24] README.md,github readme
 https://github.com/kreier/logo/blob/main/README.md,2026-01-19,[kreier/logo] README.md,github readme
 https://github.com/kreier/ls/blob/main/README.md,2022-09-02,[kreier/ls] README.md,github readme
-https://github.com/kreier/magnet-spinny-thing/blob/main/README.md,2022-06-05,[kreier/magnet-spinny-thing] README.md,github readme
-https://github.com/kreier/managing-state/blob/main/README.md,2024-12-20,[kreier/managing-state] README.md,github readme
 https://github.com/kreier/mandelbrot-basic/blob/main/README.md,2023-02-06,[kreier/mandelbrot-basic] README.md,github readme
 https://github.com/kreier/mandelbrot-ios/blob/main/README.md,2022-11-14,[kreier/mandelbrot-ios] README.md,github readme
-https://github.com/kreier/matthias_switches/blob/main/README.md,2025-01-26,[kreier/matthias_switches] README.md,github readme
 https://github.com/kreier/me2arm/blob/main/README.md,2021-01-04,[kreier/me2arm] README.md,github readme
 https://github.com/kreier/ml/blob/main/README.md,2026-03-01,[kreier/ml] README.md,github readme
 https://github.com/kreier/movies/blob/main/README.md,2025-09-22,[kreier/movies] README.md,github readme
 https://github.com/kreier/my_raspberry_pi/blob/main/README.md,2024-10-08,[kreier/my_raspberry_pi] README.md,github readme
 https://github.com/kreier/nam-electric/blob/main/README.md,2025-09-28,[kreier/nam-electric] README.md,github readme
 https://github.com/kreier/nano-gpt/blob/main/README.md,2024-07-29,[kreier/nano-gpt] README.md,github readme
-https://github.com/kreier/NhomHopCuoiTuan/blob/main/README.md,2025-01-24,[kreier/NhomHopCuoiTuan] README.md,github readme
 https://github.com/kreier/notes/blob/main/README.md,2025-10-21,[kreier/notes] README.md,github readme
 https://github.com/kreier/obsidian/blob/main/README.md,2026-02-25,[kreier/obsidian] README.md,github readme
-https://github.com/kreier/open-3d-viewer/blob/master/README.md,2022-10-10,[kreier/open-3d-viewer] README.md,github readme
-https://github.com/kreier/P1P2MQTT/blob/main/README.md,2024-06-05,[kreier/P1P2MQTT] README.md,github readme
 https://github.com/kreier/p5js/blob/main/README.md,2023-03-27,[kreier/p5js] README.md,github readme
-https://github.com/kreier/PhoneSelector/blob/main/README.md,2022-10-27,[kreier/PhoneSelector] README.md,github readme
 https://github.com/kreier/physics/blob/main/README.md,2020-12-22,[kreier/physics] README.md,github readme
 https://github.com/kreier/picow/blob/main/README.md,2026-01-21,[kreier/picow] README.md,github readme
-https://github.com/kreier/pidcodes.github.com/blob/master/README.md,2023-04-19,[kreier/pidcodes.github.com] README.md,github readme
 https://github.com/kreier/prime/blob/main/README.md,2026-02-09,[kreier/prime] README.md,github readme
 https://github.com/kreier/prime_gaps_line/blob/main/README.md,2025-10-14,[kreier/prime_gaps_line] README.md,github readme
 https://github.com/kreier/promised-seed/blob/main/README.md,2025-11-30,[kreier/promised-seed] README.md,github readme
 https://github.com/kreier/python2018/blob/main/README.md,2026-02-10,[kreier/python2018] README.md,github readme
 https://github.com/kreier/qtpy-oled/blob/main/README.md,2023-12-27,[kreier/qtpy-oled] README.md,github readme
 https://github.com/kreier/quartz/blob/v4/README.md,2026-03-01,[kreier/quartz] README.md,github readme
-https://github.com/kreier/Racer/blob/master/README.md,2024-10-15,[kreier/Racer] README.md,github readme
 https://github.com/kreier/rc/blob/main/README.md,2022-01-25,[kreier/rc] README.md,github readme
-https://github.com/kreier/reactivate23/blob/main/README.md,2023-06-11,[kreier/reactivate23] README.md,github readme
 https://github.com/kreier/remote/blob/master/README.md,2020-11-27,[kreier/remote] README.md,github readme
-https://github.com/kreier/reset23/blob/main/README.md,2023-05-25,[kreier/reset23] README.md,github readme
 https://github.com/kreier/rfid/blob/main/README.md,2020-12-16,[kreier/rfid] README.md,github readme
 https://github.com/kreier/robotics/blob/main/README.md,2024-01-19,[kreier/robotics] README.md,github readme
 https://github.com/kreier/rp2040/blob/main/README.md,2025-05-13,[kreier/rp2040] README.md,github readme
 https://github.com/kreier/rp2350/blob/main/README.md,2025-05-10,[kreier/rp2350] README.md,github readme
 https://github.com/kreier/rvr/blob/main/README.md,2022-12-22,[kreier/rvr] README.md,github readme
-https://github.com/kreier/rvr_circuitpython/blob/main/README.md,2023-03-08,[kreier/rvr_circuitpython] README.md,github readme
 https://github.com/kreier/saiht-parser/blob/main/README.md,2025-12-23,[kreier/saiht-parser] README.md,github readme
 https://github.com/kreier/sandwich/blob/main/README.md,2022-10-18,[kreier/sandwich] README.md,github readme
-https://github.com/kreier/shockdetector/blob/main/README.md,2022-10-24,[kreier/shockdetector] README.md,github readme
-https://github.com/kreier/SoftwareentwicklungSoSe2020_Aufgabe_02/blob/master/README.md,2020-05-11,[kreier/SoftwareentwicklungSoSe2020_Aufgabe_02] README.md,github readme
 https://github.com/kreier/solarmeter/blob/main/README.md,2025-12-22,[kreier/solarmeter] README.md,github readme
 https://github.com/kreier/sre/blob/main/README.md,2025-02-28,[kreier/sre] README.md,github readme
-https://github.com/kreier/ssis.bit/blob/main/README.md,2023-04-04,[kreier/ssis.bit] README.md,github readme
 https://github.com/kreier/ssisolar/blob/main/README.md,2023-03-15,[kreier/ssisolar] README.md,github readme
 https://github.com/kreier/statistics-diary/blob/main/README.md,2026-01-19,[kreier/statistics-diary] README.md,github readme
 https://github.com/kreier/study/blob/main/README.md,2025-11-09,[kreier/study] README.md,github readme
@@ -4887,11 +4991,8 @@ https://github.com/kreier/timeline/blob/main/README.md,2026-02-12,[kreier/timeli
 https://github.com/kreier/tl/blob/main/README.md,2026-01-20,[kreier/tl] README.md,github readme
 https://github.com/kreier/tripitaka/blob/main/README.md,2025-12-26,[kreier/tripitaka] README.md,github readme
 https://github.com/kreier/ultrasonic/blob/master/README.md,2020-12-15,[kreier/ultrasonic] README.md,github readme
-https://github.com/kreier/unsloth/blob/main/README.md,2025-02-20,[kreier/unsloth] README.md,github readme
 https://github.com/kreier/vex/blob/main/README.md,2025-03-06,[kreier/vex] README.md,github readme
 https://github.com/kreier/vex2022/blob/main/README.md,2022-05-30,[kreier/vex2022] README.md,github readme
-https://github.com/kreier/webprogramming2014-2015/blob/master/README.md,2015-07-22,[kreier/webprogramming2014-2015] README.md,github readme
-https://github.com/kreier/wifi-car-esp8266/blob/master/README.md,2024-03-11,[kreier/wifi-car-esp8266] README.md,github readme
 https://github.com/kreier/Wificar23/blob/master/README.md,2024-11-22,[kreier/Wificar23] README.md,github readme
 https://github.com/kreier/Wificar24/blob/main/README.md,2024-12-12,[kreier/Wificar24] README.md,github readme
 https://github.com/kreier/wob/blob/main/README.md,2026-02-23,[kreier/wob] README.md,github readme
