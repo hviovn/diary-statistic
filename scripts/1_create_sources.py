@@ -385,17 +385,30 @@ def save_to_csv_with_dir(data, filename, data_dir=None):
         data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data')
     os.makedirs(data_dir, exist_ok=True)
     filepath = os.path.join(data_dir, filename)
+
+    existing_rows = {}
+    if os.path.exists(filepath):
+        with open(filepath, 'r', encoding='utf-8') as csvfile:
+            reader = csv.DictReader(csvfile)
+            for row in reader:
+                existing_rows[row['Link']] = row
+
     with open(filepath, 'w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['Link', 'Date', 'Title', 'Type']
+        fieldnames = ['Link', 'Date', 'Title', 'Type', 'parsed']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         for item in data:
-            writer.writerow({
-                'Link': item['link'],
-                'Date': item['date'],
-                'Title': item['title'],
-                'Type': item['type']
-            })
+            link = item['link']
+            if link in existing_rows and existing_rows[link].get('parsed') == 'TRUE':
+                writer.writerow(existing_rows[link])
+            else:
+                writer.writerow({
+                    'Link': link,
+                    'Date': item['date'],
+                    'Title': item['title'],
+                    'Type': item['type'],
+                    'parsed': 'FALSE'
+                })
     print(f"Saved {len(data)} entries to {filepath}")
 
 def main():
