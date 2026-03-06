@@ -374,29 +374,49 @@ def fetch_legacy_html(base_url, exclude_paths=None):
 
     return posts
 
-def save_to_csv(data, filename):
+def save_to_csv(data, filename, selected_urls=None):
     # Delegate to save_to_csv_with_dir with the repo-root data directory
     data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data')
-    save_to_csv_with_dir(data, filename, data_dir)
+    save_to_csv_with_dir(data, filename, data_dir, selected_urls)
 
 
-def save_to_csv_with_dir(data, filename, data_dir=None):
+def save_to_csv_with_dir(data, filename, data_dir=None, selected_urls=None):
     if not data_dir:
         data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data')
     os.makedirs(data_dir, exist_ok=True)
     filepath = os.path.join(data_dir, filename)
 
     existing_rows = {}
+    other_rows = []
     if os.path.exists(filepath):
         with open(filepath, 'r', encoding='utf-8') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
-                existing_rows[row['Link']] = row
+                link = row['Link']
+                is_selected = False
+                if selected_urls:
+                    for url in selected_urls:
+                        match_url = url
+                        if "github" in filename and not url.startswith("http"):
+                            match_url = f"https://github.com/{url}/"
+                        if link.startswith(match_url):
+                            is_selected = True
+                            break
+
+                if is_selected or not selected_urls:
+                    existing_rows[link] = row
+                else:
+                    other_rows.append(row)
 
     with open(filepath, 'w', newline='', encoding='utf-8') as csvfile:
         fieldnames = ['Link', 'Date', 'Title', 'Type', 'parsed']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
+
+        # Write preserved rows from other sources
+        for row in other_rows:
+            writer.writerow(row)
+
         for item in data:
             link = item['link']
             if link in existing_rows and existing_rows[link].get('parsed') == 'TRUE':
@@ -409,7 +429,7 @@ def save_to_csv_with_dir(data, filename, data_dir=None):
                     'Type': item['type'],
                     'parsed': 'FALSE'
                 })
-    print(f"Saved {len(data)} entries to {filepath}")
+    print(f"Saved {len(data) + len(other_rows)} entries to {filepath}")
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -424,12 +444,15 @@ def main():
     # CLI arg handling: if called with 'all', process all sources
     selected_sources = []
     if len(sys.argv) > 1:
+        # Join arguments to handle names with spaces if they aren't quoted by the shell
+        # but usually they are quoted when coming from generate_statistics.py
         args = [a.lower() for a in sys.argv[1:]]
         if 'all' in args:
             selected_sources = sources
         else:
             for source in sources:
                 name = source.get('name', source['type']).lower()
+                # Check for exact match in args
                 if name in args:
                     selected_sources.append(source)
 
@@ -451,6 +474,7 @@ def main():
 
     for type_name, sources_of_type in sources_by_type.items():
         all_data_of_type = []
+        selected_urls_of_type = [s['url'] for s in sources_of_type]
         for source in sources_of_type:
             name = source.get('name', type_name)
             print(f"\n--- Processing source: {name} ({source['url']}) ---")
@@ -466,7 +490,7 @@ def main():
 
             all_data_of_type.extend(data)
 
-        save_to_csv_with_dir(all_data_of_type, f"sources_{type_name}.csv", data_dir)
+        save_to_csv_with_dir(all_data_of_type, f"sources_{type_name}.csv", data_dir, selected_urls=selected_urls_of_type)
 
 
 def _getch():
