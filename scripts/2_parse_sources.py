@@ -100,7 +100,7 @@ def fetch_github_content(link, source_type):
         return strip_html(content)
     return ""
 
-def process_csv(source_type, data_dir):
+def process_csv(source_type, data_dir, selected_urls=None):
     """Read sources CSV and generate content CSV."""
     input_file = os.path.join(data_dir, f"sources_{source_type}.csv")
     output_file = os.path.join(data_dir, f"content_{source_type}.csv")
@@ -109,39 +109,83 @@ def process_csv(source_type, data_dir):
         print(f"Input file {input_file} not found.")
         return
 
+    # Load existing content to reuse
+    content_map = {}
+    if os.path.exists(output_file):
+        with open(output_file, 'r', encoding='utf-8') as csvfile:
+            reader = csv.DictReader(csvfile)
+            for row in reader:
+                content_map[row['Link']] = row['Content']
+
     print(f"Processing {input_file}...")
-    results = []
+    updated_sources = []
+    content_results = []
+
     with open(input_file, 'r', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
+        fieldnames = reader.fieldnames
         for row in reader:
             link = row['Link']
             row_type = row['Type']
             title = row.get('Title', '')
+            is_parsed = row.get('parsed') == 'TRUE'
 
-            print(f"  Processing {link}...")
+            # Filter by selected urls if provided
+            should_process = True
+            if selected_urls:
+                should_process = False
+                for url in selected_urls:
+                    match_url = url
+                    if source_type == "github" and not url.startswith("http"):
+                        match_url = f"https://github.com/{url}/"
+                    if link.startswith(match_url):
+                        should_process = True
+                        break
+
             content = ""
-            if source_type in ['wordpress', 'quartz', 'legacy_html']:
-                raw_content = fetch_url(link)
-                content = strip_html(raw_content)
-            elif source_type == 'github':
-                if row_type == 'github commit':
-                    # Use commit message from title to avoid API rate limiting
-                    # Title format: "[repo] message"
-                    content = re.sub(r'^\[.*?\]\s*', '', title)
-                else:
-                    content = fetch_github_content(link, row_type)
+            if is_parsed and link in content_map:
+                print(f"  Skipping {link} (already parsed)...")
+                content = content_map[link]
+            elif should_process:
+                print(f"  Processing {link}...")
+                if source_type in ['wordpress', 'quartz', 'legacy_html']:
+                    raw_content = fetch_url(link)
+                    content = strip_html(raw_content)
+                elif source_type == 'github':
+                    if row_type == 'github commit':
+                        # Use commit message from title to avoid API rate limiting
+                        # Title format: "[repo] message"
+                        content = re.sub(r'^\[.*?\]\s*', '', title)
+                    else:
+                        content = fetch_github_content(link, row_type)
 
-            results.append({
+                if content:
+                    row['parsed'] = 'TRUE'
+            else:
+                # Not selected for processing, but we should preserve existing content if available
+                content = content_map.get(link, "")
+
+            updated_sources.append(row)
+            content_results.append({
                 'Link': link,
                 'Content': content
             })
 
-    with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['Link', 'Content']
+    # Update sources CSV with parsed status
+    with open(input_file, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
-        for row in results:
+        for row in updated_sources:
             writer.writerow(row)
+
+    # Save content CSV
+    with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
+        fieldnames_content = ['Link', 'Content']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames_content)
+        writer.writeheader()
+        for row in content_results:
+            # Only save the necessary fields
+            writer.writerow({k: row[k] for k in fieldnames_content})
     print(f"Saved to {output_file}")
 
 def _getch():
@@ -251,10 +295,16 @@ def main():
             return
         selected_sources = [sources[i] for i in indices]
 
-    # Identify unique types to process
-    types_to_process = set(s['type'] for s in selected_sources)
-    for source_type in types_to_process:
-        process_csv(source_type, data_dir)
+    # Identify unique types and their selected URLs
+    sources_by_type = {}
+    for s in selected_sources:
+        t = s['type']
+        if t not in sources_by_type:
+            sources_by_type[t] = []
+        sources_by_type[t].append(s['url'])
+
+    for source_type, urls in sources_by_type.items():
+        process_csv(source_type, data_dir, selected_urls=urls)
 
 if __name__ == "__main__":
     main()
