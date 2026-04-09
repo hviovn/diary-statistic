@@ -62,7 +62,21 @@ def generate_svg(year, data_by_date, source_config):
                 if count > 0:
                     tooltip += "\n" + "\n".join([e['title'] for e in entries])
                 tooltip = saxutils.escape(tooltip).replace('{', '&#123;').replace('}', '&#125;')
-                rect = f'<rect x="{x}" y="{y}" width="{square_size}" height="{square_size}" fill="{color}" rx="2" ry="2"><title>{tooltip}</title></rect>'
+
+                # Metadata for JS
+                data_attrs = f'data-date="{date_str}"'
+                if count > 0:
+                    entries_list = []
+                    for e in entries:
+                        entries_list.append({
+                            'title': e['title'],
+                            'link': e['link'],
+                            'source': source_config.get(e['source_type'], {}).get('name', e['source_type'])
+                        })
+                    entries_json = json.dumps(entries_list)
+                    data_attrs += f' data-entries={saxutils.quoteattr(entries_json)}'
+
+                rect = f'<rect class="day-cell" {data_attrs} x="{x}" y="{y}" width="{square_size}" height="{square_size}" fill="{color}" rx="2" ry="2"><title>{tooltip}</title></rect>'
                 if count > 0:
                     link = saxutils.quoteattr(entries[0]["link"])
                     svg_parts.append(f'<a href={link}>{rect}</a>')
@@ -168,15 +182,66 @@ def main():
         '    <meta name="viewport" content="width=device-width, initial-scale=1.0">',
         "    <title>Diary Activity Overview</title>",
         "    <style>",
-        "        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; line-height: 1.6; color: #24292e; max-width: 900px; margin: 0 auto; padding: 20px; }",
+        "        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; line-height: 1.6; color: #24292e; max-width: 900px; margin: 0 auto; padding: 20px; position: relative; }",
         "        svg { max-width: 100%; height: auto; }",
         "        .year-section { margin-bottom: 40px; }",
         "        .stats-section { margin-top: 50px; border-top: 1px solid #e1e4e8; padding-top: 20px; }",
         "        .source-breakdown { margin-top: 20px; }",
+        "        .tooltip {",
+        "            position: absolute;",
+        "            background: #24292e;",
+        "            color: white;",
+        "            padding: 12px;",
+        "            border-radius: 6px;",
+        "            font-size: 12px;",
+        "            pointer-events: none;",
+        "            z-index: 1000;",
+        "            display: none;",
+        "            box-shadow: 0 3px 12px rgba(27,31,35,0.15);",
+        "            max-width: 300px;",
+        "            word-break: break-word;",
+        "        }",
+        "        .tooltip::after {",
+        "            content: '';",
+        "            position: absolute;",
+        "            bottom: -8px;",
+        "            left: var(--arrow-left, 50%);",
+        "            margin-left: -8px;",
+        "            border-width: 8px 8px 0;",
+        "            border-style: solid;",
+        "            border-color: #24292e transparent transparent transparent;",
+        "        }",
+        "        .tooltip.bottom::after {",
+        "            bottom: auto;",
+        "            top: -8px;",
+        "            border-width: 0 8px 8px;",
+        "            border-color: transparent transparent #24292e transparent;",
+        "        }",
+        "        .tooltip.persistent {",
+        "            pointer-events: auto;",
+        "            display: block;",
+        "        }",
+        "        .tooltip a {",
+        "            color: #58a6ff;",
+        "            text-decoration: none;",
+        "        }",
+        "        .tooltip a:hover {",
+        "            text-decoration: underline;",
+        "        }",
+        "        .tooltip ul {",
+        "            list-style: none;",
+        "            padding: 0;",
+        "            margin: 4px 0 0 0;",
+        "        }",
+        "        .tooltip li {",
+        "            margin-bottom: 2px;",
+        "        }",
+        "        .day-cell { cursor: pointer; }",
         "    </style>",
         "</head>",
         "<body>",
-        "    <h1>Diary Activity Overview</h1>"
+        "    <h1>Diary Activity Overview</h1>",
+        '    <div id="tooltip" class="tooltip"></div>'
     ]
 
     source_names = {st: config['name'] for st, config in source_config.items()}
@@ -267,6 +332,88 @@ def main():
     html_output.append("            </ul>")
     html_output.append("        </div>")
     html_output.append("    </div>")
+    html_output.append("    <script>")
+    html_output.append("        const tooltip = document.getElementById('tooltip');")
+    html_output.append("        let persistent = false;")
+    html_output.append("")
+    html_output.append("        function escapeHTML(str) {")
+    html_output.append("            const p = document.createElement('p');")
+    html_output.append("            p.textContent = str;")
+    html_output.append("            return p.innerHTML;")
+    html_output.append("        }")
+    html_output.append("")
+    html_output.append("        function showTooltip(e, isPersistent) {")
+    html_output.append("            const cell = e.target.closest('.day-cell');")
+    html_output.append("            if (!cell) return;")
+    html_output.append("")
+    html_output.append("            const date = cell.getAttribute('data-date');")
+    html_output.append("            const entriesData = cell.getAttribute('data-entries');")
+    html_output.append("            if (!entriesData) return;")
+    html_output.append("")
+    html_output.append("            const entries = JSON.parse(entriesData);")
+    html_output.append("            let content = `<strong>${escapeHTML(date)}</strong>`;")
+    html_output.append("            content += '<ul>';")
+    html_output.append("            entries.forEach(entry => {")
+    html_output.append("                content += `<li>${escapeHTML(entry.source)}: <a href=\"${encodeURI(entry.link)}\">${escapeHTML(entry.title)}</a></li>`;")
+    html_output.append("            });")
+    html_output.append("            content += '</ul>';")
+    html_output.append("")
+    html_output.append("            tooltip.innerHTML = content;")
+    html_output.append("            tooltip.style.display = 'block';")
+    html_output.append("            if (isPersistent) {")
+    html_output.append("                tooltip.classList.add('persistent');")
+    html_output.append("                persistent = true;")
+    html_output.append("            } else if (!persistent) {")
+    html_output.append("                tooltip.classList.remove('persistent');")
+    html_output.append("            }")
+    html_output.append("")
+    html_output.append("            const rect = cell.getBoundingClientRect();")
+    html_output.append("            const bodyRect = document.body.getBoundingClientRect();")
+    html_output.append("")
+    html_output.append("            let left = rect.left - bodyRect.left + rect.width / 2 - tooltip.offsetWidth / 2;")
+    html_output.append("            if (left < 10) left = 10;")
+    html_output.append("            if (left + tooltip.offsetWidth > bodyRect.width - 10) {")
+    html_output.append("                left = bodyRect.width - tooltip.offsetWidth - 10;")
+    html_output.append("            }")
+    html_output.append("            tooltip.style.left = `${left}px`;")
+    html_output.append("")
+    html_output.append("            const arrowLeft = (rect.left - bodyRect.left + rect.width / 2) - left;")
+    html_output.append("            tooltip.style.setProperty('--arrow-left', `${arrowLeft}px`);")
+    html_output.append("")
+    html_output.append("            let top = rect.top - bodyRect.top - tooltip.offsetHeight - 12;")
+    html_output.append("            if (top < 10) {")
+    html_output.append("                top = rect.bottom - bodyRect.top + 12;")
+    html_output.append("                tooltip.classList.add('bottom');")
+    html_output.append("            } else {")
+    html_output.append("                tooltip.classList.remove('bottom');")
+    html_output.append("            }")
+    html_output.append("            tooltip.style.top = `${top}px`;")
+    html_output.append("        }")
+    html_output.append("")
+    html_output.append("        document.addEventListener('mouseover', (e) => {")
+    html_output.append("            if (!persistent && e.target.classList.contains('day-cell')) {")
+    html_output.append("                showTooltip(e, false);")
+    html_output.append("            }")
+    html_output.append("        });")
+    html_output.append("")
+    html_output.append("        document.addEventListener('mouseout', (e) => {")
+    html_output.append("            if (!persistent && e.target.classList.contains('day-cell')) {")
+    html_output.append("                tooltip.style.display = 'none';")
+    html_output.append("            }")
+    html_output.append("        });")
+    html_output.append("")
+    html_output.append("        document.addEventListener('click', (e) => {")
+    html_output.append("            const cell = e.target.closest('.day-cell');")
+    html_output.append("            if (cell) {")
+    html_output.append("                e.preventDefault();")
+    html_output.append("                showTooltip(e, true);")
+    html_output.append("            } else if (!tooltip.contains(e.target)) {")
+    html_output.append("                tooltip.style.display = 'none';")
+    html_output.append("                tooltip.classList.remove('persistent');")
+    html_output.append("                persistent = false;")
+    html_output.append("            }")
+    html_output.append("        });")
+    html_output.append("    </script>")
     html_output.append("</body>")
     html_output.append("</html>")
 
@@ -285,11 +432,12 @@ def main():
         readme = f.read()
 
     marker_start, marker_end = "<!-- START_STATS -->", "<!-- END_STATS -->"
+    new_content = "\n".join(output)
     if marker_start in readme and marker_end in readme:
-        new_content = "\n".join(output)
-        new_readme = re.sub(f"{marker_start}.*?{marker_end}", f"{marker_start}\n{new_content}\n{marker_end}", readme, flags=re.DOTALL)
+        start_idx = readme.find(marker_start) + len(marker_start)
+        end_idx = readme.find(marker_end)
+        new_readme = readme[:start_idx] + "\n" + new_content + "\n" + readme[end_idx:]
     else:
-        new_content = "\n".join(output)
         new_readme = readme + f"\n\n{marker_start}\n{new_content}\n{marker_end}\n"
 
     with open(readme_path, "w", encoding="utf-8") as f:

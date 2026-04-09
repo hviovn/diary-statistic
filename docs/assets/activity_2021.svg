@@ -2,490 +2,490 @@
 <text x="5" y="39" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="63" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="87" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
-<a href="https://kreier.github.io/quartz/Diary/2021"><rect x="30" y="78" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2021-01-01: 1 entry
+<a href="https://kreier.github.io/quartz/Diary/2021"><rect class="day-cell" data-date="2021-01-01" data-entries='[{"title": "2021", "link": "https://kreier.github.io/quartz/Diary/2021", "source": "Quartz"}]' x="30" y="78" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2021-01-01: 1 entry
 2021</title></rect></a>
-<rect x="30" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-02: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-02" x="30" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-02: 0 entries</title></rect>
 <text x="42" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
-<rect x="42" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-03: 0 entries</title></rect>
-<a href="https://github.com/kreier/me2arm/commit/ca2c6994b2ed854a7fac613803deee478fee8e63"><rect x="42" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-01-04: 3 entries
+<rect class="day-cell" data-date="2021-01-03" x="42" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-03: 0 entries</title></rect>
+<a href="https://github.com/kreier/me2arm/commit/ca2c6994b2ed854a7fac613803deee478fee8e63"><rect class="day-cell" data-date="2021-01-04" data-entries='[{"title": "[kreier/me2arm] Merge pull request #1 from kreier/master", "link": "https://github.com/kreier/me2arm/commit/ca2c6994b2ed854a7fac613803deee478fee8e63", "source": "GitHub"}, {"title": "[kreier/me2arm] Create README.md", "link": "https://github.com/kreier/me2arm/commit/3044fa825fa9985cb2f2a750a773ce69d24c64ac", "source": "GitHub"}, {"title": "[kreier/me2arm] README.md", "link": "https://github.com/kreier/me2arm/blob/main/README.md", "source": "GitHub"}]' x="42" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-01-04: 3 entries
 [kreier/me2arm] Merge pull request #1 from kreier/master
 [kreier/me2arm] Create README.md
 [kreier/me2arm] README.md</title></rect></a>
-<a href="https://github.com/kreier/jetson-car/commit/9a10501f116eb05279a624a6240494d85eda73f1"><rect x="42" y="42" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2021-01-05: 6 entries
+<a href="https://github.com/kreier/jetson-car/commit/9a10501f116eb05279a624a6240494d85eda73f1"><rect class="day-cell" data-date="2021-01-05" data-entries='[{"title": "[kreier/jetson-car] Jekyll Cayman website update", "link": "https://github.com/kreier/jetson-car/commit/9a10501f116eb05279a624a6240494d85eda73f1", "source": "GitHub"}, {"title": "[kreier/jetson-car] refined documentation", "link": "https://github.com/kreier/jetson-car/commit/14ead51aa33f7936da8fecbf279221d3529e8d05", "source": "GitHub"}, {"title": "[kreier/jetson-car] Merge pull request #2 from kreier/documentation01", "link": "https://github.com/kreier/jetson-car/commit/4b25e2670ec6df9f3048fe99d52ff7c9eca3e3ff", "source": "GitHub"}, {"title": "[kreier/jetson-car] restructure and CUDA cores", "link": "https://github.com/kreier/jetson-car/commit/ff59732371222a704603bfe19a7b549b93943ba3", "source": "GitHub"}, {"title": "[kreier/jetson-car] Merge pull request #1 from kreier/master", "link": "https://github.com/kreier/jetson-car/commit/6d820ea142c63051aa6e2ebeb232768f6ea9dc22", "source": "GitHub"}, {"title": "[kreier/jetson-car] Create index.md", "link": "https://github.com/kreier/jetson-car/commit/ef2b77535a2f2b3fca784a0138be5cecdf99980f", "source": "GitHub"}]' x="42" y="42" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2021-01-05: 6 entries
 [kreier/jetson-car] Jekyll Cayman website update
 [kreier/jetson-car] refined documentation
 [kreier/jetson-car] Merge pull request #2 from kreier/documentation01
 [kreier/jetson-car] restructure and CUDA cores
 [kreier/jetson-car] Merge pull request #1 from kreier/master
 [kreier/jetson-car] Create index.md</title></rect></a>
-<rect x="42" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-06: 0 entries</title></rect>
-<rect x="42" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-07: 0 entries</title></rect>
-<rect x="42" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-08: 0 entries</title></rect>
-<rect x="42" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-09: 0 entries</title></rect>
-<rect x="54" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-10: 0 entries</title></rect>
-<rect x="54" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-11: 0 entries</title></rect>
-<rect x="54" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-12: 0 entries</title></rect>
-<rect x="54" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-13: 0 entries</title></rect>
-<rect x="54" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-14: 0 entries</title></rect>
-<a href="https://github.com/kreier/ml/commit/02943c450cba19af11ae0dcdcea43d1fbf020590"><rect x="54" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-01-15: 4 entries
+<rect class="day-cell" data-date="2021-01-06" x="42" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-06: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-07" x="42" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-07: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-08" x="42" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-08: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-09" x="42" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-09: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-10" x="54" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-10: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-11" x="54" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-11: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-12" x="54" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-12: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-13" x="54" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-13: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-14" x="54" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-14: 0 entries</title></rect>
+<a href="https://github.com/kreier/ml/commit/02943c450cba19af11ae0dcdcea43d1fbf020590"><rect class="day-cell" data-date="2021-01-15" data-entries='[{"title": "[kreier/ml] Merge pull request #5 from kreier/master", "link": "https://github.com/kreier/ml/commit/02943c450cba19af11ae0dcdcea43d1fbf020590", "source": "GitHub"}, {"title": "[kreier/ml] Merge pull request #6 from kreier/kreier-patch-1", "link": "https://github.com/kreier/ml/commit/cdbf7a7ee820be3f0eb8a31ff94e9bf51e523c39", "source": "GitHub"}, {"title": "[kreier/ml] Documentation of Hackster.io NVIDIA competition", "link": "https://github.com/kreier/ml/commit/91ab4375cdce5b2103a38d026a5ffccd6dbe02c9", "source": "GitHub"}, {"title": "[kreier/ml] Update README.md", "link": "https://github.com/kreier/ml/commit/fc0413b6251e915b3d54ba41423d752a57b24772", "source": "GitHub"}]' x="54" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-01-15: 4 entries
 [kreier/ml] Merge pull request #5 from kreier/master
 [kreier/ml] Merge pull request #6 from kreier/kreier-patch-1
 [kreier/ml] Documentation of Hackster.io NVIDIA competition
 [kreier/ml] Update README.md</title></rect></a>
-<rect x="54" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-16: 0 entries</title></rect>
-<rect x="66" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-17: 0 entries</title></rect>
-<rect x="66" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-18: 0 entries</title></rect>
-<rect x="66" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-19: 0 entries</title></rect>
-<rect x="66" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-20: 0 entries</title></rect>
-<rect x="66" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-21: 0 entries</title></rect>
-<rect x="66" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-22: 0 entries</title></rect>
-<rect x="66" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-23: 0 entries</title></rect>
-<rect x="78" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-24: 0 entries</title></rect>
-<rect x="78" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-25: 0 entries</title></rect>
-<rect x="78" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-26: 0 entries</title></rect>
-<rect x="78" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-27: 0 entries</title></rect>
-<rect x="78" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-28: 0 entries</title></rect>
-<rect x="78" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-29: 0 entries</title></rect>
-<rect x="78" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-30: 0 entries</title></rect>
-<rect x="90" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-31: 0 entries</title></rect>
-<rect x="90" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-01: 0 entries</title></rect>
-<rect x="90" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-02: 0 entries</title></rect>
-<rect x="90" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-03: 0 entries</title></rect>
-<rect x="90" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-04: 0 entries</title></rect>
-<rect x="90" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-05: 0 entries</title></rect>
-<rect x="90" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-06: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-16" x="54" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-16: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-17" x="66" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-17: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-18" x="66" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-18: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-19" x="66" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-19: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-20" x="66" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-20: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-21" x="66" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-21: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-22" x="66" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-22: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-23" x="66" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-23: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-24" x="78" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-24: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-25" x="78" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-25: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-26" x="78" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-26: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-27" x="78" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-27: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-28" x="78" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-28: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-29" x="78" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-29: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-30" x="78" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-30: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-01-31" x="90" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-31: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-01" x="90" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-01: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-02" x="90" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-02: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-03" x="90" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-03: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-04" x="90" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-04: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-05" x="90" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-05: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-06" x="90" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-06: 0 entries</title></rect>
 <text x="102" y="12" font-family="sans-serif" font-size="8" fill="#767676">Feb</text>
-<rect x="102" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-07: 0 entries</title></rect>
-<rect x="102" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-08: 0 entries</title></rect>
-<rect x="102" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-09: 0 entries</title></rect>
-<rect x="102" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-10: 0 entries</title></rect>
-<rect x="102" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-11: 0 entries</title></rect>
-<rect x="102" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-12: 0 entries</title></rect>
-<rect x="102" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-13: 0 entries</title></rect>
-<rect x="114" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-14: 0 entries</title></rect>
-<rect x="114" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-15: 0 entries</title></rect>
-<rect x="114" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-16: 0 entries</title></rect>
-<rect x="114" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-17: 0 entries</title></rect>
-<rect x="114" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-18: 0 entries</title></rect>
-<rect x="114" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-19: 0 entries</title></rect>
-<rect x="114" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-20: 0 entries</title></rect>
-<rect x="126" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-21: 0 entries</title></rect>
-<rect x="126" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-22: 0 entries</title></rect>
-<rect x="126" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-23: 0 entries</title></rect>
-<rect x="126" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-24: 0 entries</title></rect>
-<rect x="126" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-25: 0 entries</title></rect>
-<rect x="126" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-26: 0 entries</title></rect>
-<rect x="126" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-27: 0 entries</title></rect>
-<rect x="138" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-28: 0 entries</title></rect>
-<rect x="138" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-01: 0 entries</title></rect>
-<rect x="138" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-02: 0 entries</title></rect>
-<rect x="138" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-03: 0 entries</title></rect>
-<a href="https://github.com/kreier/swift2021/commit/307429f71dbe469964d131d20942aa847cdf0585"><rect x="138" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-03-04: 4 entries
+<rect class="day-cell" data-date="2021-02-07" x="102" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-07: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-08" x="102" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-08: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-09" x="102" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-09: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-10" x="102" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-10: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-11" x="102" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-11: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-12" x="102" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-12: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-13" x="102" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-13: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-14" x="114" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-14: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-15" x="114" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-15: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-16" x="114" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-16: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-17" x="114" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-17: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-18" x="114" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-18: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-19" x="114" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-19: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-20" x="114" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-20: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-21" x="126" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-21: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-22" x="126" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-22: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-23" x="126" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-23: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-24" x="126" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-24: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-25" x="126" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-25: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-26" x="126" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-26: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-27" x="126" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-27: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-02-28" x="138" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-02-28: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-01" x="138" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-01: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-02" x="138" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-02: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-03" x="138" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-03: 0 entries</title></rect>
+<a href="https://github.com/kreier/swift2021/commit/307429f71dbe469964d131d20942aa847cdf0585"><rect class="day-cell" data-date="2021-03-04" data-entries='[{"title": "[kreier/swift2021] Create helloWorld.swift", "link": "https://github.com/kreier/swift2021/commit/307429f71dbe469964d131d20942aa847cdf0585", "source": "GitHub"}, {"title": "[kreier/swift2021] Create prime.swift", "link": "https://github.com/kreier/swift2021/commit/86bae819deb3b2b072fdb0465931f075527f7064", "source": "GitHub"}, {"title": "[kreier/swift2021] adjust for Synology Diskstation", "link": "https://github.com/kreier/swift2021/commit/4f11bce49afe1fe4bf3605d34dadfa239084086f", "source": "GitHub"}, {"title": "[kreier/swift2021] Initial commit", "link": "https://github.com/kreier/swift2021/commit/d7a880955bac7b5f49981b49ffbef3bb5d17ffc1", "source": "GitHub"}]' x="138" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-03-04: 4 entries
 [kreier/swift2021] Create helloWorld.swift
 [kreier/swift2021] Create prime.swift
 [kreier/swift2021] adjust for Synology Diskstation
 [kreier/swift2021] Initial commit</title></rect></a>
-<a href="https://github.com/kreier/swift2021/commit/5080393241e9903767c09061c0625bb39481d234"><rect x="138" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-03-05: 2 entries
+<a href="https://github.com/kreier/swift2021/commit/5080393241e9903767c09061c0625bb39481d234"><rect class="day-cell" data-date="2021-03-05" data-entries='[{"title": "[kreier/swift2021] Merge pull request #1 from kreier/kreier-patch-1", "link": "https://github.com/kreier/swift2021/commit/5080393241e9903767c09061c0625bb39481d234", "source": "GitHub"}, {"title": "[kreier/swift2021] Create README.md", "link": "https://github.com/kreier/swift2021/commit/78e79a0dd7a0484778ca3d1c16fb92d1b5d0f53e", "source": "GitHub"}]' x="138" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-03-05: 2 entries
 [kreier/swift2021] Merge pull request #1 from kreier/kreier-patch-1
 [kreier/swift2021] Create README.md</title></rect></a>
-<rect x="138" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-06: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-06" x="138" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-06: 0 entries</title></rect>
 <text x="150" y="12" font-family="sans-serif" font-size="8" fill="#767676">Mar</text>
-<rect x="150" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-07: 0 entries</title></rect>
-<rect x="150" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-08: 0 entries</title></rect>
-<rect x="150" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-09: 0 entries</title></rect>
-<rect x="150" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-10: 0 entries</title></rect>
-<rect x="150" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-11: 0 entries</title></rect>
-<rect x="150" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-12: 0 entries</title></rect>
-<rect x="150" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-13: 0 entries</title></rect>
-<rect x="162" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-14: 0 entries</title></rect>
-<rect x="162" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-15: 0 entries</title></rect>
-<rect x="162" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-16: 0 entries</title></rect>
-<rect x="162" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-17: 0 entries</title></rect>
-<rect x="162" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-18: 0 entries</title></rect>
-<rect x="162" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-19: 0 entries</title></rect>
-<rect x="162" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-20: 0 entries</title></rect>
-<rect x="174" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-21: 0 entries</title></rect>
-<rect x="174" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-22: 0 entries</title></rect>
-<rect x="174" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-23: 0 entries</title></rect>
-<rect x="174" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-24: 0 entries</title></rect>
-<rect x="174" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-25: 0 entries</title></rect>
-<rect x="174" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-26: 0 entries</title></rect>
-<rect x="174" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-27: 0 entries</title></rect>
-<rect x="186" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-28: 0 entries</title></rect>
-<rect x="186" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-29: 0 entries</title></rect>
-<rect x="186" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-30: 0 entries</title></rect>
-<rect x="186" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-31: 0 entries</title></rect>
-<rect x="186" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-01: 0 entries</title></rect>
-<rect x="186" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-02: 0 entries</title></rect>
-<rect x="186" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-03: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-07" x="150" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-07: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-08" x="150" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-08: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-09" x="150" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-09: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-10" x="150" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-10: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-11" x="150" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-11: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-12" x="150" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-12: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-13" x="150" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-13: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-14" x="162" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-14: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-15" x="162" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-15: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-16" x="162" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-16: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-17" x="162" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-17: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-18" x="162" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-18: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-19" x="162" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-19: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-20" x="162" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-20: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-21" x="174" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-21: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-22" x="174" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-22: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-23" x="174" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-23: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-24" x="174" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-24: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-25" x="174" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-25: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-26" x="174" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-26: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-27" x="174" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-27: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-28" x="186" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-28: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-29" x="186" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-29: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-30" x="186" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-30: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-03-31" x="186" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-03-31: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-01" x="186" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-01: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-02" x="186" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-02: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-03" x="186" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-03: 0 entries</title></rect>
 <text x="198" y="12" font-family="sans-serif" font-size="8" fill="#767676">Apr</text>
-<rect x="198" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-04: 0 entries</title></rect>
-<rect x="198" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-05: 0 entries</title></rect>
-<rect x="198" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-06: 0 entries</title></rect>
-<rect x="198" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-07: 0 entries</title></rect>
-<rect x="198" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-08: 0 entries</title></rect>
-<rect x="198" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-09: 0 entries</title></rect>
-<rect x="198" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-10: 0 entries</title></rect>
-<rect x="210" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-11: 0 entries</title></rect>
-<rect x="210" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-12: 0 entries</title></rect>
-<rect x="210" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-13: 0 entries</title></rect>
-<a href="https://github.com/kreier/aqi/commit/ab232dc5d18e2268e31fdc4a1b65283ac7bafe7a"><rect x="210" y="54" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2021-04-14: 5 entries
+<rect class="day-cell" data-date="2021-04-04" x="198" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-04: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-05" x="198" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-05: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-06" x="198" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-06: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-07" x="198" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-07: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-08" x="198" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-08: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-09" x="198" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-09: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-10" x="198" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-10: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-11" x="210" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-11: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-12" x="210" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-12: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-13" x="210" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-13: 0 entries</title></rect>
+<a href="https://github.com/kreier/aqi/commit/ab232dc5d18e2268e31fdc4a1b65283ac7bafe7a"><rect class="day-cell" data-date="2021-04-14" data-entries='[{"title": "[kreier/aqi] Merge pull request #2 from kreier/kreier-patch-1", "link": "https://github.com/kreier/aqi/commit/ab232dc5d18e2268e31fdc4a1b65283ac7bafe7a", "source": "GitHub"}, {"title": "[kreier/aqi] updated 7 sensor links madavi.de", "link": "https://github.com/kreier/aqi/commit/388a545a66802e2aeefab4ee0a8f51a1b7d9c7ac", "source": "GitHub"}, {"title": "[kreier/aqi] Add files via upload", "link": "https://github.com/kreier/aqi/commit/04e664fffefcc4ba069f3d2bdb9a22823d1259ef", "source": "GitHub"}, {"title": "[kreier/aqi] indoor sensor Phu My Hung updated", "link": "https://github.com/kreier/aqi/commit/426d037062105edc97de5380dead81e0b71b3d04", "source": "GitHub"}, {"title": "[kreier/aqi] included temperature and humidity data", "link": "https://github.com/kreier/aqi/commit/1df4fd1523c419f2b7974528f9690df3693e0cfe", "source": "GitHub"}]' x="210" y="54" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2021-04-14: 5 entries
 [kreier/aqi] Merge pull request #2 from kreier/kreier-patch-1
 [kreier/aqi] updated 7 sensor links madavi.de
 [kreier/aqi] Add files via upload
 [kreier/aqi] indoor sensor Phu My Hung updated
 [kreier/aqi] included temperature and humidity data</title></rect></a>
-<a href="https://github.com/kreier/aqi/commit/bcd08a66b4a150a0d561fd57bb50a1d09c506f83"><rect x="210" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-04-15: 2 entries
+<a href="https://github.com/kreier/aqi/commit/bcd08a66b4a150a0d561fd57bb50a1d09c506f83"><rect class="day-cell" data-date="2021-04-15" data-entries='[{"title": "[kreier/aqi] two more pictures fixed", "link": "https://github.com/kreier/aqi/commit/bcd08a66b4a150a0d561fd57bb50a1d09c506f83", "source": "GitHub"}, {"title": "[kreier/aqi] Update index.md", "link": "https://github.com/kreier/aqi/commit/3d4c0bc94bc84ad9b5999235ee763d76571d984f", "source": "GitHub"}]' x="210" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-04-15: 2 entries
 [kreier/aqi] two more pictures fixed
 [kreier/aqi] Update index.md</title></rect></a>
-<a href="https://github.com/kreier/aqi/commit/bbc0ec88f1c29f43d2875090c97e5e2a23885903"><rect x="210" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-04-16: 2 entries
+<a href="https://github.com/kreier/aqi/commit/bbc0ec88f1c29f43d2875090c97e5e2a23885903"><rect class="day-cell" data-date="2021-04-16" data-entries='[{"title": "[kreier/aqi] Merge pull request #3 from kreier/kreier-patch-2", "link": "https://github.com/kreier/aqi/commit/bbc0ec88f1c29f43d2875090c97e5e2a23885903", "source": "GitHub"}, {"title": "[kreier/aqi] README.md", "link": "https://github.com/kreier/aqi/blob/main/README.md", "source": "GitHub"}]' x="210" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-04-16: 2 entries
 [kreier/aqi] Merge pull request #3 from kreier/kreier-patch-2
 [kreier/aqi] README.md</title></rect></a>
-<rect x="210" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-17: 0 entries</title></rect>
-<rect x="222" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-18: 0 entries</title></rect>
-<rect x="222" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-19: 0 entries</title></rect>
-<rect x="222" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-20: 0 entries</title></rect>
-<rect x="222" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-21: 0 entries</title></rect>
-<rect x="222" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-22: 0 entries</title></rect>
-<rect x="222" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-23: 0 entries</title></rect>
-<rect x="222" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-24: 0 entries</title></rect>
-<rect x="234" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-25: 0 entries</title></rect>
-<rect x="234" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-26: 0 entries</title></rect>
-<rect x="234" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-27: 0 entries</title></rect>
-<rect x="234" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-28: 0 entries</title></rect>
-<rect x="234" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-29: 0 entries</title></rect>
-<rect x="234" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-30: 0 entries</title></rect>
-<rect x="234" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-01: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-17" x="210" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-17: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-18" x="222" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-18: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-19" x="222" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-19: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-20" x="222" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-20: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-21" x="222" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-21: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-22" x="222" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-22: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-23" x="222" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-23: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-24" x="222" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-24: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-25" x="234" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-25: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-26" x="234" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-26: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-27" x="234" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-27: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-28" x="234" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-28: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-29" x="234" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-29: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-04-30" x="234" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-30: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-01" x="234" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-01: 0 entries</title></rect>
 <text x="246" y="12" font-family="sans-serif" font-size="8" fill="#767676">May</text>
-<rect x="246" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-02: 0 entries</title></rect>
-<rect x="246" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-03: 0 entries</title></rect>
-<rect x="246" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-04: 0 entries</title></rect>
-<rect x="246" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-05: 0 entries</title></rect>
-<rect x="246" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-06: 0 entries</title></rect>
-<rect x="246" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-07: 0 entries</title></rect>
-<rect x="246" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-08: 0 entries</title></rect>
-<rect x="258" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-09: 0 entries</title></rect>
-<rect x="258" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-10: 0 entries</title></rect>
-<rect x="258" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-11: 0 entries</title></rect>
-<rect x="258" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-12: 0 entries</title></rect>
-<rect x="258" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-13: 0 entries</title></rect>
-<rect x="258" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-14: 0 entries</title></rect>
-<rect x="258" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-15: 0 entries</title></rect>
-<rect x="270" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-16: 0 entries</title></rect>
-<rect x="270" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-17: 0 entries</title></rect>
-<rect x="270" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-18: 0 entries</title></rect>
-<rect x="270" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-19: 0 entries</title></rect>
-<rect x="270" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-20: 0 entries</title></rect>
-<rect x="270" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-21: 0 entries</title></rect>
-<rect x="270" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-22: 0 entries</title></rect>
-<rect x="282" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-23: 0 entries</title></rect>
-<rect x="282" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-24: 0 entries</title></rect>
-<rect x="282" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-25: 0 entries</title></rect>
-<rect x="282" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-26: 0 entries</title></rect>
-<rect x="282" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-27: 0 entries</title></rect>
-<rect x="282" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-28: 0 entries</title></rect>
-<rect x="282" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-29: 0 entries</title></rect>
-<rect x="294" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-30: 0 entries</title></rect>
-<rect x="294" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-31: 0 entries</title></rect>
-<rect x="294" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-01: 0 entries</title></rect>
-<rect x="294" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-02: 0 entries</title></rect>
-<rect x="294" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-03: 0 entries</title></rect>
-<rect x="294" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-04: 0 entries</title></rect>
-<rect x="294" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-05: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-02" x="246" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-02: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-03" x="246" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-03: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-04" x="246" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-04: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-05" x="246" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-05: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-06" x="246" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-06: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-07" x="246" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-07: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-08" x="246" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-08: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-09" x="258" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-09: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-10" x="258" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-10: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-11" x="258" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-11: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-12" x="258" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-12: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-13" x="258" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-13: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-14" x="258" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-14: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-15" x="258" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-15: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-16" x="270" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-16: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-17" x="270" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-17: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-18" x="270" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-18: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-19" x="270" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-19: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-20" x="270" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-20: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-21" x="270" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-21: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-22" x="270" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-22: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-23" x="282" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-23: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-24" x="282" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-24: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-25" x="282" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-25: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-26" x="282" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-26: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-27" x="282" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-27: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-28" x="282" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-28: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-29" x="282" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-29: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-30" x="294" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-30: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-05-31" x="294" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-05-31: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-01" x="294" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-01: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-02" x="294" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-02: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-03" x="294" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-03: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-04" x="294" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-04: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-05" x="294" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-05: 0 entries</title></rect>
 <text x="306" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jun</text>
-<rect x="306" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-06: 0 entries</title></rect>
-<a href="https://github.com/kreier/history/commit/2dabd8202832188bb98c6b7aef747b6bba5d953e"><rect x="306" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-06-07: 1 entry
+<rect class="day-cell" data-date="2021-06-06" x="306" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-06: 0 entries</title></rect>
+<a href="https://github.com/kreier/history/commit/2dabd8202832188bb98c6b7aef747b6bba5d953e"><rect class="day-cell" data-date="2021-06-07" data-entries='[{"title": "[kreier/history] Create electricity2021.png", "link": "https://github.com/kreier/history/commit/2dabd8202832188bb98c6b7aef747b6bba5d953e", "source": "GitHub"}]' x="306" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-06-07: 1 entry
 [kreier/history] Create electricity2021.png</title></rect></a>
-<rect x="306" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-08: 0 entries</title></rect>
-<rect x="306" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-09: 0 entries</title></rect>
-<rect x="306" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-10: 0 entries</title></rect>
-<a href="https://github.com/kreier/history/commit/be2d526acd8b580c03cfd0dfbc0d5cdbee70ba73"><rect x="306" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-06-11: 2 entries
+<rect class="day-cell" data-date="2021-06-08" x="306" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-08: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-09" x="306" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-09: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-10" x="306" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-10: 0 entries</title></rect>
+<a href="https://github.com/kreier/history/commit/be2d526acd8b580c03cfd0dfbc0d5cdbee70ba73"><rect class="day-cell" data-date="2021-06-11" data-entries='[{"title": "[kreier/history] added Swift", "link": "https://github.com/kreier/history/commit/be2d526acd8b580c03cfd0dfbc0d5cdbee70ba73", "source": "GitHub"}, {"title": "[kreier/history] added energy consumption history", "link": "https://github.com/kreier/history/commit/219473d66fd29dcf781452a08a2e4ae82189795c", "source": "GitHub"}]' x="306" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-06-11: 2 entries
 [kreier/history] added Swift
 [kreier/history] added energy consumption history</title></rect></a>
-<rect x="306" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-12: 0 entries</title></rect>
-<rect x="318" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-13: 0 entries</title></rect>
-<rect x="318" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-14: 0 entries</title></rect>
-<rect x="318" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-15: 0 entries</title></rect>
-<rect x="318" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-16: 0 entries</title></rect>
-<rect x="318" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-17: 0 entries</title></rect>
-<rect x="318" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-18: 0 entries</title></rect>
-<rect x="318" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-19: 0 entries</title></rect>
-<rect x="330" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-20: 0 entries</title></rect>
-<rect x="330" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-21: 0 entries</title></rect>
-<rect x="330" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-22: 0 entries</title></rect>
-<rect x="330" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-23: 0 entries</title></rect>
-<rect x="330" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-24: 0 entries</title></rect>
-<rect x="330" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-25: 0 entries</title></rect>
-<rect x="330" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-26: 0 entries</title></rect>
-<rect x="342" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-27: 0 entries</title></rect>
-<rect x="342" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-28: 0 entries</title></rect>
-<rect x="342" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-29: 0 entries</title></rect>
-<rect x="342" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-30: 0 entries</title></rect>
-<rect x="342" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-01: 0 entries</title></rect>
-<rect x="342" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-02: 0 entries</title></rect>
-<rect x="342" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-03: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-12" x="306" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-12: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-13" x="318" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-13: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-14" x="318" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-14: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-15" x="318" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-15: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-16" x="318" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-16: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-17" x="318" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-17: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-18" x="318" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-18: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-19" x="318" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-19: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-20" x="330" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-20: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-21" x="330" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-21: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-22" x="330" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-22: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-23" x="330" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-23: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-24" x="330" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-24: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-25" x="330" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-25: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-26" x="330" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-26: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-27" x="342" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-27: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-28" x="342" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-28: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-29" x="342" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-29: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-06-30" x="342" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-30: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-01" x="342" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-01: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-02" x="342" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-02: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-03" x="342" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-03: 0 entries</title></rect>
 <text x="354" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jul</text>
-<rect x="354" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-04: 0 entries</title></rect>
-<rect x="354" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-05: 0 entries</title></rect>
-<rect x="354" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-06: 0 entries</title></rect>
-<rect x="354" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-07: 0 entries</title></rect>
-<rect x="354" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-08: 0 entries</title></rect>
-<rect x="354" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-09: 0 entries</title></rect>
-<rect x="354" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-10: 0 entries</title></rect>
-<rect x="366" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-11: 0 entries</title></rect>
-<rect x="366" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-12: 0 entries</title></rect>
-<rect x="366" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-13: 0 entries</title></rect>
-<rect x="366" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-14: 0 entries</title></rect>
-<rect x="366" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-15: 0 entries</title></rect>
-<rect x="366" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-16: 0 entries</title></rect>
-<rect x="366" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-17: 0 entries</title></rect>
-<rect x="378" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-18: 0 entries</title></rect>
-<rect x="378" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-19: 0 entries</title></rect>
-<rect x="378" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-20: 0 entries</title></rect>
-<rect x="378" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-21: 0 entries</title></rect>
-<rect x="378" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-22: 0 entries</title></rect>
-<rect x="378" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-23: 0 entries</title></rect>
-<rect x="378" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-24: 0 entries</title></rect>
-<rect x="390" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-25: 0 entries</title></rect>
-<rect x="390" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-26: 0 entries</title></rect>
-<rect x="390" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-27: 0 entries</title></rect>
-<rect x="390" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-28: 0 entries</title></rect>
-<rect x="390" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-29: 0 entries</title></rect>
-<rect x="390" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-30: 0 entries</title></rect>
-<rect x="390" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-31: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-04" x="354" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-04: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-05" x="354" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-05: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-06" x="354" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-06: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-07" x="354" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-07: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-08" x="354" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-08: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-09" x="354" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-09: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-10" x="354" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-10: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-11" x="366" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-11: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-12" x="366" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-12: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-13" x="366" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-13: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-14" x="366" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-14: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-15" x="366" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-15: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-16" x="366" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-16: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-17" x="366" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-17: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-18" x="378" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-18: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-19" x="378" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-19: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-20" x="378" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-20: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-21" x="378" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-21: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-22" x="378" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-22: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-23" x="378" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-23: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-24" x="378" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-24: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-25" x="390" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-25: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-26" x="390" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-26: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-27" x="390" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-27: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-28" x="390" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-28: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-29" x="390" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-29: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-30" x="390" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-30: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-07-31" x="390" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-07-31: 0 entries</title></rect>
 <text x="402" y="12" font-family="sans-serif" font-size="8" fill="#767676">Aug</text>
-<rect x="402" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-01: 0 entries</title></rect>
-<rect x="402" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-02: 0 entries</title></rect>
-<rect x="402" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-03: 0 entries</title></rect>
-<rect x="402" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-04: 0 entries</title></rect>
-<rect x="402" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-05: 0 entries</title></rect>
-<rect x="402" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-06: 0 entries</title></rect>
-<rect x="402" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-07: 0 entries</title></rect>
-<rect x="414" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-08: 0 entries</title></rect>
-<rect x="414" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-09: 0 entries</title></rect>
-<rect x="414" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-10: 0 entries</title></rect>
-<rect x="414" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-11: 0 entries</title></rect>
-<rect x="414" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-12: 0 entries</title></rect>
-<rect x="414" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-13: 0 entries</title></rect>
-<rect x="414" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-14: 0 entries</title></rect>
-<rect x="426" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-15: 0 entries</title></rect>
-<rect x="426" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-16: 0 entries</title></rect>
-<rect x="426" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-17: 0 entries</title></rect>
-<rect x="426" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-18: 0 entries</title></rect>
-<rect x="426" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-19: 0 entries</title></rect>
-<rect x="426" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-20: 0 entries</title></rect>
-<rect x="426" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-21: 0 entries</title></rect>
-<rect x="438" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-22: 0 entries</title></rect>
-<rect x="438" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-23: 0 entries</title></rect>
-<rect x="438" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-24: 0 entries</title></rect>
-<rect x="438" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-25: 0 entries</title></rect>
-<rect x="438" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-26: 0 entries</title></rect>
-<rect x="438" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-27: 0 entries</title></rect>
-<rect x="438" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-28: 0 entries</title></rect>
-<rect x="450" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-29: 0 entries</title></rect>
-<rect x="450" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-30: 0 entries</title></rect>
-<rect x="450" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-31: 0 entries</title></rect>
-<rect x="450" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-01: 0 entries</title></rect>
-<rect x="450" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-02: 0 entries</title></rect>
-<rect x="450" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-03: 0 entries</title></rect>
-<rect x="450" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-04: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-01" x="402" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-01: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-02" x="402" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-02: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-03" x="402" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-03: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-04" x="402" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-04: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-05" x="402" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-05: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-06" x="402" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-06: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-07" x="402" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-07: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-08" x="414" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-08: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-09" x="414" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-09: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-10" x="414" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-10: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-11" x="414" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-11: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-12" x="414" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-12: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-13" x="414" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-13: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-14" x="414" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-14: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-15" x="426" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-15: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-16" x="426" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-16: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-17" x="426" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-17: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-18" x="426" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-18: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-19" x="426" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-19: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-20" x="426" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-20: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-21" x="426" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-21: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-22" x="438" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-22: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-23" x="438" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-23: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-24" x="438" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-24: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-25" x="438" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-25: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-26" x="438" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-26: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-27" x="438" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-27: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-28" x="438" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-28: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-29" x="450" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-29: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-30" x="450" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-30: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-08-31" x="450" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-08-31: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-01" x="450" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-01: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-02" x="450" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-02: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-03" x="450" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-03: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-04" x="450" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-04: 0 entries</title></rect>
 <text x="462" y="12" font-family="sans-serif" font-size="8" fill="#767676">Sep</text>
-<rect x="462" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-05: 0 entries</title></rect>
-<rect x="462" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-06: 0 entries</title></rect>
-<rect x="462" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-07: 0 entries</title></rect>
-<rect x="462" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-08: 0 entries</title></rect>
-<rect x="462" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-09: 0 entries</title></rect>
-<rect x="462" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-10: 0 entries</title></rect>
-<rect x="462" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-11: 0 entries</title></rect>
-<rect x="474" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-12: 0 entries</title></rect>
-<rect x="474" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-13: 0 entries</title></rect>
-<rect x="474" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-14: 0 entries</title></rect>
-<rect x="474" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-15: 0 entries</title></rect>
-<rect x="474" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-16: 0 entries</title></rect>
-<rect x="474" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-17: 0 entries</title></rect>
-<rect x="474" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-18: 0 entries</title></rect>
-<rect x="486" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-19: 0 entries</title></rect>
-<rect x="486" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-20: 0 entries</title></rect>
-<rect x="486" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-21: 0 entries</title></rect>
-<rect x="486" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-22: 0 entries</title></rect>
-<rect x="486" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-23: 0 entries</title></rect>
-<rect x="486" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-24: 0 entries</title></rect>
-<rect x="486" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-25: 0 entries</title></rect>
-<rect x="498" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-26: 0 entries</title></rect>
-<rect x="498" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-27: 0 entries</title></rect>
-<rect x="498" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-28: 0 entries</title></rect>
-<rect x="498" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-29: 0 entries</title></rect>
-<rect x="498" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-30: 0 entries</title></rect>
-<rect x="498" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-01: 0 entries</title></rect>
-<rect x="498" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-02: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-05" x="462" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-05: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-06" x="462" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-06: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-07" x="462" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-07: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-08" x="462" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-08: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-09" x="462" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-09: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-10" x="462" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-10: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-11" x="462" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-11: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-12" x="474" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-12: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-13" x="474" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-13: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-14" x="474" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-14: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-15" x="474" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-15: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-16" x="474" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-16: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-17" x="474" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-17: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-18" x="474" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-18: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-19" x="486" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-19: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-20" x="486" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-20: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-21" x="486" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-21: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-22" x="486" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-22: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-23" x="486" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-23: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-24" x="486" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-24: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-25" x="486" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-25: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-26" x="498" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-26: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-27" x="498" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-27: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-28" x="498" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-28: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-29" x="498" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-29: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-09-30" x="498" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-09-30: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-01" x="498" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-01: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-02" x="498" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-02: 0 entries</title></rect>
 <text x="510" y="12" font-family="sans-serif" font-size="8" fill="#767676">Oct</text>
-<rect x="510" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-03: 0 entries</title></rect>
-<rect x="510" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-04: 0 entries</title></rect>
-<rect x="510" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-05: 0 entries</title></rect>
-<rect x="510" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-06: 0 entries</title></rect>
-<rect x="510" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-07: 0 entries</title></rect>
-<rect x="510" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-08: 0 entries</title></rect>
-<rect x="510" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-09: 0 entries</title></rect>
-<rect x="522" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-10: 0 entries</title></rect>
-<rect x="522" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-11: 0 entries</title></rect>
-<rect x="522" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-12: 0 entries</title></rect>
-<rect x="522" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-13: 0 entries</title></rect>
-<rect x="522" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-14: 0 entries</title></rect>
-<a href="https://github.com/kreier/benchmark/commit/e20e5c33207a4315476ad60041c4ebb5bacef9fc"><rect x="522" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-10-15: 1 entry
+<rect class="day-cell" data-date="2021-10-03" x="510" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-03: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-04" x="510" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-04: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-05" x="510" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-05: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-06" x="510" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-06: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-07" x="510" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-07: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-08" x="510" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-08: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-09" x="510" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-09: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-10" x="522" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-10: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-11" x="522" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-11: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-12" x="522" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-12: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-13" x="522" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-13: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-14" x="522" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-14: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/e20e5c33207a4315476ad60041c4ebb5bacef9fc"><rect class="day-cell" data-date="2021-10-15" data-entries='[{"title": "[kreier/benchmark] GFLOPS updated", "link": "https://github.com/kreier/benchmark/commit/e20e5c33207a4315476ad60041c4ebb5bacef9fc", "source": "GitHub"}]' x="522" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-10-15: 1 entry
 [kreier/benchmark] GFLOPS updated</title></rect></a>
-<rect x="522" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-16: 0 entries</title></rect>
-<rect x="534" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-17: 0 entries</title></rect>
-<rect x="534" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-18: 0 entries</title></rect>
-<a href="https://github.com/kreier/benchmark/commit/30a8d29d6f0ec8da35559a9bf4ecdb13cb4af2ad"><rect x="534" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-10-19: 1 entry
+<rect class="day-cell" data-date="2021-10-16" x="522" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-16: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-17" x="534" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-17: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-18" x="534" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-18: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/30a8d29d6f0ec8da35559a9bf4ecdb13cb4af2ad"><rect class="day-cell" data-date="2021-10-19" data-entries='[{"title": "[kreier/benchmark] included M1 Pro and M1 Max", "link": "https://github.com/kreier/benchmark/commit/30a8d29d6f0ec8da35559a9bf4ecdb13cb4af2ad", "source": "GitHub"}]' x="534" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-10-19: 1 entry
 [kreier/benchmark] included M1 Pro and M1 Max</title></rect></a>
-<rect x="534" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-20: 0 entries</title></rect>
-<rect x="534" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-21: 0 entries</title></rect>
-<rect x="534" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-22: 0 entries</title></rect>
-<rect x="534" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-23: 0 entries</title></rect>
-<rect x="546" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-24: 0 entries</title></rect>
-<rect x="546" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-25: 0 entries</title></rect>
-<rect x="546" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-26: 0 entries</title></rect>
-<rect x="546" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-27: 0 entries</title></rect>
-<rect x="546" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-28: 0 entries</title></rect>
-<rect x="546" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-29: 0 entries</title></rect>
-<rect x="546" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-30: 0 entries</title></rect>
-<rect x="558" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-31: 0 entries</title></rect>
-<rect x="558" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-01: 0 entries</title></rect>
-<rect x="558" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-02: 0 entries</title></rect>
-<rect x="558" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-03: 0 entries</title></rect>
-<rect x="558" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-04: 0 entries</title></rect>
-<rect x="558" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-05: 0 entries</title></rect>
-<rect x="558" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-06: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-20" x="534" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-20: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-21" x="534" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-21: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-22" x="534" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-22: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-23" x="534" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-23: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-24" x="546" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-24: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-25" x="546" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-25: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-26" x="546" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-26: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-27" x="546" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-27: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-28" x="546" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-28: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-29" x="546" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-29: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-30" x="546" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-30: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-10-31" x="558" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-31: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-11-01" x="558" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-01: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-11-02" x="558" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-02: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-11-03" x="558" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-03: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-11-04" x="558" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-04: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-11-05" x="558" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-05: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-11-06" x="558" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-06: 0 entries</title></rect>
 <text x="570" y="12" font-family="sans-serif" font-size="8" fill="#767676">Nov</text>
-<rect x="570" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-07: 0 entries</title></rect>
-<a href="https://github.com/kreier/vex/commit/57e2f329e63761bdb966ef8d0f510f8ff09135b5"><rect x="570" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-11-08: 3 entries
+<rect class="day-cell" data-date="2021-11-07" x="570" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-07: 0 entries</title></rect>
+<a href="https://github.com/kreier/vex/commit/57e2f329e63761bdb966ef8d0f510f8ff09135b5"><rect class="day-cell" data-date="2021-11-08" data-entries='[{"title": "[kreier/vex] first 43 point python script", "link": "https://github.com/kreier/vex/commit/57e2f329e63761bdb966ef8d0f510f8ff09135b5", "source": "GitHub"}, {"title": "[kreier/vex] Create 2021-09-27_44p.v5pythonskills", "link": "https://github.com/kreier/vex/commit/0b9fa8f1dca10736ff51da2ee08a58f7bf671a27", "source": "GitHub"}, {"title": "[kreier/vex] Initial commit", "link": "https://github.com/kreier/vex/commit/2a99e33225b8db357c74c12a92efe8bb27b19085", "source": "GitHub"}]' x="570" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-11-08: 3 entries
 [kreier/vex] first 43 point python script
 [kreier/vex] Create 2021-09-27_44p.v5pythonskills
 [kreier/vex] Initial commit</title></rect></a>
-<a href="https://github.com/kreier/vex/commit/5dace50023b582704f075428951175b14d8a636b"><rect x="570" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-11-09: 1 entry
+<a href="https://github.com/kreier/vex/commit/5dace50023b582704f075428951175b14d8a636b"><rect class="day-cell" data-date="2021-11-09" data-entries='[{"title": "[kreier/vex] include recent code example", "link": "https://github.com/kreier/vex/commit/5dace50023b582704f075428951175b14d8a636b", "source": "GitHub"}]' x="570" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-11-09: 1 entry
 [kreier/vex] include recent code example</title></rect></a>
-<rect x="570" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-10: 0 entries</title></rect>
-<a href="https://github.com/kreier/vex/commit/0a4d4fef96e60f1e5e8db745f7fe750b936da6f0"><rect x="570" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-11-11: 2 entries
+<rect class="day-cell" data-date="2021-11-10" x="570" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-10: 0 entries</title></rect>
+<a href="https://github.com/kreier/vex/commit/0a4d4fef96e60f1e5e8db745f7fe750b936da6f0"><rect class="day-cell" data-date="2021-11-11" data-entries='[{"title": "[kreier/vex] 96 points on October 8th", "link": "https://github.com/kreier/vex/commit/0a4d4fef96e60f1e5e8db745f7fe750b936da6f0", "source": "GitHub"}, {"title": "[kreier/vex] Create README.md", "link": "https://github.com/kreier/vex/commit/dd999f0fbfcdace0d21a9dc20e3c6c41b776d612", "source": "GitHub"}]' x="570" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-11-11: 2 entries
 [kreier/vex] 96 points on October 8th
 [kreier/vex] Create README.md</title></rect></a>
-<a href="https://github.com/kreier/vex/commit/c9bc0be0a0ea557b5c4998cc4d5f652e832e184e"><rect x="570" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-11-12: 2 entries
+<a href="https://github.com/kreier/vex/commit/c9bc0be0a0ea557b5c4998cc4d5f652e832e184e"><rect class="day-cell" data-date="2021-11-12" data-entries='[{"title": "[kreier/vex] included highscore history, latest code", "link": "https://github.com/kreier/vex/commit/c9bc0be0a0ea557b5c4998cc4d5f652e832e184e", "source": "GitHub"}, {"title": "[kreier/vex] 130 points with new location", "link": "https://github.com/kreier/vex/commit/04c4c9585b68caceb297c46665fa48a92bfa9b17", "source": "GitHub"}]' x="570" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-11-12: 2 entries
 [kreier/vex] included highscore history, latest code
 [kreier/vex] 130 points with new location</title></rect></a>
-<rect x="570" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-13: 0 entries</title></rect>
-<rect x="582" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-14: 0 entries</title></rect>
-<a href="https://github.com/kreier/vex/commit/33f76924eb8a7572e68e711894e9cedff1501445"><rect x="582" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-11-15: 3 entries
+<rect class="day-cell" data-date="2021-11-13" x="570" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-13: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-11-14" x="582" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-14: 0 entries</title></rect>
+<a href="https://github.com/kreier/vex/commit/33f76924eb8a7572e68e711894e9cedff1501445"><rect class="day-cell" data-date="2021-11-15" data-entries='[{"title": "[kreier/vex] reorganized and updated", "link": "https://github.com/kreier/vex/commit/33f76924eb8a7572e68e711894e9cedff1501445", "source": "GitHub"}, {"title": "[kreier/vex] included screenshot", "link": "https://github.com/kreier/vex/commit/ca2b88ee0ff794140fc5d110e8941b89a5e14951", "source": "GitHub"}, {"title": "[kreier/vex] 132 points on November 8th", "link": "https://github.com/kreier/vex/commit/f812851dd82b72c457eaf88ee5f73041a497c73e", "source": "GitHub"}]' x="582" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-11-15: 3 entries
 [kreier/vex] reorganized and updated
 [kreier/vex] included screenshot
 [kreier/vex] 132 points on November 8th</title></rect></a>
-<rect x="582" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-16: 0 entries</title></rect>
-<a href="https://github.com/kreier/vex/commit/9d5315399f201f3794683c1b971162d85ce963c9"><rect x="582" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-11-17: 2 entries
+<rect class="day-cell" data-date="2021-11-16" x="582" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-16: 0 entries</title></rect>
+<a href="https://github.com/kreier/vex/commit/9d5315399f201f3794683c1b971162d85ce963c9"><rect class="day-cell" data-date="2021-11-17" data-entries='[{"title": "[kreier/vex] move red goals into homezone", "link": "https://github.com/kreier/vex/commit/9d5315399f201f3794683c1b971162d85ce963c9", "source": "GitHub"}, {"title": "[kreier/vex] November 6th, 2021", "link": "https://github.com/kreier/vex/commit/9d262172155eea7f04a9668ca6e8c59594289cfd", "source": "GitHub"}]' x="582" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-11-17: 2 entries
 [kreier/vex] move red goals into homezone
 [kreier/vex] November 6th, 2021</title></rect></a>
-<rect x="582" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-18: 0 entries</title></rect>
-<a href="https://github.com/kreier/temp/commit/8270e8856a583468529dbc06d471d2dd0c705972"><rect x="582" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-11-19: 3 entries
+<rect class="day-cell" data-date="2021-11-18" x="582" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-18: 0 entries</title></rect>
+<a href="https://github.com/kreier/temp/commit/8270e8856a583468529dbc06d471d2dd0c705972"><rect class="day-cell" data-date="2021-11-19" data-entries='[{"title": "[kreier/temp] framework for webserver", "link": "https://github.com/kreier/temp/commit/8270e8856a583468529dbc06d471d2dd0c705972", "source": "GitHub"}, {"title": "[kreier/temp] history documentation added", "link": "https://github.com/kreier/temp/commit/9dd6b3a2cb3f2a8537e4899c0f99bd2729f3394d", "source": "GitHub"}, {"title": "[kreier/temp] Initial commit", "link": "https://github.com/kreier/temp/commit/225710b7f1e4d56936a462ddf2e149cd55ef8830", "source": "GitHub"}]' x="582" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-11-19: 3 entries
 [kreier/temp] framework for webserver
 [kreier/temp] history documentation added
 [kreier/temp] Initial commit</title></rect></a>
-<rect x="582" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-20: 0 entries</title></rect>
-<rect x="594" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-21: 0 entries</title></rect>
-<a href="https://github.com/kreier/temp/commit/bdc9933473ca0b3be9708262c03ec81bc37246f8"><rect x="594" y="30" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-11-22: 4 entries
+<rect class="day-cell" data-date="2021-11-20" x="582" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-20: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-11-21" x="594" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-21: 0 entries</title></rect>
+<a href="https://github.com/kreier/temp/commit/bdc9933473ca0b3be9708262c03ec81bc37246f8"><rect class="day-cell" data-date="2021-11-22" data-entries='[{"title": "[kreier/temp] included revision stamp", "link": "https://github.com/kreier/temp/commit/bdc9933473ca0b3be9708262c03ec81bc37246f8", "source": "GitHub"}, {"title": "[kreier/temp] first sketch", "link": "https://github.com/kreier/temp/commit/2006261853114544c9e32a9d8929fa83546d41dd", "source": "GitHub"}, {"title": "[kreier/temp] updated for Synology Diskstation", "link": "https://github.com/kreier/temp/commit/7f1b11c4861b71125f397ea4548c6381d9181b16", "source": "GitHub"}, {"title": "[kreier/vex] updated for Synology Diskstation", "link": "https://github.com/kreier/vex/commit/02a77fc781371b56d6dcf7380fe190c6c7fc8533", "source": "GitHub"}]' x="594" y="30" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-11-22: 4 entries
 [kreier/temp] included revision stamp
 [kreier/temp] first sketch
 [kreier/temp] updated for Synology Diskstation
 [kreier/vex] updated for Synology Diskstation</title></rect></a>
-<a href="https://github.com/kreier/vex/commit/99f209688397d07473b77d2670fb42bb3bd2ab78"><rect x="594" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-11-23: 1 entry
+<a href="https://github.com/kreier/vex/commit/99f209688397d07473b77d2670fb42bb3bd2ab78"><rect class="day-cell" data-date="2021-11-23" data-entries='[{"title": "[kreier/vex] two more goals to pick up", "link": "https://github.com/kreier/vex/commit/99f209688397d07473b77d2670fb42bb3bd2ab78", "source": "GitHub"}]' x="594" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-11-23: 1 entry
 [kreier/vex] two more goals to pick up</title></rect></a>
-<a href="https://github.com/kreier/temp/commit/955516281ce7b924ab244de2a9d139b68e4ccca2"><rect x="594" y="54" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-11-24: 4 entries
+<a href="https://github.com/kreier/temp/commit/955516281ce7b924ab244de2a9d139b68e4ccca2"><rect class="day-cell" data-date="2021-11-24" data-entries="[{&quot;title&quot;: &quot;[kreier/temp] framework reorganized&quot;, &quot;link&quot;: &quot;https://github.com/kreier/temp/commit/955516281ce7b924ab244de2a9d139b68e4ccca2&quot;, &quot;source&quot;: &quot;GitHub&quot;}, {&quot;title&quot;: &quot;[kreier/vex] coded for Shenlong&quot;, &quot;link&quot;: &quot;https://github.com/kreier/vex/commit/f5d2f64364d25c8df86f2c39defb9d06bb3b2ac6&quot;, &quot;source&quot;: &quot;GitHub&quot;}, {&quot;title&quot;: &quot;[kreier/vex] Merge branch 'main' of https://github.com/kreier/vex&quot;, &quot;link&quot;: &quot;https://github.com/kreier/vex/commit/e523fca0572951a4b51d99ee5a48e7c61437529e&quot;, &quot;source&quot;: &quot;GitHub&quot;}, {&quot;title&quot;: &quot;[kreier/vex] added two goal posts&quot;, &quot;link&quot;: &quot;https://github.com/kreier/vex/commit/5cf04144bf42ef45975ba3472cd9f8e66fa88d5c&quot;, &quot;source&quot;: &quot;GitHub&quot;}]" x="594" y="54" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-11-24: 4 entries
 [kreier/temp] framework reorganized
 [kreier/vex] coded for Shenlong
 [kreier/vex] Merge branch 'main' of https://github.com/kreier/vex
 [kreier/vex] added two goal posts</title></rect></a>
-<a href="https://github.com/kreier/vex/commit/800c228d1d8c4ca17b2a213d4922e83eb44f8c6f"><rect x="594" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-11-25: 1 entry
+<a href="https://github.com/kreier/vex/commit/800c228d1d8c4ca17b2a213d4922e83eb44f8c6f"><rect class="day-cell" data-date="2021-11-25" data-entries='[{"title": "[kreier/vex] version and license included", "link": "https://github.com/kreier/vex/commit/800c228d1d8c4ca17b2a213d4922e83eb44f8c6f", "source": "GitHub"}]' x="594" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-11-25: 1 entry
 [kreier/vex] version and license included</title></rect></a>
-<a href="https://github.com/kreier/vex/commit/f410aff707c94589d4507537970ad609b32a7994"><rect x="594" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-11-26: 2 entries
+<a href="https://github.com/kreier/vex/commit/f410aff707c94589d4507537970ad609b32a7994"><rect class="day-cell" data-date="2021-11-26" data-entries='[{"title": "[kreier/vex] 173 points run", "link": "https://github.com/kreier/vex/commit/f410aff707c94589d4507537970ad609b32a7994", "source": "GitHub"}, {"title": "[kreier/vex] level blue and get red", "link": "https://github.com/kreier/vex/commit/a3700859c42c5a478a548bfb3aba7a9e7fc615ae", "source": "GitHub"}]' x="594" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-11-26: 2 entries
 [kreier/vex] 173 points run
 [kreier/vex] level blue and get red</title></rect></a>
-<rect x="594" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-27: 0 entries</title></rect>
-<rect x="606" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-28: 0 entries</title></rect>
-<rect x="606" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-29: 0 entries</title></rect>
-<a href="https://github.com/kreier/ar65view/commit/0edbea6976126fea85474c4ae37bec2efa2f86ca"><rect x="606" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-11-30: 3 entries
+<rect class="day-cell" data-date="2021-11-27" x="594" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-27: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-11-28" x="606" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-28: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-11-29" x="606" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-29: 0 entries</title></rect>
+<a href="https://github.com/kreier/ar65view/commit/0edbea6976126fea85474c4ae37bec2efa2f86ca"><rect class="day-cell" data-date="2021-11-30" data-entries='[{"title": "[kreier/ar65view] first transcoding attempt", "link": "https://github.com/kreier/ar65view/commit/0edbea6976126fea85474c4ae37bec2efa2f86ca", "source": "GitHub"}, {"title": "[kreier/vex] most recent screenshot highscore", "link": "https://github.com/kreier/vex/commit/df8575fe5ed636e188252744fc2606860400a3ab", "source": "GitHub"}, {"title": "[kreier/vex] updated score", "link": "https://github.com/kreier/vex/commit/cbfe5e663a836b879e33668d1ab5c0db12a341ab", "source": "GitHub"}]' x="606" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-11-30: 3 entries
 [kreier/ar65view] first transcoding attempt
 [kreier/vex] most recent screenshot highscore
 [kreier/vex] updated score</title></rect></a>
-<a href="https://github.com/kreier/temp/commit/bf003e982b794aa510557755d354d8a78929eb8a"><rect x="606" y="54" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2021-12-01: 5 entries
+<a href="https://github.com/kreier/temp/commit/bf003e982b794aa510557755d354d8a78929eb8a"><rect class="day-cell" data-date="2021-12-01" data-entries="[{&quot;title&quot;: &quot;[kreier/temp] Merge branch 'main' of https://github.com/kreier/temp&quot;, &quot;link&quot;: &quot;https://github.com/kreier/temp/commit/bf003e982b794aa510557755d354d8a78929eb8a&quot;, &quot;source&quot;: &quot;GitHub&quot;}, {&quot;title&quot;: &quot;[kreier/temp] relocated&quot;, &quot;link&quot;: &quot;https://github.com/kreier/temp/commit/9543bfe294de90d8dceda11d6478efc153ef8d4a&quot;, &quot;source&quot;: &quot;GitHub&quot;}, {&quot;title&quot;: &quot;[kreier/temp] fix data subfolder&quot;, &quot;link&quot;: &quot;https://github.com/kreier/temp/commit/f9845c8c5f651fb1ff704eda84d605db0357bb78&quot;, &quot;source&quot;: &quot;GitHub&quot;}, {&quot;title&quot;: &quot;[kreier/temp] link to data subfolder&quot;, &quot;link&quot;: &quot;https://github.com/kreier/temp/commit/4ac2a36772e8b65f8876aaf02df2bcaf654d554d&quot;, &quot;source&quot;: &quot;GitHub&quot;}, {&quot;title&quot;: &quot;[kreier/temp] Update README.md&quot;, &quot;link&quot;: &quot;https://github.com/kreier/temp/commit/9c3ae600671a75480ff6c9c4a370a10a05a0b707&quot;, &quot;source&quot;: &quot;GitHub&quot;}]" x="606" y="54" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2021-12-01: 5 entries
 [kreier/temp] Merge branch 'main' of https://github.com/kreier/temp
 [kreier/temp] relocated
 [kreier/temp] fix data subfolder
 [kreier/temp] link to data subfolder
 [kreier/temp] Update README.md</title></rect></a>
-<a href="https://github.com/kreier/temp/commit/3019a7667394f687aaf52d902de61b0d9e5a1824"><rect x="606" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-12-02: 4 entries
+<a href="https://github.com/kreier/temp/commit/3019a7667394f687aaf52d902de61b0d9e5a1824"><rect class="day-cell" data-date="2021-12-02" data-entries='[{"title": "[kreier/temp] Update lm35.ino", "link": "https://github.com/kreier/temp/commit/3019a7667394f687aaf52d902de61b0d9e5a1824", "source": "GitHub"}, {"title": "[kreier/vex] Merge pull request #1 from kreier/kreier-patch-1", "link": "https://github.com/kreier/vex/commit/7692f3f304eba208694387f8a15ca5aa5ea317a4", "source": "GitHub"}, {"title": "[kreier/vex] fix the goto function", "link": "https://github.com/kreier/vex/commit/5a4691e5dc75882fad1787817ae239bf5f345e05", "source": "GitHub"}, {"title": "[kreier/vex] first steps to develop the goto() function", "link": "https://github.com/kreier/vex/commit/bef537576981b3d733f2aa6ed44f729962868f32", "source": "GitHub"}]' x="606" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-12-02: 4 entries
 [kreier/temp] Update lm35.ino
 [kreier/vex] Merge pull request #1 from kreier/kreier-patch-1
 [kreier/vex] fix the goto function
 [kreier/vex] first steps to develop the goto() function</title></rect></a>
-<a href="https://github.com/kreier/vex/commit/29358274808f45575ed46ed155ab7bc14407f5fa"><rect x="606" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-12-03: 4 entries
+<a href="https://github.com/kreier/vex/commit/29358274808f45575ed46ed155ab7bc14407f5fa"><rect class="day-cell" data-date="2021-12-03" data-entries='[{"title": "[kreier/vex] Merge pull request #2 from kreier/kreier-patch-1", "link": "https://github.com/kreier/vex/commit/29358274808f45575ed46ed155ab7bc14407f5fa", "source": "GitHub"}, {"title": "[kreier/vex] Update latest.py", "link": "https://github.com/kreier/vex/commit/bf9053a1bc7c0c30df9199f149ee4f01a7adf4a3", "source": "GitHub"}, {"title": "[kreier/vex] always have a copy of the latest code in root", "link": "https://github.com/kreier/vex/commit/d82684187eb07f4ff03bf865b3c176f68a2a180a", "source": "GitHub"}, {"title": "[kreier/vex] finetuned to 70 points", "link": "https://github.com/kreier/vex/commit/87909a282c6855af112e60def0808da97d299d10", "source": "GitHub"}]' x="606" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-12-03: 4 entries
 [kreier/vex] Merge pull request #2 from kreier/kreier-patch-1
 [kreier/vex] Update latest.py
 [kreier/vex] always have a copy of the latest code in root
 [kreier/vex] finetuned to 70 points</title></rect></a>
-<rect x="606" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-04: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-12-04" x="606" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-04: 0 entries</title></rect>
 <text x="618" y="12" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
-<rect x="618" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-05: 0 entries</title></rect>
-<a href="https://github.com/kreier/vex/commit/9132bebcdad9d5bbdacc2201f4b404e8a6f83e29"><rect x="618" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-12-06: 2 entries
+<rect class="day-cell" data-date="2021-12-05" x="618" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-05: 0 entries</title></rect>
+<a href="https://github.com/kreier/vex/commit/9132bebcdad9d5bbdacc2201f4b404e8a6f83e29"><rect class="day-cell" data-date="2021-12-06" data-entries='[{"title": "[kreier/vex] fixed this code", "link": "https://github.com/kreier/vex/commit/9132bebcdad9d5bbdacc2201f4b404e8a6f83e29", "source": "GitHub"}, {"title": "[kreier/vex] 60 lines, 70 points", "link": "https://github.com/kreier/vex/commit/8d7ff492306a991e8fe4a1adc31be0fe6be0da8e", "source": "GitHub"}]' x="618" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-12-06: 2 entries
 [kreier/vex] fixed this code
 [kreier/vex] 60 lines, 70 points</title></rect></a>
-<rect x="618" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-07: 0 entries</title></rect>
-<a href="https://github.com/kreier/temp/commit/de7569099f73211696a936a6b89243e68f3e7f80"><rect x="618" y="54" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-12-08: 4 entries
+<rect class="day-cell" data-date="2021-12-07" x="618" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-07: 0 entries</title></rect>
+<a href="https://github.com/kreier/temp/commit/de7569099f73211696a936a6b89243e68f3e7f80"><rect class="day-cell" data-date="2021-12-08" data-entries='[{"title": "[kreier/temp] Create README.md", "link": "https://github.com/kreier/temp/commit/de7569099f73211696a936a6b89243e68f3e7f80", "source": "GitHub"}, {"title": "[kreier/temp] scaffold", "link": "https://github.com/kreier/temp/commit/6a53b3d4e77d31d0ae6663bff95cc640b8ea2b69", "source": "GitHub"}, {"title": "[kreier/vex] 70 points with just 50 lines of code", "link": "https://github.com/kreier/vex/commit/a66fcc767c9cf85cca0f7b37e650be2d9b70a6f1", "source": "GitHub"}, {"title": "[kreier/vex] Merge pull request #4 from kreier/kreier-patch-2", "link": "https://github.com/kreier/vex/commit/2117fc4c2f93821b149f5e35868ede0fb1746cc9", "source": "GitHub"}]' x="618" y="54" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-12-08: 4 entries
 [kreier/temp] Create README.md
 [kreier/temp] scaffold
 [kreier/vex] 70 points with just 50 lines of code
 [kreier/vex] Merge pull request #4 from kreier/kreier-patch-2</title></rect></a>
-<a href="https://github.com/kreier/ESP32/commit/17e31342a4d4218fa0d47b653b53d96dae467bc1"><rect x="618" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-12-09: 4 entries
+<a href="https://github.com/kreier/ESP32/commit/17e31342a4d4218fa0d47b653b53d96dae467bc1"><rect class="day-cell" data-date="2021-12-09" data-entries='[{"title": "[kreier/ESP32] included 2 pictures", "link": "https://github.com/kreier/ESP32/commit/17e31342a4d4218fa0d47b653b53d96dae467bc1", "source": "GitHub"}, {"title": "[kreier/ESP32] Add files via upload", "link": "https://github.com/kreier/ESP32/commit/81e215d6d5b210df526502540d7eeb6b9fad213a", "source": "GitHub"}, {"title": "[kreier/ESP32] included T-Display", "link": "https://github.com/kreier/ESP32/commit/9773e831730e84a8da31bca288c0702f720ebd30", "source": "GitHub"}, {"title": "[kreier/history] linked my first C++ program from 21 years ago", "link": "https://github.com/kreier/history/commit/11d3e633e1d5b8f6f5273965f3ef2fa6c365023a", "source": "GitHub"}]' x="618" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-12-09: 4 entries
 [kreier/ESP32] included 2 pictures
 [kreier/ESP32] Add files via upload
 [kreier/ESP32] included T-Display
 [kreier/history] linked my first C++ program from 21 years ago</title></rect></a>
-<a href="https://github.com/kreier/ESP32/commit/a32c98fd96a4cb5de9cf598bcc9a172d87e7385d"><rect x="618" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-12-10: 3 entries
+<a href="https://github.com/kreier/ESP32/commit/a32c98fd96a4cb5de9cf598bcc9a172d87e7385d"><rect class="day-cell" data-date="2021-12-10" data-entries="[{&quot;title&quot;: &quot;[kreier/ESP32] updated power consumption&quot;, &quot;link&quot;: &quot;https://github.com/kreier/ESP32/commit/a32c98fd96a4cb5de9cf598bcc9a172d87e7385d&quot;, &quot;source&quot;: &quot;GitHub&quot;}, {&quot;title&quot;: &quot;[kreier/vex] Merge branch 'main' of https://github.com/kreier/vex&quot;, &quot;link&quot;: &quot;https://github.com/kreier/vex/commit/d706df882b756128a1ee9af44bd7e36ac4c7d285&quot;, &quot;source&quot;: &quot;GitHub&quot;}, {&quot;title&quot;: &quot;[kreier/vex] 60 lines for 70 points&quot;, &quot;link&quot;: &quot;https://github.com/kreier/vex/commit/99d71a0aa44158a9d925fa9ff9580b1cae88aae2&quot;, &quot;source&quot;: &quot;GitHub&quot;}]" x="618" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-12-10: 3 entries
 [kreier/ESP32] updated power consumption
 [kreier/vex] Merge branch 'main' of https://github.com/kreier/vex
 [kreier/vex] 60 lines for 70 points</title></rect></a>
-<rect x="618" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-11: 0 entries</title></rect>
-<rect x="630" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-12: 0 entries</title></rect>
-<a href="https://github.com/kreier/ESP32/commit/2632c6ab6fdcc74742ee95e0e0a94a9049b743af"><rect x="630" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-12-13: 2 entries
+<rect class="day-cell" data-date="2021-12-11" x="618" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-11: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-12-12" x="630" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-12: 0 entries</title></rect>
+<a href="https://github.com/kreier/ESP32/commit/2632c6ab6fdcc74742ee95e0e0a94a9049b743af"><rect class="day-cell" data-date="2021-12-13" data-entries='[{"title": "[kreier/ESP32] completed power table", "link": "https://github.com/kreier/ESP32/commit/2632c6ab6fdcc74742ee95e0e0a94a9049b743af", "source": "GitHub"}, {"title": "[kreier/t-display] finally include the power consumption", "link": "https://github.com/kreier/t-display/commit/7e2fd3505ddc62c64b6123c2465ad3efb3b675ca", "source": "GitHub"}]' x="630" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-12-13: 2 entries
 [kreier/ESP32] completed power table
 [kreier/t-display] finally include the power consumption</title></rect></a>
-<a href="https://github.com/kreier/t-display/commit/31d0f6b0e8191f929c6560c75507951c2ddfd3c6"><rect x="630" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-12-14: 1 entry
+<a href="https://github.com/kreier/t-display/commit/31d0f6b0e8191f929c6560c75507951c2ddfd3c6"><rect class="day-cell" data-date="2021-12-14" data-entries='[{"title": "[kreier/t-display] extended pins and power consumption values", "link": "https://github.com/kreier/t-display/commit/31d0f6b0e8191f929c6560c75507951c2ddfd3c6", "source": "GitHub"}]' x="630" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-12-14: 1 entry
 [kreier/t-display] extended pins and power consumption values</title></rect></a>
-<rect x="630" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-15: 0 entries</title></rect>
-<a href="https://github.com/kreier/ESP32/commit/0a48b949c9476c9b70fb863f82c2919b9aadc059"><rect x="630" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-12-16: 2 entries
+<rect class="day-cell" data-date="2021-12-15" x="630" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-15: 0 entries</title></rect>
+<a href="https://github.com/kreier/ESP32/commit/0a48b949c9476c9b70fb863f82c2919b9aadc059"><rect class="day-cell" data-date="2021-12-16" data-entries='[{"title": "[kreier/ESP32] Merge pull request #2 from kreier/aisvn-data-patch-1", "link": "https://github.com/kreier/ESP32/commit/0a48b949c9476c9b70fb863f82c2919b9aadc059", "source": "GitHub"}, {"title": "[kreier/vex] Merge pull request #6 from kreier/ssis2021-patch-2", "link": "https://github.com/kreier/vex/commit/ef426425aedfab7ab874e7e831dd607c7c43342d", "source": "GitHub"}]' x="630" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-12-16: 2 entries
 [kreier/ESP32] Merge pull request #2 from kreier/aisvn-data-patch-1
 [kreier/vex] Merge pull request #6 from kreier/ssis2021-patch-2</title></rect></a>
-<rect x="630" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-17: 0 entries</title></rect>
-<rect x="630" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-18: 0 entries</title></rect>
-<rect x="642" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-19: 0 entries</title></rect>
-<a href="https://github.com/kreier/benchmark/commit/b4b1b18ca0271a84584047c3c5b9bbd48ba6d721"><rect x="642" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-12-20: 1 entry
+<rect class="day-cell" data-date="2021-12-17" x="630" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-17: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-12-18" x="630" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-18: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-12-19" x="642" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-19: 0 entries</title></rect>
+<a href="https://github.com/kreier/benchmark/commit/b4b1b18ca0271a84584047c3c5b9bbd48ba6d721"><rect class="day-cell" data-date="2021-12-20" data-entries='[{"title": "[kreier/benchmark] Set theme jekyll-theme-cayman", "link": "https://github.com/kreier/benchmark/commit/b4b1b18ca0271a84584047c3c5b9bbd48ba6d721", "source": "GitHub"}]' x="642" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-12-20: 1 entry
 [kreier/benchmark] Set theme jekyll-theme-cayman</title></rect></a>
-<a href="https://github.com/kreier/aisvn/commit/c6dda816c70b21a7a800b3af01f4a806ab551f69"><rect x="642" y="42" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2021-12-21: 5 entries
+<a href="https://github.com/kreier/aisvn/commit/c6dda816c70b21a7a800b3af01f4a806ab551f69"><rect class="day-cell" data-date="2021-12-21" data-entries='[{"title": "[kreier/aisvn] Merge pull request #1 from kreier/kreier-patch-1", "link": "https://github.com/kreier/aisvn/commit/c6dda816c70b21a7a800b3af01f4a806ab551f69", "source": "GitHub"}, {"title": "[kreier/aisvn] distinguish index.md from readme.md", "link": "https://github.com/kreier/aisvn/commit/91f9c738e7191862d28dd8d2fe76e8c0ed4db54a", "source": "GitHub"}, {"title": "[kreier/aisvn] removed non-working link", "link": "https://github.com/kreier/aisvn/commit/50b404e704c4d29545f765edb658a4acb8821371", "source": "GitHub"}, {"title": "[kreier/dat.bike] updates December 2021", "link": "https://github.com/kreier/dat.bike/commit/5a383a3327354390bc5b8f61c87f5fab3fab2fd0", "source": "GitHub"}, {"title": "[kreier/dat.bike] README.md", "link": "https://github.com/kreier/dat.bike/blob/main/README.md", "source": "GitHub"}]' x="642" y="42" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2021-12-21: 5 entries
 [kreier/aisvn] Merge pull request #1 from kreier/kreier-patch-1
 [kreier/aisvn] distinguish index.md from readme.md
 [kreier/aisvn] removed non-working link
 [kreier/dat.bike] updates December 2021
 [kreier/dat.bike] README.md</title></rect></a>
-<rect x="642" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-22: 0 entries</title></rect>
-<a href="https://github.com/kreier/history/commit/8e875e8c2c71295efc95cc4e7341561b1002493d"><rect x="642" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-12-23: 4 entries
+<rect class="day-cell" data-date="2021-12-22" x="642" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-22: 0 entries</title></rect>
+<a href="https://github.com/kreier/history/commit/8e875e8c2c71295efc95cc4e7341561b1002493d"><rect class="day-cell" data-date="2021-12-23" data-entries='[{"title": "[kreier/history] included referenced data", "link": "https://github.com/kreier/history/commit/8e875e8c2c71295efc95cc4e7341561b1002493d", "source": "GitHub"}, {"title": "[kreier/history] included degrading batteries", "link": "https://github.com/kreier/history/commit/02583f8a25a21998677bc8fdee64feab2fb8bfa2", "source": "GitHub"}, {"title": "[kreier/swift2021] included prime code", "link": "https://github.com/kreier/swift2021/commit/16016f1b06f402f57c8f4338241c8a1344198046", "source": "GitHub"}, {"title": "[kreier/swift2021] README.md", "link": "https://github.com/kreier/swift2021/blob/main/README.md", "source": "GitHub"}]' x="642" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-12-23: 4 entries
 [kreier/history] included referenced data
 [kreier/history] included degrading batteries
 [kreier/swift2021] included prime code
 [kreier/swift2021] README.md</title></rect></a>
-<a href="https://github.com/kreier/vex/commit/5413e04946ffabff7ca8cb39f4963ca1103602fb"><rect x="642" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-12-24: 1 entry
+<a href="https://github.com/kreier/vex/commit/5413e04946ffabff7ca8cb39f4963ca1103602fb"><rect class="day-cell" data-date="2021-12-24" data-entries='[{"title": "[kreier/vex] 191 points with 3 seconds left", "link": "https://github.com/kreier/vex/commit/5413e04946ffabff7ca8cb39f4963ca1103602fb", "source": "GitHub"}]' x="642" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-12-24: 1 entry
 [kreier/vex] 191 points with 3 seconds left</title></rect></a>
-<rect x="642" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-25: 0 entries</title></rect>
-<rect x="654" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-26: 0 entries</title></rect>
-<rect x="654" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-27: 0 entries</title></rect>
-<rect x="654" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-28: 0 entries</title></rect>
-<rect x="654" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-29: 0 entries</title></rect>
-<rect x="654" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-30: 0 entries</title></rect>
-<a href="https://github.com/kreier/vex/commit/6e0bf461d5951cf3d8d8f4ba10ca072d847fed51"><rect x="654" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-12-31: 1 entry
+<rect class="day-cell" data-date="2021-12-25" x="642" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-25: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-12-26" x="654" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-26: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-12-27" x="654" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-27: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-12-28" x="654" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-28: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-12-29" x="654" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-29: 0 entries</title></rect>
+<rect class="day-cell" data-date="2021-12-30" x="654" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-30: 0 entries</title></rect>
+<a href="https://github.com/kreier/vex/commit/6e0bf461d5951cf3d8d8f4ba10ca072d847fed51"><rect class="day-cell" data-date="2021-12-31" data-entries='[{"title": "[kreier/vex] Merge pull request #9 from kreier/ssis2021-patch-1", "link": "https://github.com/kreier/vex/commit/6e0bf461d5951cf3d8d8f4ba10ca072d847fed51", "source": "GitHub"}]' x="654" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-12-31: 1 entry
 [kreier/vex] Merge pull request #9 from kreier/ssis2021-patch-1</title></rect></a>
 <rect x="30" y="112" width="8" height="8" fill="#30a14e" rx="1" ry="1"/>
 <text x="42" y="119" font-family="sans-serif" font-size="7" fill="#767676">WordPress</text>
