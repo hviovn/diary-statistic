@@ -6,12 +6,14 @@ import os
 import xml.sax.saxutils as saxutils
 import csv
 import sys
+import argparse
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-def generate_svg(year, data_by_date, source_config):
+def generate_svg(year, data_by_date, source_config, include_tooltips=False):
     start_date = date(year, 1, 1)
     end_date = date(year, 12, 31)
+    # first_sunday is the Sunday of the week containing Jan 1st
     first_sunday = start_date - timedelta(days=(start_date.weekday() + 1) % 7)
 
     # Calculate max count for the year for intensity reset
@@ -25,7 +27,7 @@ def generate_svg(year, data_by_date, source_config):
     width = 53 * (square_size + square_margin) + 40
     height = 7 * (square_size + square_margin) + 40
 
-    svg_parts = [f'<svg width="{width}" height="{height}" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">']
+    svg_parts = [f'<svg viewBox="0 0 {width} {height}" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">']
     day_labels = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
     for i, label in enumerate(day_labels):
         if i in [1, 3, 5]:
@@ -58,25 +60,16 @@ def generate_svg(year, data_by_date, source_config):
                         color = colors[min(level - 1, len(colors) - 1)]
                 x = week * (square_size + square_margin) + 30
                 y = day * (square_size + square_margin) + 18
-                tooltip = f"{date_str}: {count} entry" if count == 1 else f"{date_str}: {count} entries"
-                if count > 0:
-                    tooltip += "\n" + "\n".join([e['title'] for e in entries])
-                tooltip = saxutils.escape(tooltip).replace('{', '&#123;').replace('}', '&#125;')
 
-                # Metadata for JS
-                data_attrs = f'data-date="{date_str}"'
-                if count > 0:
-                    entries_list = []
-                    for e in entries:
-                        entries_list.append({
-                            'title': e['title'],
-                            'link': e['link'],
-                            'source': source_config.get(e['source_type'], {}).get('name', e['source_type'])
-                        })
-                    entries_json = json.dumps(entries_list)
-                    data_attrs += f' data-entries={saxutils.quoteattr(entries_json)}'
+                title_tag = ""
+                if include_tooltips:
+                    tooltip = f"{date_str}: {count} entry" if count == 1 else f"{date_str}: {count} entries"
+                    if count > 0:
+                        tooltip += "\n" + "\n".join([e['title'] for e in entries])
+                    tooltip = saxutils.escape(tooltip).replace('{', '&#123;').replace('}', '&#125;')
+                    title_tag = f"<title>{tooltip}</title>"
 
-                rect = f'<rect class="day-cell" {data_attrs} x="{x}" y="{y}" width="{square_size}" height="{square_size}" fill="{color}" rx="2" ry="2"><title>{tooltip}</title></rect>'
+                rect = f'<rect class="day-cell" data-date="{date_str}" x="{x}" y="{y}" width="{square_size}" height="{square_size}" fill="{color}" rx="2" ry="2">{title_tag}</rect>'
                 if count > 0:
                     link = saxutils.quoteattr(entries[0]["link"])
                     svg_parts.append(f'<a href={link}>{rect}</a>')
@@ -100,6 +93,10 @@ def generate_svg(year, data_by_date, source_config):
     return "\n".join(svg_parts)
 
 def main():
+    parser = argparse.ArgumentParser(description='Generate heatmaps.')
+    parser.add_argument('--tooltip', action='store_true', help='Include tooltips in SVG files')
+    args = parser.parse_args()
+
     script_dir = os.path.dirname(os.path.abspath(__file__))
     data_dir = os.path.join(os.path.dirname(script_dir), "data")
 
@@ -133,7 +130,7 @@ def main():
                     'source_type': st
                 })
 
-    # Deduplicate by link (though they should already be mostly unique)
+    # Deduplicate by link
     unique_data = []
     seen_links = set()
     for item in all_data:
@@ -173,6 +170,20 @@ def main():
         if st not in sources_data: sources_data[st] = []
         sources_data[st].append(item)
 
+    # Prepare heatmap data for JSON
+    heatmap_json_data = {}
+    for date_str, entries in data_by_date.items():
+        heatmap_json_data[date_str] = []
+        for e in entries:
+            heatmap_json_data[date_str].append({
+                'title': e['title'],
+                'link': e['link'],
+                'source': source_config.get(e['source_type'], {}).get('name', e['source_type'])
+            })
+
+    with open(os.path.join(assets_dir, "heatmap_data.json"), "w", encoding="utf-8") as f:
+        json.dump(heatmap_json_data, f, ensure_ascii=False, indent=2)
+
     output = ["# Diary Activity Overview\n"]
     html_output = [
         "<!DOCTYPE html>",
@@ -182,8 +193,9 @@ def main():
         '    <meta name="viewport" content="width=device-width, initial-scale=1.0">',
         "    <title>Diary Activity Overview</title>",
         "    <style>",
-        "        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; line-height: 1.6; color: #24292e; max-width: 900px; margin: 0 auto; padding: 20px; position: relative; }",
-        "        svg { max-width: 100%; height: auto; }",
+        "        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; line-height: 1.6; color: #24292e; max-width: 1200px; margin: 0 auto; padding: 20px; position: relative; }",
+        "        .heatmap-container { width: 100%; max-width: 1200px; position: relative; cursor: pointer; }",
+        "        .heatmap-container img { width: 100%; height: auto; display: block; }",
         "        .year-section { margin-bottom: 40px; }",
         "        .stats-section { margin-top: 50px; border-top: 1px solid #e1e4e8; padding-top: 20px; }",
         "        .source-breakdown { margin-top: 20px; }",
@@ -236,7 +248,6 @@ def main():
         "        .tooltip li {",
         "            margin-bottom: 2px;",
         "        }",
-        "        .day-cell { cursor: pointer; }",
         "    </style>",
         "</head>",
         "<body>",
@@ -251,7 +262,7 @@ def main():
         year_entries = len(year_data)
         if year_entries == 0: continue
 
-        svg_content = generate_svg(year, data_by_date, source_config)
+        svg_content = generate_svg(year, data_by_date, source_config, include_tooltips=args.tooltip)
         svg_filename = f"activity_{year}.svg"
         svg_path = os.path.join(assets_dir, svg_filename)
         with open(svg_path, "w", encoding="utf-8") as f:
@@ -269,13 +280,18 @@ def main():
         breakdown_str = ": " + ", ".join(breakdown_parts) if breakdown_parts else ""
 
         output.append(f"### {year}")
-        output.append(svg_content)
+        # Always include tooltips for the version inlined in README
+        svg_with_tooltips = generate_svg(year, data_by_date, source_config, include_tooltips=True)
+        output.append(svg_with_tooltips)
+
         year_summary = f"{year_entries} article{'s' if year_entries != 1 else ''} in {year}{breakdown_str}"
         output.append(f"\n{year_summary}\n")
 
         html_output.append(f'    <div class="year-section">')
         html_output.append(f"        <h3>{year}</h3>")
-        html_output.append(f"        {svg_content}")
+        html_output.append(f'        <div class="heatmap-container" data-year="{year}">')
+        html_output.append(f'            <img src="assets/{svg_filename}" alt="Activity heatmap for {year}">')
+        html_output.append(f'        </div>')
         html_output.append(f"        <p>{year_summary}</p>")
         html_output.append(f'    </div>')
 
@@ -335,6 +351,19 @@ def main():
     html_output.append("    <script>")
     html_output.append("        const tooltip = document.getElementById('tooltip');")
     html_output.append("        let persistent = false;")
+    html_output.append("        let heatmapData = {};")
+    html_output.append("")
+    html_output.append("        // SVG constants")
+    html_output.append("        const SQUARE_SIZE = 10;")
+    html_output.append("        const SQUARE_MARGIN = 2;")
+    html_output.append("        const OFFSET_X = 30;")
+    html_output.append("        const OFFSET_Y = 18;")
+    html_output.append("        const LOGICAL_WIDTH = 53 * (SQUARE_SIZE + SQUARE_MARGIN) + 40;")
+    html_output.append("        const LOGICAL_HEIGHT = 7 * (SQUARE_SIZE + SQUARE_MARGIN) + 40;")
+    html_output.append("")
+    html_output.append("        fetch('assets/heatmap_data.json')")
+    html_output.append("            .then(response => response.json())")
+    html_output.append("            .then(data => { heatmapData = data; });")
     html_output.append("")
     html_output.append("        function escapeHTML(str) {")
     html_output.append("            const p = document.createElement('p');")
@@ -342,18 +371,62 @@ def main():
     html_output.append("            return p.innerHTML;")
     html_output.append("        }")
     html_output.append("")
-    html_output.append("        function showTooltip(e, isPersistent) {")
-    html_output.append("            const cell = e.target.closest('.day-cell');")
-    html_output.append("            if (!cell) return;")
+    html_output.append("        function getInfoAtPosition(container, clientX, clientY) {")
+    html_output.append("            const rect = container.getBoundingClientRect();")
+    html_output.append("            const scaleX = LOGICAL_WIDTH / rect.width;")
+    html_output.append("            const scaleY = LOGICAL_HEIGHT / rect.height;")
+    html_output.append("            const x = (clientX - rect.left) * scaleX;")
+    html_output.append("            const y = (clientY - rect.top) * scaleY;")
     html_output.append("")
-    html_output.append("            const date = cell.getAttribute('data-date');")
-    html_output.append("            const entriesData = cell.getAttribute('data-entries');")
-    html_output.append("            if (!entriesData) return;")
+    html_output.append("            const week = Math.floor((x - OFFSET_X) / (SQUARE_SIZE + SQUARE_MARGIN));")
+    html_output.append("            const day = Math.floor((y - OFFSET_Y) / (SQUARE_SIZE + SQUARE_MARGIN));")
     html_output.append("")
-    html_output.append("            const entries = JSON.parse(entriesData);")
-    html_output.append("            let content = `<strong>${escapeHTML(date)}</strong>`;")
+    html_output.append("            if (week < 0 || week >= 53 || day < 0 || day >= 7) return null;")
+    html_output.append("")
+    html_output.append("            // Precise check if within the square")
+    html_output.append("            const squareLeft = OFFSET_X + week * (SQUARE_SIZE + SQUARE_MARGIN);")
+    html_output.append("            const squareTop = OFFSET_Y + day * (SQUARE_SIZE + SQUARE_MARGIN);")
+    html_output.append("            if (x < squareLeft || x > squareLeft + SQUARE_SIZE || y < squareTop || y > squareTop + SQUARE_SIZE) return null;")
+    html_output.append("")
+    html_output.append("            // Calculate date from year, week, day")
+    html_output.append("            const year = parseInt(container.getAttribute('data-year'));")
+    html_output.append("            const startDate = new Date(year, 0, 1);")
+    html_output.append("            // Find first Sunday of the week containing Jan 1st")
+    html_output.append("            const firstDayOfYear = startDate.getDay(); // 0 = Sun, 1 = Mon...")
+    html_output.append("            const firstSunday = new Date(startDate);")
+    html_output.append("            firstSunday.setDate(startDate.getDate() - firstDayOfYear);")
+    html_output.append("")
+    html_output.append("            const targetDate = new Date(firstSunday);")
+    html_output.append("            targetDate.setDate(firstSunday.getDate() + (week * 7) + day);")
+    html_output.append("")
+    html_output.append("            // Check if within the target year boundary")
+    html_output.append("            if (targetDate.getFullYear() < year && week === 0) return null;")
+    html_output.append("            if (targetDate.getFullYear() > year) return null;")
+    html_output.append("")
+    html_output.append("            // Form date string manually to avoid timezone issues with toISOString()")
+    html_output.append("            const dY = targetDate.getFullYear();")
+    html_output.append("            const dM = String(targetDate.getMonth() + 1).padStart(2, '0');")
+    html_output.append("            const dD = String(targetDate.getDate()).padStart(2, '0');")
+    html_output.append("            const dateStr = `${dY}-${dM}-${dD}`;")
+    html_output.append("            const entries = heatmapData[dateStr] || [];")
+    html_output.append("")
+    html_output.append("            // For tooltip positioning, we need the cell's center in client coordinates")
+    html_output.append("            const cellCenterX = (squareLeft + SQUARE_SIZE / 2) / scaleX + rect.left;")
+    html_output.append("            const cellCenterY = (squareTop + SQUARE_SIZE / 2) / scaleY + rect.top;")
+    html_output.append("            const cellHeight = SQUARE_SIZE / scaleY;")
+    html_output.append("")
+    html_output.append("            return { dateStr, entries, centerX: cellCenterX, centerY: cellCenterY, cellHeight };")
+    html_output.append("        }")
+    html_output.append("")
+    html_output.append("        function updateTooltip(info, isPersistent) {")
+    html_output.append("            if (!info || info.entries.length === 0) {")
+    html_output.append("                if (!isPersistent && !persistent) tooltip.style.display = 'none';")
+    html_output.append("                return;")
+    html_output.append("            }")
+    html_output.append("")
+    html_output.append("            let content = `<strong>${escapeHTML(info.dateStr)}</strong>`;")
     html_output.append("            content += '<ul>';")
-    html_output.append("            entries.forEach(entry => {")
+    html_output.append("            info.entries.forEach(entry => {")
     html_output.append("                content += `<li>${escapeHTML(entry.source)}: <a href=\"${encodeURI(entry.link)}\">${escapeHTML(entry.title)}</a></li>`;")
     html_output.append("            });")
     html_output.append("            content += '</ul>';")
@@ -363,26 +436,24 @@ def main():
     html_output.append("            if (isPersistent) {")
     html_output.append("                tooltip.classList.add('persistent');")
     html_output.append("                persistent = true;")
-    html_output.append("            } else if (!persistent) {")
+    html_output.append("            } else {")
     html_output.append("                tooltip.classList.remove('persistent');")
     html_output.append("            }")
     html_output.append("")
-    html_output.append("            const rect = cell.getBoundingClientRect();")
     html_output.append("            const bodyRect = document.body.getBoundingClientRect();")
-    html_output.append("")
-    html_output.append("            let left = rect.left - bodyRect.left + rect.width / 2 - tooltip.offsetWidth / 2;")
+    html_output.append("            let left = info.centerX - bodyRect.left - tooltip.offsetWidth / 2;")
     html_output.append("            if (left < 10) left = 10;")
     html_output.append("            if (left + tooltip.offsetWidth > bodyRect.width - 10) {")
     html_output.append("                left = bodyRect.width - tooltip.offsetWidth - 10;")
     html_output.append("            }")
     html_output.append("            tooltip.style.left = `${left}px`;")
     html_output.append("")
-    html_output.append("            const arrowLeft = (rect.left - bodyRect.left + rect.width / 2) - left;")
+    html_output.append("            const arrowLeft = (info.centerX - bodyRect.left) - left;")
     html_output.append("            tooltip.style.setProperty('--arrow-left', `${arrowLeft}px`);")
     html_output.append("")
-    html_output.append("            let top = rect.top - bodyRect.top - tooltip.offsetHeight - 12;")
+    html_output.append("            let top = info.centerY - bodyRect.top - info.cellHeight / 2 - tooltip.offsetHeight - 12;")
     html_output.append("            if (top < 10) {")
-    html_output.append("                top = rect.bottom - bodyRect.top + 12;")
+    html_output.append("                top = info.centerY - bodyRect.top + info.cellHeight / 2 + 12;")
     html_output.append("                tooltip.classList.add('bottom');")
     html_output.append("            } else {")
     html_output.append("                tooltip.classList.remove('bottom');")
@@ -390,23 +461,29 @@ def main():
     html_output.append("            tooltip.style.top = `${top}px`;")
     html_output.append("        }")
     html_output.append("")
-    html_output.append("        document.addEventListener('mouseover', (e) => {")
-    html_output.append("            if (!persistent && e.target.classList.contains('day-cell')) {")
-    html_output.append("                showTooltip(e, false);")
-    html_output.append("            }")
-    html_output.append("        });")
-    html_output.append("")
-    html_output.append("        document.addEventListener('mouseout', (e) => {")
-    html_output.append("            if (!persistent && e.target.classList.contains('day-cell')) {")
+    html_output.append("        document.addEventListener('mousemove', (e) => {")
+    html_output.append("            if (persistent) return;")
+    html_output.append("            const container = e.target.closest('.heatmap-container');")
+    html_output.append("            if (container) {")
+    html_output.append("                const info = getInfoAtPosition(container, e.clientX, e.clientY);")
+    html_output.append("                updateTooltip(info, false);")
+    html_output.append("            } else {")
     html_output.append("                tooltip.style.display = 'none';")
     html_output.append("            }")
     html_output.append("        });")
     html_output.append("")
     html_output.append("        document.addEventListener('click', (e) => {")
-    html_output.append("            const cell = e.target.closest('.day-cell');")
-    html_output.append("            if (cell) {")
-    html_output.append("                e.preventDefault();")
-    html_output.append("                showTooltip(e, true);")
+    html_output.append("            const container = e.target.closest('.heatmap-container');")
+    html_output.append("            if (container) {")
+    html_output.append("                const info = getInfoAtPosition(container, e.clientX, e.clientY);")
+    html_output.append("                if (info && info.entries.length > 0) {")
+    html_output.append("                    updateTooltip(info, true);")
+    html_output.append("                    e.preventDefault();")
+    html_output.append("                } else if (!tooltip.contains(e.target)) {")
+    html_output.append("                    tooltip.style.display = 'none';")
+    html_output.append("                    tooltip.classList.remove('persistent');")
+    html_output.append("                    persistent = false;")
+    html_output.append("                }")
     html_output.append("            } else if (!tooltip.contains(e.target)) {")
     html_output.append("                tooltip.style.display = 'none';")
     html_output.append("                tooltip.classList.remove('persistent');")
