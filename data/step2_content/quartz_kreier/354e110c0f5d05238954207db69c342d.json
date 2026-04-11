@@ -1,0 +1,10 @@
+{
+  "url": "https://kreier.github.io/quartz/Blog/2025/10/Quartz-4-and-GitHub-for-notes-with-Obsidian",
+  "fetched_at": "2026-04-11T15:22:27.826893+00:00",
+  "last_modified": "Tue, 31 Mar 2026 05:28:13 GMT",
+  "etag": "\"69cb5b6d-73b9\"",
+  "hash": "25c4597c3daf2981a2637b9f6ac698846edf0999793fd68aee59e6ea3117c084",
+  "text": "Quartz 4 and GitHub for notes with Obsidian Obsidian Search Search Dark mode Light mode Reader mode !a.isFolder&&!b.isFolder||a.isFolder&&b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\\\"base\\\"}):!a.isFolder&&b.isFolder?1:-1\",\"filterFn\":\"node=>node.slugSegment!==\\\"tags\\\"\",\"mapFn\":\"node=>node\"}\"> Explorer Home \u276f Blog \u276f 2025 \u276f 10 \u276f Quartz 4 and GitHub for notes with Obsidian Quartz 4 and GitHub for notes with Obsidian Oct 21, 2025 1 min read Maybe these daily notes you create with a simple click should have their own folder. Why do they exist? Anyway, I got back from Cambodia after 2 weeks of work (similar to Writing pages in Obsidian ) and now made some progress with a GitHub repository and Quartz 4 for my fault. Graph View Backlinks About the blog Created with Quartz v4.5.2 \u00a9 2026 GitHub Discord Community",
+  "images": [],
+  "files": []
+}

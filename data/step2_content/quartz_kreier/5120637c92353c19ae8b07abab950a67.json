@@ -1,0 +1,10 @@
+{
+  "url": "https://kreier.github.io/quartz/Blog/2024/11/Ideas-about-the-Structure-of-my-Obsidian-vault",
+  "fetched_at": "2026-04-11T15:22:27.826893+00:00",
+  "last_modified": "Tue, 31 Mar 2026 05:28:13 GMT",
+  "etag": "\"69cb5b6d-7511\"",
+  "hash": "3b9289380e216e1339dd924ae36e8fb6b20b33891dfbb94cefbaedb08cdd53a4",
+  "text": "Ideas about the Structure of my Obsidian vault Obsidian Search Search Dark mode Light mode Reader mode !a.isFolder&&!b.isFolder||a.isFolder&&b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\\\"base\\\"}):!a.isFolder&&b.isFolder?1:-1\",\"filterFn\":\"node=>node.slugSegment!==\\\"tags\\\"\",\"mapFn\":\"node=>node\"}\"> Explorer Home \u276f Blog \u276f 2024 \u276f 11 \u276f Ideas about the Structure of my Obsidian vault Ideas about the Structure of my Obsidian vault Nov 21, 2024 1 min read I might have to use a folder. This is actually my third note in Obsidian from November 21st, 2024. And I can make lists: First Point Second point But is it like a Jupyter Notebook and can execute python as well? Let\u2019s link the other two pages I created first. So there is A humble beginning 2024 which is my first document. And then there is Note the second that is already moved to a subfolder. The left menu lets you automatically create a document that has the current date as title. So I accidentally created First use of Obsidian today. Well, that\u2019s how it goes. Graph View Backlinks First use of Obsidian Created with Quartz v4.5.2 \u00a9 2026 GitHub Discord Community",
+  "images": [],
+  "files": []
+}

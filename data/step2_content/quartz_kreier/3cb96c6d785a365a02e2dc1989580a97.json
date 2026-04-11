@@ -1,0 +1,10 @@
+{
+  "url": "https://saiht.de/obsidian/Diary/2026",
+  "fetched_at": "2026-04-11T15:22:27.826893+00:00",
+  "last_modified": "Thu, 01 Jan 2026 08:01:18 GMT",
+  "etag": "\"703a-6474eff6d84b8;6474effa10874",
+  "hash": "d5360370b2728397c08cf08013a68a7ce98b1b4480467c250db4eee6f58ea15c",
+  "text": "2026 Obsidian Search Search Dark mode Light mode Reader mode !a.isFolder&&!b.isFolder||a.isFolder&&b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\\\"base\\\"}):!a.isFolder&&b.isFolder?1:-1\",\"filterFn\":\"node=>node.slugSegment!==\\\"tags\\\"\",\"mapFn\":\"node=>node\"}\"> Explorer Home \u276f Diary \u276f 2026 2026 Jan 01, 2026 1 min read January 2026 Sorry, this is still the future! Graph View Backlinks My Diary Created with Quartz v4.5.2 \u00a9 2026 GitHub Discord Community",
+  "images": [],
+  "files": []
+}

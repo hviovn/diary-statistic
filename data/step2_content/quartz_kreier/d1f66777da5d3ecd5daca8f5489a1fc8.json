@@ -1,0 +1,10 @@
+{
+  "url": "https://kreier.github.io/quartz/Blog/2024/11/Note-the-second",
+  "fetched_at": "2026-04-11T15:22:27.826893+00:00",
+  "last_modified": "Tue, 31 Mar 2026 05:28:13 GMT",
+  "etag": "\"69cb5b6d-87eb\"",
+  "hash": "1195ad6274ce6c8d1d53ad7fe8db4f70294f8482606ff3c5ff90c5749a62313c",
+  "text": "Note the second Obsidian Search Search Dark mode Light mode Reader mode !a.isFolder&&!b.isFolder||a.isFolder&&b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\\\"base\\\"}):!a.isFolder&&b.isFolder?1:-1\",\"filterFn\":\"node=>node.slugSegment!==\\\"tags\\\"\",\"mapFn\":\"node=>node\"}\"> Explorer Home \u276f Blog \u276f 2024 \u276f 11 \u276f Note the second Note the second Nov 21, 2024 1 min read Yes, this is my second note. I can have several vaults? And log into one or the other? Have a non-iCloud synced one? Ok, I\u2019m fine for now. Alternative? What, this could replace my Google Drive note taking solution? How well will this work? For how many years? It could replace Docs and Sheets? Let\u2019s see! Tables One option is to use the | symbol. Combine it with (|) and see what happens - nothing. OK, let\u2019s try the menu option now: Title Cuda Cores CC GTX 960 1024 5.2 P106-100 1280 6.1 Obviously writing about CUDA cores requires some information about Nvidia and their GPGPU s. Let\u2019s dive into it. Further information I collected way more on my Github website for ml . Graph with Quartz v4 I created a graph, simply named Graph. It does not work in quartz, and neither does the canvas element. I don\u2019t think I need it, its a work in progress since 2024 for quartz: https://github.com/jackyzha0/quartz/issues/927 open since February 25, 2024 https://quartz.jzhao.xyz/features/popover-previews https://github.com/obsidianmd/jsoncanvas/issues/10 open since March 12, 2024. Graph View Table of Contents Alternative? Tables Further information Graph with Quartz v4 Backlinks First use of Obsidian Ideas about the Structure of my Obsidian vault Created with Quartz v4.5.2 \u00a9 2026 GitHub Discord Community",
+  "images": [],
+  "files": []
+}

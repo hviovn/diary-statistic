@@ -1,0 +1,10 @@
+{
+  "url": "https://kreier.github.io/quartz/Blog/2025/12/Novel-Word-Count-and-Quartz-Update",
+  "fetched_at": "2026-04-11T15:22:27.826893+00:00",
+  "last_modified": "Tue, 31 Mar 2026 05:28:13 GMT",
+  "etag": "\"69cb5b6d-76f2\"",
+  "hash": "55c5b48381a7836c8fa6b83f9536565b90cc2a2ab01337056f452f3cad1055ab",
+  "text": "Novel Word Count and Quartz Update Obsidian Search Search Dark mode Light mode Reader mode !a.isFolder&&!b.isFolder||a.isFolder&&b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\\\"base\\\"}):!a.isFolder&&b.isFolder?1:-1\",\"filterFn\":\"node=>node.slugSegment!==\\\"tags\\\"\",\"mapFn\":\"node=>node\"}\"> Explorer Home \u276f Blog \u276f 2025 \u276f 12 \u276f Novel Word Count and Quartz Update Novel Word Count and Quartz Update Dec 13, 2025 1 min read I finally installed the \u201c Novel Word Count \u201d plugin to see the size of my vault in a quick overview. The current state: 11,107 words for 38 pages. It reminds me of \u201c editoritis \u201d in Wikipedia. Update Quartz I have npm locally installed. Sometimes there are some updates in Quartz. To include them in my Quartz repository or obsidian vault there are 3 steps from the command line: npx quartz update npx quartz sync npx quartz build --serve The key in GitHub allows the automatic update. Graph View Backlinks Obsidian Created with Quartz v4.5.2 \u00a9 2026 GitHub Discord Community",
+  "images": [],
+  "files": []
+}

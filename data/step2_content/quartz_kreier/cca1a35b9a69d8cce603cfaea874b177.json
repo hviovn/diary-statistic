@@ -1,0 +1,10 @@
+{
+  "url": "https://kreier.github.io/quartz/Blog/2024/12/Writing-pages-in-Obsidian",
+  "fetched_at": "2026-04-11T15:22:27.826893+00:00",
+  "last_modified": "Tue, 31 Mar 2026 05:28:13 GMT",
+  "etag": "\"69cb5b6d-74bf\"",
+  "hash": "4b927d83a9ee668adeda5425fcb554e90c63c78bea3d0475ca4ba6a25ecd0626",
+  "text": "Writing pages in Obsidian Obsidian Search Search Dark mode Light mode Reader mode !a.isFolder&&!b.isFolder||a.isFolder&&b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\\\"base\\\"}):!a.isFolder&&b.isFolder?1:-1\",\"filterFn\":\"node=>node.slugSegment!==\\\"tags\\\"\",\"mapFn\":\"node=>node\"}\"> Explorer Home \u276f Blog \u276f 2024 \u276f 12 \u276f Writing pages in Obsidian Writing pages in Obsidian Dec 19, 2024 1 min read Here in Cambodia, writing about the GPGPU s of Nvidia . Its interesting. Using my visa run to start using Obsidian, that I installed in November. But without a GitHub backup and web publishing (like with quartz) it didn\u2019t go far. This was solved a year later, again with a visit to Cambodia. It\u2019s Reactivated 2025 . At the same time I tried to reactivate WordPress, since it supports tags, keyword bubbles and sorting by publishing date. Graph View Backlinks About the blog Quartz 4 and GitHub for notes with Obsidian Reactivated 2025 Created with Quartz v4.5.2 \u00a9 2026 GitHub Discord Community",
+  "images": [],
+  "files": []
+}

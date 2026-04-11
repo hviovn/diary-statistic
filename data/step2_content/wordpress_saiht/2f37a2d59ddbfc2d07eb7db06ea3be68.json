@@ -1,0 +1,10 @@
+{
+  "url": "https://saiht.de/blog/2019/03/26/ai-und-ml/",
+  "fetched_at": "2026-04-11T15:22:27.826893+00:00",
+  "last_modified": null,
+  "etag": null,
+  "hash": "370360f09e37a76c517b2884b7eea7c92f0ea50a4fd40bd8cecb6ead6af87f1d",
+  "text": "AI und ML \u2013 Stay Curious. Stay Curious. About Hofkoh Saigon AI und ML Written by Matthias in Projects Von k\u00fcnstlicher Intelligenz (AI \u2013 artificial intelligence) wird schon seit Jahrzehnten geredet und geforscht. In letzter Zeit ist Machine learning ML dazugekommen und wird im Alltag flei\u00dfig eingesetzt. Allgemein muss man dazu aber entweder Entwickler bei Amazon, Google oder Apple sein \u2013 oder an einer Universit\u00e4t studieren. Modell entwickeln? Trainieren? Klingt speziell und braucht bestimmt viel Entwicklungszeit. Und spezielle Installationen (Ubuntu 16.04 oder 18.04, python 2.6 oder 3.4, CUDA, Darknet, Docker, KERAS und wie sie alle hei\u00dfen) sind zu speziell f\u00fcr die meisten Benutzer. Eine einfache L\u00f6sung: Nutze doch deinen Browser! Seit etwa einem Jahr gibt es tensorflow.js als Javascript im Browser und das geht sowohl auf Laptop, Tablet und Smartphone. Versuchen wir mal eine Objekterkennung: Dank neuer RX470 mit 46 fps! Der passende link hierzu ist: https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html Es funktioniert in Japan, Taiwan und Vietnam, mit vielen Personen im Bild, alten iPhones und neueren Samsungs. Die Bildwiederholrate ist nicht immer so toll, gibt aber einen Eindruck in die M\u00f6glichkeiten. Google I/O 2018 Vorstellung und Hintergrund zu TensorFlow.js computer GitHub \u2190 Sciencefair 2019 Two visitors from Germany \u2192 Comments Leave a Reply Cancel reply Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. \u0394 Stay Curious. saiht.de/blog blog About GitHub Twenty Twenty-Five Designed with WordPress",
+  "images": [],
+  "files": []
+}

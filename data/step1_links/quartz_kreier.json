@@ -1,0 +1,904 @@
+{
+  "source_id": "quartz_kreier",
+  "type": "quartz",
+  "base_url": "https://kreier.github.io/quartz",
+  "last_checked": "2026-04-11T17:47:59.860755+00:00",
+  "pages": [
+    {
+      "url": "https://kreier.github.io/quartz/About-the-blog",
+      "title": "About the blog",
+      "date": "2025-10-20",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/1997/12/Reflection-on-1997",
+      "title": "Reflection on 1997",
+      "date": "1997-12-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2017/08/AISVN",
+      "title": "AISVN",
+      "date": "2017-08-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2019/01/Monkey-Island-I",
+      "title": "Monkey Island I",
+      "date": "2019-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2019/05/Cat-Tien-National-Park-II",
+      "title": "Cat Tien National Park II",
+      "date": "2019-05-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2020/06/Start-of-my-third-Sabbatical",
+      "title": "Start of my third Sabbatical",
+      "date": "2020-06-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2020/06/Third-Sabbatical",
+      "title": "Third Sabbatical",
+      "date": "2020-06-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2023/10/Visarun",
+      "title": "Visarun",
+      "date": "2023-10-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2023/11/N\u00fai-\u0110inh-I",
+      "title": "N\u00fai \u0110inh I",
+      "date": "2023-11-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2024/11/A-humble-beginning-2024",
+      "title": "A humble beginning 2024",
+      "date": "2024-11-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2024/11/First-use-of-Obsidian",
+      "title": "First use of Obsidian",
+      "date": "2024-11-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2024/11/Ideas-about-the-Structure-of-my-Obsidian-vault",
+      "title": "Ideas about the Structure of my Obsidian vault",
+      "date": "2024-11-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2024/11/Note-the-second",
+      "title": "Note the second",
+      "date": "2024-11-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2024/12/Writing-pages-in-Obsidian",
+      "title": "Writing pages in Obsidian",
+      "date": "2024-12-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2024/Visa-run-III",
+      "title": "Visa run III",
+      "date": "2024-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2025/06/Discover-a-new-Ice-Cream",
+      "title": "Discover a new Ice Cream",
+      "date": "2025-06-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2025/06/N\u00fai-Th\u1ecb-V\u1ea3i-I",
+      "title": "N\u00fai Th\u1ecb V\u1ea3i I",
+      "date": "2025-06-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2025/07/N\u00fai-Th\u1ecb-V\u1ea3i-II",
+      "title": "N\u00fai Th\u1ecb V\u1ea3i II",
+      "date": "2025-07-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2025/07/N\u00fai-\u0110inh-II",
+      "title": "N\u00fai \u0110inh II",
+      "date": "2025-07-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2025/10/Official-start-of-my-study-at-Su-Pham-and-Extension-of-a-few-projects",
+      "title": "Official start of my study at Su Pham and Extension of a few projects",
+      "date": "2025-10-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2025/10/Quartz-4-and-GitHub-for-notes-with-Obsidian",
+      "title": "Quartz 4 and GitHub for notes with Obsidian",
+      "date": "2025-10-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2025/10/Reactivated-2025",
+      "title": "Reactivated 2025",
+      "date": "2025-10-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2025/11/Meo-Vac",
+      "title": "Meo Vac",
+      "date": "2025-11-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2025/12/Black-Virgin-Mountain-II",
+      "title": "Black Virgin Mountain II",
+      "date": "2025-12-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2025/12/Novel-Word-Count-and-Quartz-Update",
+      "title": "Novel Word Count and Quartz Update",
+      "date": "2025-12-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2026/01/Black-Virgin-Mountain-III",
+      "title": "Black Virgin Mountain III",
+      "date": "2026-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2026/02/Black-Virgin-Mountain-IV",
+      "title": "Black Virgin Mountain IV",
+      "date": "2026-02-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2026/02/Monkey-Island-II",
+      "title": "Monkey Island II",
+      "date": "2026-02-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2026/02/N\u00fai-\u0110inh-III",
+      "title": "N\u00fai \u0110inh III",
+      "date": "2026-02-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2026/03/H\u1ed3-Tr\u1ecb-An---Tri-An-Lake",
+      "title": "H\u1ed3 Tr\u1ecb An - Tri An Lake",
+      "date": "2026-03-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Blog/2026/03/N\u00fai-T\u00e0-C\u00fa-I",
+      "title": "N\u00fai T\u00e0 C\u00fa I",
+      "date": "2026-03-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1975",
+      "title": "1975",
+      "date": "1975-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1976",
+      "title": "1976",
+      "date": "1976-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1977",
+      "title": "1977",
+      "date": "1977-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1978",
+      "title": "1978",
+      "date": "1978-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1979",
+      "title": "1979",
+      "date": "1979-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1980",
+      "title": "1980",
+      "date": "1980-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1981",
+      "title": "1981",
+      "date": "1981-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1982",
+      "title": "1982",
+      "date": "1982-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1983",
+      "title": "1983",
+      "date": "1983-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1984",
+      "title": "1984",
+      "date": "1984-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1985",
+      "title": "1985",
+      "date": "1985-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1986",
+      "title": "1986",
+      "date": "1986-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1987",
+      "title": "1987",
+      "date": "1987-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1988",
+      "title": "1988",
+      "date": "1988-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1989",
+      "title": "1989",
+      "date": "1989-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1990",
+      "title": "1990",
+      "date": "1990-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1991",
+      "title": "1991",
+      "date": "1991-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1992",
+      "title": "1992",
+      "date": "1992-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1993",
+      "title": "1993",
+      "date": "1993-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1994",
+      "title": "1994",
+      "date": "1994-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1995",
+      "title": "1995",
+      "date": "1995-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1996",
+      "title": "1996",
+      "date": "1996-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1997",
+      "title": "1997",
+      "date": "1997-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1998",
+      "title": "1998",
+      "date": "1998-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/1999",
+      "title": "1999",
+      "date": "1999-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2000",
+      "title": "2000",
+      "date": "2000-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2001",
+      "title": "2001",
+      "date": "2001-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2002",
+      "title": "2002",
+      "date": "2002-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2003",
+      "title": "2003",
+      "date": "2003-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2004",
+      "title": "2004",
+      "date": "2004-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2005",
+      "title": "2005",
+      "date": "2005-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2006",
+      "title": "2006",
+      "date": "2006-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2007",
+      "title": "2007",
+      "date": "2007-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2008",
+      "title": "2008",
+      "date": "2008-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2009",
+      "title": "2009",
+      "date": "2009-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2010",
+      "title": "2010",
+      "date": "2010-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2011",
+      "title": "2011",
+      "date": "2011-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2012",
+      "title": "2012",
+      "date": "2012-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2013",
+      "title": "2013",
+      "date": "2013-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2014",
+      "title": "2014",
+      "date": "2014-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2015",
+      "title": "2015",
+      "date": "2015-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2016",
+      "title": "2016",
+      "date": "2016-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2017",
+      "title": "2017",
+      "date": "2017-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2018",
+      "title": "2018",
+      "date": "2018-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2019",
+      "title": "2019",
+      "date": "2019-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2020",
+      "title": "2020",
+      "date": "2020-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2021",
+      "title": "2021",
+      "date": "2021-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2022",
+      "title": "2022",
+      "date": "2022-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2023",
+      "title": "2023",
+      "date": "2023-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2024",
+      "title": "2024",
+      "date": "2024-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2025",
+      "title": "2025",
+      "date": "2025-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Diary/2026",
+      "title": "2026",
+      "date": "2026-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Projects/Computer/E3-1226-v3-with-GTX-1060",
+      "title": "E3-1226 v3 with GTX 1060",
+      "date": "1226-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Projects/Computer/E5-2696-v3-with-128-GB-RAM",
+      "title": "E5-2696 v3 with 128 GB RAM",
+      "date": "2696-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Projects/Computer/HP-EliteDesk-800-G4-TWR",
+      "title": "HP EliteDesk 800 G4 TWR",
+      "date": "2025-01-09",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Projects/Computer/HP-ProDesk-600-G4-mini-i5-8500T",
+      "title": "HP ProDesk 600 G4 mini i5-8500T",
+      "date": "2024-01-11",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Projects/Computer/HP-Z600-Workstation",
+      "title": "HP Z600 Workstation",
+      "date": "2026-03-02",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Projects/Computer/MXQ-Pro-4K",
+      "title": "MXQ Pro 4K",
+      "date": "2024-02-03",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Projects/Computer/Penta-GPU-server-i3-6100",
+      "title": "Penta-GPU server i3-6100",
+      "date": "6100-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Projects/Computer/Raspberry-Pi-3-with-1-GB-RAM",
+      "title": "Raspberry Pi 3 with 1 GB RAM",
+      "date": "2024-02-12",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Projects/Computer/Raspberry-Pi-4-with-4-GB-RAM",
+      "title": "Raspberry Pi 4 with 4 GB RAM",
+      "date": "2026-02-13",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Projects/GitHub/Statistics-of-my-diary,-projects-and-other-stories",
+      "title": "Statistics of my diary, projects and other stories",
+      "date": "2025-12-18",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Projects/Timeline",
+      "title": "Timeline",
+      "date": "2023-10-17",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Travel/2023/Roundtrip-Vietnam-2023",
+      "title": "Roundtrip Vietnam 2023",
+      "date": "2023-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Travel/2025/Ha-Giang-loop-a-second-time-in-2025",
+      "title": "Ha Giang loop a second time in 2025",
+      "date": "2025-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Travel/2025/One-week-in-Hanoi-and-Sapa-2025",
+      "title": "One week in Hanoi and Sapa 2025",
+      "date": "2025-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Travel/2025/Three-day-journey-to-Hanoi-2025",
+      "title": "Three day journey to Hanoi 2025",
+      "date": "2025-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Travel/2025/Two-weeks-road-trip-Saigon-Hue-2025",
+      "title": "Two weeks road trip Saigon-Hue 2025",
+      "date": "2025-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Travel/Leisure/Hiking-in-Vietnam",
+      "title": "Hiking in Vietnam",
+      "date": "2019-01-15",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Travel/Leisure/Monkey-Island",
+      "title": "Monkey Island",
+      "date": "2019-01-15",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://kreier.github.io/quartz/Travel/Leisure/N\u00fai-Ch\u1ee9a-Chan",
+      "title": "N\u00fai Ch\u1ee9a Chan",
+      "date": "2026-03-11",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/obsidian/Diary/2026",
+      "title": "2026",
+      "date": "2026-12-31",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/obsidian/Projects/University/hcmue.edu.vn/Semester-1-hcmue.edu.vn",
+      "title": "Semester 1 hcmue.edu.vn",
+      "date": "2026-03-31",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/obsidian/Projects/University/hcmue.edu.vn/Semester-2-hcmue.edu.vn",
+      "title": "Semester 2 hcmue.edu.vn",
+      "date": "2026-03-31",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/obsidian/Travel/Leisure/Motorbike-in-Vietnam",
+      "title": "Motorbike in Vietnam",
+      "date": "2026-03-31",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/obsidian/Travel/2023/Roundtrip-Vietnam-2023",
+      "title": "Roundtrip Vietnam 2023",
+      "date": "2026-03-26",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/obsidian/Travel/2025/Two-weeks-road-trip-Saigon-Hue-2025",
+      "title": "Two weeks road trip Saigon-Hue 2025",
+      "date": "2026-03-26",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/obsidian/Travel/Leisure/Hiking-in-Vietnam",
+      "title": "Hiking in Vietnam",
+      "date": "2026-03-26",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/obsidian/Blog/2025/11/Meo-Vac",
+      "title": "Meo Vac",
+      "date": "2026-03-25",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/obsidian/Blog/2023/10/Visarun",
+      "title": "Visarun",
+      "date": "2026-03-24",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/obsidian/My-Websites",
+      "title": "My Websites",
+      "date": "2026-03-24",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    }
+  ]
+}

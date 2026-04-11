@@ -1,0 +1,10 @@
+{
+  "url": "https://saiht.de/blog/2014/12/14/temperatur-in-hofkoh/",
+  "fetched_at": "2026-04-11T15:22:27.826893+00:00",
+  "last_modified": null,
+  "etag": null,
+  "hash": "0f0f5120a38f87a2bfaefaca2df34860f76067d7721179543cf0fe0b8f902f8f",
+  "text": "Temperatur in Hofkoh \u2013 Stay Curious. Stay Curious. About Hofkoh Saigon Temperatur in Hofkoh Written by Matthias in Projects Analoge Fl\u00fcssigkeitsthermometer finden sich fast an jedem Haus hier in Niedersachsen. F\u00fcr Geeks gibt es auch digitale Varianten. Mein selbstgebautes streamt die Messwerte auf die Subdomain temp.hofkoh.de . JavaScript wertet die Daten noch graphisch auf: Aufbau ist ganz einfach. Man nehme einen preiswerten chinesischen WLAN-Router (WR703N), flashe ein neues Betriebssystem drauf (OpenWRT), installiere ein paar Treiber f\u00fcr den 1Wire USB-Adapter per opkg und schreibe ein paar Scripte f\u00fcr die bash. Jene werden dann in die crontab geschrieben und mit init.d aufgerufen. Upload der Messdaten per ftp \u00fcber wput auf einen passenden Webspace. Dort werten JavaScript mit jquery.js und Google Analytics die Daten graphisch aus. Voila, fertig ist das Digitalthermometer. Jetzt l\u00e4uft der Server schon mehr als ein Jahr ohne Unterbrechung. neue Technologien \u2190 Filmliste Physik Aufgabe 4 f\u00fcr Klasse 9B \u2192 Comments Leave a Reply Cancel reply Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. \u0394 Stay Curious. saiht.de/blog blog About GitHub Twenty Twenty-Five Designed with WordPress",
+  "images": [],
+  "files": []
+}

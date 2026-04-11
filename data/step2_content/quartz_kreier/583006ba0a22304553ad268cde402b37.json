@@ -1,0 +1,10 @@
+{
+  "url": "https://kreier.github.io/quartz/Projects/Computer/HP-Z600-Workstation",
+  "fetched_at": "2026-04-11T15:22:27.826893+00:00",
+  "last_modified": "Tue, 31 Mar 2026 05:28:13 GMT",
+  "etag": "\"69cb5b6d-7dd7\"",
+  "hash": "8499feef3ad3b86c111db8ef4c29be728ae413d463e9f38ac2b32d9ee573fdbb",
+  "text": "HP Z600 Workstation Obsidian Search Search Dark mode Light mode Reader mode !a.isFolder&&!b.isFolder||a.isFolder&&b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\\\"base\\\"}):!a.isFolder&&b.isFolder?1:-1\",\"filterFn\":\"node=>node.slugSegment!==\\\"tags\\\"\",\"mapFn\":\"node=>node\"}\"> Explorer Home \u276f Projects \u276f Computer \u276f HP Z600 Workstation HP Z600 Workstation Nov 17, 2018 1 min read Workstations have not been on my radar in the past, mainly because of their price point. But used examples cost only a fraction of the original cost. Since the used materials are of high quality the machine will continue to run. CPU - Dual Xeon X5550 My first PC with a dual CPU, and my first Xeon. History I got this package with 24GB RAM and Nvidia Quadro FX580 graphics card on 2018/11/17 for 7.800.000 VND or about 300 Euro. 2026-03-02 Repair at RE COM For two years I had an error in the PSU that shut down the whole computer after 3 minutes. The company RE COM repaired a few electronic parts on the PSU (rectifies, transistors, capacitors) and now the machine runs again! Graph View Table of Contents CPU - Dual Xeon X5550 History 2026-03-02 Repair at RE COM Backlinks 2018 2026 E3-1226 v3 with GTX 1060 HP ProDesk 600 G4 mini i5-8500T Pentium G2030 Router Hardware collection Created with Quartz v4.5.2 \u00a9 2026 GitHub Discord Community",
+  "images": [],
+  "files": []
+}
