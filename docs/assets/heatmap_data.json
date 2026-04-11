@@ -4879,6 +4879,16 @@
   ],
   "2026-04-11": [
     {
+      "title": "[kreier/brain-structure] Update README with usage statistics for LLMs\n\nAdded statistics about usage of different LLMs in the project.",
+      "link": "https://github.com/kreier/brain-structure/commit/f44e3517efb248f50144cc944d48a9dc630060c8",
+      "source": "GitHub"
+    },
+    {
+      "title": "[kreier/brain-structure] Update README with Claude export instructions\n\nAdded detailed instructions for exporting data from Claude.",
+      "link": "https://github.com/kreier/brain-structure/commit/225a90400566528fc4785428a0d289c9ddc54daa",
+      "source": "GitHub"
+    },
+    {
       "title": "[kreier/brain-structure] Update README with data export instructions\n\nAdded instructions for downloading raw data from Google Gemini and mentioned data export formats for Claude and ChatGPT.",
       "link": "https://github.com/kreier/brain-structure/commit/2e71ae5db2a40bbaa06902e422063075b8c80a8a",
       "source": "GitHub"
@@ -4901,6 +4911,11 @@
     {
       "title": "[kreier/brain-structure] README.md",
       "link": "https://github.com/kreier/brain-structure/blob/main/README.md",
+      "source": "GitHub"
+    },
+    {
+      "title": "[kreier/quartz] README.md",
+      "link": "https://github.com/kreier/quartz/blob/v4/README.md",
       "source": "GitHub"
     },
     {
@@ -7915,13 +7930,6 @@
     {
       "title": "[kreier/qtpy-oled] README.md",
       "link": "https://github.com/kreier/qtpy-oled/blob/main/README.md",
-      "source": "GitHub"
-    }
-  ],
-  "2026-04-06": [
-    {
-      "title": "[kreier/quartz] README.md",
-      "link": "https://github.com/kreier/quartz/blob/v4/README.md",
       "source": "GitHub"
     }
   ],
