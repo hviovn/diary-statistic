@@ -2,7 +2,7 @@
 <text x="5" y="39" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="63" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="87" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
-<a href="https://kreier.github.io/quartz/Diary/2009"><rect class="day-cell" data-date="2009-01-01" x="30" y="66" width="10" height="10" fill="#ef5350" rx="2" ry="2"></rect></a>
+<a href="https://saiht.de/legacy/urlaub/2008_tatra.html"><rect class="day-cell" data-date="2009-01-01" x="30" y="66" width="10" height="10" fill="#42a5f5" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2009-01-02" x="30" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2009-01-03" x="30" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <text x="42" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
@@ -22,14 +22,14 @@
 <rect class="day-cell" data-date="2009-01-17" x="54" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2009-01-18" x="66" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2009-01-19" x="66" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://saiht.de/legacy/projekte/projekte.html"><rect class="day-cell" data-date="2009-01-20" x="66" y="42" width="10" height="10" fill="#42a5f5" rx="2" ry="2"></rect></a>
+<a href="https://saiht.de/legacy/projekte/15nb100.html"><rect class="day-cell" data-date="2009-01-20" x="66" y="42" width="10" height="10" fill="#42a5f5" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2009-01-21" x="66" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2009-01-22" x="66" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2009-01-23" x="66" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2009-01-24" x="66" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2009-01-25" x="78" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2009-01-26" x="78" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://saiht.de/legacy/urlaub/2015_usa.html"><rect class="day-cell" data-date="2009-01-27" x="78" y="42" width="10" height="10" fill="#42a5f5" rx="2" ry="2"></rect></a>
+<a href="https://saiht.de/legacy/urlaub/2013_usa_plan.html"><rect class="day-cell" data-date="2009-01-27" x="78" y="42" width="10" height="10" fill="#42a5f5" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2009-01-28" x="78" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2009-01-29" x="78" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2009-01-30" x="78" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
@@ -53,7 +53,7 @@
 <rect class="day-cell" data-date="2009-02-16" x="114" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2009-02-17" x="114" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2009-02-18" x="114" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://saiht.de/legacy/projekte/01bibellesen.html"><rect class="day-cell" data-date="2009-02-19" x="114" y="66" width="10" height="10" fill="#64b5f6" rx="2" ry="2"></rect></a>
+<a href="https://saiht.de/legacy/projekte/13zeitleiste.html"><rect class="day-cell" data-date="2009-02-19" x="114" y="66" width="10" height="10" fill="#64b5f6" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2009-02-20" x="114" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2009-02-21" x="114" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2009-02-22" x="126" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
@@ -231,7 +231,7 @@
 <rect class="day-cell" data-date="2009-08-07" x="402" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <a href="https://saiht.de/blog/2009/08/08/ausflug-nach-syrien-und-jordanien/"><rect class="day-cell" data-date="2009-08-08" x="402" y="90" width="10" height="10" fill="#40c463" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2009-08-09" x="414" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://saiht.de/legacy/urlaub/2009_jordanien.html"><rect class="day-cell" data-date="2009-08-10" x="414" y="30" width="10" height="10" fill="#64b5f6" rx="2" ry="2"></rect></a>
+<a href="https://saiht.de/legacy/urlaub/2009_jordan_bilder.html"><rect class="day-cell" data-date="2009-08-10" x="414" y="30" width="10" height="10" fill="#64b5f6" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2009-08-11" x="414" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2009-08-12" x="414" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2009-08-13" x="414" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>

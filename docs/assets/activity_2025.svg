@@ -2,28 +2,28 @@
 <text x="5" y="39" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="63" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="87" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
-<a href="https://kreier.github.io/quartz/Diary/2025"><rect class="day-cell" data-date="2025-01-01" x="30" y="54" width="10" height="10" fill="#ef9a9a" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/9187268e74a86395db8b0adbc938307e193f051a"><rect class="day-cell" data-date="2025-01-02" x="30" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/c88a0a21a58c43a469982d4c8e1ddb759c9b265e"><rect class="day-cell" data-date="2025-01-01" x="30" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-01-02" x="30" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-01-03" x="30" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-01-04" x="30" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <text x="42" y="12" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="2025-01-05" x="42" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-01-06" x="42" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/jetson/commit/bdbabfcb6f606c32b167ce3d1155eee133d336eb"><rect class="day-cell" data-date="2025-01-07" x="42" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-01-07" x="42" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-01-08" x="42" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://kreier.github.io/quartz/Projects/Computer/HP-EliteDesk-800-G4-TWR"><rect class="day-cell" data-date="2025-01-09" x="42" y="66" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/benchmark/commit/c3f7f2bad87f97df787912872398ceba974e3859"><rect class="day-cell" data-date="2025-01-09" x="42" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2025-01-10" x="42" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-01-11" x="42" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/ml/commit/f0e67f9ec7ee52666ef031b846d04600a5f2ed39"><rect class="day-cell" data-date="2025-01-12" x="54" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-01-12" x="54" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-01-13" x="54" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/timeline/commit/c42d1669fc6e147c764d3bede1be26bb2b7caf2b"><rect class="day-cell" data-date="2025-01-14" x="54" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-01-14" x="54" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-01-15" x="54" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-01-16" x="54" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <a href="https://github.com/kreier/cru/commit/a10b79119d53286acd2ed4ae763074528e3486a1"><rect class="day-cell" data-date="2025-01-17" x="54" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/a091c2bf416a2b80ef390476167321018b485fe3"><rect class="day-cell" data-date="2025-01-18" x="54" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-01-18" x="54" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <a href="https://github.com/kreier/benchmark/commit/73596fa5cacf3ce59e4ee390a948e8539c228a55"><rect class="day-cell" data-date="2025-01-19" x="66" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2025-01-20" x="66" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/cru/commit/1ce996067e379dcabf96d6b3ba876b02bcfa2624"><rect class="day-cell" data-date="2025-01-21" x="66" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/cru/commit/1ce996067e379dcabf96d6b3ba876b02bcfa2624"><rect class="day-cell" data-date="2025-01-21" x="66" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
 <a href="https://github.com/kreier/cru/commit/36a51a96a1fcc08c62d21fb10030c906cc574465"><rect class="day-cell" data-date="2025-01-22" x="66" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
 <a href="https://github.com/kreier/cru/commit/e937448f7af4481f9cde66dcbf3b692af440bd8c"><rect class="day-cell" data-date="2025-01-23" x="66" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
 <a href="https://github.com/kreier/cru/commit/95289e8ff8262bb093f5b8bd40b32e852de94756"><rect class="day-cell" data-date="2025-01-24" x="66" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
@@ -32,21 +32,21 @@
 <a href="https://github.com/kreier/cru/commit/87aa31a7871a5e0ee6db6542e491bbad13c9e96d"><rect class="day-cell" data-date="2025-01-27" x="78" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
 <a href="https://github.com/kreier/cru/commit/7618ab98296fb25b9b4952c8b2fe3da3ea646806"><rect class="day-cell" data-date="2025-01-28" x="78" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
 <a href="https://github.com/kreier/cru/commit/19f3944f913327b5a77809d07de41c42d7a55f4c"><rect class="day-cell" data-date="2025-01-29" x="78" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/cru/commit/95b5038bdef592e503c3377e76dc932fede1d88a"><rect class="day-cell" data-date="2025-01-30" x="78" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/cru/commit/95b5038bdef592e503c3377e76dc932fede1d88a"><rect class="day-cell" data-date="2025-01-30" x="78" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2025-01-31" x="78" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/timeline/commit/5e979c17a8ba55b41c73892be9c65749ec3491c4"><rect class="day-cell" data-date="2025-02-01" x="78" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-02-01" x="78" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <text x="90" y="12" font-family="sans-serif" font-size="8" fill="#767676">Feb</text>
 <rect class="day-cell" data-date="2025-02-02" x="90" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-02-03" x="90" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/timeline/commit/bf7957fea84aa521a8078d5db9fec0875f58611e"><rect class="day-cell" data-date="2025-02-04" x="90" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-02-04" x="90" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <a href="https://github.com/kreier/cru/commit/483c39973d4a09814f89cc8a6ad8655e8e436193"><rect class="day-cell" data-date="2025-02-05" x="90" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/cru/commit/46d7b66e68a6b9c197bc05c6e9b418413acbc418"><rect class="day-cell" data-date="2025-02-06" x="90" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/cru/commit/46d7b66e68a6b9c197bc05c6e9b418413acbc418"><rect class="day-cell" data-date="2025-02-06" x="90" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2025-02-07" x="90" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-02-08" x="90" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-02-09" x="102" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-02-10" x="102" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/ml/commit/bab2ac6ae04a5e1e072a30e8b1ae479ed82a2be5"><rect class="day-cell" data-date="2025-02-11" x="102" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/ml/commit/8a659b481df9e9ab0032c09882e982e12f73c3b7"><rect class="day-cell" data-date="2025-02-12" x="102" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-02-11" x="102" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-02-12" x="102" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <a href="https://github.com/kreier/benchmark/commit/4bdb0731acaf99405296b1c770f6d83b336c965e"><rect class="day-cell" data-date="2025-02-13" x="102" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2025-02-14" x="102" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-02-15" x="102" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
@@ -54,95 +54,95 @@
 <a href="https://github.com/kreier/benchmark/commit/cd7c5639cd4163d92f207366936dfcc0ff15c1c2"><rect class="day-cell" data-date="2025-02-17" x="114" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2025-02-18" x="114" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-02-19" x="114" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/ml/commit/5813cd1a2fe75008c13cdb7ad5a914d1f04ddf92"><rect class="day-cell" data-date="2025-02-20" x="114" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/5fd7dc20027cc87df6bb1a1fdb3d5db51959d5f3"><rect class="day-cell" data-date="2025-02-21" x="114" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/e6d4daf290ed84409b17079c1367d168a66fd3e7"><rect class="day-cell" data-date="2025-02-22" x="114" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/b5242076eed55fb5a2d094848529d8b5ba9c3f8a"><rect class="day-cell" data-date="2025-02-23" x="126" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-02-20" x="114" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-02-21" x="114" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-02-22" x="114" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-02-23" x="126" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-02-24" x="126" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/keyboard/commit/19b2f94d6973d8b15796fb55ba7fa4d3e53b6af0"><rect class="day-cell" data-date="2025-02-25" x="126" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/102c64a30f3a033fcceb0498d09c52b58c22003c"><rect class="day-cell" data-date="2025-02-26" x="126" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/c174ab238ef05b65fa43ef15039323dfa8b94f13"><rect class="day-cell" data-date="2025-02-27" x="126" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/sre/commit/b22a6db9cce6e580d8e649cefcc8ba8c1d9169db"><rect class="day-cell" data-date="2025-02-28" x="126" y="78" width="10" height="10" fill="#fb8c00" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-02-25" x="126" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-02-26" x="126" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-02-27" x="126" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<a href="https://github.com/kreier/sre/blob/main/README.md"><rect class="day-cell" data-date="2025-02-28" x="126" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2025-03-01" x="126" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <text x="138" y="12" font-family="sans-serif" font-size="8" fill="#767676">Mar</text>
 <rect class="day-cell" data-date="2025-03-02" x="138" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/study/commit/46df3e311ecea6706079375d756ab8d3bf45b7d2"><rect class="day-cell" data-date="2025-03-03" x="138" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/keyboard/commit/ec3d0769c30073507c288b8df9b7c3c2611fe3cc"><rect class="day-cell" data-date="2025-03-04" x="138" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/keyboard/commit/65949bc77228cda6bb9ff3bbf852837feacdd5e6"><rect class="day-cell" data-date="2025-03-05" x="138" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/study/commit/42317710056dd6e17a14e1038fbbda3e20c6f6ee"><rect class="day-cell" data-date="2025-03-06" x="138" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/tripitaka/commit/ab1a4589012aed0af7c03b7b653ab632c0db5a9b"><rect class="day-cell" data-date="2025-03-07" x="138" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-03-03" x="138" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-03-04" x="138" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<a href="https://github.com/kreier/keyboard/blob/main/README.md"><rect class="day-cell" data-date="2025-03-05" x="138" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/vex/blob/main/README.md"><rect class="day-cell" data-date="2025-03-06" x="138" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-03-07" x="138" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-03-08" x="138" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-03-09" x="150" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-03-10" x="150" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-03-11" x="150" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-03-12" x="150" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/timeline/commit/51ac3dd06faa9e23cc2ad6872909cf2074ba7587"><rect class="day-cell" data-date="2025-03-13" x="150" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/study/commit/80ea57955a15e3698d666179a40a07d0b083ea6d"><rect class="day-cell" data-date="2025-03-14" x="150" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-03-13" x="150" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-03-14" x="150" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <a href="https://github.com/kreier/daniel2/commit/fb0356253960cc3fc554352f4ecd3c95bbae5544"><rect class="day-cell" data-date="2025-03-15" x="150" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/click-classifier/commit/9d02a3cebf62e8b6113352d61c4ad7a9542e4ba5"><rect class="day-cell" data-date="2025-03-16" x="162" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/click-classifier/commit/9d02a3cebf62e8b6113352d61c4ad7a9542e4ba5"><rect class="day-cell" data-date="2025-03-16" x="162" y="18" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2025-03-17" x="162" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-03-18" x="162" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-03-19" x="162" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/gps-relativity/commit/bb1ae8272f1520fb867cd4d71d5073c07f1e8461"><rect class="day-cell" data-date="2025-03-20" x="162" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/gps-relativity/commit/0586d8bbefcce8c2db31751c990bee2c8d0356bd"><rect class="day-cell" data-date="2025-03-21" x="162" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/gps-relativity/commit/bb1ae8272f1520fb867cd4d71d5073c07f1e8461"><rect class="day-cell" data-date="2025-03-20" x="162" y="66" width="10" height="10" fill="#fb8c00" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/gps-relativity/commit/0586d8bbefcce8c2db31751c990bee2c8d0356bd"><rect class="day-cell" data-date="2025-03-21" x="162" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2025-03-22" x="162" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-03-23" x="174" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/daniel2/commit/ba8a23d9b819cda70127803fd09e5fc437103c6e"><rect class="day-cell" data-date="2025-03-24" x="174" y="30" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/click-classifier/commit/3680f074adec74c50633baeaf39af7e4a280dcb7"><rect class="day-cell" data-date="2025-03-25" x="174" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/daniel2/commit/ba8a23d9b819cda70127803fd09e5fc437103c6e"><rect class="day-cell" data-date="2025-03-24" x="174" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/click-classifier/commit/3680f074adec74c50633baeaf39af7e4a280dcb7"><rect class="day-cell" data-date="2025-03-25" x="174" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2025-03-26" x="174" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/jetson/commit/7588d335287b2db14c76fba8d62426355ca522b2"><rect class="day-cell" data-date="2025-03-27" x="174" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/jetson/commit/4ab40900ad4b59458fd37ae3129c3ed6cd71f514"><rect class="day-cell" data-date="2025-03-28" x="174" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-03-27" x="174" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-03-28" x="174" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-03-29" x="174" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/jetson/commit/2e8f8ccc7aa985ac434a681ade157d41503e040b"><rect class="day-cell" data-date="2025-03-30" x="186" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/jetson/commit/d15836f72c9007f7940d2d61ff24a381e28bed38"><rect class="day-cell" data-date="2025-03-31" x="186" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/jetson/commit/27b66ca354e252bf1b325fc14e066dbb9dc14624"><rect class="day-cell" data-date="2025-04-01" x="186" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-03-30" x="186" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-03-31" x="186" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-04-01" x="186" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-04-02" x="186" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/jetson/commit/1f55abb2fc37a2a56480a809341704a9601df117"><rect class="day-cell" data-date="2025-04-03" x="186" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/jetson/commit/0d8cdf4bf346d192d40285cbd22a62963f2d2d03"><rect class="day-cell" data-date="2025-04-04" x="186" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/jetson/commit/e5a8cea1ef9c1c59b4b9e075af731905671a3d70"><rect class="day-cell" data-date="2025-04-05" x="186" y="90" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-04-03" x="186" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-04-04" x="186" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-04-05" x="186" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <text x="198" y="12" font-family="sans-serif" font-size="8" fill="#767676">Apr</text>
-<a href="https://github.com/kreier/llama.cpp-jetson/commit/419f4337fc18a7f7c1485341459bdc3bfa8e80a2"><rect class="day-cell" data-date="2025-04-06" x="198" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/jetson/commit/025c61eaf7424c7aff6cc904b3b694dff2822388"><rect class="day-cell" data-date="2025-04-07" x="198" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-04-06" x="198" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-04-07" x="198" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-04-08" x="198" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/aa/commit/b12cb6216783fcfa514daae4220c35f3b0bba01f"><rect class="day-cell" data-date="2025-04-09" x="198" y="54" width="10" height="10" fill="#fb8c00" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/jetson/commit/35769ec322f4e380084cf793980ab7ccd0b441e4"><rect class="day-cell" data-date="2025-04-10" x="198" y="66" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/jetson/commit/508d4f8aa0d5ab22e9c10967fa281ea7bd845507"><rect class="day-cell" data-date="2025-04-11" x="198" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/llama.cpp-jetson.nano/commit/b06384871ddfb9bf8be34b67365b8692e8500afe"><rect class="day-cell" data-date="2025-04-12" x="198" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/llama.cpp-jetson/commit/5fbbdacf5063a24e3479a10ea2f7e509715c998a"><rect class="day-cell" data-date="2025-04-13" x="210" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/llama.cpp-jetson/commit/ed21b1f89df24a19b6a2c3d4b8d81c2360cebbf4"><rect class="day-cell" data-date="2025-04-14" x="210" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/llama.cpp-jetson/commit/d095b11913311be709f215ac5b8e24308a5ccf4c"><rect class="day-cell" data-date="2025-04-15" x="210" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/llama.cpp-jetson/commit/c044ee4e405460728ae1d90a3134e29425c43c83"><rect class="day-cell" data-date="2025-04-16" x="210" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/0713cd37635db58e7e7b0c17fcf40dc3e30e9f24"><rect class="day-cell" data-date="2025-04-17" x="210" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/889aa66e53b52a1657e67e8dda6863edee5f6490"><rect class="day-cell" data-date="2025-04-18" x="210" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/aa/commit/b12cb6216783fcfa514daae4220c35f3b0bba01f"><rect class="day-cell" data-date="2025-04-09" x="198" y="54" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-04-10" x="198" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-04-11" x="198" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-04-12" x="198" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-04-13" x="210" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-04-14" x="210" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-04-15" x="210" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-04-16" x="210" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-04-17" x="210" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-04-18" x="210" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <a href="https://github.com/kreier/hacks/commit/0f81a6ec43c7c81b18d47d433cb3792d8d3d2618"><rect class="day-cell" data-date="2025-04-19" x="210" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/jetson/commit/b6b4ec8c62887888995cd34310c1649c5c1f360f"><rect class="day-cell" data-date="2025-04-20" x="222" y="18" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/jetson/commit/bda912b74dba2dbcba99ef51258218e07d2b15a6"><rect class="day-cell" data-date="2025-04-21" x="222" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/llama.cpp-jetson.nano/blob/main/README.md"><rect class="day-cell" data-date="2025-04-20" x="222" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-04-21" x="222" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-04-22" x="222" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-04-23" x="222" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/tripitaka/commit/e95025abb54ee3c56ec46b8e9ff629789f82f160"><rect class="day-cell" data-date="2025-04-24" x="222" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-04-24" x="222" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <a href="https://github.com/kreier/benchmark/commit/a467ab3e9394c41900c197f58881a2e055beb4a9"><rect class="day-cell" data-date="2025-04-25" x="222" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/cuda/commit/84da567a363dbc3527a0c189e1354bfe89c1ca5f"><rect class="day-cell" data-date="2025-04-26" x="222" y="90" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/cuda/commit/84da567a363dbc3527a0c189e1354bfe89c1ca5f"><rect class="day-cell" data-date="2025-04-26" x="222" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2025-04-27" x="234" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-04-28" x="234" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-04-29" x="234" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <a href="https://github.com/kreier/benchmark/commit/7041cd9fd1a5d2ac65e287b41a95b319cb70cfc5"><rect class="day-cell" data-date="2025-04-30" x="234" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/de4d1ae8d45082c1320ed769849556bbce1777ed"><rect class="day-cell" data-date="2025-05-01" x="234" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/15a7dc1954eeaffcf79b534d4e37008554233641"><rect class="day-cell" data-date="2025-05-02" x="234" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-05-02" x="234" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <a href="https://github.com/kreier/benchmark/commit/dec32ce9b7ec3280a4582319b71d35db5607f805"><rect class="day-cell" data-date="2025-05-03" x="234" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
 <text x="246" y="12" font-family="sans-serif" font-size="8" fill="#767676">May</text>
 <rect class="day-cell" data-date="2025-05-04" x="246" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/ml/commit/66b8eea556fa1c273a0e96f596f3bd2ce4a7b594"><rect class="day-cell" data-date="2025-05-05" x="246" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/llama.cpp-jetson/commit/a944a1785adc7f58c5d6677bfbe574de60139cff"><rect class="day-cell" data-date="2025-05-06" x="246" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/prime/commit/1298baef6efa478497a95a03c4607a8d34bc7ee4"><rect class="day-cell" data-date="2025-05-07" x="246" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-05-05" x="246" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-05-06" x="246" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-05-07" x="246" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-05-08" x="246" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <a href="https://github.com/kreier/benchmark/commit/cd9ce0ae92dc84de8022c0ec04b669387857890f"><rect class="day-cell" data-date="2025-05-09" x="246" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/prime/commit/f7bafcfe9755e535262ab3a06a08b5a891df7031"><rect class="day-cell" data-date="2025-05-10" x="246" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/prime/commit/4e66b7c8c70bba0c7f0135b17709c86ac51bc28e"><rect class="day-cell" data-date="2025-05-11" x="258" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/benchmark/commit/78bf8c2204e2fe69d10ebc6f71cd514c320f5ded"><rect class="day-cell" data-date="2025-05-12" x="258" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/rp2040/commit/b603361b039f702e30ff8d39ea4968f993a0a56d"><rect class="day-cell" data-date="2025-05-13" x="258" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/rp2350/blob/main/README.md"><rect class="day-cell" data-date="2025-05-10" x="246" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-05-11" x="258" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<a href="https://github.com/kreier/benchmark/commit/78bf8c2204e2fe69d10ebc6f71cd514c320f5ded"><rect class="day-cell" data-date="2025-05-12" x="258" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/rp2040/blob/main/README.md"><rect class="day-cell" data-date="2025-05-13" x="258" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2025-05-14" x="258" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-05-15" x="258" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/timeline/commit/a1d49110a4c192ed6c5733b2a1686f1f6ab02524"><rect class="day-cell" data-date="2025-05-16" x="258" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-05-16" x="258" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-05-17" x="258" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-05-18" x="270" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-05-19" x="270" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
@@ -173,23 +173,23 @@
 <rect class="day-cell" data-date="2025-06-12" x="306" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-06-13" x="306" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-06-14" x="306" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/timeline/commit/8d254f243861b4011e01741e44d766d1b9845220"><rect class="day-cell" data-date="2025-06-15" x="318" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/852e7b0e6e565abbb4ffa97174670b2459ea9d1e"><rect class="day-cell" data-date="2025-06-16" x="318" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/fe5a2fbec66a32352b1283c2cb33f0110ee1eb43"><rect class="day-cell" data-date="2025-06-17" x="318" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-06-15" x="318" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-06-16" x="318" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-06-17" x="318" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-06-18" x="318" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-06-19" x="318" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://kreier.github.io/quartz/Travel/Leisure/Hiking-in-Vietnam"><rect class="day-cell" data-date="2025-06-20" x="318" y="78" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/f391e3a78e1c2a0c93d7ad6ab618c4d205f03b55"><rect class="day-cell" data-date="2025-06-21" x="318" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-06-20" x="318" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-06-21" x="318" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-06-22" x="330" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-06-23" x="330" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/timeline/commit/5ec4b471acb1e359105a3e92ce30c5e202e53aa2"><rect class="day-cell" data-date="2025-06-24" x="330" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-06-24" x="330" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-06-25" x="330" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-06-26" x="330" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-06-27" x="330" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-06-28" x="330" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-06-29" x="342" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-06-30" x="342" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://kreier.github.io/quartz/Blog/2025/07/Núi-Thị-Vải-II"><rect class="day-cell" data-date="2025-07-01" x="342" y="42" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-07-01" x="342" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-07-02" x="342" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-07-03" x="342" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-07-04" x="342" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
@@ -202,8 +202,8 @@
 <rect class="day-cell" data-date="2025-07-10" x="354" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-07-11" x="354" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-07-12" x="354" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/timeline/commit/d23e0bdba6fcbb81c74f7d4197d062758e17ebdf"><rect class="day-cell" data-date="2025-07-13" x="366" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/7788c0ba0eb033f5f8c6a321bd6a6a12cc8daf81"><rect class="day-cell" data-date="2025-07-14" x="366" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-07-13" x="366" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-07-14" x="366" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-07-15" x="366" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-07-16" x="366" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-07-17" x="366" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
@@ -218,9 +218,9 @@
 <rect class="day-cell" data-date="2025-07-26" x="378" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-07-27" x="390" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-07-28" x="390" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/timeline/commit/81fc9acee3a4adf7523d1fdfae16335ec6e87986"><rect class="day-cell" data-date="2025-07-29" x="390" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-07-29" x="390" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-07-30" x="390" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/timeline/commit/1a57195270a839ab5570181afaf1b98833f4876c"><rect class="day-cell" data-date="2025-07-31" x="390" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-07-31" x="390" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-08-01" x="390" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-08-02" x="390" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <text x="402" y="12" font-family="sans-serif" font-size="8" fill="#767676">Aug</text>
@@ -236,117 +236,117 @@
 <rect class="day-cell" data-date="2025-08-12" x="414" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-08-13" x="414" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-08-14" x="414" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/timeline/commit/0895b948b1667f9baf81ed999b5844bb8603a442"><rect class="day-cell" data-date="2025-08-15" x="414" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-08-15" x="414" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-08-16" x="414" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/timeline/commit/244509ae939959f6043671ab4b8745ec84750ae5"><rect class="day-cell" data-date="2025-08-17" x="426" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-08-17" x="426" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <a href="https://github.com/kreier/benchmark/commit/1975531f72c9e251aabe874622a8d8f1aac84fb0"><rect class="day-cell" data-date="2025-08-18" x="426" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/study/commit/4671b8c13ead8546d553298c284989f3abac1401"><rect class="day-cell" data-date="2025-08-19" x="426" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/2c2dc61e45f6eb9c53bda7734dfbca3da881c6f9"><rect class="day-cell" data-date="2025-08-20" x="426" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-08-19" x="426" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-08-20" x="426" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-08-21" x="426" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-08-22" x="426" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/study/commit/9310cb0446025ace43679ed2e88a3949d7638762"><rect class="day-cell" data-date="2025-08-23" x="426" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-08-23" x="426" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-08-24" x="438" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-08-25" x="438" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-08-26" x="438" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-08-27" x="438" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/study/commit/c8e8d8fd5754bb847977850cb676fd7858c44ffb"><rect class="day-cell" data-date="2025-08-28" x="438" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/study/commit/0ea693c048745dabab7091dfe43ee6e4a0dbc355"><rect class="day-cell" data-date="2025-08-29" x="438" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-08-28" x="438" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-08-29" x="438" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-08-30" x="438" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-08-31" x="450" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-09-01" x="450" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-09-02" x="450" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/timeline/commit/0c9f21ab970bf0d8727e90d20c962d5f4ba24e98"><rect class="day-cell" data-date="2025-09-03" x="450" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-09-03" x="450" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-09-04" x="450" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/study/commit/082964b551105ce427e5ab9bf0e5d2f74e37cbe4"><rect class="day-cell" data-date="2025-09-05" x="450" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/T300/commit/873480ce2cf50acd39ec53cdd39687f10b8840cc"><rect class="day-cell" data-date="2025-09-06" x="450" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-09-05" x="450" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<a href="https://github.com/kreier/T300/blob/master/README.md"><rect class="day-cell" data-date="2025-09-06" x="450" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
 <text x="462" y="12" font-family="sans-serif" font-size="8" fill="#767676">Sep</text>
 <rect class="day-cell" data-date="2025-09-07" x="462" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/T400/commit/096a2d43ee777390624315b4a53ec6ac29b15337"><rect class="day-cell" data-date="2025-09-08" x="462" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/d4c00f2d104d09f9a4e08423b6090010c7888f30"><rect class="day-cell" data-date="2025-09-09" x="462" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/T400/blob/main/README.md"><rect class="day-cell" data-date="2025-09-08" x="462" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-09-09" x="462" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-09-10" x="462" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-09-11" x="462" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-09-12" x="462" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-09-13" x="462" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-09-14" x="474" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/timeline/commit/49ff0ea52078eaa09bd5442d61992ae174d982c8"><rect class="day-cell" data-date="2025-09-15" x="474" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-09-15" x="474" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-09-16" x="474" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/timeline/commit/972982bf88e60f7715b44789cf7a224956d7c168"><rect class="day-cell" data-date="2025-09-17" x="474" y="54" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/daeabf330dade6692b2fac9719efe3ba1890ea0b"><rect class="day-cell" data-date="2025-09-18" x="474" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/study/commit/42d4cb3707c74e3fafbffd8e86fbf4362ed2838f"><rect class="day-cell" data-date="2025-09-19" x="474" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/cdb815d5be961f6093866f708cc6b5c2c8b879d7"><rect class="day-cell" data-date="2025-09-20" x="474" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-09-17" x="474" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-09-18" x="474" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-09-19" x="474" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-09-20" x="474" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-09-21" x="486" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/movies/commit/80cfe4fb852783e7fe94aecbf86ce43ddeee2a91"><rect class="day-cell" data-date="2025-09-22" x="486" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/a447cb83a06d0ce93dfb2d50904d624ae104d352"><rect class="day-cell" data-date="2025-09-23" x="486" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/013ad15c800eeda0c6aee1b56644089531221822"><rect class="day-cell" data-date="2025-09-24" x="486" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/study/commit/58ac9febae2df42817afa7aea0b81e7151ec7cfa"><rect class="day-cell" data-date="2025-09-25" x="486" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/language-families/commit/8a7044dcc610685e980da3f1448430e57445476d"><rect class="day-cell" data-date="2025-09-26" x="486" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/movies/blob/main/README.md"><rect class="day-cell" data-date="2025-09-22" x="486" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-09-23" x="486" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-09-24" x="486" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-09-25" x="486" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-09-26" x="486" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-09-27" x="486" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/nam-electric/commit/91fc6d3f726451dd71b53f85261ae40b86ec82c2"><rect class="day-cell" data-date="2025-09-28" x="498" y="18" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/nam-electric/blob/main/README.md"><rect class="day-cell" data-date="2025-09-28" x="498" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2025-09-29" x="498" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <a href="https://github.com/kreier/ESP32/commit/c8a7439ebcc762b24d52443fbaf3a6add7b824fe"><rect class="day-cell" data-date="2025-09-30" x="498" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://kreier.github.io/quartz/Blog/2025/10/Official-start-of-my-study-at-Su-Pham-and-Extension-of-a-few-projects"><rect class="day-cell" data-date="2025-10-01" x="498" y="54" width="10" height="10" fill="#ef5350" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/cru/commit/00693a119a4f7dd5787f4f69e26aed5e603e2957"><rect class="day-cell" data-date="2025-10-01" x="498" y="54" width="10" height="10" fill="#fb8c00" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2025-10-02" x="498" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/timeline/commit/0f1cf56e41513d77a28b23a72b4c9725f3851e52"><rect class="day-cell" data-date="2025-10-03" x="498" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-10-03" x="498" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-10-04" x="498" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <text x="510" y="12" font-family="sans-serif" font-size="8" fill="#767676">Oct</text>
 <rect class="day-cell" data-date="2025-10-05" x="510" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/timeline/commit/4abf01a90c00637417c56d68f096e64562974826"><rect class="day-cell" data-date="2025-10-06" x="510" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/ac9ddb5c048b6c57fe309c5c2f0fb6dc36aacbd6"><rect class="day-cell" data-date="2025-10-07" x="510" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/9b2bb7995354609a32a8ce4096be517cf2ed8395"><rect class="day-cell" data-date="2025-10-08" x="510" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-10-06" x="510" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-10-07" x="510" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-10-08" x="510" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-10-09" x="510" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/communicationspeed/commit/e740a96d39087e4a0341287d67c157783eedc00f"><rect class="day-cell" data-date="2025-10-10" x="510" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/communicationspeed/commit/e740a96d39087e4a0341287d67c157783eedc00f"><rect class="day-cell" data-date="2025-10-10" x="510" y="78" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2025-10-11" x="510" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <a href="https://github.com/kreier/communicationspeed/commit/05477e93e7ed334548d50c3872e8b6eeeb7af3c9"><rect class="day-cell" data-date="2025-10-12" x="522" y="18" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/3828cf217cd0b7200ed6e19cfdcf38a1eb5940cd"><rect class="day-cell" data-date="2025-10-13" x="522" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/128x64/commit/39128c24d648fc15e044c7fce8fa612768d364b5"><rect class="day-cell" data-date="2025-10-14" x="522" y="42" width="10" height="10" fill="#fb8c00" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/logo/commit/03a7e3a8e0a512f173089109b4265e5e4bd5e807"><rect class="day-cell" data-date="2025-10-15" x="522" y="54" width="10" height="10" fill="#fb8c00" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/study/commit/8ec259932d864ea5f553f74ca50201698b7f19ac"><rect class="day-cell" data-date="2025-10-16" x="522" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/saiht-parser/commit/c0ea00ffea819c13e7dcdcf89da4d5937bfd08c3"><rect class="day-cell" data-date="2025-10-17" x="522" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/saiht-parser/commit/f7dcb95f27b54bac40049f6854829583675ba631"><rect class="day-cell" data-date="2025-10-18" x="522" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://saiht.de/blog/2025/10/19/12-years-down-four-more-years-to-go/"><rect class="day-cell" data-date="2025-10-19" x="534" y="18" width="10" height="10" fill="#216e39" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-10-13" x="522" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<a href="https://github.com/kreier/128x64/commit/39128c24d648fc15e044c7fce8fa612768d364b5"><rect class="day-cell" data-date="2025-10-14" x="522" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-10-15" x="522" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-10-16" x="522" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-10-17" x="522" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-10-18" x="522" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<a href="https://saiht.de/blog/2025/10/19/12-years-down-four-more-years-to-go/"><rect class="day-cell" data-date="2025-10-19" x="534" y="18" width="10" height="10" fill="#9be9a8" rx="2" ry="2"></rect></a>
 <a href="https://kreier.github.io/quartz/About-the-blog"><rect class="day-cell" data-date="2025-10-20" x="534" y="30" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/notes/commit/b91bbf34b4d8773dc975283591a0a6d0b5087ca5"><rect class="day-cell" data-date="2025-10-21" x="534" y="42" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-10-21" x="534" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-10-22" x="534" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/quartz/commit/40109c773b49234609fd5fed588cbd2a9772b4df"><rect class="day-cell" data-date="2025-10-23" x="534" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-10-23" x="534" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-10-24" x="534" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-10-25" x="534" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-10-26" x="546" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/obsidian/commit/cccf0c8878d4af8982fcac52c9010bfad034bc30"><rect class="day-cell" data-date="2025-10-27" x="546" y="30" width="10" height="10" fill="#fb8c00" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/study/commit/7e1e4d5bbf8090ec1203760a361c81ca5246b7e2"><rect class="day-cell" data-date="2025-10-28" x="546" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-10-27" x="546" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-10-28" x="546" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-10-29" x="546" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-10-30" x="546" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-10-31" x="546" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<rect class="day-cell" data-date="2025-11-01" x="546" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<a href="https://kreier.github.io/quartz/Blog/2025/11/Meo-Vac"><rect class="day-cell" data-date="2025-11-01" x="546" y="90" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"></rect></a>
 <text x="558" y="12" font-family="sans-serif" font-size="8" fill="#767676">Nov</text>
 <rect class="day-cell" data-date="2025-11-02" x="558" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-11-03" x="558" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-11-04" x="558" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-11-05" x="558" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/study/commit/aee3014a2c3c4cd103383f6ce96602bd67fb7d33"><rect class="day-cell" data-date="2025-11-06" x="558" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-11-06" x="558" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-11-07" x="558" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-11-08" x="558" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/study/commit/b3c3a620f5e3527a4bfa88fef4e7cbc67a7fce5b"><rect class="day-cell" data-date="2025-11-09" x="570" y="18" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/quartz/commit/070ab9da4f9b523e73bf9ad62c2240b477777397"><rect class="day-cell" data-date="2025-11-10" x="570" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/study/blob/main/README.md"><rect class="day-cell" data-date="2025-11-09" x="570" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-11-10" x="570" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-11-11" x="570" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/obsidian/commit/b5c26dc32db98e7985077b61865fbc7e25b622ca"><rect class="day-cell" data-date="2025-11-12" x="570" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-11-12" x="570" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-11-13" x="570" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-11-14" x="570" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/logo/commit/c288d8a008e243cd7c4d29e7ba8961f606e925dd"><rect class="day-cell" data-date="2025-11-15" x="570" y="90" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-11-15" x="570" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-11-16" x="582" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/promised-seed/commit/398158e4d91ff975793b2137847b3754e6d4f729"><rect class="day-cell" data-date="2025-11-17" x="582" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://saiht.de/blog/2025/11/18/teacher-day-in-vietnam/"><rect class="day-cell" data-date="2025-11-18" x="582" y="42" width="10" height="10" fill="#40c463" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/promised-seed/commit/2344e41173aaca57560f3e2982fba4b8d97656cb"><rect class="day-cell" data-date="2025-11-19" x="582" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-11-17" x="582" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<a href="https://saiht.de/blog/2025/11/18/teacher-day-in-vietnam/"><rect class="day-cell" data-date="2025-11-18" x="582" y="42" width="10" height="10" fill="#9be9a8" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-11-19" x="582" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-11-20" x="582" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-11-21" x="582" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/language-families/commit/021595cbde62cfc99c2e1dc276e1813c2210b665"><rect class="day-cell" data-date="2025-11-22" x="582" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/thesis08/commit/9bff391bd84f5b2302291cfe46ad7be80f95485c"><rect class="day-cell" data-date="2025-11-23" x="594" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/thesis08/commit/c310b1faa983a4653c34ddf2e62cbc1377e295b0"><rect class="day-cell" data-date="2025-11-24" x="594" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/promised-seed/commit/f1d76fc0fbbeb9ab1624402b741d9dc1133bf2de"><rect class="day-cell" data-date="2025-11-25" x="594" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/promised-seed/commit/049265effb0ff0c9b65cc2a50b7cbd3c3c96ff69"><rect class="day-cell" data-date="2025-11-26" x="594" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/thesis08/commit/6306c84457b9fe3ec932b92f3d2a8afeece1aa41"><rect class="day-cell" data-date="2025-11-27" x="594" y="66" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/thesis08/commit/79af6ed89cc18b465a5651cd1a0b3761f796296b"><rect class="day-cell" data-date="2025-11-28" x="594" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/promised-seed/commit/17e0307383947939303107d8cdfbb1f3e48212f3"><rect class="day-cell" data-date="2025-11-29" x="594" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/promised-seed/commit/f41f9948c517d373db230dcc1266621cbd357dc7"><rect class="day-cell" data-date="2025-11-30" x="606" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/language-families/blob/main/README.md"><rect class="day-cell" data-date="2025-11-22" x="582" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-11-23" x="594" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-11-24" x="594" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-11-25" x="594" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-11-26" x="594" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-11-27" x="594" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-11-28" x="594" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-11-29" x="594" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<a href="https://github.com/kreier/promised-seed/blob/main/README.md"><rect class="day-cell" data-date="2025-11-30" x="606" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
 <a href="https://kreier.github.io/quartz/Blog/2025/12/Black-Virgin-Mountain-II"><rect class="day-cell" data-date="2025-12-01" x="606" y="30" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2025-12-02" x="606" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-12-03" x="606" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
@@ -355,30 +355,30 @@
 <rect class="day-cell" data-date="2025-12-06" x="606" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <text x="618" y="12" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
 <rect class="day-cell" data-date="2025-12-07" x="618" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/obsidian/commit/ef49da94ab730405f4ab596b8ab9ebe881fb3d09"><rect class="day-cell" data-date="2025-12-08" x="618" y="30" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/obsidian/commit/97685ea0b28ae1ca065b36dfa14c42f26197245b"><rect class="day-cell" data-date="2025-12-09" x="618" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-12-08" x="618" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-12-09" x="618" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-12-10" x="618" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-12-11" x="618" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-12-12" x="618" y="78" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/obsidian/commit/0ac3f96af78574110e9a384fdd97607ed05338f1"><rect class="day-cell" data-date="2025-12-13" x="618" y="90" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/timeline/commit/f7e8c668bc1994ee7dd7d584028c09f56cc6ad9a"><rect class="day-cell" data-date="2025-12-14" x="630" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/obsidian/commit/60f3736f24b499828c6d7f1081ab08a7642fb10a"><rect class="day-cell" data-date="2025-12-15" x="630" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-12-13" x="618" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-12-14" x="630" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-12-15" x="630" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-12-16" x="630" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/python2018/commit/d0d1e08b3a01bfd96aa7794eb7071dfe291622e2"><rect class="day-cell" data-date="2025-12-17" x="630" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://saiht.de/blog/2025/12/18/reactivation-2025/"><rect class="day-cell" data-date="2025-12-18" x="630" y="66" width="10" height="10" fill="#40c463" rx="2" ry="2"></rect></a>
-<a href="https://saiht.de/blog/2025/12/19/history-of-course-615/"><rect class="day-cell" data-date="2025-12-19" x="630" y="78" width="10" height="10" fill="#40c463" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/obsidian/commit/cb25e8213c9007054a7c9a69055e0d2851b253c6"><rect class="day-cell" data-date="2025-12-20" x="630" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/statistics-diary/commit/9c47fd10a62c5c427468ccc70b7d1d51023e9e15"><rect class="day-cell" data-date="2025-12-21" x="642" y="18" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/calendar/commit/f84acefebc36831e03a307f23e7934ac38773321"><rect class="day-cell" data-date="2025-12-22" x="642" y="30" width="10" height="10" fill="#ffa726" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/obsidian/commit/ca0156cb37f6574c1f7f01a5f3853b8993fb45e8"><rect class="day-cell" data-date="2025-12-23" x="642" y="42" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-12-17" x="630" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<a href="https://kreier.github.io/quartz/Projects/GitHub/Statistics-of-my-diary,-projects-and-other-stories"><rect class="day-cell" data-date="2025-12-18" x="630" y="66" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"></rect></a>
+<a href="https://saiht.de/blog/2025/12/19/history-of-course-615/"><rect class="day-cell" data-date="2025-12-19" x="630" y="78" width="10" height="10" fill="#9be9a8" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-12-20" x="630" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-12-21" x="642" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<a href="https://github.com/kreier/calendar/commit/f84acefebc36831e03a307f23e7934ac38773321"><rect class="day-cell" data-date="2025-12-22" x="642" y="30" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<a href="https://github.com/kreier/saiht-parser/blob/main/README.md"><rect class="day-cell" data-date="2025-12-23" x="642" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2025-12-24" x="642" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/obsidian/commit/ffc2ec2e86fe618df4c65cf5db4f832f5e4d0091"><rect class="day-cell" data-date="2025-12-25" x="642" y="66" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/communicationspeed/commit/ea73ca33f789f91378d545958aab4b921bfd72a4"><rect class="day-cell" data-date="2025-12-26" x="642" y="78" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/quartz/commit/85ef5b3520943fd9d84d65469e977ed81613f579"><rect class="day-cell" data-date="2025-12-27" x="642" y="90" width="10" height="10" fill="#ffcc80" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/obsidian/commit/f641eed98757c8b6c829988cc493e6d1227dbe5b"><rect class="day-cell" data-date="2025-12-28" x="654" y="18" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-12-25" x="642" y="66" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<a href="https://github.com/kreier/communicationspeed/commit/ea73ca33f789f91378d545958aab4b921bfd72a4"><rect class="day-cell" data-date="2025-12-26" x="642" y="78" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-12-27" x="642" y="90" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-12-28" x="654" y="18" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2025-12-29" x="654" y="30" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://github.com/kreier/obsidian/commit/bec93c395df94ffb29daa916f1bb3a58b3a30bde"><rect class="day-cell" data-date="2025-12-30" x="654" y="42" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
-<a href="https://github.com/kreier/thesis08/commit/e39e18e15776a370e7c3437286803e109dc92b62"><rect class="day-cell" data-date="2025-12-31" x="654" y="54" width="10" height="10" fill="#fff3e0" rx="2" ry="2"></rect></a>
+<rect class="day-cell" data-date="2025-12-30" x="654" y="42" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<rect class="day-cell" data-date="2025-12-31" x="654" y="54" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect x="30" y="112" width="8" height="8" fill="#30a14e" rx="1" ry="1"/>
 <text x="42" y="119" font-family="sans-serif" font-size="7" fill="#767676">WordPress</text>
 <rect x="100" y="112" width="8" height="8" fill="#e57373" rx="1" ry="1"/>
