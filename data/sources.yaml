@@ -2,25 +2,50 @@
   type: wordpress
   url: https://saiht.de/blog
   name: WordPress
-  colors: ["#9be9a8", "#40c463", "#30a14e", "#216e39"]
-
+  colors:
+  - '#9be9a8'
+  - '#40c463'
+  - '#30a14e'
+  - '#216e39'
 - id: quartz_kreier
   type: quartz
   url: https://kreier.github.io/quartz
   name: Quartz
-  colors: ["#ffcdd2", "#ef9a9a", "#e57373", "#ef5350"]
-
+  colors:
+  - '#ffcdd2'
+  - '#ef9a9a'
+  - '#e57373'
+  - '#ef5350'
 - id: legacy_saiht
   type: legacy_html
   url: https://saiht.de/legacy
-  exclude: ["https://saiht.de/legacy/lite/"]
+  exclude:
+  - https://saiht.de/legacy/lite/
   name: Legacy HTML
-  colors: ["#bbdefb", "#90caf9", "#64b5f6", "#42a5f5"]
-
+  colors:
+  - '#bbdefb'
+  - '#90caf9'
+  - '#64b5f6'
+  - '#42a5f5'
 - id: github_kreier
   type: github
   url: kreier
-  exclude: ["force-curves", "ESP_WiFiManager"]
+  exclude:
+  - force-curves
+  - ESP_WiFiManager
   exclude_forks: true
   name: GitHub
-  colors: ["#fff3e0", "#ffcc80", "#ffa726", "#fb8c00"]
+  colors:
+  - '#fff3e0'
+  - '#ffcc80'
+  - '#ffa726'
+  - '#fb8c00'
+- id: sdw_saiht_de
+  type: legacy_html
+  url: https://sdw.saiht.de
+  name: SDW
+  colors:
+  - '#9be9a8'
+  - '#40c463'
+  - '#30a14e'
+  - '#216e39'
