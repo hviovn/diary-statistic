@@ -53,15 +53,15 @@ class SourceEditScreen(ModalScreen):
 
 class ManageSourcesApp(App):
     CSS = """
+    SourceEditScreen {
+        align: center middle;
+    }
     #dialog {
         padding: 1 2;
         background: $panel;
         border: thick $primary;
         width: 60;
         height: auto;
-        position: absolute;
-        top: 25%;
-        left: 25%;
     }
     DataTable {
         height: 1fr;
