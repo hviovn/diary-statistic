@@ -1,0 +1,768 @@
+{
+  "source_id": "wordpress_saiht",
+  "type": "wordpress",
+  "base_url": "https://saiht.de/blog",
+  "last_checked": "2026-04-11T17:47:59.860755+00:00",
+  "pages": [
+    {
+      "url": "https://saiht.de/blog/2025/12/19/history-of-course-615/",
+      "title": "History of course 615",
+      "date": "2025-12-19",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2025/12/18/reactivation-2025/",
+      "title": "Reactivation 2025",
+      "date": "2025-12-18",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2025/11/18/teacher-day-in-vietnam/",
+      "title": "Teacher day in Vietnam",
+      "date": "2025-11-18",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2025/10/19/12-years-down-four-more-years-to-go/",
+      "title": "12 years down &#8211; four more years to go",
+      "date": "2025-10-19",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2025/06/05/gehen-wir-noch-einen-trinken/",
+      "title": "Gehen wir noch einen trinken?",
+      "date": "2025-06-05",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2025/06/04/two-visitors-from-germany/",
+      "title": "Two visitors from Germany",
+      "date": "2025-06-04",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2019/03/26/ai-und-ml/",
+      "title": "AI und ML",
+      "date": "2019-03-26",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2019/03/05/sciencefair-2019/",
+      "title": "Sciencefair 2019",
+      "date": "2019-03-05",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2017/03/12/spring-race-10km-um-den-golfplatz/",
+      "title": "Spring Race 10km um den Golfplatz",
+      "date": "2017-03-12",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2017/02/28/waffelverkauf/",
+      "title": "Waffelverkauf",
+      "date": "2017-02-28",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2017/01/15/who-is-faster-you-or-the-city/",
+      "title": "You or the City &#8211; Who is faster?",
+      "date": "2017-01-15",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2017/01/13/berichte-von-kollegen/",
+      "title": "Berichte von Kollegen",
+      "date": "2017-01-13",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/09/17/am-strand-von-vung-tau/",
+      "title": "Am Strand von V\u0169ng T\u00e0u",
+      "date": "2016-09-17",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/09/16/ernaehrungsumstellung/",
+      "title": "Ern\u00e4hrungsumstellung",
+      "date": "2016-09-16",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/09/12/langsames-internet/",
+      "title": "Langsames Internet",
+      "date": "2016-09-12",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/09/09/holzwerkstatt-1-regal-in-timelapse/",
+      "title": "Holzwerkstatt 1 &#8211; Regal in TimeLapse",
+      "date": "2016-09-09",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/09/09/fahrt-zur-schule-mit-der-gopro-yi-xiaomi/",
+      "title": "Fahrt zur Schule mit der GoPro (Yi Xiaomi)",
+      "date": "2016-09-09",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/09/03/topcase-fuer-das-motorrad/",
+      "title": "Topcase f\u00fcr das Motorrad",
+      "date": "2016-09-03",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/09/02/holzbestellung-fuer-die-holzwerkstatt/",
+      "title": "Holzbestellung f\u00fcr die Holzwerkstatt",
+      "date": "2016-09-02",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/08/29/vier-klassen-in-einer-klasse/",
+      "title": "Vier Klassen in einer Klasse?",
+      "date": "2016-08-29",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/08/27/ueberschwemmte-schule/",
+      "title": "\u00fcberschwemmte Schule",
+      "date": "2016-08-27",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/08/26/erster-schultag/",
+      "title": "Erster Schultag",
+      "date": "2016-08-26",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/08/17/bankkonto-3-bidv-und-vietin/",
+      "title": "Bankkonto 3: BIDV und Vietin",
+      "date": "2016-08-17",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/08/16/rfid-fuer-die-tiefgarage/",
+      "title": "RFID f\u00fcr die Tiefgarage",
+      "date": "2016-08-16",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/08/15/wasserpuppentheater-hanoi/",
+      "title": "Wasserpuppentheater Hanoi",
+      "date": "2016-08-15",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/08/14/ha-long-bucht/",
+      "title": "Ha-Long Bucht",
+      "date": "2016-08-14",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/08/13/willkommen-in-hanoi/",
+      "title": "Willkommen in Hanoi",
+      "date": "2016-08-13",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/08/12/reifendruckkontrolle-auf-vietnamesisch/",
+      "title": "Reifendruckkontrolle auf vietnamesisch",
+      "date": "2016-08-12",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/08/11/fuehrungszeugnis-konsulat/",
+      "title": "F\u00fchrungszeugnis Konsulat",
+      "date": "2016-08-11",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/08/10/ankunft-saigon/",
+      "title": "\u00dcbergangswohnung und neu mit FTTH",
+      "date": "2016-08-10",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/08/09/bankkonto-2-sc-vn-die-zweite/",
+      "title": "Bankkonto 2: sc.vn die Zweite",
+      "date": "2016-08-09",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/08/08/bankkonto-1-standard-chartered/",
+      "title": "Bankkonto 1: Standard Chartered",
+      "date": "2016-08-08",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/08/07/shoppen-am-sonntag/",
+      "title": "Shoppen am Sonntag",
+      "date": "2016-08-07",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/08/06/nicos-hochzeit/",
+      "title": "Nico&#8217;s Hochzeit",
+      "date": "2016-08-06",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/08/05/neue-wohnung/",
+      "title": "neue Wohnung",
+      "date": "2016-08-05",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/08/04/ankunft-ho-chi-minh-city/",
+      "title": "Ankunft Ho Chi Minh City",
+      "date": "2016-08-04",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/04/23/lagerfeuer-und-lightpainting/",
+      "title": "Lagerfeuer und Lightpainting",
+      "date": "2016-04-23",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/04/05/musteraufgaben-klasse-10-vorlaeufig/",
+      "title": "Musteraufgaben Physik 10",
+      "date": "2016-04-05",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2016/03/01/stirlingmotor/",
+      "title": "Stirlingmotor",
+      "date": "2016-03-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2015/12/15/sternbilder-im-winter/",
+      "title": "Sternbilder im Winter",
+      "date": "2015-12-15",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2015/11/22/fortschritte-baumbausprojekt/",
+      "title": "Fortschritte Baumhausprojekt",
+      "date": "2015-11-22",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2015/11/21/lightpainting/",
+      "title": "Lightpainting",
+      "date": "2015-11-21",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2015/11/16/kinematik-physik-10/",
+      "title": "Kinematik &#8211; Physik 10",
+      "date": "2015-11-16",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2015/11/12/revolution-in-der-bildung/",
+      "title": "Revolution in der Bildung?",
+      "date": "2015-11-12",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2015/11/06/physik-10-klasse/",
+      "title": "Physik 10. Klasse",
+      "date": "2015-11-06",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2015/10/15/360-grad-video/",
+      "title": "360\u00b0 VR Video",
+      "date": "2015-10-15",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2015/08/30/globalisierung-fuer-privatkunden/",
+      "title": "Globalisierung f\u00fcr Privatkunden",
+      "date": "2015-08-30",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2015/08/24/die-eigene-cloud/",
+      "title": "Die eigene Cloud",
+      "date": "2015-08-24",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2015/08/15/wetter-live-blitze/",
+      "title": "Wetter live: Blitze",
+      "date": "2015-08-15",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2015/07/10/regenparty-hofkoh/",
+      "title": "Regenparty Hofkoh",
+      "date": "2015-07-10",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2015/06/09/medienkonsum-die-zweite/",
+      "title": "Medienkonsum die Zweite",
+      "date": "2015-06-09",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2015/06/01/musteraufgaben-mathematik-7/",
+      "title": "Musteraufgaben Mathematik 7",
+      "date": "2015-06-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2015/04/29/reaktionsschema-nach-passig/",
+      "title": "Reaktionsschema nach Passig",
+      "date": "2015-04-29",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2015/02/27/didacta-2015-das-digitale-klassenzimmer/",
+      "title": "Didacta 2015 &#8211; Das digitale Klassenzimmer",
+      "date": "2015-02-27",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2015/01/10/physik-aufgabe-4-fuer-klasse-9b/",
+      "title": "Physik Aufgabe 4 f\u00fcr Klasse 9B",
+      "date": "2015-01-10",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2014/12/14/temperatur-in-hofkoh/",
+      "title": "Temperatur in Hofkoh",
+      "date": "2014-12-14",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2014/10/26/filmliste/",
+      "title": "Filmliste",
+      "date": "2014-10-26",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2014/10/05/ein-regenschutz/",
+      "title": "ein Regenschutz",
+      "date": "2014-10-05",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2014/09/28/aussicht-in-8-metern-hoehe/",
+      "title": "Aussicht in 8 Metern H\u00f6he",
+      "date": "2014-09-28",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2014/08/10/hobby-zum-beruf-machen/",
+      "title": "Hobby zum Beruf machen?",
+      "date": "2014-08-10",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2014/07/29/fortsetzung-baumhausprojekt/",
+      "title": "Fortsetzung Baumhausprojekt",
+      "date": "2014-07-29",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2014/01/15/jahreshauptversammlung/",
+      "title": "Jahreshauptversammlung",
+      "date": "2014-01-15",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2014/01/05/start-der-webseite/",
+      "title": "Start der Webseite",
+      "date": "2014-01-05",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2013/08/28/projektbeginn-baumhaus/",
+      "title": "Projektbeginn Baumhaus",
+      "date": "2013-08-28",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2013/06/06/baumhaus-ebene-eins/",
+      "title": "Baumhaus &#8211; Ebene eins",
+      "date": "2013-06-06",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2012/06/10/architektur-mit-sketchup/",
+      "title": "Architektur mit SketchUp",
+      "date": "2012-06-10",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2010/10/13/sdw-beendet/",
+      "title": "SDW beendet",
+      "date": "2010-10-13",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2010/06/10/projekt-der-htw-berlin/",
+      "title": "Projekt der HTW Berlin",
+      "date": "2010-06-10",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2010/02/15/wieder-online/",
+      "title": "wieder online",
+      "date": "2010-02-15",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2009/10/27/weiterer-server/",
+      "title": "Weiterer Server",
+      "date": "2009-10-27",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2009/10/23/zuruck-aus-moskau-2/",
+      "title": "Zur\u00fcck aus Moskau",
+      "date": "2009-10-23",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2009/10/13/zuruck-aus-moskau/",
+      "title": "Zwei Wochen Moskau",
+      "date": "2009-10-13",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2009/08/08/ausflug-nach-syrien-und-jordanien/",
+      "title": "Ausflug nach Syrien und Jordanien",
+      "date": "2009-08-08",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2009/03/29/weltkarte-von-uniteddomains/",
+      "title": "Weltkarte von united.domains",
+      "date": "2009-03-29",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2009/03/23/aufstieg-in-die-top5000-bei-wikipedia/",
+      "title": "Aufstieg in die Top5000 bei Wikipedia",
+      "date": "2009-03-23",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2009/02/02/wo-ist-der-arbeitgeber-2/",
+      "title": "Wo ist der Arbeitgeber",
+      "date": "2009-02-02",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2008/12/28/man-liest-mich/",
+      "title": "Man liest mich",
+      "date": "2008-12-28",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2008/12/10/zuruck-aus-amerika/",
+      "title": "Zur\u00fcck aus Amerika",
+      "date": "2008-12-10",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2008/10/15/zuruck-aus-dem-urlaub/",
+      "title": "Zur\u00fcck aus dem Urlaub in der Hohen Tatra",
+      "date": "2008-10-15",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2008/10/02/krank-zum-unpassenden-zeitpunkt/",
+      "title": "Krank zum unpassenden Zeitpunkt",
+      "date": "2008-10-02",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2008/09/25/hier-bei-werner/",
+      "title": "Hier bei Werner",
+      "date": "2008-09-25",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2008/09/24/freies-blog-bei-wordpress/",
+      "title": "Freies Blog bei WordPress",
+      "date": "2008-09-24",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2008/08/20/noch-immer-in-deutschland/",
+      "title": "noch immer in Deutschland",
+      "date": "2008-08-20",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2008/05/16/wordpress-ist-ganz-einfach-2/",
+      "title": "WordPress ist ganz einfach",
+      "date": "2008-05-16",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2008/04/17/mandigo-theme/",
+      "title": "Mandigo Theme",
+      "date": "2008-04-17",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2008/04/17/upgrade-auf-wordpress-25/",
+      "title": "upgrade auf WordPress 2.5",
+      "date": "2008-04-17",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2008/03/20/abschlussprufung-des-physikstudiums/",
+      "title": "Abschlusspr\u00fcfung des Physikstudiums",
+      "date": "2008-03-20",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2008/01/24/zum-funften-mal-nach-moskau/",
+      "title": "zum f\u00fcnften Mal nach Moskau",
+      "date": "2008-01-24",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2008/01/24/diplomarbeit-ist-fertig/",
+      "title": "Diplomarbeit ist fertig!",
+      "date": "2008-01-24",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2007/12/10/russischer-vortrag-uber-studienergebnisse/",
+      "title": "russischer Vortrag \u00fcber Studienergebnisse",
+      "date": "2007-12-10",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2007/10/24/grunde-fur-das-ledigsein/",
+      "title": "Gr\u00fcnde f\u00fcr das Ledigsein",
+      "date": "2007-10-24",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2007/10/12/aufstieg-auf-den-elbrus/",
+      "title": "Aufstieg auf den Elbrus",
+      "date": "2007-10-12",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2007/09/10/abflug-nach-moskau/",
+      "title": "Abflug nach Moskau",
+      "date": "2007-09-10",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2007/08/28/registrierung-von-saiht-org/",
+      "title": "Registrierung von saiht.org",
+      "date": "2007-08-28",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/blog/2006/07/15/erste-datenbank-erstes-wordpress-blog/",
+      "title": "erste Datenbank, erstes WordPress-Blog",
+      "date": "2006-07-15",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    }
+  ]
+}

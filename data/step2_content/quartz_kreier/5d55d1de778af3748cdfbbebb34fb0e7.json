@@ -1,0 +1,10 @@
+{
+  "url": "https://kreier.github.io/quartz/Blog/2020/06/Start-of-my-third-Sabbatical",
+  "fetched_at": "2026-04-11T15:22:27.826893+00:00",
+  "last_modified": "Tue, 31 Mar 2026 05:28:13 GMT",
+  "etag": "\"69cb5b6d-79e6\"",
+  "hash": "a4a5133b37690bb3a4e2fc8e3e2bcf8fb8960b8795b2fd8f1c6214669b53f3af",
+  "text": "Start of my third Sabbatical Obsidian Search Search Dark mode Light mode Reader mode !a.isFolder&&!b.isFolder||a.isFolder&&b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\\\"base\\\"}):!a.isFolder&&b.isFolder?1:-1\",\"filterFn\":\"node=>node.slugSegment!==\\\"tags\\\"\",\"mapFn\":\"node=>node\"}\"> Explorer Home \u276f Blog \u276f 2020 \u276f 06 \u276f Start of my third Sabbatical Start of my third Sabbatical Aug 06, 2020 1 min read This Monday, June 8th, is not yet a day to rest. My solar project at the AISVN is not done yet, there are many things to connect. So I drive to the school in the morning and start soldering ESP32 controller boards to self-designed mainboards, and upload some test software. Documentation We have a website from the school that is still active, and has a history part: https://sites.google.com/ais.edu.vn/solar https://sites.google.com/ais.edu.vn/solar/history And of course it is documented on GitHub: https://kreier.github.io/solarmeter/ There is a dedicated site about this here in this vault: Graph View Backlinks Third Sabbatical 2020 Created with Quartz v4.5.2 \u00a9 2026 GitHub Discord Community",
+  "images": [],
+  "files": []
+}

@@ -6,7 +6,7 @@ import argparse
 import xml.sax.saxutils as saxutils
 from datetime import datetime, date, timedelta
 
-def generate_svg(year, data_by_date, source_config, include_tooltips=False):
+def generate_svg(year, data_by_date, source_config, year_stats, include_tooltips=False):
     start_date = date(year, 1, 1)
     end_date = date(year, 12, 31)
     first_sunday = start_date - timedelta(days=(start_date.weekday() + 1) % 7)
@@ -19,13 +19,26 @@ def generate_svg(year, data_by_date, source_config, include_tooltips=False):
     square_size = 10
     square_margin = 2
     width = 53 * (square_size + square_margin) + 40
-    height = 7 * (square_size + square_margin) + 40
+    # Adjusted height for header and removal of legend
+    height = 7 * (square_size + square_margin) + 55
 
     svg_parts = [f'<svg viewBox="0 0 {width} {height}" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">']
+
+    # Header: Year and Statistics
+    stats_str = (f"Days documented: {year_stats['total_days']}, "
+                 f"Github: {year_stats['github']['days']} ({year_stats['github']['count']}), "
+                 f"Quartz: {year_stats['quartz']['days']} ({year_stats['quartz']['count']}), "
+                 f"Wordpress: {year_stats['wordpress']['days']} ({year_stats['wordpress']['count']}), "
+                 f"Legacy: {year_stats['legacy']['days']} ({year_stats['legacy']['count']})")
+
+    svg_parts.append(f'<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">{year}</text>')
+    svg_parts.append(f'<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">{stats_str}</text>')
+
     day_labels = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
+    grid_offset_y = 35
     for i, label in enumerate(day_labels):
         if i in [1, 3, 5]:
-            y = i * (square_size + square_margin) + 27
+            y = i * (square_size + square_margin) + grid_offset_y + 9
             svg_parts.append(f'<text x="5" y="{y}" font-family="sans-serif" font-size="8" fill="#767676">{label}</text>')
 
     months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
@@ -34,7 +47,7 @@ def generate_svg(year, data_by_date, source_config, include_tooltips=False):
     for week in range(53):
         if curr.year == year and curr.month != last_month:
             x = week * (square_size + square_margin) + 30
-            svg_parts.append(f'<text x="{x}" y="12" font-family="sans-serif" font-size="8" fill="#767676">{months[curr.month-1]}</text>')
+            svg_parts.append(f'<text x="{x}" y="30" font-family="sans-serif" font-size="8" fill="#767676">{months[curr.month-1]}</text>')
             last_month = curr.month
 
         for day in range(7):
@@ -51,7 +64,7 @@ def generate_svg(year, data_by_date, source_config, include_tooltips=False):
                     color = colors[min(level - 1, len(colors) - 1)]
 
                 x = week * (square_size + square_margin) + 30
-                y = day * (square_size + square_margin) + 18
+                y = day * (square_size + square_margin) + grid_offset_y
 
                 title_tag = ""
                 if include_tooltips:
@@ -70,10 +83,27 @@ def generate_svg(year, data_by_date, source_config, include_tooltips=False):
             curr += timedelta(days=1)
         if curr > end_date: break
 
-    # Legend
-    legend_x = 30
-    legend_y = height - 12
+    svg_parts.append('</svg>')
+    return "\n".join(svg_parts)
+
+def generate_key_svg(source_config):
+    # Aggregate by type to get unique names/colors for the key
+    types_seen = {}
     for sid, config in source_config.items():
+        stype = config['type']
+        if stype not in types_seen:
+            types_seen[stype] = {
+                'name': config['name'],
+                'colors': config['colors']
+            }
+
+    width = 676
+    height = 20
+    svg_parts = [f'<svg viewBox="0 0 {width} {height}" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">']
+
+    legend_x = 30
+    legend_y = 5
+    for stype, config in types_seen.items():
         label = config['name']
         colors = config['colors']
         color = colors[2] if len(colors) > 2 else colors[-1]
@@ -218,34 +248,59 @@ def main():
         '    <div id="tooltip" class="tooltip"></div>'
     ]
 
+    # Key SVG
+    key_svg_content = generate_key_svg(source_config)
+    with open(os.path.join(assets_dir, "key.svg"), "w") as f:
+        f.write(key_svg_content)
+
+    html_output.append('    <div style="margin-bottom: 20px;">')
+    html_output.append('        <img src="assets/key.svg" alt="Source key">')
+    html_output.append('    </div>')
+
     # Generate SVGs and collect info for README/index.html
     for year in range(end_year, start_year - 1, -1):
-        year_data = [p for d, entries in data_by_date.items() if d.startswith(str(year)) for p in entries]
-        if not year_data: continue
+        year_data_by_date = {d: entries for d, entries in data_by_date.items() if d.startswith(str(year))}
+        if not year_data_by_date: continue
 
-        svg_content = generate_svg(year, data_by_date, source_config, include_tooltips=args.tooltip)
+        # Calculate stats for the year
+        year_stats = {
+            'total_days': len(year_data_by_date),
+            'github': {'days': 0, 'count': 0},
+            'quartz': {'days': 0, 'count': 0},
+            'wordpress': {'days': 0, 'count': 0},
+            'legacy': {'days': 0, 'count': 0}
+        }
+
+        type_mapping = {
+            'github': 'github',
+            'quartz': 'quartz',
+            'wordpress': 'wordpress',
+            'legacy_html': 'legacy'
+        }
+
+        for d, entries in year_data_by_date.items():
+            seen_types_today = set()
+            for e in entries:
+                stype = source_config.get(e['source_id'], {}).get('type')
+                mapped_type = type_mapping.get(stype)
+                if mapped_type:
+                    year_stats[mapped_type]['count'] += 1
+                    seen_types_today.add(mapped_type)
+            for mt in seen_types_today:
+                year_stats[mt]['days'] += 1
+
+        svg_content = generate_svg(year, data_by_date, source_config, year_stats, include_tooltips=args.tooltip)
         svg_filename = f"activity_{year}.svg"
         with open(os.path.join(assets_dir, svg_filename), "w") as f:
             f.write(svg_content)
 
-        output.append(f"### {year}")
-        svg_with_tooltips = generate_svg(year, data_by_date, source_config, include_tooltips=True)
+        svg_with_tooltips = generate_svg(year, data_by_date, source_config, year_stats, include_tooltips=True)
         output.append(svg_with_tooltips)
 
-        counts = {}
-        for p in year_data:
-            sid = p['source_id']
-            counts[sid] = counts.get(sid, 0) + 1
-        breakdown = ", ".join([f"{c} {source_config[s]['name']}" for s, c in counts.items()])
-        year_summary = f"{len(year_data)} articles in {year}: {breakdown}"
-        output.append(f"\n{year_summary}\n")
-
         html_output.append(f'    <div class="year-section">')
-        html_output.append(f"        <h3>{year}</h3>")
         html_output.append(f'        <div class="heatmap-container" data-year="{year}">')
         html_output.append(f'            <img src="assets/{svg_filename}" alt="Activity heatmap for {year}">')
         html_output.append(f'        </div>')
-        html_output.append(f"        <p>{year_summary}</p>")
         html_output.append(f'    </div>')
 
     # Statistics
@@ -268,9 +323,9 @@ def main():
     html_output.append("        const tooltip = document.getElementById('tooltip');")
     html_output.append("        let persistent = false;")
     html_output.append("        let heatmapData = {};")
-    html_output.append("        const SQUARE_SIZE = 10; const SQUARE_MARGIN = 2; const OFFSET_X = 30; const OFFSET_Y = 18;")
+    html_output.append("        const SQUARE_SIZE = 10; const SQUARE_MARGIN = 2; const OFFSET_X = 30; const OFFSET_Y = 35;")
     html_output.append("        const LOGICAL_WIDTH = 53 * (SQUARE_SIZE + SQUARE_MARGIN) + 40;")
-    html_output.append("        const LOGICAL_HEIGHT = 7 * (SQUARE_SIZE + SQUARE_MARGIN) + 40;")
+    html_output.append("        const LOGICAL_HEIGHT = 7 * (SQUARE_SIZE + SQUARE_MARGIN) + 55;")
     html_output.append("        fetch('assets/heatmap_data.json').then(r => r.json()).then(d => { heatmapData = d; });")
     html_output.append("        function escapeHTML(str) { const p = document.createElement('p'); p.textContent = str; return p.innerHTML; }")
     html_output.append("        function getInfoAtPosition(container, clientX, clientY) {")

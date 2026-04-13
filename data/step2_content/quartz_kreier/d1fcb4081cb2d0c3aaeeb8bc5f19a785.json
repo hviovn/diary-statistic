@@ -1,0 +1,10 @@
+{
+  "url": "https://kreier.github.io/quartz/Blog/2017/08/AISVN",
+  "fetched_at": "2026-04-11T15:22:27.826893+00:00",
+  "last_modified": "Tue, 31 Mar 2026 05:28:13 GMT",
+  "etag": "\"69cb5b6d-708b\"",
+  "hash": "b8266da1a6d28816c8fb39c4376bb7af8d9992062813d4c9306adf9496e1be7c",
+  "text": "AISVN Obsidian Search Search Dark mode Light mode Reader mode !a.isFolder&&!b.isFolder||a.isFolder&&b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\\\"base\\\"}):!a.isFolder&&b.isFolder?1:-1\",\"filterFn\":\"node=>node.slugSegment!==\\\"tags\\\"\",\"mapFn\":\"node=>node\"}\"> Explorer Home \u276f Blog \u276f 2017 \u276f 08 \u276f AISVN AISVN Aug 01, 2017 1 min read AISVN stands for American International School Vietnam. I started to work at this school on August 1st, 2017 and left the school 3 years later on July 31st, 2020. Graph View Backlinks Monkey Island I 2019 My Websites Hiking in Vietnam Created with Quartz v4.5.2 \u00a9 2026 GitHub Discord Community",
+  "images": [],
+  "files": []
+}

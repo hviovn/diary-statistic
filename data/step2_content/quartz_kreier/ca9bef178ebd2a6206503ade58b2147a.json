@@ -1,0 +1,10 @@
+{
+  "url": "https://kreier.github.io/quartz/Blog/2024/11/A-humble-beginning-2024",
+  "fetched_at": "2026-04-11T15:22:27.826893+00:00",
+  "last_modified": "Tue, 31 Mar 2026 05:28:13 GMT",
+  "etag": "\"69cb5b6d-79e7\"",
+  "hash": "eaf744975e8f284d695e63b9be601249b630e481ee500debd4efdfeb72e9a5ad",
+  "text": "A humble beginning 2024 Obsidian Search Search Dark mode Light mode Reader mode !a.isFolder&&!b.isFolder||a.isFolder&&b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\\\"base\\\"}):!a.isFolder&&b.isFolder?1:-1\",\"filterFn\":\"node=>node.slugSegment!==\\\"tags\\\"\",\"mapFn\":\"node=>node\"}\"> Explorer Home \u276f Blog \u276f 2024 \u276f 11 \u276f A humble beginning 2024 A humble beginning 2024 Nov 21, 2024 1 min read It\u2019s been a while in my path of organized note taking apps. I installed [Notion]( https://en.wikipedia.org/wiki/Notion_(productivity_software) in November 2023 , then again in October 2024 when we visited Peter in Da Nang. It looks nice and has many features as a commercial product. Open source Since 2018 I use GitHub. And like many others I like Open Source, open standards and free access to information. I learned HTML in 1999, LaTeX in 2000 and Markdown in 2018 with my students, finally combining it with Python into a Jupyter Notebook in 2019. So Obsidian it is. So I installed Obsidian on my iPhone on November 21rd, 2024 , during my visa run to Cambodia. And I made my first entry with my iPad. This here is it! Third became a daily note, named First use of Obsidian . But the question of syncing took another year to finally find a fitting repository. Then finally, on October 21st, 2025, this whole project was reactivated, as noted in Reactivated 2025 Graph View Backlinks About the blog Ideas about the Structure of my Obsidian vault Created with Quartz v4.5.2 \u00a9 2026 GitHub Discord Community",
+  "images": [],
+  "files": []
+}

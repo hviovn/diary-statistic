@@ -1,0 +1,10 @@
+{
+  "url": "https://kreier.github.io/quartz/Blog/2025/10/Reactivated-2025",
+  "fetched_at": "2026-04-11T15:22:27.826893+00:00",
+  "last_modified": "Tue, 31 Mar 2026 05:28:13 GMT",
+  "etag": "\"69cb5b6d-734a\"",
+  "hash": "d1429d450f15962947f5364d6397647297531456b5cd22f6ad31a03a0411e57f",
+  "text": "Reactivated 2025 Obsidian Search Search Dark mode Light mode Reader mode !a.isFolder&&!b.isFolder||a.isFolder&&b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\\\"base\\\"}):!a.isFolder&&b.isFolder?1:-1\",\"filterFn\":\"node=>node.slugSegment!==\\\"tags\\\"\",\"mapFn\":\"node=>node\"}\"> Explorer Home \u276f Blog \u276f 2025 \u276f 10 \u276f Reactivated 2025 Reactivated 2025 Oct 21, 2025 1 min read Back from Cambodia (again, see Writing pages in Obsidian ) I finally created a GitHub repository for Obsidian. Copied the vault into the correct subfolder, and see where this leads. The Obsidian App saves your words and changes to your local file system. Which git monitors, just open the GitHub Desktop app. It automatically shows you all the files you changed, and what you changed. A simple push has it backed up. And since it is on iCloud, it is also automatically synced. Now to the web view with the backlinks and network. That\u2019s one more thing for my ToDo list. Graph View Backlinks A humble beginning 2024 Writing pages in Obsidian Created with Quartz v4.5.2 \u00a9 2026 GitHub Discord Community",
+  "images": [],
+  "files": []
+}

@@ -14,6 +14,24 @@ Visualize my diary entries like GitHub for commits. Here are two examples
 
 49 articles in 2006
 
+## Procedure
+
+You have 2 scripts you can execute:
+
+```sh
+python .\scripts\generate_statistics.py
+python .\scripts\manage_sources.py
+```
+
+The second one throws an error currently, while the first one executes 4 other scripts consecutive:
+
+- step1_link_discovery.py
+- step2_content_extraction.py
+- step3_analysis.py
+- step4_generate_heatmap.py
+
+The new data is written into `/docs/assets/heatmap_data.json`.
+
 ## 7 categories
 
 - diary

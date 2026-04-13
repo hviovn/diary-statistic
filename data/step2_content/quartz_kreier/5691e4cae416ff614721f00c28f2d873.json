@@ -1,0 +1,10 @@
+{
+  "url": "https://kreier.github.io/quartz/Blog/2020/06/Third-Sabbatical",
+  "fetched_at": "2026-04-11T15:22:27.826893+00:00",
+  "last_modified": "Tue, 31 Mar 2026 05:28:13 GMT",
+  "etag": "\"69cb5b6d-7b40\"",
+  "hash": "858420c594f9ed871a31b3d70d7c0677aeec4870f73ff7db14394a80b590f34f",
+  "text": "Third Sabbatical Obsidian Search Search Dark mode Light mode Reader mode !a.isFolder&&!b.isFolder||a.isFolder&&b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\\\"base\\\"}):!a.isFolder&&b.isFolder?1:-1\",\"filterFn\":\"node=>node.slugSegment!==\\\"tags\\\"\",\"mapFn\":\"node=>node\"}\"> Explorer Home \u276f Blog \u276f 2020 \u276f 06 \u276f Third Sabbatical Third Sabbatical May 06, 2020 1 min read This third Sabbatical started on Friday, June 5th, 2020 with the last day teaching at the AISVN (American International School Vietnam). It lasted for a year until I started working as a teacher again at the SSIS (Saigon South International School) in June 2021. Projects during the sabbatical One unfinished project marked the beginning of the Sabbatical: the solar project at AISVN. On this Friday, I was still soldering the data collection board with the ESP32: And on the next Monday I returned to school to Start of my third Sabbatical , which in turn was a continuation of this project Working as a tutor A few days into my sabbatical I was asked if I would like to teach chemistry according to the Canadian curriculum a few hours each day of the week. Well, there is a lot to learn, so why not? Graph View Table of Contents Projects during the sabbatical Working as a tutor Backlinks 2020 CUDA Created with Quartz v4.5.2 \u00a9 2026 GitHub Discord Community",
+  "images": [],
+  "files": []
+}

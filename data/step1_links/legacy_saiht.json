@@ -1,0 +1,920 @@
+{
+  "source_id": "legacy_saiht",
+  "type": "legacy_html",
+  "base_url": "https://saiht.de/legacy",
+  "last_checked": "2026-04-11T17:47:59.860755+00:00",
+  "pages": [
+    {
+      "url": "https://saiht.de/legacy/",
+      "title": "der saiht im internet",
+      "date": "2008-04-22",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/impressum.html",
+      "title": "Impressum",
+      "date": "2007-06-05",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/projekte.html",
+      "title": "Projekte des saiht",
+      "date": "2009-01-20",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/urlaub.html",
+      "title": "Wo war der saiht im Urlaub?",
+      "date": "2013-06-22",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/freizeit/freizeit.html",
+      "title": "Freizeitaktivitten des saiht",
+      "date": "2006-11-24",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/geschichte/geschichte.html",
+      "title": "interessante Fragen der Geschichte",
+      "date": "2006-11-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/computer/computer.html",
+      "title": "Computerseite des saiht",
+      "date": "2009-03-24",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/glossar/glossar.html",
+      "title": "Glossar",
+      "date": "2006-11-10",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/logfeile/logfeile.html",
+      "title": "Chronologie der saiht-Seiten",
+      "date": "2010-04-05",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/rechts.html",
+      "title": "Einstieg in saiht.de deutsch",
+      "date": "2011-01-23",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/guestbook.html",
+      "title": "Gstebuch",
+      "date": "2008-05-04",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/hardware.html",
+      "title": "verwendete Hardware",
+      "date": "2006-11-09",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/computer/html.html",
+      "title": "HTML-Seiten selbst erstellen",
+      "date": "2008-05-19",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/physik/physik.html",
+      "title": "Studium zum Diplom-Physiker",
+      "date": "2008-03-25",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/01bibellesen.html",
+      "title": "Bibellesen",
+      "date": "2009-02-19",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/deutsch.html",
+      "title": "Bildung durch Lesen",
+      "date": "2007-04-08",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/02sdw.html",
+      "title": "Schule zur Dienstamtlichen Weiterbildung (SDW)",
+      "date": "2010-10-10",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/02leben.html",
+      "title": "Kann Leben durch Zufall entstehen?",
+      "date": "2007-11-29",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/10wahrheit.html",
+      "title": "Was ist Wahrheit?",
+      "date": "2000-06-29",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/08psychologie.html",
+      "title": "Psychologie",
+      "date": "2000-06-29",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/09propaganda.html",
+      "title": "Propaganda und Irrefhrungen",
+      "date": "2003-06-29",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/03jesus.html",
+      "title": "Wann wurde Jesus geboren?",
+      "date": "2006-02-09",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/04ledigsein.html",
+      "title": "Grnde fr das Ledigsein",
+      "date": "2008-10-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/05exfreund.html",
+      "title": "Wieso wird aus so vielen Jungs bald ein Exfreund?",
+      "date": "2006-01-25",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/06papier.html",
+      "title": "Wie oft kann man ein Blatt Papier falten?",
+      "date": "2005-07-29",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/07abitur.html",
+      "title": "Wie erhlt man ein Abitur?",
+      "date": "2005-06-22",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/11freundschaft.html",
+      "title": "Freundschaft",
+      "date": "2000-05-24",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/12freiheit.html",
+      "title": "Was ist Freiheit?",
+      "date": "2006-04-06",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/13zeitleiste.html",
+      "title": "Zeitleiste",
+      "date": "2009-02-19",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/14tag.html",
+      "title": "Wie lange ist ein Schpfungstag?",
+      "date": "2006-01-24",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/15nb100.html",
+      "title": "Festplattentausch am Toshiba NB-100",
+      "date": "2009-01-20",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/umfang.html",
+      "title": "Statistik zu saiht.de",
+      "date": "2013-01-09",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/99leer.html",
+      "title": "Leerprojekt",
+      "date": "2006-01-24",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2013_usa.html",
+      "title": "USA 2013: From Eastcoast to Westcoast - and back! Including Canada",
+      "date": "2014-01-13",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2015_usa.html",
+      "title": "Per Auto quer durch den Osten Nordamerikas",
+      "date": "2009-01-27",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2014_schottland.html",
+      "title": "Per Auto quer durch den Osten Nordamerikas",
+      "date": "2009-01-27",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2012_westeuropa.html",
+      "title": "Tour durch Westeuropa im sonnigen Herbst - entlang der C\u00f4te d`Azur",
+      "date": "2013-01-07",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2011_scandinavien.html",
+      "title": "St\u00e4dtetour nach Skandinavien - und dann einmal um die Ostsee",
+      "date": "2012-11-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2010_georgien.html",
+      "title": "Zu Besuch bei den Delegierten aus der Ukraine und Georgien",
+      "date": "2010-11-18",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2009_jordanien.html",
+      "title": "Mit dem Auto nach Jordanien",
+      "date": "2009-08-10",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2008_usa.html",
+      "title": "Die Ostk\u00fcste der USA: Florida und New York",
+      "date": "2009-04-22",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2008_tatra.html",
+      "title": "Herbsturlaub in der Hohen Tatra",
+      "date": "2009-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2008_ruegen.html",
+      "title": "Fahrradurlaub auf R\u00fcgen",
+      "date": "2008-05-13",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2007_elbrus.html",
+      "title": "Elbrus im Kaukasus",
+      "date": "2008-05-13",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2006_italy.html",
+      "title": "Gardasee im Oktober 2006",
+      "date": "2006-10-30",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2005_osteuropa.html",
+      "title": "Rundreise durch Sdosteuropa",
+      "date": "2006-02-02",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2004_transsib.html",
+      "title": "21000 km mit der Transsibirischen Eisenbahn",
+      "date": "2005-05-05",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2003_elbsandstein.html",
+      "title": "Kurzurlaub im Elbsandsteingebirge",
+      "date": "2007-05-15",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2002_ukraine.html",
+      "title": "Sommerschule in der Ukraine",
+      "date": "2012-12-09",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2001_fahrrad.html",
+      "title": "mit dem Rad nach Rumnien",
+      "date": "2001-10-03",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2000_afrika.html",
+      "title": "7 Wochen Afrika",
+      "date": "2009-01-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/1998_thailand.html",
+      "title": "Thailand & Malaysia",
+      "date": "2005-02-25",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/1997_usa.html",
+      "title": "USA - der Westen",
+      "date": "2004-11-29",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/1996_erlbach.html",
+      "title": "Erlbach",
+      "date": "2005-05-05",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/1996_austria_winter.html",
+      "title": "mein erster Winterurlaub",
+      "date": "2005-06-29",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/liste.html",
+      "title": "Liste der besuchten Lnder des saiht",
+      "date": "2012-11-04",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/freizeit/fahrrad.html",
+      "title": "die Fahrradseite",
+      "date": "2009-03-30",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/freizeit/tschechien.html",
+      "title": "Unsere Tschechientouren",
+      "date": "2009-01-20",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/freizeit/tornowsee.html",
+      "title": "Informationen zum Tornowsee",
+      "date": "2006-11-23",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/freizeit/kanu.html",
+      "title": "Kanu, saiht und Natur",
+      "date": "2006-11-25",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/freizeit/motorrad.html",
+      "title": "die Motorradseite",
+      "date": "2006-11-06",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/freizeit/einzelevents.html",
+      "title": "Einzelevents",
+      "date": "2008-12-14",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/geschichte/aegypten.html",
+      "title": "Die Geschichte \u00c4gyptens",
+      "date": "2000-06-29",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/geschichte/maya.html",
+      "title": "Maya",
+      "date": "2000-06-29",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/geschichte/angkor.html",
+      "title": "Angkor Wat",
+      "date": "2006-12-03",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/geschichte/c14.html",
+      "title": "C14-Zeitbestimmung",
+      "date": "2006-05-06",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/computer/history.html",
+      "title": "die saiht-Computergeschichte",
+      "date": "2012-11-20",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/computer/atx.html",
+      "title": "Linux schaltet den ATX-Rechner nicht aus",
+      "date": "2000-06-21",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/computer/benchmark.html",
+      "title": "Kleine Benchmarkseite des saiht",
+      "date": "2016-12-05",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/computer/gdm1963.html",
+      "title": "Synchronisierung des Festfrequenzmonitors GDM 1963 HE",
+      "date": "2006-11-24",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/computer/cdrom.html",
+      "title": "Motherboard zerstrt CD-ROM Laufwerke",
+      "date": "2004-01-21",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/computer/inder.html",
+      "title": "InderNet",
+      "date": "2000-06-22",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/computer/crazy.html",
+      "title": "Wie man selbst gesund bleibt und dabei andere Leute in den Wahnsinn treibt:!",
+      "date": "2000-06-06",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/glossar/family.html",
+      "title": "Familie",
+      "date": "2008-11-03",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/glossar/handy.html",
+      "title": "Handysammlung",
+      "date": "2014-08-01",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/alt.html",
+      "title": "der saiht im web",
+      "date": "1999-11-11",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/logfeile/wohnung.html",
+      "title": "Wohnorte auf diesem Planeten",
+      "date": "2006-07-16",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/logfeile/gruppe.html",
+      "title": "Gruppenfotos",
+      "date": "2010-08-09",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/logfeile/bericht3.html",
+      "title": "Bericht vom 13. 2. 2004",
+      "date": "2006-09-11",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/logfeile/bericht2.html",
+      "title": "Bericht vom 14. 11. 2004",
+      "date": "2006-09-11",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/logfeile/bericht1.html",
+      "title": "Bericht vom 15. 8. 2003",
+      "date": "2006-09-11",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/logfeile/friends.html",
+      "title": "Homepages von Freunden und Bekannten",
+      "date": "2009-09-19",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/physik/ranseier.html",
+      "title": "Karl Ranseier ist tot",
+      "date": "2001-03-12",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/physik/reform.html",
+      "title": "Mathematikunterricht nach der Bildungsreform",
+      "date": "2000-10-12",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/physik/thesis/thesis.html",
+      "title": "Photoemission on narrow Bandgap II-VI-semiconductors Diplomarbeit HUMBOLDT-UNIVERSIT\u00c4T ZU BERLIN\nINSTITUT F\u00dcR PHYSIK\nAG ELEKTRONISCHE EIGENSCHAFTEN UND SUPRALEITUNG",
+      "date": "2006-08-28",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/physik/thesis/diploma.html",
+      "title": "Detailinformationen zur Diplomarbeit",
+      "date": "2006-08-30",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/physik/thesis/diplomae.html",
+      "title": "Detailinformationen zur Diplomarbeit",
+      "date": "2006-08-30",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/physik/program/vir2qti.cpp",
+      "title": "vir2qti.cpp",
+      "date": "2006-08-14",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/physik/program/vir2qti.java",
+      "title": "vir2qti.java",
+      "date": "2006-08-14",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/bibel/bibel1.html",
+      "title": "das Bibelleseprogramm im ersten Jahr",
+      "date": "2003-02-25",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/bibel/bibel2.html",
+      "title": "das Bibelleseprogramm im zweiten Jahr",
+      "date": "2000-06-06",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/bibel/bibel3.html",
+      "title": "das Bibelleseprogramm im dritten Jahr",
+      "date": "2000-06-06",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/auslegung.html",
+      "title": "Beispiel einer extremen (und beiderseits falschen) Bibelauslegung (Rmer 10:2)",
+      "date": "2004-01-08",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/zeitleiste/zeit2.html",
+      "title": "Zeitleiste horizontal",
+      "date": "2006-08-30",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/zeitleiste/zeit3.html",
+      "title": "Zeitleiste horizontal",
+      "date": "2006-08-30",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/projekte/zeitleiste/zeit4.html",
+      "title": "Zeitleiste horizontal",
+      "date": "2006-09-07",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/logfeile/sitemap.html",
+      "title": "Sitemap",
+      "date": "2007-08-12",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2013_usa_plan.html",
+      "title": "Per Auto quer durch den Osten Nordamerikas",
+      "date": "2009-01-27",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2009_jordan_bilder.html",
+      "title": "Mit dem Auto nach Jordanien",
+      "date": "2009-08-10",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/2008_usa_bilder.html",
+      "title": "Die Ostk\u00fcste der USA: Florida und New York",
+      "date": "2008-12-05",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/1998_italy_winter.html",
+      "title": "Winterurlaub Dolomiten",
+      "date": "2005-05-05",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/1998_thailand_pic.html",
+      "title": "Thailand & Malaysia - nur die Bilder",
+      "date": "2007-05-26",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/urlaub/1997.html",
+      "title": "tote Verweisseite",
+      "date": "2002-07-02",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/freizeit/bilder.html",
+      "title": "Unsere Tschechientouren",
+      "date": "2009-06-22",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/freizeit/tschechien00.html",
+      "title": "Unsere Tschechientouren",
+      "date": "2006-12-03",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/freizeit/einladungen.html",
+      "title": "Unsere Tschechientouren",
+      "date": "2008-04-19",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/freizeit/teilnehmer.html",
+      "title": "Teilnehmer der Tschechientouren",
+      "date": "2008-05-23",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/freizeit/witz.html",
+      "title": "Unsere Tschechientouren",
+      "date": "2006-02-03",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/computer/anmerkung.html",
+      "title": "Anmerkung",
+      "date": "2000-06-21",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/physik/thesis/data/vir2qti.cpp",
+      "title": "vir2qti.cpp",
+      "date": "2006-08-14",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/physik/thesis/data/vir2qti.exe",
+      "title": "vir2qti.exe",
+      "date": "2006-08-14",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/physik/thesis/data/vir2qti",
+      "title": "vir2qti",
+      "date": "2006-08-14",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/physik/thesis/data/vir2qti.java",
+      "title": "vir2qti.java",
+      "date": "2006-08-14",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    },
+    {
+      "url": "https://saiht.de/legacy/physik/thesis/data/vir2qti.class",
+      "title": "vir2qti.class",
+      "date": "2006-08-14",
+      "last_seen": "2026-04-11T17:47:59.860755+00:00",
+      "changed": false,
+      "github_type": null
+    }
+  ]
+}
