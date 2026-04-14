@@ -6,6 +6,12 @@ import argparse
 import xml.sax.saxutils as saxutils
 from datetime import datetime, date, timedelta
 
+def format_reading_time(word_count):
+    minutes = math.ceil(word_count / 200)
+    hours = minutes // 60
+    mins = minutes % 60
+    return f"{hours}h {mins}m"
+
 def generate_svg(year, data_by_date, source_config, year_stats, include_tooltips=False):
     start_date = date(year, 1, 1)
     end_date = date(year, 12, 31)
@@ -303,19 +309,69 @@ def main():
         html_output.append(f'        </div>')
         html_output.append(f'    </div>')
 
-    # Statistics
+    # Statistics calculations
+    source_stats = {}  # source_id -> {name, entries, words, pages}
+    for p in all_pages:
+        sid = p['source_id']
+        if sid not in source_stats:
+            source_stats[sid] = {
+                'name': source_config.get(sid, {}).get('name', sid),
+                'entries': 0,
+                'words': 0,
+                'pages': []
+            }
+        source_stats[sid]['entries'] += 1
+        source_stats[sid]['words'] += p['word_count']
+        source_stats[sid]['pages'].append(p)
+
+    # Markdown Statistics
     output.append("## Statistics")
     output.append(f"- **Days covered:** {len(data_by_date)}")
     output.append(f"- **Total entries:** {len(all_pages)}")
     output.append(f"- **Total words:** {total_words}")
+    output.append(f"- **Total reading time:** {format_reading_time(total_words)}")
+    output.append("")
+    output.append("### Breakdown by Source")
+    for sid in sorted(source_stats.keys()):
+        stats = source_stats[sid]
+        output.append(f"- **{stats['name']}:** {stats['entries']} entries, {stats['words']} words, {format_reading_time(stats['words'])} reading time")
+    output.append("")
+    output.append("### Longest 3 articles by source")
+    for sid in sorted(source_stats.keys()):
+        stats = source_stats[sid]
+        sorted_pages = sorted(stats['pages'], key=lambda x: x['word_count'], reverse=True)
+        for i, p in enumerate(sorted_pages[:3]):
+            output.append(f"- {stats['name']} #{i+1}: [{p['title']}]({p['url']}) ({p['word_count']} words, {format_reading_time(p['word_count'])} reading time)")
 
+    # HTML Statistics
     html_output.append('    <div class="stats-section">')
     html_output.append("        <h2>Statistics</h2>")
     html_output.append("        <ul>")
     html_output.append(f"            <li><strong>Days covered:</strong> {len(data_by_date)}</li>")
     html_output.append(f"            <li><strong>Total entries:</strong> {len(all_pages)}</li>")
     html_output.append(f"            <li><strong>Total words:</strong> {total_words}</li>")
+    html_output.append(f"            <li><strong>Total reading time:</strong> {format_reading_time(total_words)}</li>")
     html_output.append("        </ul>")
+
+    html_output.append('        <div class="source-breakdown">')
+    html_output.append("            <h3>Breakdown by Source</h3>")
+    html_output.append("            <ul>")
+    for sid in sorted(source_stats.keys()):
+        stats = source_stats[sid]
+        html_output.append(f"                <li><strong>{stats['name']}:</strong> {stats['entries']} entries, {stats['words']} words, {format_reading_time(stats['words'])} reading time</li>")
+    html_output.append("            </ul>")
+    html_output.append("        </div>")
+
+    html_output.append('        <div class="longest-articles">')
+    html_output.append("            <h3>Longest 3 articles by source</h3>")
+    html_output.append("            <ul>")
+    for sid in sorted(source_stats.keys()):
+        stats = source_stats[sid]
+        sorted_pages = sorted(stats['pages'], key=lambda x: x['word_count'], reverse=True)
+        for i, p in enumerate(sorted_pages[:3]):
+            html_output.append(f"                <li>{stats['name']} #{i+1}: <a href=\"{p['url']}\">{p['title']}</a> ({p['word_count']} words, {format_reading_time(p['word_count'])} reading time)</li>")
+    html_output.append("            </ul>")
+    html_output.append("        </div>")
     html_output.append("    </div>")
 
     # Finalize HTML
