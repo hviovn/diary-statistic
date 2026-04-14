@@ -369,7 +369,7 @@
         let heatmapData = {};
         const SQUARE_SIZE = 10; const SQUARE_MARGIN = 2; const OFFSET_X = 30; const OFFSET_Y = 35;
         const LOGICAL_WIDTH = 53 * (SQUARE_SIZE + SQUARE_MARGIN) + 40;
-        const LOGICAL_HEIGHT = 7 * (SQUARE_SIZE + SQUARE_MARGIN) + 55;
+        const LOGICAL_HEIGHT = 7 * (SQUARE_SIZE + SQUARE_MARGIN) + 35;
         fetch('assets/heatmap_data.json').then(r => r.json()).then(d => { heatmapData = d; });
         function escapeHTML(str) { const p = document.createElement('p'); p.textContent = str; return p.innerHTML; }
         function getInfoAtPosition(container, clientX, clientY) {

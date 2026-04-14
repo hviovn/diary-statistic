@@ -26,7 +26,7 @@ def generate_svg(year, data_by_date, source_config, year_stats, include_tooltips
     square_margin = 2
     width = 53 * (square_size + square_margin) + 40
     # Adjusted height for header and removal of legend
-    height = 7 * (square_size + square_margin) + 55
+    height = 7 * (square_size + square_margin) + 35
 
     svg_parts = [f'<svg viewBox="0 0 {width} {height}" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">']
 
@@ -37,8 +37,8 @@ def generate_svg(year, data_by_date, source_config, year_stats, include_tooltips
                  f"Wordpress: {year_stats['wordpress']['days']} ({year_stats['wordpress']['count']}), "
                  f"Legacy: {year_stats['legacy']['days']} ({year_stats['legacy']['count']})")
 
-    svg_parts.append(f'<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">{year}</text>')
-    svg_parts.append(f'<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">{stats_str}</text>')
+    svg_parts.append(f'<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">{year}</text>')
+    svg_parts.append(f'<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">{stats_str}</text>')
 
     day_labels = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
     grid_offset_y = 35
@@ -381,7 +381,7 @@ def main():
     html_output.append("        let heatmapData = {};")
     html_output.append("        const SQUARE_SIZE = 10; const SQUARE_MARGIN = 2; const OFFSET_X = 30; const OFFSET_Y = 35;")
     html_output.append("        const LOGICAL_WIDTH = 53 * (SQUARE_SIZE + SQUARE_MARGIN) + 40;")
-    html_output.append("        const LOGICAL_HEIGHT = 7 * (SQUARE_SIZE + SQUARE_MARGIN) + 55;")
+    html_output.append("        const LOGICAL_HEIGHT = 7 * (SQUARE_SIZE + SQUARE_MARGIN) + 35;")
     html_output.append("        fetch('assets/heatmap_data.json').then(r => r.json()).then(d => { heatmapData = d; });")
     html_output.append("        function escapeHTML(str) { const p = document.createElement('p'); p.textContent = str; return p.innerHTML; }")
     html_output.append("        function getInfoAtPosition(container, clientX, clientY) {")
