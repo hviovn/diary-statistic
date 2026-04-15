@@ -69,6 +69,12 @@
         <img src="assets/key.svg" alt="Source key">
     </div>
     <div class="year-section">
+        <h2>Combined Overview (1975-2026)</h2>
+        <div class="combined-heatmap">
+            <a href="assets/combined.svg" target="_blank"><img src="assets/combined.svg" alt="Combined activity heatmap" style="width: 100%; max-width: none;"></a>
+        </div>
+    </div>
+    <div class="year-section">
         <div class="heatmap-container" data-year="2026">
             <img src="assets/activity_2026.svg" alt="Activity heatmap for 2026">
         </div>
@@ -369,7 +375,7 @@
         let heatmapData = {};
         const SQUARE_SIZE = 10; const SQUARE_MARGIN = 2; const OFFSET_X = 30; const OFFSET_Y = 35;
         const LOGICAL_WIDTH = 53 * (SQUARE_SIZE + SQUARE_MARGIN) + 40;
-        const LOGICAL_HEIGHT = 7 * (SQUARE_SIZE + SQUARE_MARGIN) + 55;
+        const LOGICAL_HEIGHT = 7 * (SQUARE_SIZE + SQUARE_MARGIN) + 35;
         fetch('assets/heatmap_data.json').then(r => r.json()).then(d => { heatmapData = d; });
         function escapeHTML(str) { const p = document.createElement('p'); p.textContent = str; return p.innerHTML; }
         function getInfoAtPosition(container, clientX, clientY) {
