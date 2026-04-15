@@ -3,17 +3,21 @@
 <!-- START_STATS -->
 # Diary Activity Overview
 
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2026</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 38, Github: 32 (97), Quartz: 6 (8), Wordpress: 0 (0), Legacy: 0 (0)</text>
+## Combined Overview 1975 - 2026
+
+![Combined Activity Heatmap](assets/combined.svg)
+
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2026</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 38, Github: 32 (97), Quartz: 6 (8), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2026"><rect class="day-cell" data-date="2026-01-01" x="30" y="83" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2026-01-01: 2 entries
-2026
-Black Virgin Mountain III</title></rect></a>
+- Quartz: 2026
+- Quartz: Black Virgin Mountain III</title></rect></a>
 <a href="https://github.com/kreier/thesis08/blob/main/README.md"><rect class="day-cell" data-date="2026-01-02" x="30" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-01-02: 1 entry
-[kreier/thesis08] README.md</title></rect></a>
+- GitHub: [kreier/thesis08] README.md</title></rect></a>
 <rect class="day-cell" data-date="2026-01-03" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-01-03: 0 entries</title></rect>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="2026-01-04" x="42" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-01-04: 0 entries</title></rect>
@@ -28,26 +32,26 @@ Black Virgin Mountain III</title></rect></a>
 <rect class="day-cell" data-date="2026-01-13" x="54" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-01-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-01-14" x="54" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-01-14: 0 entries</title></rect>
 <a href="https://github.com/kreier/calendar/commit/4ba9ff8936dfb993f28e9c99aa3752e2fd1fa416"><rect class="day-cell" data-date="2026-01-15" x="54" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-01-15: 2 entries
-[kreier/calendar] Expand for my Diary 1989-2028
-[kreier/calendar] README.md</title></rect></a>
+- GitHub: [kreier/calendar] Expand for my Diary 1989-2028
+- GitHub: [kreier/calendar] README.md</title></rect></a>
 <rect class="day-cell" data-date="2026-01-16" x="54" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-01-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-01-17" x="54" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-01-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-01-18" x="66" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-01-18: 0 entries</title></rect>
 <a href="https://github.com/kreier/logo/blob/main/README.md"><rect class="day-cell" data-date="2026-01-19" x="66" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-01-19: 1 entry
-[kreier/logo] README.md</title></rect></a>
+- GitHub: [kreier/logo] README.md</title></rect></a>
 <a href="https://github.com/kreier/igshcmc/blob/main/README.md"><rect class="day-cell" data-date="2026-01-20" x="66" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-01-20: 2 entries
-[kreier/igshcmc] README.md
-[kreier/tl] README.md</title></rect></a>
+- GitHub: [kreier/igshcmc] README.md
+- GitHub: [kreier/tl] README.md</title></rect></a>
 <a href="https://github.com/kreier/picow/blob/main/README.md"><rect class="day-cell" data-date="2026-01-21" x="66" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-01-21: 2 entries
-[kreier/picow] README.md
-[kreier/swagger] README.md</title></rect></a>
+- GitHub: [kreier/picow] README.md
+- GitHub: [kreier/swagger] README.md</title></rect></a>
 <rect class="day-cell" data-date="2026-01-22" x="66" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-01-22: 0 entries</title></rect>
 <a href="https://github.com/kreier/bilder/commit/ca421128271dcf03bb6d5ae5b7373ea124aaa640"><rect class="day-cell" data-date="2026-01-23" x="66" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-01-23: 2 entries
-[kreier/bilder] target network folder
-[kreier/bilder] include support for Excel</title></rect></a>
+- GitHub: [kreier/bilder] target network folder
+- GitHub: [kreier/bilder] include support for Excel</title></rect></a>
 <rect class="day-cell" data-date="2026-01-24" x="66" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-01-24: 0 entries</title></rect>
 <a href="https://github.com/kreier/bilder/commit/ed25d5d2ba0ba365c9afdd91ec2d87d5d4873d64"><rect class="day-cell" data-date="2026-01-25" x="78" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-01-25: 1 entry
-[kreier/bilder] organize cloud storage</title></rect></a>
+- GitHub: [kreier/bilder] organize cloud storage</title></rect></a>
 <rect class="day-cell" data-date="2026-01-26" x="78" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-01-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-01-27" x="78" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-01-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-01-28" x="78" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-01-28: 0 entries</title></rect>
@@ -56,54 +60,54 @@ Black Virgin Mountain III</title></rect></a>
 <rect class="day-cell" data-date="2026-01-31" x="78" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-01-31: 0 entries</title></rect>
 <text x="90" y="30" font-family="sans-serif" font-size="8" fill="#767676">Feb</text>
 <a href="https://kreier.github.io/quartz/Blog/2026/02/Black-Virgin-Mountain-IV"><rect class="day-cell" data-date="2026-02-01" x="90" y="35" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2026-02-01: 2 entries
-Black Virgin Mountain IV
-Monkey Island II</title></rect></a>
+- Quartz: Black Virgin Mountain IV
+- Quartz: Monkey Island II</title></rect></a>
 <rect class="day-cell" data-date="2026-02-02" x="90" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-02: 0 entries</title></rect>
 <a href="https://github.com/kreier/hv.io.vn/blob/main/README.md"><rect class="day-cell" data-date="2026-02-03" x="90" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-03: 1 entry
-[kreier/hv.io.vn] README.md</title></rect></a>
+- GitHub: [kreier/hv.io.vn] README.md</title></rect></a>
 <a href="https://github.com/kreier/location24/blob/main/README.md"><rect class="day-cell" data-date="2026-02-04" x="90" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-04: 1 entry
-[kreier/location24] README.md</title></rect></a>
+- GitHub: [kreier/location24] README.md</title></rect></a>
 <rect class="day-cell" data-date="2026-02-05" x="90" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-05: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-02-06" x="90" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-02-07" x="90" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-02-08" x="102" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-08: 0 entries</title></rect>
 <a href="https://github.com/kreier/bilder/commit/f45ded15dec45f98f6a7a6925001069058b24e7a"><rect class="day-cell" data-date="2026-02-09" x="102" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-09: 2 entries
-[kreier/bilder] create summary and details for target location
-[kreier/bilder] README.md</title></rect></a>
+- GitHub: [kreier/bilder] create summary and details for target location
+- GitHub: [kreier/bilder] README.md</title></rect></a>
 <rect class="day-cell" data-date="2026-02-10" x="102" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-02-11" x="102" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-02-12" x="102" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-12: 0 entries</title></rect>
 <a href="https://kreier.github.io/quartz/Projects/Computer/Raspberry-Pi-4-with-4-GB-RAM"><rect class="day-cell" data-date="2026-02-13" x="102" y="95" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2026-02-13: 1 entry
-Raspberry Pi 4 with 4 GB RAM</title></rect></a>
+- Quartz: Raspberry Pi 4 with 4 GB RAM</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/303ee0b7ff5f7ab3345aea36ab2b7b956f21eeb1"><rect class="day-cell" data-date="2026-02-14" x="102" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-14: 1 entry
-[kreier/benchmark] got a new P104-100 to benchmark</title></rect></a>
+- GitHub: [kreier/benchmark] got a new P104-100 to benchmark</title></rect></a>
 <rect class="day-cell" data-date="2026-02-15" x="114" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-02-16" x="114" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-16: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/6ac58321a211879100b2a67e3efbaaef754bc9ea"><rect class="day-cell" data-date="2026-02-17" x="114" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-17: 1 entry
-[kreier/benchmark] Update GPU performance metrics in README</title></rect></a>
+- GitHub: [kreier/benchmark] Update GPU performance metrics in README</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/aaecfcde9613db993ee2dc0a76cf20624a8f50fa"><rect class="day-cell" data-date="2026-02-18" x="114" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-18: 2 entries
-[kreier/benchmark] expand on 64 bit
-[kreier/benchmark] updated benchmarks with new P104-100 GPU and different slots in Z170 mainboard</title></rect></a>
+- GitHub: [kreier/benchmark] expand on 64 bit
+- GitHub: [kreier/benchmark] updated benchmarks with new P104-100 GPU and different slots in Z170 mainboard</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/8a9ac10ccbd51652bd9f4c34227f692144df13d3"><rect class="day-cell" data-date="2026-02-19" x="114" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-19: 1 entry
-[kreier/benchmark] updated benchmark results 1 year later</title></rect></a>
+- GitHub: [kreier/benchmark] updated benchmark results 1 year later</title></rect></a>
 <a href="https://github.com/kreier/ar65view/commit/96585b5aa1e8ceb6b3508467ba4ab75958f0afef"><rect class="day-cell" data-date="2026-02-20" x="114" y="95" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-02-20: 8 entries
-[kreier/ar65view] Update build status badge in README.md
-[kreier/ar65view] Remove HitCount badge from README
+- GitHub: [kreier/ar65view] Update build status badge in README.md
+- GitHub: [kreier/ar65view] Remove HitCount badge from README
 
 Removed HitCount badge from README
-[kreier/ar65view] README.md
-[kreier/ar65view-svn] Initialize README.md with project information
+- GitHub: [kreier/ar65view] README.md
+- GitHub: [kreier/ar65view-svn] Initialize README.md with project information
 
 Added detailed project description, features, known bugs, and release notes.
-[kreier/ar65view-svn] Add .DS_Store to .gitignore for Synology Diskstation
-[kreier/ar65view-svn] Add GNU General Public License v2
-[kreier/ar65view-svn] README.md
-[kreier/T100] README.md</title></rect></a>
+- GitHub: [kreier/ar65view-svn] Add .DS_Store to .gitignore for Synology Diskstation
+- GitHub: [kreier/ar65view-svn] Add GNU General Public License v2
+- GitHub: [kreier/ar65view-svn] README.md
+- GitHub: [kreier/T100] README.md</title></rect></a>
 <rect class="day-cell" data-date="2026-02-21" x="114" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-02-22" x="126" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-22: 0 entries</title></rect>
 <a href="https://github.com/kreier/llama.cpp-jetson/blob/main/README.md"><rect class="day-cell" data-date="2026-02-23" x="126" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-02-23: 2 entries
-[kreier/llama.cpp-jetson] README.md
-[kreier/wob] README.md</title></rect></a>
+- GitHub: [kreier/llama.cpp-jetson] README.md
+- GitHub: [kreier/wob] README.md</title></rect></a>
 <rect class="day-cell" data-date="2026-02-24" x="126" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-02-25" x="126" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-02-26" x="126" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-26: 0 entries</title></rect>
@@ -111,37 +115,37 @@ Added detailed project description, features, known bugs, and release notes.
 <rect class="day-cell" data-date="2026-02-28" x="126" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-02-28: 0 entries</title></rect>
 <text x="138" y="30" font-family="sans-serif" font-size="8" fill="#767676">Mar</text>
 <a href="https://github.com/kreier/dictionary/commit/827b1c00a90d3098136b2e5081bca96a3642bea7"><rect class="day-cell" data-date="2026-03-01" x="138" y="35" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2026-03-01: 9 entries
-[kreier/dictionary] include automated translations into the dictionaries for comparison
-[kreier/dictionary] checked language codes, completeness of dictionaries
-[kreier/dictionary] visualize example
-[kreier/dictionary] Enhance README with project details and goals
+- GitHub: [kreier/dictionary] include automated translations into the dictionaries for comparison
+- GitHub: [kreier/dictionary] checked language codes, completeness of dictionaries
+- GitHub: [kreier/dictionary] visualize example
+- GitHub: [kreier/dictionary] Enhance README with project details and goals
 
 Expanded the README to provide more details about the project, including its goals and features.
-[kreier/dictionary] Add README for submitted JSON files
-[kreier/dictionary] Boilerplate from Claude
-[kreier/dictionary] creating data foundation
-[kreier/dictionary] Add .DS_Store to .gitignore for Synology Diskstation
-[kreier/dictionary] Initial commit</title></rect></a>
+- GitHub: [kreier/dictionary] Add README for submitted JSON files
+- GitHub: [kreier/dictionary] Boilerplate from Claude
+- GitHub: [kreier/dictionary] creating data foundation
+- GitHub: [kreier/dictionary] Add .DS_Store to .gitignore for Synology Diskstation
+- GitHub: [kreier/dictionary] Initial commit</title></rect></a>
 <a href="https://kreier.github.io/quartz/Projects/Computer/HP-Z600-Workstation"><rect class="day-cell" data-date="2026-03-02" x="138" y="47" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2026-03-02: 1 entry
-HP Z600 Workstation</title></rect></a>
+- Quartz: HP Z600 Workstation</title></rect></a>
 <a href="https://github.com/kreier/dictionary/commit/28ee08b7da93d291abf766c8c8d2c2102c5ad903"><rect class="day-cell" data-date="2026-03-03" x="138" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-03-03: 2 entries
-[kreier/dictionary] include wikipedia links to the articles labeled wiki
-[kreier/dictionary] fixed typo</title></rect></a>
+- GitHub: [kreier/dictionary] include wikipedia links to the articles labeled wiki
+- GitHub: [kreier/dictionary] fixed typo</title></rect></a>
 <rect class="day-cell" data-date="2026-03-04" x="138" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-03-05" x="138" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-05: 0 entries</title></rect>
 <a href="https://github.com/kreier/ml/blob/main/README.md"><rect class="day-cell" data-date="2026-03-06" x="138" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-03-06: 1 entry
-[kreier/ml] README.md</title></rect></a>
+- GitHub: [kreier/ml] README.md</title></rect></a>
 <a href="https://github.com/kreier/dictionary/commit/62d476e30f62d9d569cf378f41b92c3cb81969b6"><rect class="day-cell" data-date="2026-03-07" x="138" y="107" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-03-07: 5 entries
-[kreier/dictionary] Merge pull request #1 from kreier/fix/google-translate-no-key-async
+- GitHub: [kreier/dictionary] Merge pull request #1 from kreier/fix/google-translate-no-key-async
 
 Add no-key async Google translate fallback
-[kreier/dictionary] include automated German translation
-[kreier/dictionary] Add no-key async Google translate fallback
-[kreier/dictionary] add translation from Google API
-[kreier/dictionary] README.md</title></rect></a>
+- GitHub: [kreier/dictionary] include automated German translation
+- GitHub: [kreier/dictionary] Add no-key async Google translate fallback
+- GitHub: [kreier/dictionary] add translation from Google API
+- GitHub: [kreier/dictionary] README.md</title></rect></a>
 <rect class="day-cell" data-date="2026-03-08" x="150" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-08: 0 entries</title></rect>
 <a href="https://github.com/kreier/obsidian/blob/main/README.md"><rect class="day-cell" data-date="2026-03-09" x="150" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-03-09: 1 entry
-[kreier/obsidian] README.md</title></rect></a>
+- GitHub: [kreier/obsidian] README.md</title></rect></a>
 <rect class="day-cell" data-date="2026-03-10" x="150" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-03-11" x="150" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-03-12" x="150" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-12: 0 entries</title></rect>
@@ -154,108 +158,108 @@ Add no-key async Google translate fallback
 <rect class="day-cell" data-date="2026-03-19" x="162" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-03-20" x="162" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-20: 0 entries</title></rect>
 <a href="https://github.com/kreier/prime/blob/main/README.md"><rect class="day-cell" data-date="2026-03-21" x="162" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-03-21: 1 entry
-[kreier/prime] README.md</title></rect></a>
+- GitHub: [kreier/prime] README.md</title></rect></a>
 <rect class="day-cell" data-date="2026-03-22" x="174" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-03-23" x="174" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-23: 0 entries</title></rect>
 <a href="https://saiht.de/obsidian/My-Websites"><rect class="day-cell" data-date="2026-03-24" x="174" y="59" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2026-03-24: 1 entry
-My Websites</title></rect></a>
+- Quartz: My Websites</title></rect></a>
 <rect class="day-cell" data-date="2026-03-25" x="174" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-25: 0 entries</title></rect>
 <a href="https://github.com/kreier/beston-9volt-battery/commit/0e47d27975120a90867a9bfa1330cb9de3f82686"><rect class="day-cell" data-date="2026-03-26" x="174" y="83" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2026-03-26: 17 entries
-[kreier/beston-9volt-battery] Merge pull request #4 from kreier/update4
+- GitHub: [kreier/beston-9volt-battery] Merge pull request #4 from kreier/update4
 
 Include circuit diagrams and schematics in overview
-[kreier/beston-9volt-battery] include schematics in overview
-[kreier/beston-9volt-battery] include schematics drawn by ChatGPT
-[kreier/beston-9volt-battery] Update description
-[kreier/beston-9volt-battery] include circuit diagram schema
-[kreier/beston-9volt-battery] Merge pull request #3 from kreier/update3
+- GitHub: [kreier/beston-9volt-battery] include schematics in overview
+- GitHub: [kreier/beston-9volt-battery] include schematics drawn by ChatGPT
+- GitHub: [kreier/beston-9volt-battery] Update description
+- GitHub: [kreier/beston-9volt-battery] include circuit diagram schema
+- GitHub: [kreier/beston-9volt-battery] Merge pull request #3 from kreier/update3
 
 add code with Gregorian characters
-[kreier/beston-9volt-battery] add code with Gregorian characters
-[kreier/beston-9volt-battery] Merge pull request #2 from kreier/kreier-patch-1
+- GitHub: [kreier/beston-9volt-battery] add code with Gregorian characters
+- GitHub: [kreier/beston-9volt-battery] Merge pull request #2 from kreier/kreier-patch-1
 
 Improve formatting and clarity in README.md
-[kreier/beston-9volt-battery] Improve formatting and clarity in README.md
+- GitHub: [kreier/beston-9volt-battery] Improve formatting and clarity in README.md
 
 Updated README.md to improve formatting and clarity.
-[kreier/beston-9volt-battery] Merge pull request #1 from kreier/update1
+- GitHub: [kreier/beston-9volt-battery] Merge pull request #1 from kreier/update1
 
 Add chip documentation PDFs and images
-[kreier/beston-9volt-battery] add 4 images
-[kreier/beston-9volt-battery] add chip documentation PDFs
-[kreier/beston-9volt-battery] expanded explanation
-[kreier/beston-9volt-battery] Add Mandelbrot ASCII renderer in mandelbrot.py
+- GitHub: [kreier/beston-9volt-battery] add 4 images
+- GitHub: [kreier/beston-9volt-battery] add chip documentation PDFs
+- GitHub: [kreier/beston-9volt-battery] expanded explanation
+- GitHub: [kreier/beston-9volt-battery] Add Mandelbrot ASCII renderer in mandelbrot.py
 
 I like the variables for real რე and imaginary იმ in the Gregorian language! Script: Mkhedruli.
-[kreier/beston-9volt-battery] Add README.md for 9 Volt battery repository
-[kreier/beston-9volt-battery] Add .DS_Store to .gitignore for Synology Diskstation
-[kreier/beston-9volt-battery] Initial commit</title></rect></a>
+- GitHub: [kreier/beston-9volt-battery] Add README.md for 9 Volt battery repository
+- GitHub: [kreier/beston-9volt-battery] Add .DS_Store to .gitignore for Synology Diskstation
+- GitHub: [kreier/beston-9volt-battery] Initial commit</title></rect></a>
 <rect class="day-cell" data-date="2026-03-27" x="174" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-27: 0 entries</title></rect>
 <a href="https://github.com/kreier/python2018/blob/main/README.md"><rect class="day-cell" data-date="2026-03-28" x="174" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-03-28: 2 entries
-[kreier/python2018] README.md
-[kreier/temp.hofkoh.de] README.md</title></rect></a>
+- GitHub: [kreier/python2018] README.md
+- GitHub: [kreier/temp.hofkoh.de] README.md</title></rect></a>
 <a href="https://github.com/kreier/beston-9volt-battery/commit/892db9ceff60f7d2b33bfc46a613f36e7911765a"><rect class="day-cell" data-date="2026-03-29" x="186" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-03-29: 1 entry
-[kreier/beston-9volt-battery] Enhance README with battery and circuit details
+- GitHub: [kreier/beston-9volt-battery] Enhance README with battery and circuit details
 
 Expanded the README to include detailed information about the LiPo cells, their specifications, and the circuit design iterations.</title></rect></a>
 <rect class="day-cell" data-date="2026-03-30" x="186" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-03-31" x="186" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-03-31: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-04-01" x="186" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-04-01: 0 entries</title></rect>
 <a href="https://github.com/kreier/homelab/blob/main/README.md"><rect class="day-cell" data-date="2026-04-02" x="186" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-04-02: 1 entry
-[kreier/homelab] README.md</title></rect></a>
+- GitHub: [kreier/homelab] README.md</title></rect></a>
 <rect class="day-cell" data-date="2026-04-03" x="186" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-04-03: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/b2815a6226341ee16b3078db9164b10fca416528"><rect class="day-cell" data-date="2026-04-04" x="186" y="107" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-04-04: 6 entries
-[kreier/benchmark] improved instructions for OpenWRT
-[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
-[kreier/benchmark] fix mistakes, update coremark/Mhz
-[kreier/benchmark] Update image link in README.md
-[kreier/benchmark] Fix image links and add update note for SuperPi section
+- GitHub: [kreier/benchmark] improved instructions for OpenWRT
+- GitHub: [kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
+- GitHub: [kreier/benchmark] fix mistakes, update coremark/Mhz
+- GitHub: [kreier/benchmark] Update image link in README.md
+- GitHub: [kreier/benchmark] Fix image links and add update note for SuperPi section
 
 Updated image links to use direct URLs for better accessibility. Added note to update SuperPi section for accuracy.
-[kreier/benchmark] included 3 Android phones with termux</title></rect></a>
+- GitHub: [kreier/benchmark] included 3 Android phones with termux</title></rect></a>
 <text x="198" y="30" font-family="sans-serif" font-size="8" fill="#767676">Apr</text>
 <a href="https://github.com/kreier/benchmark/commit/a9dbd24031bc55084455aa4008063625da25570d"><rect class="day-cell" data-date="2026-04-05" x="198" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-04-05: 3 entries
-[kreier/benchmark] Fix reference and format in README.md
+- GitHub: [kreier/benchmark] Fix reference and format in README.md
 
 Updated the README.md to correct the reference to the K6/233 and improved formatting of the device table.
-[kreier/benchmark] Revise nbench README for cross-compilation setup
+- GitHub: [kreier/benchmark] Revise nbench README for cross-compilation setup
 
 Updated README with instructions for cross-compilation and adjustments needed for the nbench benchmark tool.
-[kreier/benchmark] successful run on OpenWRT router 32bit MIPS</title></rect></a>
+- GitHub: [kreier/benchmark] successful run on OpenWRT router 32bit MIPS</title></rect></a>
 <rect class="day-cell" data-date="2026-04-06" x="198" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-04-06: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/3b93439b4819a3a0c3af083c694c2373a85fe292"><rect class="day-cell" data-date="2026-04-07" x="198" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-04-07: 3 entries
-[kreier/benchmark] include TP-Link Archer C7
-[kreier/benchmark] README.md
-[kreier/beston-9volt-battery] battery data measured recently for 2 examples</title></rect></a>
+- GitHub: [kreier/benchmark] include TP-Link Archer C7
+- GitHub: [kreier/benchmark] README.md
+- GitHub: [kreier/beston-9volt-battery] battery data measured recently for 2 examples</title></rect></a>
 <rect class="day-cell" data-date="2026-04-08" x="198" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-04-08: 0 entries</title></rect>
 <a href="https://github.com/kreier/beston-9volt-battery/commit/3fa187f9208b7aa462cb5a2217044d8d03d36fd6"><rect class="day-cell" data-date="2026-04-09" x="198" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2026-04-09: 1 entry
-[kreier/beston-9volt-battery] updated measurements</title></rect></a>
+- GitHub: [kreier/beston-9volt-battery] updated measurements</title></rect></a>
 <a href="https://github.com/kreier/beston-9volt-battery/commit/f1275836100b17acc7338503272d1787823dba9b"><rect class="day-cell" data-date="2026-04-10" x="198" y="95" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2026-04-10: 5 entries
-[kreier/beston-9volt-battery] updated battery 1 to 3
-[kreier/beston-9volt-battery] Update README with battery details and pricing
+- GitHub: [kreier/beston-9volt-battery] updated battery 1 to 3
+- GitHub: [kreier/beston-9volt-battery] Update README with battery details and pricing
 
 Added information about 9V batteries and AA battery pricing.
-[kreier/beston-9volt-battery] include visuals about 2AN-75 battery
-[kreier/beston-9volt-battery] README.md
-[kreier/timeline] README.md</title></rect></a>
+- GitHub: [kreier/beston-9volt-battery] include visuals about 2AN-75 battery
+- GitHub: [kreier/beston-9volt-battery] README.md
+- GitHub: [kreier/timeline] README.md</title></rect></a>
 <a href="https://github.com/kreier/brain-structure/commit/f44e3517efb248f50144cc944d48a9dc630060c8"><rect class="day-cell" data-date="2026-04-11" x="198" y="107" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2026-04-11: 9 entries
-[kreier/brain-structure] Update README with usage statistics for LLMs
+- GitHub: [kreier/brain-structure] Update README with usage statistics for LLMs
 
 Added statistics about usage of different LLMs in the project.
-[kreier/brain-structure] Update README with Claude export instructions
+- GitHub: [kreier/brain-structure] Update README with Claude export instructions
 
 Added detailed instructions for exporting data from Claude.
-[kreier/brain-structure] Update README with data export instructions
+- GitHub: [kreier/brain-structure] Update README with data export instructions
 
 Added instructions for downloading raw data from Google Gemini and mentioned data export formats for Claude and ChatGPT.
-[kreier/brain-structure] Add .DS_Store to .gitignore for Synology Diskstation
-[kreier/brain-structure] Revise README with project structure and commands
+- GitHub: [kreier/brain-structure] Add .DS_Store to .gitignore for Synology Diskstation
+- GitHub: [kreier/brain-structure] Revise README with project structure and commands
 
 Updated README to provide detailed project structure and usage instructions.
-[kreier/brain-structure] Initial commit
-[kreier/brain-structure] README.md
-[kreier/quartz] README.md
-[kreier/statistics-diary] README.md</title></rect></a>
+- GitHub: [kreier/brain-structure] Initial commit
+- GitHub: [kreier/brain-structure] README.md
+- GitHub: [kreier/quartz] README.md
+- GitHub: [kreier/statistics-diary] README.md</title></rect></a>
 <rect class="day-cell" data-date="2026-04-12" x="210" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-04-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-04-13" x="210" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-04-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-04-14" x="210" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-04-14: 0 entries</title></rect>
@@ -528,21 +532,21 @@ Updated README to provide detailed project structure and usage instructions.
 <rect class="day-cell" data-date="2026-12-29" x="654" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-12-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2026-12-30" x="654" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-12-30: 0 entries</title></rect>
 <a href="https://saiht.de/obsidian/Diary/2026"><rect class="day-cell" data-date="2026-12-31" x="654" y="83" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2026-12-31: 1 entry
-2026</title></rect></a>
+- Quartz: 2026</title></rect></a>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2025</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 65, Github: 55 (165), Quartz: 8 (15), Wordpress: 6 (6), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2025</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 65, Github: 55 (165), Quartz: 8 (15), Wordpress: 6 (6), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://github.com/kreier/benchmark/commit/c88a0a21a58c43a469982d4c8e1ddb759c9b265e"><rect class="day-cell" data-date="2025-01-01" x="30" y="71" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-01-01: 6 entries
-[kreier/benchmark] include 3060 Ti
-One week in Hanoi and Sapa 2025
-2025
-Ha Giang loop a second time in 2025
-Three day journey to Hanoi 2025
-Two weeks road trip Saigon-Hue 2025</title></rect></a>
+- GitHub: [kreier/benchmark] include 3060 Ti
+- Quartz: One week in Hanoi and Sapa 2025
+- Quartz: 2025
+- Quartz: Ha Giang loop a second time in 2025
+- Quartz: Three day journey to Hanoi 2025
+- Quartz: Two weeks road trip Saigon-Hue 2025</title></rect></a>
 <rect class="day-cell" data-date="2025-01-02" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-01-03" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-01-04" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-01-04: 0 entries</title></rect>
@@ -552,9 +556,9 @@ Two weeks road trip Saigon-Hue 2025</title></rect></a>
 <rect class="day-cell" data-date="2025-01-07" x="42" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-01-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-01-08" x="42" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-01-08: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/c3f7f2bad87f97df787912872398ceba974e3859"><rect class="day-cell" data-date="2025-01-09" x="42" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-09: 3 entries
-[kreier/benchmark] include GTX 1060 6GB
-[kreier/benchmark] include GTX 1060 6GB
-HP EliteDesk 800 G4 TWR</title></rect></a>
+- GitHub: [kreier/benchmark] include GTX 1060 6GB
+- GitHub: [kreier/benchmark] include GTX 1060 6GB
+- Quartz: HP EliteDesk 800 G4 TWR</title></rect></a>
 <rect class="day-cell" data-date="2025-01-10" x="42" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-01-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-01-11" x="42" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-01-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-01-12" x="54" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-01-12: 0 entries</title></rect>
@@ -563,41 +567,41 @@ HP EliteDesk 800 G4 TWR</title></rect></a>
 <rect class="day-cell" data-date="2025-01-15" x="54" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-01-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-01-16" x="54" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-01-16: 0 entries</title></rect>
 <a href="https://github.com/kreier/cru/commit/a10b79119d53286acd2ed4ae763074528e3486a1"><rect class="day-cell" data-date="2025-01-17" x="54" y="95" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-01-17: 6 entries
-[kreier/cru] fix image error, include example
-[kreier/cru] extend description
-[kreier/cru] Version 1.3.99-p1 from Apr 11, 2018
+- GitHub: [kreier/cru] fix image error, include example
+- GitHub: [kreier/cru] extend description
+- GitHub: [kreier/cru] Version 1.3.99-p1 from Apr 11, 2018
 
 This code was copied from https://github.com/radamar/Custom-Resolution-Utility-ToastyX
-[kreier/cru] short outline of the software
-[kreier/cru] Update .gitignore for Synology
-[kreier/cru] Initial commit</title></rect></a>
+- GitHub: [kreier/cru] short outline of the software
+- GitHub: [kreier/cru] Update .gitignore for Synology
+- GitHub: [kreier/cru] Initial commit</title></rect></a>
 <rect class="day-cell" data-date="2025-01-18" x="54" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-01-18: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/73596fa5cacf3ce59e4ee390a948e8539c228a55"><rect class="day-cell" data-date="2025-01-19" x="66" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-19: 2 entries
-[kreier/benchmark] include results for 13700T
-[kreier/cru] Expand documentation, include 1.0.1</title></rect></a>
+- GitHub: [kreier/benchmark] include results for 13700T
+- GitHub: [kreier/cru] Expand documentation, include 1.0.1</title></rect></a>
 <rect class="day-cell" data-date="2025-01-20" x="66" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-01-20: 0 entries</title></rect>
 <a href="https://github.com/kreier/cru/commit/1ce996067e379dcabf96d6b3ba876b02bcfa2624"><rect class="day-cell" data-date="2025-01-21" x="66" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-21: 1 entry
-[kreier/cru] 2023-10-01 changes in 1.1</title></rect></a>
+- GitHub: [kreier/cru] 2023-10-01 changes in 1.1</title></rect></a>
 <a href="https://github.com/kreier/cru/commit/36a51a96a1fcc08c62d21fb10030c906cc574465"><rect class="day-cell" data-date="2025-01-22" x="66" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-22: 1 entry
-[kreier/cru] 2014-02-14 Changes in 1.1.1</title></rect></a>
+- GitHub: [kreier/cru] 2014-02-14 Changes in 1.1.1</title></rect></a>
 <a href="https://github.com/kreier/cru/commit/e937448f7af4481f9cde66dcbf3b692af440bd8c"><rect class="day-cell" data-date="2025-01-23" x="66" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-23: 1 entry
-[kreier/cru] 2014-04-05 Changes in 1.1.2</title></rect></a>
+- GitHub: [kreier/cru] 2014-04-05 Changes in 1.1.2</title></rect></a>
 <a href="https://github.com/kreier/cru/commit/95289e8ff8262bb093f5b8bd40b32e852de94756"><rect class="day-cell" data-date="2025-01-24" x="66" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-24: 1 entry
-[kreier/cru] 2015-02-14 Changes in 1.2</title></rect></a>
+- GitHub: [kreier/cru] 2015-02-14 Changes in 1.2</title></rect></a>
 <a href="https://github.com/kreier/cru/commit/833c9a09f82972e6bbb9a1b7784bd6f99b28905e"><rect class="day-cell" data-date="2025-01-25" x="66" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-25: 1 entry
-[kreier/cru] 2015-07-28 Changes in 1.2.1</title></rect></a>
+- GitHub: [kreier/cru] 2015-07-28 Changes in 1.2.1</title></rect></a>
 <a href="https://github.com/kreier/cru/commit/87fab1fe3d6039f39c910acff765e7fe9c0fbaaf"><rect class="day-cell" data-date="2025-01-26" x="78" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-26: 2 entries
-[kreier/cru] 2016-09-28 Patch 2 1.2.99-p2 and 2016-04-23 Patch 1 1.2.99-p1
-[kreier/cru] 2015-12-22 Changes in 1.2.6</title></rect></a>
+- GitHub: [kreier/cru] 2016-09-28 Patch 2 1.2.99-p2 and 2016-04-23 Patch 1 1.2.99-p1
+- GitHub: [kreier/cru] 2015-12-22 Changes in 1.2.6</title></rect></a>
 <a href="https://github.com/kreier/cru/commit/87aa31a7871a5e0ee6db6542e491bbad13c9e96d"><rect class="day-cell" data-date="2025-01-27" x="78" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-27: 1 entry
-[kreier/cru] 2016-10-30 Changes in 1.3</title></rect></a>
+- GitHub: [kreier/cru] 2016-10-30 Changes in 1.3</title></rect></a>
 <a href="https://github.com/kreier/cru/commit/7618ab98296fb25b9b4952c8b2fe3da3ea646806"><rect class="day-cell" data-date="2025-01-28" x="78" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-28: 2 entries
-[kreier/cru] v1.3.99 source code, added IDE info
-[kreier/cru] 2017-08-24 Changes in 1.3.1 - the only update in 2017</title></rect></a>
+- GitHub: [kreier/cru] v1.3.99 source code, added IDE info
+- GitHub: [kreier/cru] 2017-08-24 Changes in 1.3.1 - the only update in 2017</title></rect></a>
 <a href="https://github.com/kreier/cru/commit/19f3944f913327b5a77809d07de41c42d7a55f4c"><rect class="day-cell" data-date="2025-01-29" x="78" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-29: 1 entry
-[kreier/cru] 2018-07-14 Changes in 1.4 and links to CTA-861-G and CTA-861.6</title></rect></a>
+- GitHub: [kreier/cru] 2018-07-14 Changes in 1.4 and links to CTA-861-G and CTA-861.6</title></rect></a>
 <a href="https://github.com/kreier/cru/commit/95b5038bdef592e503c3377e76dc932fede1d88a"><rect class="day-cell" data-date="2025-01-30" x="78" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-01-30: 1 entry
-[kreier/cru] 2018-09-17 Changes in 1.4.1</title></rect></a>
+- GitHub: [kreier/cru] 2018-09-17 Changes in 1.4.1</title></rect></a>
 <rect class="day-cell" data-date="2025-01-31" x="78" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-01-31: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-02-01" x="78" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-02-01: 0 entries</title></rect>
 <text x="90" y="30" font-family="sans-serif" font-size="8" fill="#767676">Feb</text>
@@ -605,19 +609,19 @@ This code was copied from https://github.com/radamar/Custom-Resolution-Utility-T
 <rect class="day-cell" data-date="2025-02-03" x="90" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-02-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-02-04" x="90" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-02-04: 0 entries</title></rect>
 <a href="https://github.com/kreier/cru/commit/483c39973d4a09814f89cc8a6ad8655e8e436193"><rect class="day-cell" data-date="2025-02-05" x="90" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-02-05: 1 entry
-[kreier/cru] 2019-10-30 Changes in 1.4.2</title></rect></a>
+- GitHub: [kreier/cru] 2019-10-30 Changes in 1.4.2</title></rect></a>
 <a href="https://github.com/kreier/cru/commit/46d7b66e68a6b9c197bc05c6e9b418413acbc418"><rect class="day-cell" data-date="2025-02-06" x="90" y="83" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2025-02-06: 9 entries
-[kreier/cru] extend introduction, include changes v1.5 and v1.5.1
-[kreier/cru] Merge pull request #2 from kreier/1.5.2
+- GitHub: [kreier/cru] extend introduction, include changes v1.5 and v1.5.1
+- GitHub: [kreier/cru] Merge pull request #2 from kreier/1.5.2
 
 v1.5.2 from September 1, 2022
-[kreier/cru] v1.5.2 from October 29, 2019
-[kreier/cru] v1.5.2 from October 25, 2019
-[kreier/cru] v1.5.2 from January 1, 2021
-[kreier/cru] v1.5 from January 1, 2021
-[kreier/cru] v1.3.99-p1 from April 11, 2018
-[kreier/cru] v1.5.2 from September 1st, 2022
-[kreier/cru] v1.5.2 from September 1, 2022
+- GitHub: [kreier/cru] v1.5.2 from October 29, 2019
+- GitHub: [kreier/cru] v1.5.2 from October 25, 2019
+- GitHub: [kreier/cru] v1.5.2 from January 1, 2021
+- GitHub: [kreier/cru] v1.5 from January 1, 2021
+- GitHub: [kreier/cru] v1.3.99-p1 from April 11, 2018
+- GitHub: [kreier/cru] v1.5.2 from September 1st, 2022
+- GitHub: [kreier/cru] v1.5.2 from September 1, 2022
 
 127 files changed
 New files:
@@ -633,13 +637,13 @@ HDRStaticMetadataFromClass.h</title></rect></a>
 <rect class="day-cell" data-date="2025-02-11" x="102" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-02-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-02-12" x="102" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-02-12: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/4bdb0731acaf99405296b1c770f6d83b336c965e"><rect class="day-cell" data-date="2025-02-13" x="102" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-02-13: 2 entries
-[kreier/benchmark] Include fp32/fp32 result for GTX 1070
-[kreier/benchmark] include GTX 1070 8GB</title></rect></a>
+- GitHub: [kreier/benchmark] Include fp32/fp32 result for GTX 1070
+- GitHub: [kreier/benchmark] include GTX 1070 8GB</title></rect></a>
 <rect class="day-cell" data-date="2025-02-14" x="102" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-02-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-02-15" x="102" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-02-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-02-16" x="114" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-02-16: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/cd7c5639cd4163d92f207366936dfcc0ff15c1c2"><rect class="day-cell" data-date="2025-02-17" x="114" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-02-17: 1 entry
-[kreier/benchmark] include P104-100 8GB</title></rect></a>
+- GitHub: [kreier/benchmark] include P104-100 8GB</title></rect></a>
 <rect class="day-cell" data-date="2025-02-18" x="114" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-02-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-02-19" x="114" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-02-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-02-20" x="114" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-02-20: 0 entries</title></rect>
@@ -651,16 +655,16 @@ HDRStaticMetadataFromClass.h</title></rect></a>
 <rect class="day-cell" data-date="2025-02-26" x="126" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-02-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-02-27" x="126" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-02-27: 0 entries</title></rect>
 <a href="https://github.com/kreier/sre/blob/main/README.md"><rect class="day-cell" data-date="2025-02-28" x="126" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-02-28: 1 entry
-[kreier/sre] README.md</title></rect></a>
+- GitHub: [kreier/sre] README.md</title></rect></a>
 <rect class="day-cell" data-date="2025-03-01" x="126" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-03-01: 0 entries</title></rect>
 <text x="138" y="30" font-family="sans-serif" font-size="8" fill="#767676">Mar</text>
 <rect class="day-cell" data-date="2025-03-02" x="138" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-03-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-03-03" x="138" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-03-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-03-04" x="138" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-03-04: 0 entries</title></rect>
 <a href="https://github.com/kreier/keyboard/blob/main/README.md"><rect class="day-cell" data-date="2025-03-05" x="138" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-03-05: 1 entry
-[kreier/keyboard] README.md</title></rect></a>
+- GitHub: [kreier/keyboard] README.md</title></rect></a>
 <a href="https://github.com/kreier/vex/blob/main/README.md"><rect class="day-cell" data-date="2025-03-06" x="138" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-03-06: 1 entry
-[kreier/vex] README.md</title></rect></a>
+- GitHub: [kreier/vex] README.md</title></rect></a>
 <rect class="day-cell" data-date="2025-03-07" x="138" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-03-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-03-08" x="138" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-03-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-03-09" x="150" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-03-09: 0 entries</title></rect>
@@ -670,56 +674,56 @@ HDRStaticMetadataFromClass.h</title></rect></a>
 <rect class="day-cell" data-date="2025-03-13" x="150" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-03-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-03-14" x="150" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-03-14: 0 entries</title></rect>
 <a href="https://github.com/kreier/daniel2/commit/fb0356253960cc3fc554352f4ecd3c95bbae5544"><rect class="day-cell" data-date="2025-03-15" x="150" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-03-15: 1 entry
-[kreier/daniel2] Create README.md</title></rect></a>
+- GitHub: [kreier/daniel2] Create README.md</title></rect></a>
 <a href="https://github.com/kreier/click-classifier/commit/9d02a3cebf62e8b6113352d61c4ad7a9542e4ba5"><rect class="day-cell" data-date="2025-03-16" x="162" y="35" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-03-16: 4 entries
-[kreier/click-classifier] link working example
-[kreier/click-classifier] resources from ssis-aa
-[kreier/click-classifier] working version with ml5.js 0.12.2 from 2023
-[kreier/click-classifier] Initial commit</title></rect></a>
+- GitHub: [kreier/click-classifier] link working example
+- GitHub: [kreier/click-classifier] resources from ssis-aa
+- GitHub: [kreier/click-classifier] working version with ml5.js 0.12.2 from 2023
+- GitHub: [kreier/click-classifier] Initial commit</title></rect></a>
 <rect class="day-cell" data-date="2025-03-17" x="162" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-03-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-03-18" x="162" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-03-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-03-19" x="162" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-03-19: 0 entries</title></rect>
 <a href="https://github.com/kreier/gps-relativity/commit/bb1ae8272f1520fb867cd4d71d5073c07f1e8461"><rect class="day-cell" data-date="2025-03-20" x="162" y="83" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2025-03-20: 14 entries
-[kreier/gps-relativity] calculate drift of 8 meter per minute if SR and GR ignored
-[kreier/gps-relativity] Update _config.yml and back to dinky
-[kreier/gps-relativity] Update _config.yml
-[kreier/gps-relativity] change to cayman
-[kreier/gps-relativity] fix theme
-[kreier/gps-relativity] update theme to dinky, configure katex
-[kreier/gps-relativity] Create _config.yml
-[kreier/gps-relativity] Create jekyll-gh-pages.yml
-[kreier/gps-relativity] finally 38.5 microseconds faster
-[kreier/gps-relativity] fix calculation
-[kreier/gps-relativity] include jupyter notebook
-[kreier/gps-relativity] finish General Relativity
-[kreier/gps-relativity] result Google Colab 21 microsecond, added
-[kreier/gps-relativity] Initial commit</title></rect></a>
+- GitHub: [kreier/gps-relativity] calculate drift of 8 meter per minute if SR and GR ignored
+- GitHub: [kreier/gps-relativity] Update _config.yml and back to dinky
+- GitHub: [kreier/gps-relativity] Update _config.yml
+- GitHub: [kreier/gps-relativity] change to cayman
+- GitHub: [kreier/gps-relativity] fix theme
+- GitHub: [kreier/gps-relativity] update theme to dinky, configure katex
+- GitHub: [kreier/gps-relativity] Create _config.yml
+- GitHub: [kreier/gps-relativity] Create jekyll-gh-pages.yml
+- GitHub: [kreier/gps-relativity] finally 38.5 microseconds faster
+- GitHub: [kreier/gps-relativity] fix calculation
+- GitHub: [kreier/gps-relativity] include jupyter notebook
+- GitHub: [kreier/gps-relativity] finish General Relativity
+- GitHub: [kreier/gps-relativity] result Google Colab 21 microsecond, added
+- GitHub: [kreier/gps-relativity] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/gps-relativity/commit/0586d8bbefcce8c2db31751c990bee2c8d0356bd"><rect class="day-cell" data-date="2025-03-21" x="162" y="95" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2025-03-21: 9 entries
-[kreier/gps-relativity] shift left 20px in wrapper
-[kreier/gps-relativity] wrapper is only 1160 px wide
-[kreier/gps-relativity] float right with wider section
-[kreier/gps-relativity] double dollar it is!
-[kreier/gps-relativity] double dollar seems to work even inline!
-[kreier/gps-relativity] delimiter change for KaTeX that does not work with GitHub math renderer
-[kreier/gps-relativity] include dinky
-[kreier/gps-relativity] fix to have content rendered by Jekyll
-[kreier/gps-relativity] README.md</title></rect></a>
+- GitHub: [kreier/gps-relativity] shift left 20px in wrapper
+- GitHub: [kreier/gps-relativity] wrapper is only 1160 px wide
+- GitHub: [kreier/gps-relativity] float right with wider section
+- GitHub: [kreier/gps-relativity] double dollar it is!
+- GitHub: [kreier/gps-relativity] double dollar seems to work even inline!
+- GitHub: [kreier/gps-relativity] delimiter change for KaTeX that does not work with GitHub math renderer
+- GitHub: [kreier/gps-relativity] include dinky
+- GitHub: [kreier/gps-relativity] fix to have content rendered by Jekyll
+- GitHub: [kreier/gps-relativity] README.md</title></rect></a>
 <rect class="day-cell" data-date="2025-03-22" x="162" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-03-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-03-23" x="174" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-03-23: 0 entries</title></rect>
 <a href="https://github.com/kreier/daniel2/commit/ba8a23d9b819cda70127803fd09e5fc437103c6e"><rect class="day-cell" data-date="2025-03-24" x="174" y="47" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-03-24: 7 entries
-[kreier/daniel2] updated documentation - the larger images display the details better
-[kreier/daniel2] included cropped versions
-[kreier/daniel2] resize to match comparison
-[kreier/daniel2] include comparison
-[kreier/daniel2] order fiverr 2024-06-09
-[kreier/daniel2] work from Isuru 2024-06-23
-[kreier/daniel2] README.md</title></rect></a>
+- GitHub: [kreier/daniel2] updated documentation - the larger images display the details better
+- GitHub: [kreier/daniel2] included cropped versions
+- GitHub: [kreier/daniel2] resize to match comparison
+- GitHub: [kreier/daniel2] include comparison
+- GitHub: [kreier/daniel2] order fiverr 2024-06-09
+- GitHub: [kreier/daniel2] work from Isuru 2024-06-23
+- GitHub: [kreier/daniel2] README.md</title></rect></a>
 <a href="https://github.com/kreier/click-classifier/commit/3680f074adec74c50633baeaf39af7e4a280dcb7"><rect class="day-cell" data-date="2025-03-25" x="174" y="59" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-03-25: 5 entries
-[kreier/click-classifier] new v1.2.1 of the ml library is out
-[kreier/click-classifier] improved version 2025-03-25
-[kreier/click-classifier] Update README.md
-[kreier/click-classifier] Create README.md
-[kreier/click-classifier] README.md</title></rect></a>
+- GitHub: [kreier/click-classifier] new v1.2.1 of the ml library is out
+- GitHub: [kreier/click-classifier] improved version 2025-03-25
+- GitHub: [kreier/click-classifier] Update README.md
+- GitHub: [kreier/click-classifier] Create README.md
+- GitHub: [kreier/click-classifier] README.md</title></rect></a>
 <rect class="day-cell" data-date="2025-03-26" x="174" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-03-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-03-27" x="174" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-03-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-03-28" x="174" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-03-28: 0 entries</title></rect>
@@ -736,14 +740,14 @@ HDRStaticMetadataFromClass.h</title></rect></a>
 <rect class="day-cell" data-date="2025-04-07" x="198" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-04-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-04-08" x="198" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-04-08: 0 entries</title></rect>
 <a href="https://github.com/kreier/aa/commit/b12cb6216783fcfa514daae4220c35f3b0bba01f"><rect class="day-cell" data-date="2025-04-09" x="198" y="71" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2025-04-09: 8 entries
-[kreier/aa] Merge branch 'main' of https://github.com/kreier/aa
-[kreier/aa] expand cross-references
-[kreier/aa] include reference link and some images
-[kreier/aa] Merge branch 'main' of https://github.com/kreier/aa
-[kreier/aa] include standards
-[kreier/aa] include badges
-[kreier/aa] documentation 2022-2023
-[kreier/aa] README.md</title></rect></a>
+- GitHub: [kreier/aa] Merge branch 'main' of https://github.com/kreier/aa
+- GitHub: [kreier/aa] expand cross-references
+- GitHub: [kreier/aa] include reference link and some images
+- GitHub: [kreier/aa] Merge branch 'main' of https://github.com/kreier/aa
+- GitHub: [kreier/aa] include standards
+- GitHub: [kreier/aa] include badges
+- GitHub: [kreier/aa] documentation 2022-2023
+- GitHub: [kreier/aa] README.md</title></rect></a>
 <rect class="day-cell" data-date="2025-04-10" x="198" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-04-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-04-11" x="198" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-04-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-04-12" x="198" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-04-12: 0 entries</title></rect>
@@ -754,44 +758,44 @@ HDRStaticMetadataFromClass.h</title></rect></a>
 <rect class="day-cell" data-date="2025-04-17" x="210" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-04-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-04-18" x="210" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-04-18: 0 entries</title></rect>
 <a href="https://github.com/kreier/hacks/commit/0f81a6ec43c7c81b18d47d433cb3792d8d3d2618"><rect class="day-cell" data-date="2025-04-19" x="210" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-04-19: 3 entries
-[kreier/hacks] include badges
-[kreier/hacks] include a little structure
-[kreier/hacks] README.md</title></rect></a>
+- GitHub: [kreier/hacks] include badges
+- GitHub: [kreier/hacks] include a little structure
+- GitHub: [kreier/hacks] README.md</title></rect></a>
 <a href="https://github.com/kreier/llama.cpp-jetson.nano/blob/main/README.md"><rect class="day-cell" data-date="2025-04-20" x="222" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-04-20: 1 entry
-[kreier/llama.cpp-jetson.nano] README.md</title></rect></a>
+- GitHub: [kreier/llama.cpp-jetson.nano] README.md</title></rect></a>
 <rect class="day-cell" data-date="2025-04-21" x="222" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-04-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-04-22" x="222" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-04-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-04-23" x="222" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-04-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-04-24" x="222" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-04-24: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/a467ab3e9394c41900c197f58881a2e055beb4a9"><rect class="day-cell" data-date="2025-04-25" x="222" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-04-25: 2 entries
-[kreier/benchmark] faster speed for INT8 with dp4a in v1.8
-[kreier/benchmark] include Apple M1 and i7 13700T</title></rect></a>
+- GitHub: [kreier/benchmark] faster speed for INT8 with dp4a in v1.8
+- GitHub: [kreier/benchmark] include Apple M1 and i7 13700T</title></rect></a>
 <a href="https://github.com/kreier/cuda/commit/84da567a363dbc3527a0c189e1354bfe89c1ca5f"><rect class="day-cell" data-date="2025-04-26" x="222" y="107" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-04-26: 4 entries
-[kreier/cuda] Create README.md
-[kreier/cuda] simple hello world on one thread
-[kreier/cuda] Initial commit
-[kreier/cuda] README.md</title></rect></a>
+- GitHub: [kreier/cuda] Create README.md
+- GitHub: [kreier/cuda] simple hello world on one thread
+- GitHub: [kreier/cuda] Initial commit
+- GitHub: [kreier/cuda] README.md</title></rect></a>
 <rect class="day-cell" data-date="2025-04-27" x="234" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-04-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-04-28" x="234" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-04-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-04-29" x="234" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-04-29: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/7041cd9fd1a5d2ac65e287b41a95b319cb70cfc5"><rect class="day-cell" data-date="2025-04-30" x="234" y="71" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-04-30: 6 entries
-[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
-[kreier/benchmark] update GFLOPs graphs
-[kreier/benchmark] Update recent results LinpackDP
-[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
-[kreier/benchmark] include some eye candy
-[kreier/benchmark] include overview</title></rect></a>
+- GitHub: [kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
+- GitHub: [kreier/benchmark] update GFLOPs graphs
+- GitHub: [kreier/benchmark] Update recent results LinpackDP
+- GitHub: [kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
+- GitHub: [kreier/benchmark] include some eye candy
+- GitHub: [kreier/benchmark] include overview</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/de4d1ae8d45082c1320ed769849556bbce1777ed"><rect class="day-cell" data-date="2025-05-01" x="234" y="83" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-05-01: 6 entries
-[kreier/benchmark] include small details
-[kreier/benchmark] include 2 graphs for toy benchmarks and fastest language
-[kreier/benchmark] update graph and 13700T result
-[kreier/benchmark] updated GFLOPS graphs
-[kreier/benchmark] reorganized
-[kreier/benchmark] update images, include clpeak benchmark</title></rect></a>
+- GitHub: [kreier/benchmark] include small details
+- GitHub: [kreier/benchmark] include 2 graphs for toy benchmarks and fastest language
+- GitHub: [kreier/benchmark] update graph and 13700T result
+- GitHub: [kreier/benchmark] updated GFLOPS graphs
+- GitHub: [kreier/benchmark] reorganized
+- GitHub: [kreier/benchmark] update images, include clpeak benchmark</title></rect></a>
 <rect class="day-cell" data-date="2025-05-02" x="234" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-05-02: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/dec32ce9b7ec3280a4582319b71d35db5607f805"><rect class="day-cell" data-date="2025-05-03" x="234" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-05-03: 2 entries
-[kreier/benchmark] include process node and architecture
-[kreier/benchmark] fix data points</title></rect></a>
+- GitHub: [kreier/benchmark] include process node and architecture
+- GitHub: [kreier/benchmark] fix data points</title></rect></a>
 <text x="246" y="30" font-family="sans-serif" font-size="8" fill="#767676">May</text>
 <rect class="day-cell" data-date="2025-05-04" x="246" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-05-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-05-05" x="246" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-05-05: 0 entries</title></rect>
@@ -799,18 +803,18 @@ HDRStaticMetadataFromClass.h</title></rect></a>
 <rect class="day-cell" data-date="2025-05-07" x="246" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-05-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-05-08" x="246" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-05-08: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/cd9ce0ae92dc84de8022c0ec04b669387857890f"><rect class="day-cell" data-date="2025-05-09" x="246" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-05-09: 2 entries
-[kreier/benchmark] include three badges
-[kreier/jetson] README.md</title></rect></a>
+- GitHub: [kreier/benchmark] include three badges
+- GitHub: [kreier/jetson] README.md</title></rect></a>
 <a href="https://github.com/kreier/rp2350/blob/main/README.md"><rect class="day-cell" data-date="2025-05-10" x="246" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-05-10: 1 entry
-[kreier/rp2350] README.md</title></rect></a>
+- GitHub: [kreier/rp2350] README.md</title></rect></a>
 <rect class="day-cell" data-date="2025-05-11" x="258" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-05-11: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/78bf8c2204e2fe69d10ebc6f71cd514c320f5ded"><rect class="day-cell" data-date="2025-05-12" x="258" y="47" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-05-12: 4 entries
-[kreier/benchmark] Update README.md
-[kreier/ESP32] start with ESP-IDF VS Code extension
-[kreier/ESP8266] update 2025
-[kreier/ESP8266] README.md</title></rect></a>
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/ESP32] start with ESP-IDF VS Code extension
+- GitHub: [kreier/ESP8266] update 2025
+- GitHub: [kreier/ESP8266] README.md</title></rect></a>
 <a href="https://github.com/kreier/rp2040/blob/main/README.md"><rect class="day-cell" data-date="2025-05-13" x="258" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-05-13: 1 entry
-[kreier/rp2040] README.md</title></rect></a>
+- GitHub: [kreier/rp2040] README.md</title></rect></a>
 <rect class="day-cell" data-date="2025-05-14" x="258" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-05-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-05-15" x="258" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-05-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-05-16" x="258" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-05-16: 0 entries</title></rect>
@@ -831,13 +835,13 @@ HDRStaticMetadataFromClass.h</title></rect></a>
 <rect class="day-cell" data-date="2025-05-31" x="282" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-05-31: 0 entries</title></rect>
 <text x="294" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jun</text>
 <a href="https://kreier.github.io/quartz/Blog/2025/06/Discover-a-new-Ice-Cream"><rect class="day-cell" data-date="2025-06-01" x="294" y="35" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2025-06-01: 1 entry
-Discover a new Ice Cream</title></rect></a>
+- Quartz: Discover a new Ice Cream</title></rect></a>
 <rect class="day-cell" data-date="2025-06-02" x="294" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-06-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-06-03" x="294" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-06-03: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2025/06/04/two-visitors-from-germany/"><rect class="day-cell" data-date="2025-06-04" x="294" y="71" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2025-06-04: 1 entry
-Two visitors from Germany</title></rect></a>
+- WordPress: Two visitors from Germany</title></rect></a>
 <a href="https://saiht.de/blog/2025/06/05/gehen-wir-noch-einen-trinken/"><rect class="day-cell" data-date="2025-06-05" x="294" y="83" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2025-06-05: 1 entry
-Gehen wir noch einen trinken?</title></rect></a>
+- WordPress: Gehen wir noch einen trinken?</title></rect></a>
 <rect class="day-cell" data-date="2025-06-06" x="294" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-06-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-06-07" x="294" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-06-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-06-08" x="306" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-06-08: 0 entries</title></rect>
@@ -914,7 +918,7 @@ Gehen wir noch einen trinken?</title></rect></a>
 <rect class="day-cell" data-date="2025-08-16" x="414" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-08-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-08-17" x="426" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-08-17: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/1975531f72c9e251aabe874622a8d8f1aac84fb0"><rect class="day-cell" data-date="2025-08-18" x="426" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-08-18: 1 entry
-[kreier/benchmark] 2025 update on results, newly ordered</title></rect></a>
+- GitHub: [kreier/benchmark] 2025 update on results, newly ordered</title></rect></a>
 <rect class="day-cell" data-date="2025-08-19" x="426" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-08-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-08-20" x="426" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-08-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-08-21" x="426" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-08-21: 0 entries</title></rect>
@@ -934,11 +938,11 @@ Gehen wir noch einen trinken?</title></rect></a>
 <rect class="day-cell" data-date="2025-09-04" x="450" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-09-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-09-05" x="450" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-09-05: 0 entries</title></rect>
 <a href="https://github.com/kreier/T300/blob/master/README.md"><rect class="day-cell" data-date="2025-09-06" x="450" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-09-06: 1 entry
-[kreier/T300] README.md</title></rect></a>
+- GitHub: [kreier/T300] README.md</title></rect></a>
 <text x="462" y="30" font-family="sans-serif" font-size="8" fill="#767676">Sep</text>
 <rect class="day-cell" data-date="2025-09-07" x="462" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-09-07: 0 entries</title></rect>
 <a href="https://github.com/kreier/T400/blob/main/README.md"><rect class="day-cell" data-date="2025-09-08" x="462" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-09-08: 1 entry
-[kreier/T400] README.md</title></rect></a>
+- GitHub: [kreier/T400] README.md</title></rect></a>
 <rect class="day-cell" data-date="2025-09-09" x="462" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-09-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-09-10" x="462" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-09-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-09-11" x="462" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-09-11: 0 entries</title></rect>
@@ -953,34 +957,34 @@ Gehen wir noch einen trinken?</title></rect></a>
 <rect class="day-cell" data-date="2025-09-20" x="474" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-09-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-09-21" x="486" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-09-21: 0 entries</title></rect>
 <a href="https://github.com/kreier/movies/blob/main/README.md"><rect class="day-cell" data-date="2025-09-22" x="486" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-09-22: 1 entry
-[kreier/movies] README.md</title></rect></a>
+- GitHub: [kreier/movies] README.md</title></rect></a>
 <rect class="day-cell" data-date="2025-09-23" x="486" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-09-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-09-24" x="486" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-09-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-09-25" x="486" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-09-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-09-26" x="486" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-09-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-09-27" x="486" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-09-27: 0 entries</title></rect>
 <a href="https://github.com/kreier/nam-electric/blob/main/README.md"><rect class="day-cell" data-date="2025-09-28" x="498" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-09-28: 1 entry
-[kreier/nam-electric] README.md</title></rect></a>
+- GitHub: [kreier/nam-electric] README.md</title></rect></a>
 <rect class="day-cell" data-date="2025-09-29" x="498" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-09-29: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP32/commit/c8a7439ebcc762b24d52443fbaf3a6add7b824fe"><rect class="day-cell" data-date="2025-09-30" x="498" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-09-30: 2 entries
-[kreier/ESP32] cleanup
-[kreier/ESP32] README.md</title></rect></a>
+- GitHub: [kreier/ESP32] cleanup
+- GitHub: [kreier/ESP32] README.md</title></rect></a>
 <a href="https://github.com/kreier/cru/commit/00693a119a4f7dd5787f4f69e26aed5e603e2957"><rect class="day-cell" data-date="2025-10-01" x="498" y="71" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2025-10-01: 11 entries
-[kreier/cru] restore original GPL-3 text
+- GitHub: [kreier/cru] restore original GPL-3 text
 
 This removes the first 11 lines linking to ToastyX (still in the LICENSE.txt) and adds lines 622-674 after the END OF TERMS AND CONDITIONS
-[kreier/cru] Merge branch 'main' of https://github.com/kreier/cru
-[kreier/cru] use license text provided by ToastyX
-[kreier/cru] Merge pull request #3 from kreier/1.5.3
+- GitHub: [kreier/cru] Merge branch 'main' of https://github.com/kreier/cru
+- GitHub: [kreier/cru] use license text provided by ToastyX
+- GitHub: [kreier/cru] Merge pull request #3 from kreier/1.5.3
 
 Update to new v1.5.3 and information from 2025-08-26
-[kreier/cru] mirror reference extension blocks from monitortests.com/download/dat
-[kreier/cru] Update to new v1.5.3 and information from 2025-08-26
-[kreier/cru] version 1.5.3 from 2025-04-28
-[kreier/cru] README.md
-Quartz 4 and GitHub for notes with Obsidian
-Reactivated 2025
-Official start of my study at Su Pham and Extension of a few projects</title></rect></a>
+- GitHub: [kreier/cru] mirror reference extension blocks from monitortests.com/download/dat
+- GitHub: [kreier/cru] Update to new v1.5.3 and information from 2025-08-26
+- GitHub: [kreier/cru] version 1.5.3 from 2025-04-28
+- GitHub: [kreier/cru] README.md
+- Quartz: Quartz 4 and GitHub for notes with Obsidian
+- Quartz: Reactivated 2025
+- Quartz: Official start of my study at Su Pham and Extension of a few projects</title></rect></a>
 <rect class="day-cell" data-date="2025-10-02" x="498" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-10-03" x="498" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-10-04" x="498" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-04: 0 entries</title></rect>
@@ -991,64 +995,64 @@ Official start of my study at Su Pham and Extension of a few projects</title></r
 <rect class="day-cell" data-date="2025-10-08" x="510" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-10-09" x="510" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-09: 0 entries</title></rect>
 <a href="https://github.com/kreier/communicationspeed/commit/e740a96d39087e4a0341287d67c157783eedc00f"><rect class="day-cell" data-date="2025-10-10" x="510" y="95" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2025-10-10: 8 entries
-[kreier/communicationspeed] Merge pull request #2 from kreier/speech
+- GitHub: [kreier/communicationspeed] Merge pull request #2 from kreier/speech
 
 Update README.md
-[kreier/communicationspeed] Update README.md
+- GitHub: [kreier/communicationspeed] Update README.md
 
 Co-authored-by: aisvn-data &lt;aisvn.data@gmail.com&gt;
-[kreier/communicationspeed] Merge pull request #1 from kreier/speech
+- GitHub: [kreier/communicationspeed] Merge pull request #1 from kreier/speech
 
 Create text-to-speech.py
-[kreier/communicationspeed] LaTeX not rendered for the website, so replaced with image
+- GitHub: [kreier/communicationspeed] LaTeX not rendered for the website, so replaced with image
 
 Co-authored-by: aisvn-data &lt;aisvn.data@gmail.com&gt;
-[kreier/communicationspeed] Create text-to-speech.py
+- GitHub: [kreier/communicationspeed] Create text-to-speech.py
 
 First attempt, the wpm calculation will follow.
 
 Co-authored-by: aisvn-data &lt;aisvn.data@gmail.com&gt;
-[kreier/communicationspeed] Update .gitignore for Synology Diskstation
-[kreier/communicationspeed] Update README.md
-[kreier/communicationspeed] Initial commit</title></rect></a>
+- GitHub: [kreier/communicationspeed] Update .gitignore for Synology Diskstation
+- GitHub: [kreier/communicationspeed] Update README.md
+- GitHub: [kreier/communicationspeed] Initial commit</title></rect></a>
 <rect class="day-cell" data-date="2025-10-11" x="510" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-11: 0 entries</title></rect>
 <a href="https://github.com/kreier/communicationspeed/commit/05477e93e7ed334548d50c3872e8b6eeeb7af3c9"><rect class="day-cell" data-date="2025-10-12" x="522" y="35" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2025-10-12: 8 entries
-[kreier/communicationspeed] fix filename
-[kreier/communicationspeed] updated graph
-[kreier/communicationspeed] differentiate further
-[kreier/communicationspeed] Merge pull request #4 from kreier/type
+- GitHub: [kreier/communicationspeed] fix filename
+- GitHub: [kreier/communicationspeed] updated graph
+- GitHub: [kreier/communicationspeed] differentiate further
+- GitHub: [kreier/communicationspeed] Merge pull request #4 from kreier/type
 
 Document Typing
-[kreier/communicationspeed] Update README.md
-[kreier/communicationspeed] include data tables
+- GitHub: [kreier/communicationspeed] Update README.md
+- GitHub: [kreier/communicationspeed] include data tables
 
 Co-authored-by: aisvn-data &lt;aisvn.data@gmail.com&gt;
-[kreier/communicationspeed] include study from 2019
+- GitHub: [kreier/communicationspeed] include study from 2019
 
 Co-authored-by: aisvn-data &lt;aisvn.data@gmail.com&gt;
-[kreier/communicationspeed] include visual</title></rect></a>
+- GitHub: [kreier/communicationspeed] include visual</title></rect></a>
 <rect class="day-cell" data-date="2025-10-13" x="522" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-13: 0 entries</title></rect>
 <a href="https://github.com/kreier/128x64/commit/39128c24d648fc15e044c7fce8fa612768d364b5"><rect class="day-cell" data-date="2025-10-14" x="522" y="59" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2025-10-14: 6 entries
-[kreier/128x64] include visuals for this project
-[kreier/128x64] README.md
-[kreier/bilder] ideas 2025
-[kreier/communicationspeed] Merge pull request #5 from kreier/speech
+- GitHub: [kreier/128x64] include visuals for this project
+- GitHub: [kreier/128x64] README.md
+- GitHub: [kreier/bilder] ideas 2025
+- GitHub: [kreier/communicationspeed] Merge pull request #5 from kreier/speech
 
 foundation for investigation
-[kreier/communicationspeed] foundation for investigation
+- GitHub: [kreier/communicationspeed] foundation for investigation
 
 The mp3 generation currently takes forever on the M1 Mac.
 
 Co-authored-by: aisvn-data &lt;aisvn.data@gmail.com&gt;
-[kreier/prime_gaps_line] README.md</title></rect></a>
+- GitHub: [kreier/prime_gaps_line] README.md</title></rect></a>
 <rect class="day-cell" data-date="2025-10-15" x="522" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-10-16" x="522" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-10-17" x="522" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-10-18" x="522" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-18: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2025/10/19/12-years-down-four-more-years-to-go/"><rect class="day-cell" data-date="2025-10-19" x="534" y="35" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2025-10-19: 1 entry
-12 years down &amp;#8211; four more years to go</title></rect></a>
+- WordPress: 12 years down &amp;#8211; four more years to go</title></rect></a>
 <a href="https://kreier.github.io/quartz/About-the-blog"><rect class="day-cell" data-date="2025-10-20" x="534" y="47" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2025-10-20: 1 entry
-About the blog</title></rect></a>
+- Quartz: About the blog</title></rect></a>
 <rect class="day-cell" data-date="2025-10-21" x="534" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-10-22" x="534" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-10-23" x="534" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-23: 0 entries</title></rect>
@@ -1061,7 +1065,7 @@ About the blog</title></rect></a>
 <rect class="day-cell" data-date="2025-10-30" x="546" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-10-31" x="546" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-10-31: 0 entries</title></rect>
 <a href="https://kreier.github.io/quartz/Blog/2025/11/Meo-Vac"><rect class="day-cell" data-date="2025-11-01" x="546" y="107" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2025-11-01: 1 entry
-Meo Vac</title></rect></a>
+- Quartz: Meo Vac</title></rect></a>
 <text x="558" y="30" font-family="sans-serif" font-size="8" fill="#767676">Nov</text>
 <rect class="day-cell" data-date="2025-11-02" x="558" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-11-03" x="558" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-03: 0 entries</title></rect>
@@ -1071,7 +1075,7 @@ Meo Vac</title></rect></a>
 <rect class="day-cell" data-date="2025-11-07" x="558" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-11-08" x="558" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-08: 0 entries</title></rect>
 <a href="https://github.com/kreier/study/blob/main/README.md"><rect class="day-cell" data-date="2025-11-09" x="570" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-11-09: 1 entry
-[kreier/study] README.md</title></rect></a>
+- GitHub: [kreier/study] README.md</title></rect></a>
 <rect class="day-cell" data-date="2025-11-10" x="570" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-11-11" x="570" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-11-12" x="570" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-12: 0 entries</title></rect>
@@ -1081,12 +1085,12 @@ Meo Vac</title></rect></a>
 <rect class="day-cell" data-date="2025-11-16" x="582" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-11-17" x="582" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-17: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2025/11/18/teacher-day-in-vietnam/"><rect class="day-cell" data-date="2025-11-18" x="582" y="59" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2025-11-18: 1 entry
-Teacher day in Vietnam</title></rect></a>
+- WordPress: Teacher day in Vietnam</title></rect></a>
 <rect class="day-cell" data-date="2025-11-19" x="582" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-11-20" x="582" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-11-21" x="582" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-21: 0 entries</title></rect>
 <a href="https://github.com/kreier/language-families/blob/main/README.md"><rect class="day-cell" data-date="2025-11-22" x="582" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-11-22: 1 entry
-[kreier/language-families] README.md</title></rect></a>
+- GitHub: [kreier/language-families] README.md</title></rect></a>
 <rect class="day-cell" data-date="2025-11-23" x="594" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-11-24" x="594" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-11-25" x="594" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-25: 0 entries</title></rect>
@@ -1095,10 +1099,10 @@ Teacher day in Vietnam</title></rect></a>
 <rect class="day-cell" data-date="2025-11-28" x="594" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-11-29" x="594" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-11-29: 0 entries</title></rect>
 <a href="https://github.com/kreier/promised-seed/blob/main/README.md"><rect class="day-cell" data-date="2025-11-30" x="606" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-11-30: 1 entry
-[kreier/promised-seed] README.md</title></rect></a>
+- GitHub: [kreier/promised-seed] README.md</title></rect></a>
 <a href="https://kreier.github.io/quartz/Blog/2025/12/Black-Virgin-Mountain-II"><rect class="day-cell" data-date="2025-12-01" x="606" y="47" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2025-12-01: 2 entries
-Black Virgin Mountain II
-Novel Word Count and Quartz Update</title></rect></a>
+- Quartz: Black Virgin Mountain II
+- Quartz: Novel Word Count and Quartz Update</title></rect></a>
 <rect class="day-cell" data-date="2025-12-02" x="606" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-12-03" x="606" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-12-04" x="606" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-04: 0 entries</title></rect>
@@ -1117,106 +1121,106 @@ Novel Word Count and Quartz Update</title></rect></a>
 <rect class="day-cell" data-date="2025-12-16" x="630" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-12-17" x="630" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-17: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2025/12/18/reactivation-2025/"><rect class="day-cell" data-date="2025-12-18" x="630" y="83" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2025-12-18: 2 entries
-Reactivation 2025
-Statistics of my diary, projects and other stories</title></rect></a>
+- WordPress: Reactivation 2025
+- Quartz: Statistics of my diary, projects and other stories</title></rect></a>
 <a href="https://saiht.de/blog/2025/12/19/history-of-course-615/"><rect class="day-cell" data-date="2025-12-19" x="630" y="95" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2025-12-19: 1 entry
-History of course 615</title></rect></a>
+- WordPress: History of course 615</title></rect></a>
 <rect class="day-cell" data-date="2025-12-20" x="630" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-12-21" x="642" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-21: 0 entries</title></rect>
 <a href="https://github.com/kreier/calendar/commit/f84acefebc36831e03a307f23e7934ac38773321"><rect class="day-cell" data-date="2025-12-22" x="642" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-12-22: 2 entries
-[kreier/calendar] add missing years
-[kreier/solarmeter] README.md</title></rect></a>
+- GitHub: [kreier/calendar] add missing years
+- GitHub: [kreier/solarmeter] README.md</title></rect></a>
 <a href="https://github.com/kreier/saiht-parser/blob/main/README.md"><rect class="day-cell" data-date="2025-12-23" x="642" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-12-23: 1 entry
-[kreier/saiht-parser] README.md</title></rect></a>
+- GitHub: [kreier/saiht-parser] README.md</title></rect></a>
 <rect class="day-cell" data-date="2025-12-24" x="642" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-12-25" x="642" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-25: 0 entries</title></rect>
 <a href="https://github.com/kreier/communicationspeed/commit/ea73ca33f789f91378d545958aab4b921bfd72a4"><rect class="day-cell" data-date="2025-12-26" x="642" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2025-12-26: 3 entries
-[kreier/communicationspeed] Update README with source link for average speed
-[kreier/communicationspeed] README.md
-[kreier/tripitaka] README.md</title></rect></a>
+- GitHub: [kreier/communicationspeed] Update README with source link for average speed
+- GitHub: [kreier/communicationspeed] README.md
+- GitHub: [kreier/tripitaka] README.md</title></rect></a>
 <rect class="day-cell" data-date="2025-12-27" x="642" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-12-28" x="654" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-12-29" x="654" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-12-30" x="654" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2025-12-31" x="654" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2025-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2024</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 82, Github: 80 (248), Quartz: 6 (10), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2024</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 82, Github: 80 (248), Quartz: 6 (10), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://github.com/kreier/ESP8266/commit/42b8824d90373ca7eb06a1ec11a355bb640952bb"><rect class="day-cell" data-date="2024-01-01" x="30" y="47" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-01-01: 4 entries
-[kreier/ESP8266] almost done, just percent not working
-[kreier/T-Display_S3] README.md
-2024
-Visa run III</title></rect></a>
+- GitHub: [kreier/ESP8266] almost done, just percent not working
+- GitHub: [kreier/T-Display_S3] README.md
+- Quartz: 2024
+- Quartz: Visa run III</title></rect></a>
 <rect class="day-cell" data-date="2024-01-02" x="30" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-02: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/3996573d082e863a22cfbedaecd85522302e2774"><rect class="day-cell" data-date="2024-01-03" x="30" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-03: 1 entry
-[kreier/benchmark] newer results, new software, new 2696v3</title></rect></a>
+- GitHub: [kreier/benchmark] newer results, new software, new 2696v3</title></rect></a>
 <a href="https://github.com/kreier/ESP8266/commit/729d0b4c70f3460478aa71252e879a5cd3c99124"><rect class="day-cell" data-date="2024-01-04" x="30" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-04: 1 entry
-[kreier/ESP8266] fixed time measurement for longer periods</title></rect></a>
+- GitHub: [kreier/ESP8266] fixed time measurement for longer periods</title></rect></a>
 <rect class="day-cell" data-date="2024-01-05" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-05: 0 entries</title></rect>
 <a href="https://github.com/kreier/128x64/commit/beda7ff61f7e3e05aef2d0eadc9c321839406871"><rect class="day-cell" data-date="2024-01-06" x="30" y="107" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-01-06: 4 entries
-[kreier/128x64] fixed mistakes, WF1 is a good start for 32px displays
-[kreier/128x64] expanded documentation
-[kreier/128x64] Update README.md
-[kreier/128x64] Initial commit</title></rect></a>
+- GitHub: [kreier/128x64] fixed mistakes, WF1 is a good start for 32px displays
+- GitHub: [kreier/128x64] expanded documentation
+- GitHub: [kreier/128x64] Update README.md
+- GitHub: [kreier/128x64] Initial commit</title></rect></a>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <a href="https://github.com/kreier/benchmark/commit/9259a59caf9a8240a9f12ec0e9548fd63ad562e9"><rect class="day-cell" data-date="2024-01-07" x="42" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-07: 1 entry
-[kreier/benchmark] nbench instructions for Windows and Linux - macOS follows</title></rect></a>
+- GitHub: [kreier/benchmark] nbench instructions for Windows and Linux - macOS follows</title></rect></a>
 <rect class="day-cell" data-date="2024-01-08" x="42" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-08: 0 entries</title></rect>
 <a href="https://github.com/kreier/128x64/commit/446f239175ffb16187f7420e45c97781101edc68"><rect class="day-cell" data-date="2024-01-09" x="42" y="59" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2024-01-09: 14 entries
-[kreier/128x64] flying toasters working without PROGMEM
-[kreier/128x64] 3 examples for circuitpython on oled
-[kreier/128x64] Create hello_world.py
-[kreier/AI-C3] schematics from January 2022
-[kreier/AI-C3] Merge branch 'main' of https://github.com/kreier/AI-C3
-[kreier/AI-C3] documentation of the board part 1
-[kreier/AI-C3] describe process and inspiration from DevKit C3 and Lolin S3
-[kreier/AI-C3] fix dimensions
-[kreier/AI-C3] updated images
-[kreier/AI-C3] description of the idea
-[kreier/AI-C3] hopefully C was the correct template
-[kreier/AI-C3] Initial commit
-[kreier/AI-C3] README.md
-[kreier/ESP8266] adapted for rp2040</title></rect></a>
+- GitHub: [kreier/128x64] flying toasters working without PROGMEM
+- GitHub: [kreier/128x64] 3 examples for circuitpython on oled
+- GitHub: [kreier/128x64] Create hello_world.py
+- GitHub: [kreier/AI-C3] schematics from January 2022
+- GitHub: [kreier/AI-C3] Merge branch 'main' of https://github.com/kreier/AI-C3
+- GitHub: [kreier/AI-C3] documentation of the board part 1
+- GitHub: [kreier/AI-C3] describe process and inspiration from DevKit C3 and Lolin S3
+- GitHub: [kreier/AI-C3] fix dimensions
+- GitHub: [kreier/AI-C3] updated images
+- GitHub: [kreier/AI-C3] description of the idea
+- GitHub: [kreier/AI-C3] hopefully C was the correct template
+- GitHub: [kreier/AI-C3] Initial commit
+- GitHub: [kreier/AI-C3] README.md
+- GitHub: [kreier/ESP8266] adapted for rp2040</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/0e20af87241b56740b01f34907c77c01b0eeb1b3"><rect class="day-cell" data-date="2024-01-10" x="42" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-10: 3 entries
-[kreier/benchmark] include updated results in markdown list
-[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
-[kreier/benchmark] updated results early 2024</title></rect></a>
+- GitHub: [kreier/benchmark] include updated results in markdown list
+- GitHub: [kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
+- GitHub: [kreier/benchmark] updated results early 2024</title></rect></a>
 <a href="https://github.com/kreier/arduino/commit/6875fd0906351dc3412470f734bb8327e3bf6799"><rect class="day-cell" data-date="2024-01-11" x="42" y="83" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2024-01-11: 10 entries
-[kreier/arduino] programs from October-December 2015
-[kreier/arduino] projects from 2023
-[kreier/arduino] projects from 2022
-[kreier/arduino] projects from 2021
-[kreier/arduino] document software from 2019
-[kreier/arduino] update programs from 2020
-[kreier/arduino] TFT paint program from 2014
-[kreier/arduino] document drivers for the display
-[kreier/arduino] Create tft_2.4_320x240_ILI9341_test.ino
-HP ProDesk 600 G4 mini i5-8500T</title></rect></a>
+- GitHub: [kreier/arduino] programs from October-December 2015
+- GitHub: [kreier/arduino] projects from 2023
+- GitHub: [kreier/arduino] projects from 2022
+- GitHub: [kreier/arduino] projects from 2021
+- GitHub: [kreier/arduino] document software from 2019
+- GitHub: [kreier/arduino] update programs from 2020
+- GitHub: [kreier/arduino] TFT paint program from 2014
+- GitHub: [kreier/arduino] document drivers for the display
+- GitHub: [kreier/arduino] Create tft_2.4_320x240_ILI9341_test.ino
+- Quartz: HP ProDesk 600 G4 mini i5-8500T</title></rect></a>
 <rect class="day-cell" data-date="2024-01-12" x="42" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-01-13" x="42" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-01-14" x="54" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-01-15" x="54" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-15: 0 entries</title></rect>
 <a href="https://github.com/kreier/arduino/commit/1ac9a9d6025f1699abb6679f00e13212140af0b8"><rect class="day-cell" data-date="2024-01-16" x="54" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-16: 2 entries
-[kreier/arduino] tft display works
-[kreier/arduino] works with library UTFTGLUE from MCUFRIEND_kbv</title></rect></a>
+- GitHub: [kreier/arduino] tft display works
+- GitHub: [kreier/arduino] works with library UTFTGLUE from MCUFRIEND_kbv</title></rect></a>
 <a href="https://github.com/kreier/beschleunigungssensor/commit/4ec69b97a69be027ec83c177af108875b5fa8226"><rect class="day-cell" data-date="2024-01-17" x="54" y="71" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2024-01-17: 8 entries
-[kreier/beschleunigungssensor] Create static.yml
-[kreier/beschleunigungssensor] Create privacy.html
-[kreier/beschleunigungssensor] Add files via upload
-[kreier/beschleunigungssensor] Create README.md
-[kreier/beschleunigungssensor] Update README.md
-[kreier/beschleunigungssensor] include Synology
-[kreier/beschleunigungssensor] Initial commit
-[kreier/beschleunigungssensor] README.md</title></rect></a>
+- GitHub: [kreier/beschleunigungssensor] Create static.yml
+- GitHub: [kreier/beschleunigungssensor] Create privacy.html
+- GitHub: [kreier/beschleunigungssensor] Add files via upload
+- GitHub: [kreier/beschleunigungssensor] Create README.md
+- GitHub: [kreier/beschleunigungssensor] Update README.md
+- GitHub: [kreier/beschleunigungssensor] include Synology
+- GitHub: [kreier/beschleunigungssensor] Initial commit
+- GitHub: [kreier/beschleunigungssensor] README.md</title></rect></a>
 <rect class="day-cell" data-date="2024-01-18" x="54" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-18: 0 entries</title></rect>
 <a href="https://github.com/kreier/robotics/blob/main/README.md"><rect class="day-cell" data-date="2024-01-19" x="54" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-19: 1 entry
-[kreier/robotics] README.md</title></rect></a>
+- GitHub: [kreier/robotics] README.md</title></rect></a>
 <a href="https://github.com/kreier/huidu_hd-wf4/blob/main/README.md"><rect class="day-cell" data-date="2024-01-20" x="54" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-20: 1 entry
-[kreier/huidu_hd-wf4] README.md</title></rect></a>
+- GitHub: [kreier/huidu_hd-wf4] README.md</title></rect></a>
 <rect class="day-cell" data-date="2024-01-21" x="66" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-01-22" x="66" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-01-23" x="66" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-23: 0 entries</title></rect>
@@ -1225,51 +1229,51 @@ HP ProDesk 600 G4 mini i5-8500T</title></rect></a>
 <rect class="day-cell" data-date="2024-01-26" x="66" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-01-27" x="66" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-27: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/d4fb1cf850f3a722849aa5706d7a4e4bb8f0702a"><rect class="day-cell" data-date="2024-01-28" x="78" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-01-28: 1 entry
-[kreier/benchmark] include Tanix TX3 mini</title></rect></a>
+- GitHub: [kreier/benchmark] include Tanix TX3 mini</title></rect></a>
 <rect class="day-cell" data-date="2024-01-29" x="78" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-01-30" x="78" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-01-31" x="78" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-01-31: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-02-01" x="78" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-01: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-02-02" x="78" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-02: 0 entries</title></rect>
 <a href="https://kreier.github.io/quartz/Projects/Computer/MXQ-Pro-4K"><rect class="day-cell" data-date="2024-02-03" x="78" y="107" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2024-02-03: 1 entry
-MXQ Pro 4K</title></rect></a>
+- Quartz: MXQ Pro 4K</title></rect></a>
 <text x="90" y="30" font-family="sans-serif" font-size="8" fill="#767676">Feb</text>
 <a href="https://github.com/kreier/benchmark/commit/8f9ac6df329fce7c8aff96a1eeb715a2b56db4cd"><rect class="day-cell" data-date="2024-02-04" x="90" y="35" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-02-04: 4 entries
-[kreier/benchmark] Update i3-10100.txt
-[kreier/benchmark] new results
-[kreier/benchmark] included sbc-bench
-[kreier/t-display] README.md</title></rect></a>
+- GitHub: [kreier/benchmark] Update i3-10100.txt
+- GitHub: [kreier/benchmark] new results
+- GitHub: [kreier/benchmark] included sbc-bench
+- GitHub: [kreier/t-display] README.md</title></rect></a>
 <a href="https://github.com/kreier/arduino/commit/213f631d10f65ae687044eff708691641c8f4856"><rect class="day-cell" data-date="2024-02-05" x="90" y="47" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-02-05: 5 entries
-[kreier/arduino] Create README.md
-[kreier/arduino] updated information
-[kreier/arduino] testing speed of RAM and PSRAM
-[kreier/arduino] README.md
-[kreier/benchmark] second run</title></rect></a>
+- GitHub: [kreier/arduino] Create README.md
+- GitHub: [kreier/arduino] updated information
+- GitHub: [kreier/arduino] testing speed of RAM and PSRAM
+- GitHub: [kreier/arduino] README.md
+- GitHub: [kreier/benchmark] second run</title></rect></a>
 <rect class="day-cell" data-date="2024-02-06" x="90" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-02-07" x="90" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-02-08" x="90" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-08: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/c47788bc8bcb5136116bc36c9d645930a66c683c"><rect class="day-cell" data-date="2024-02-09" x="90" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-09: 2 entries
-[kreier/benchmark] start with phoronix
-[kreier/benchmark] recent results</title></rect></a>
+- GitHub: [kreier/benchmark] start with phoronix
+- GitHub: [kreier/benchmark] recent results</title></rect></a>
 <rect class="day-cell" data-date="2024-02-10" x="90" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-02-11" x="102" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-11: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/d6deac593621e0eeb042ce105e8655f64b0fb195"><rect class="day-cell" data-date="2024-02-12" x="102" y="47" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-02-12: 6 entries
-[kreier/benchmark] include RTX 3070 Ti
-[kreier/benchmark] Update README.md
-[kreier/benchmark] results for UHD 620 and 630
-[kreier/benchmark] new fluidX3D benchmark
-[kreier/benchmark] new 64bit results Raspberry Pi 3
-Raspberry Pi 3 with 1 GB RAM</title></rect></a>
+- GitHub: [kreier/benchmark] include RTX 3070 Ti
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/benchmark] results for UHD 620 and 630
+- GitHub: [kreier/benchmark] new fluidX3D benchmark
+- GitHub: [kreier/benchmark] new 64bit results Raspberry Pi 3
+- Quartz: Raspberry Pi 3 with 1 GB RAM</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/59a2a8a98ab2e3046d99b380cf5c5d8ecc7a4077"><rect class="day-cell" data-date="2024-02-13" x="102" y="59" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2024-02-13: 9 entries
-[kreier/benchmark] included graphs
-[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
-[kreier/benchmark] include more SBCs
-[kreier/benchmark] include GTX 960
-[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
-[kreier/benchmark] included more SBCs and systems
-[kreier/benchmark] include AMD RX 470 4GB
-[kreier/benchmark] Test results from M1 8CU 16GB RAM
-[kreier/benchmark] include Quadro M1000M</title></rect></a>
+- GitHub: [kreier/benchmark] included graphs
+- GitHub: [kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
+- GitHub: [kreier/benchmark] include more SBCs
+- GitHub: [kreier/benchmark] include GTX 960
+- GitHub: [kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
+- GitHub: [kreier/benchmark] included more SBCs and systems
+- GitHub: [kreier/benchmark] include AMD RX 470 4GB
+- GitHub: [kreier/benchmark] Test results from M1 8CU 16GB RAM
+- GitHub: [kreier/benchmark] include Quadro M1000M</title></rect></a>
 <rect class="day-cell" data-date="2024-02-14" x="102" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-02-15" x="102" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-02-16" x="102" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-16: 0 entries</title></rect>
@@ -1277,30 +1281,30 @@ Raspberry Pi 3 with 1 GB RAM</title></rect></a>
 <rect class="day-cell" data-date="2024-02-18" x="114" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-02-19" x="114" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-19: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/a0c61536e419bb8fbe226f425353e36966d5a071"><rect class="day-cell" data-date="2024-02-20" x="114" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-20: 3 entries
-[kreier/benchmark] three more results R24 8500T 6820HQ 2696v3
-[kreier/benchmark] R23 result for 2696 v3
-[kreier/benchmark] included Cinebench 2024</title></rect></a>
+- GitHub: [kreier/benchmark] three more results R24 8500T 6820HQ 2696v3
+- GitHub: [kreier/benchmark] R23 result for 2696 v3
+- GitHub: [kreier/benchmark] included Cinebench 2024</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/2207c92fc2c10c8d086a0ec3ee71e2af8d49ff5c"><rect class="day-cell" data-date="2024-02-21" x="114" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-21: 1 entry
-[kreier/benchmark] include result for RX470</title></rect></a>
+- GitHub: [kreier/benchmark] include result for RX470</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/ee9bddf69d05ab27506705dda432039da24644fe"><rect class="day-cell" data-date="2024-02-22" x="114" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-22: 2 entries
-[kreier/benchmark] included recent results RX470
-[kreier/benchmark] Results for some SBCs and desktops</title></rect></a>
+- GitHub: [kreier/benchmark] included recent results RX470
+- GitHub: [kreier/benchmark] Results for some SBCs and desktops</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/f657119b0833d8bdfd2f7b7ebad0d816f384631d"><rect class="day-cell" data-date="2024-02-23" x="114" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-23: 3 entries
-[kreier/benchmark] results for RX 6600
-[kreier/benchmark] result from RX 6600 - limited by memory speed?
-[kreier/benchmark] include RX 6600</title></rect></a>
+- GitHub: [kreier/benchmark] results for RX 6600
+- GitHub: [kreier/benchmark] result from RX 6600 - limited by memory speed?
+- GitHub: [kreier/benchmark] include RX 6600</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/2aab555444d87283322cd142f7364b34548464e4"><rect class="day-cell" data-date="2024-02-24" x="114" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-24: 1 entry
-[kreier/benchmark] include OpenCL names for INT8 to INT64 and clinfo</title></rect></a>
+- GitHub: [kreier/benchmark] include OpenCL names for INT8 to INT64 and clinfo</title></rect></a>
 <rect class="day-cell" data-date="2024-02-25" x="126" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-25: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/490d777d8f3225ea87b550c08d01c015f6601d74"><rect class="day-cell" data-date="2024-02-26" x="126" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-26: 1 entry
-[kreier/benchmark] updated results for UHD 620 with OpenCL 1.2</title></rect></a>
+- GitHub: [kreier/benchmark] updated results for UHD 620 with OpenCL 1.2</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/9529084eac59c1b9de804911f4abdbaac43b766e"><rect class="day-cell" data-date="2024-02-27" x="126" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-02-27: 1 entry
-[kreier/benchmark] R23 result 8500T and added core-count</title></rect></a>
+- GitHub: [kreier/benchmark] R23 result 8500T and added core-count</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/2968c3a6a6389d03a7447ec973eccfa3b0ba8491"><rect class="day-cell" data-date="2024-02-28" x="126" y="71" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-02-28: 4 entries
-[kreier/benchmark] Add files via upload
-[kreier/benchmark] include graph, fix markdown for links
-[kreier/benchmark] updated increased speed results
-[kreier/benchmark] updated results for R23 and 2024</title></rect></a>
+- GitHub: [kreier/benchmark] Add files via upload
+- GitHub: [kreier/benchmark] include graph, fix markdown for links
+- GitHub: [kreier/benchmark] updated increased speed results
+- GitHub: [kreier/benchmark] updated results for R23 and 2024</title></rect></a>
 <rect class="day-cell" data-date="2024-02-29" x="126" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-02-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-03-01" x="126" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-01: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-03-02" x="126" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-02: 0 entries</title></rect>
@@ -1310,63 +1314,63 @@ Raspberry Pi 3 with 1 GB RAM</title></rect></a>
 <rect class="day-cell" data-date="2024-03-05" x="138" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-05: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-03-06" x="138" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-06: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/3a98c4bb08718c0cf778643bbf5cd040f6ed11ca"><rect class="day-cell" data-date="2024-03-07" x="138" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-07: 1 entry
-[kreier/benchmark] include Xeon E3-1226 v3</title></rect></a>
+- GitHub: [kreier/benchmark] include Xeon E3-1226 v3</title></rect></a>
 <rect class="day-cell" data-date="2024-03-08" x="138" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-03-09" x="138" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-03-10" x="150" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-03-11" x="150" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-11: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/e2ba0d49d84fe2736efc7d353415fb2f54cb04bd"><rect class="day-cell" data-date="2024-03-12" x="150" y="59" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2024-03-12: 8 entries
-[kreier/benchmark] include i5-3320M
-[kreier/docs] better description of this repository
-[kreier/docs] example lines
-[kreier/docs] Update .gitignore
-[kreier/docs] Update jekyll-gh-pages.yml
-[kreier/docs] Create jekyll-gh-pages.yml
-[kreier/docs] start for the website
-[kreier/docs] Initial commit</title></rect></a>
+- GitHub: [kreier/benchmark] include i5-3320M
+- GitHub: [kreier/docs] better description of this repository
+- GitHub: [kreier/docs] example lines
+- GitHub: [kreier/docs] Update .gitignore
+- GitHub: [kreier/docs] Update jekyll-gh-pages.yml
+- GitHub: [kreier/docs] Create jekyll-gh-pages.yml
+- GitHub: [kreier/docs] start for the website
+- GitHub: [kreier/docs] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/docs/commit/dbd349d58b230af86b50f01dfdf09ec52e7588ab"><rect class="day-cell" data-date="2024-03-13" x="150" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-13: 3 entries
-[kreier/docs] latest versions with updated QR code
-[kreier/docs] initial versions to be accessed with a QR code
-[kreier/ESP8266] adjusted for T400 robot with OLED</title></rect></a>
+- GitHub: [kreier/docs] latest versions with updated QR code
+- GitHub: [kreier/docs] initial versions to be accessed with a QR code
+- GitHub: [kreier/ESP8266] adjusted for T400 robot with OLED</title></rect></a>
 <rect class="day-cell" data-date="2024-03-14" x="150" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-03-15" x="150" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-03-16" x="150" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-16: 0 entries</title></rect>
 <a href="https://github.com/kreier/docs/commit/a00426ee2ed7c415f688e284b8c082208d7886b8"><rect class="day-cell" data-date="2024-03-17" x="162" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-17: 1 entry
-[kreier/docs] updated to 15 languages and Jupyter link</title></rect></a>
+- GitHub: [kreier/docs] updated to 15 languages and Jupyter link</title></rect></a>
 <rect class="day-cell" data-date="2024-03-18" x="162" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-03-19" x="162" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-03-20" x="162" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-03-21" x="162" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-03-22" x="162" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-22: 0 entries</title></rect>
 <a href="https://github.com/kreier/docs/commit/2c12421a3814f89737449d67607ac637afccc635"><rect class="day-cell" data-date="2024-03-23" x="162" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-23: 1 entry
-[kreier/docs] update 4.4</title></rect></a>
+- GitHub: [kreier/docs] update 4.4</title></rect></a>
 <rect class="day-cell" data-date="2024-03-24" x="174" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-03-25" x="174" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-25: 0 entries</title></rect>
 <a href="https://github.com/kreier/daniel2/commit/19f10a29f5a5796d20cf245b6613f8cc21aadb97"><rect class="day-cell" data-date="2024-03-26" x="174" y="59" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-03-26: 7 entries
-[kreier/daniel2] include folding arms asset
-[kreier/daniel2] finished internal RIG with inverse kinematics
+- GitHub: [kreier/daniel2] include folding arms asset
+- GitHub: [kreier/daniel2] finished internal RIG with inverse kinematics
 
 following the video https://youtu.be/mYgznqvbisM
-[kreier/daniel2] starting point with 2 poses
-[kreier/daniel2] some examples
-[kreier/daniel2] Update .gitignore
-[kreier/daniel2] Update README.md
-[kreier/daniel2] Initial commit</title></rect></a>
+- GitHub: [kreier/daniel2] starting point with 2 poses
+- GitHub: [kreier/daniel2] some examples
+- GitHub: [kreier/daniel2] Update .gitignore
+- GitHub: [kreier/daniel2] Update README.md
+- GitHub: [kreier/daniel2] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/docs/commit/c3665de0114ccf215f89ca58e7d1ab2924517a56"><rect class="day-cell" data-date="2024-03-27" x="174" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-27: 2 entries
-[kreier/docs] preliminary 4.5
-[kreier/docs] update to 4.5, change vn -&gt; vi</title></rect></a>
+- GitHub: [kreier/docs] preliminary 4.5
+- GitHub: [kreier/docs] update to 4.5, change vn -&gt; vi</title></rect></a>
 <a href="https://github.com/kreier/docs/commit/4abe74fea8ce7f0975bdd34bb4f0b58be3330062"><rect class="day-cell" data-date="2024-03-28" x="174" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-28: 1 entry
-[kreier/docs] link Vietnamese to new site</title></rect></a>
+- GitHub: [kreier/docs] link Vietnamese to new site</title></rect></a>
 <a href="https://github.com/kreier/docs/commit/7722acb8556ceabdf82c51fbebcb7db83d7f877f"><rect class="day-cell" data-date="2024-03-29" x="174" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-03-29: 2 entries
-[kreier/docs] new languages codes, new location
-[kreier/docs] README.md</title></rect></a>
+- GitHub: [kreier/docs] new languages codes, new location
+- GitHub: [kreier/docs] README.md</title></rect></a>
 <rect class="day-cell" data-date="2024-03-30" x="174" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-03-31" x="186" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-03-31: 0 entries</title></rect>
 <a href="https://github.com/kreier/codespaces-jupyter/commit/5b6b7e72d4f42df85bb48d5bc0d7e34d56bf00d5"><rect class="day-cell" data-date="2024-04-01" x="186" y="47" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-04-01: 4 entries
-[kreier/codespaces-jupyter] created 4 timelines in the browser
-[kreier/codespaces-jupyter] first codespace commit
-[kreier/codespaces-jupyter] Initial commit
-[kreier/codespaces-jupyter] README.md</title></rect></a>
+- GitHub: [kreier/codespaces-jupyter] created 4 timelines in the browser
+- GitHub: [kreier/codespaces-jupyter] first codespace commit
+- GitHub: [kreier/codespaces-jupyter] Initial commit
+- GitHub: [kreier/codespaces-jupyter] README.md</title></rect></a>
 <rect class="day-cell" data-date="2024-04-02" x="186" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-04-03" x="186" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-04-04" x="186" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-04-04: 0 entries</title></rect>
@@ -1437,12 +1441,12 @@ following the video https://youtu.be/mYgznqvbisM
 <rect class="day-cell" data-date="2024-06-05" x="294" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-05: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-06-06" x="294" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-06: 0 entries</title></rect>
 <a href="https://github.com/kreier/daniel2/commit/84f18ace3c631c049cc1534425d6371519569d0a"><rect class="day-cell" data-date="2024-06-07" x="294" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-07: 1 entry
-[kreier/daniel2] include description from Daniel 2</title></rect></a>
+- GitHub: [kreier/daniel2] include description from Daniel 2</title></rect></a>
 <rect class="day-cell" data-date="2024-06-08" x="294" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-06-09" x="306" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-06-10" x="306" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-10: 0 entries</title></rect>
 <a href="https://github.com/kreier/text-shaping/blob/main/README.md"><rect class="day-cell" data-date="2024-06-11" x="306" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-06-11: 1 entry
-[kreier/text-shaping] README.md</title></rect></a>
+- GitHub: [kreier/text-shaping] README.md</title></rect></a>
 <rect class="day-cell" data-date="2024-06-12" x="306" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-06-13" x="306" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-06-14" x="306" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-14: 0 entries</title></rect>
@@ -1460,28 +1464,28 @@ following the video https://youtu.be/mYgznqvbisM
 <rect class="day-cell" data-date="2024-06-26" x="330" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-06-27" x="330" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-27: 0 entries</title></rect>
 <a href="https://github.com/kreier/circle_k/commit/61834101802b12c93156d2d48a1058640cfdc0b8"><rect class="day-cell" data-date="2024-06-28" x="330" y="95" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-06-28: 7 entries
-[kreier/circle_k] Update jekyll-gh-pages.yml
-[kreier/circle_k] Updated links to images that work in gh-pages too
-[kreier/circle_k] Update for release badge
-[kreier/circle_k] correct Github Actions badge
-[kreier/circle_k] Create jekyll-gh-pages.yml
-[kreier/circle_k] include links to Unit description and releases
-[kreier/circle_k] README.md</title></rect></a>
+- GitHub: [kreier/circle_k] Update jekyll-gh-pages.yml
+- GitHub: [kreier/circle_k] Updated links to images that work in gh-pages too
+- GitHub: [kreier/circle_k] Update for release badge
+- GitHub: [kreier/circle_k] correct Github Actions badge
+- GitHub: [kreier/circle_k] Create jekyll-gh-pages.yml
+- GitHub: [kreier/circle_k] include links to Unit description and releases
+- GitHub: [kreier/circle_k] README.md</title></rect></a>
 <rect class="day-cell" data-date="2024-06-29" x="330" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-06-30" x="342" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-06-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-07-01" x="342" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-01: 0 entries</title></rect>
 <a href="https://github.com/kreier/actuator/commit/48d454207d6a80c5a1e2bbce5fa12ee106d2935d"><rect class="day-cell" data-date="2024-07-02" x="342" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-02: 2 entries
-[kreier/actuator] Create jekyll-gh-pages.yml
-[kreier/actuator] README.md</title></rect></a>
+- GitHub: [kreier/actuator] Create jekyll-gh-pages.yml
+- GitHub: [kreier/actuator] README.md</title></rect></a>
 <rect class="day-cell" data-date="2024-07-03" x="342" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-07-04" x="342" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-07-05" x="342" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-05: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/0af96bb888864e102e978cd97c7017ea61c53226"><rect class="day-cell" data-date="2024-07-06" x="342" y="107" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-07-06: 5 entries
-[kreier/benchmark] getting hpl working on wsl2
-[kreier/benchmark] Software with downloads
-[kreier/benchmark] updated for website and test results
-[kreier/benchmark] History 16bit to 64bit for microcomputers and linpack application
-[kreier/benchmark] Update linpack with TOP500 and DP 64bit</title></rect></a>
+- GitHub: [kreier/benchmark] getting hpl working on wsl2
+- GitHub: [kreier/benchmark] Software with downloads
+- GitHub: [kreier/benchmark] updated for website and test results
+- GitHub: [kreier/benchmark] History 16bit to 64bit for microcomputers and linpack application
+- GitHub: [kreier/benchmark] Update linpack with TOP500 and DP 64bit</title></rect></a>
 <text x="354" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jul</text>
 <rect class="day-cell" data-date="2024-07-07" x="354" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-07-08" x="354" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-08: 0 entries</title></rect>
@@ -1493,28 +1497,28 @@ following the video https://youtu.be/mYgznqvbisM
 <rect class="day-cell" data-date="2024-07-14" x="366" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-07-15" x="366" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-15: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/10b5134980ea63c807823239386f0c77750cee4d"><rect class="day-cell" data-date="2024-07-16" x="366" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-16: 2 entries
-[kreier/benchmark] results for Geekbench 6
-[kreier/benchmark] link some Geekbench ML results for v0.6</title></rect></a>
+- GitHub: [kreier/benchmark] results for Geekbench 6
+- GitHub: [kreier/benchmark] link some Geekbench ML results for v0.6</title></rect></a>
 <rect class="day-cell" data-date="2024-07-17" x="366" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-07-18" x="366" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-07-19" x="366" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-19: 0 entries</title></rect>
 <a href="https://github.com/kreier/jetson-car/blob/main/README.md"><rect class="day-cell" data-date="2024-07-20" x="366" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-20: 1 entry
-[kreier/jetson-car] README.md</title></rect></a>
+- GitHub: [kreier/jetson-car] README.md</title></rect></a>
 <rect class="day-cell" data-date="2024-07-21" x="378" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-07-22" x="378" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-07-23" x="378" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-07-24" x="378" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-24: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/d9efe4de8191c5a9c080629fb9c2dec993d5101a"><rect class="day-cell" data-date="2024-07-25" x="378" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-25: 3 entries
-[kreier/benchmark] Results zBook 15 G3
-[kreier/benchmark] Update Geekbench ML results
-[kreier/benchmark] preliminary results</title></rect></a>
+- GitHub: [kreier/benchmark] Results zBook 15 G3
+- GitHub: [kreier/benchmark] Update Geekbench ML results
+- GitHub: [kreier/benchmark] preliminary results</title></rect></a>
 <rect class="day-cell" data-date="2024-07-26" x="378" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-07-27" x="378" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-27: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/183f44aa71a69f79c907429d44394f7ca2797b21"><rect class="day-cell" data-date="2024-07-28" x="390" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-28: 2 entries
-[kreier/benchmark] Cloud run on T4 GPU in colab.google
-[kreier/benchmark] Include results for T4 Tesla GPU, fix links</title></rect></a>
+- GitHub: [kreier/benchmark] Cloud run on T4 GPU in colab.google
+- GitHub: [kreier/benchmark] Include results for T4 Tesla GPU, fix links</title></rect></a>
 <a href="https://github.com/kreier/nano-gpt/blob/main/README.md"><rect class="day-cell" data-date="2024-07-29" x="390" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-07-29: 1 entry
-[kreier/nano-gpt] README.md</title></rect></a>
+- GitHub: [kreier/nano-gpt] README.md</title></rect></a>
 <rect class="day-cell" data-date="2024-07-30" x="390" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-07-31" x="390" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-07-31: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-08-01" x="390" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-01: 0 entries</title></rect>
@@ -1527,19 +1531,19 @@ following the video https://youtu.be/mYgznqvbisM
 <rect class="day-cell" data-date="2024-08-07" x="402" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-08-08" x="402" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-08: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/e70530921fa7ea5834609fbb2ab85ee25dd87718"><rect class="day-cell" data-date="2024-08-09" x="402" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-08-09: 1 entry
-[kreier/benchmark] CoreMark results Raspberry Pico 2 and M1 to be expected</title></rect></a>
+- GitHub: [kreier/benchmark] CoreMark results Raspberry Pico 2 and M1 to be expected</title></rect></a>
 <rect class="day-cell" data-date="2024-08-10" x="402" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-10: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/756b0a214c9a96270e93801eb0c236da8eb6779c"><rect class="day-cell" data-date="2024-08-11" x="414" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-08-11: 3 entries
-[kreier/benchmark] updated values
-[kreier/benchmark] include N4500 with HD Graphics Gen11
-[kreier/benchmark] ML results for Intel Celeron N4500</title></rect></a>
+- GitHub: [kreier/benchmark] updated values
+- GitHub: [kreier/benchmark] include N4500 with HD Graphics Gen11
+- GitHub: [kreier/benchmark] ML results for Intel Celeron N4500</title></rect></a>
 <rect class="day-cell" data-date="2024-08-12" x="414" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-08-13" x="414" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-08-14" x="414" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-14: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/a20120f4605501ffc47bc3aa9e74832f8074ba39"><rect class="day-cell" data-date="2024-08-15" x="414" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-08-15: 1 entry
-[kreier/benchmark] include the just released Geekbench AI</title></rect></a>
+- GitHub: [kreier/benchmark] include the just released Geekbench AI</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/e9d8bd6376289c9720d56c86d772142b6e0949c6"><rect class="day-cell" data-date="2024-08-16" x="414" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-08-16: 1 entry
-[kreier/benchmark] add Qualcomm Neural Network QNN for Note 20 5G</title></rect></a>
+- GitHub: [kreier/benchmark] add Qualcomm Neural Network QNN for Note 20 5G</title></rect></a>
 <rect class="day-cell" data-date="2024-08-17" x="414" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-08-18" x="426" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-08-19" x="426" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-08-19: 0 entries</title></rect>
@@ -1576,97 +1580,97 @@ following the video https://youtu.be/mYgznqvbisM
 <rect class="day-cell" data-date="2024-09-18" x="474" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-09-19" x="474" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-19: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/8010151575f309a700c5502e8389705e2e0f759e"><rect class="day-cell" data-date="2024-09-20" x="474" y="95" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-09-20: 4 entries
-[kreier/benchmark] include OpenVINO for CPU
-[kreier/benchmark] Update README.md with 13700T
-[kreier/benchmark] Results i7 13700T
-[kreier/benchmark] Results AI for 13700T</title></rect></a>
+- GitHub: [kreier/benchmark] include OpenVINO for CPU
+- GitHub: [kreier/benchmark] Update README.md with 13700T
+- GitHub: [kreier/benchmark] Results i7 13700T
+- GitHub: [kreier/benchmark] Results AI for 13700T</title></rect></a>
 <rect class="day-cell" data-date="2024-09-21" x="474" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-09-22" x="486" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-09-23" x="486" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-09-24" x="486" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-09-25" x="486" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-25: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/c9efef23bfcf4b84768d10ef8efb81558e8f1dfe"><rect class="day-cell" data-date="2024-09-26" x="486" y="83" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-09-26: 4 entries
-[kreier/benchmark] include M1 and 13700T
-[kreier/benchmark] Solved the macOS compiling error
-[kreier/benchmark] include results for 13700T
-[kreier/benchmark] Update instructions</title></rect></a>
+- GitHub: [kreier/benchmark] include M1 and 13700T
+- GitHub: [kreier/benchmark] Solved the macOS compiling error
+- GitHub: [kreier/benchmark] include results for 13700T
+- GitHub: [kreier/benchmark] Update instructions</title></rect></a>
 <rect class="day-cell" data-date="2024-09-27" x="486" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-09-28" x="486" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-09-29" x="498" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-09-29: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/cc4b4a9c68f071751c7c41dadf991d64bb24b6fb"><rect class="day-cell" data-date="2024-09-30" x="498" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-09-30: 2 entries
-[kreier/benchmark] include 10100 and 3070Ti for Geekbench AI
-[kreier/benchmark] include FP16 result for 3070Ti with new software, driver 555.85</title></rect></a>
+- GitHub: [kreier/benchmark] include 10100 and 3070Ti for Geekbench AI
+- GitHub: [kreier/benchmark] include FP16 result for 3070Ti with new software, driver 555.85</title></rect></a>
 <rect class="day-cell" data-date="2024-10-01" x="498" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-01: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-10-02" x="498" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-02: 0 entries</title></rect>
 <a href="https://github.com/kreier/calendar/commit/622d11366c6fda30b176a3aa0b295832a071c7ad"><rect class="day-cell" data-date="2024-10-03" x="498" y="83" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2024-10-03: 13 entries
-[kreier/calendar] periods and events of 2019
-[kreier/calendar] weekends are highlighted in color
-[kreier/calendar] got rainbow colors
-[kreier/calendar] updated dimensions
-[kreier/calendar] first successful calendar
-[kreier/calendar] create first pdf
-[kreier/calendar] Update README.md with dimensions and structure
-[kreier/calendar] Initial commit
-[kreier/hacks] Update README.md
-[kreier/hacks] Create jekyll-gh-pages.yml
-[kreier/hacks] Create prime.c
-[kreier/hacks] remove write protection from USB flash drives
-[kreier/hacks] Initial commit</title></rect></a>
+- GitHub: [kreier/calendar] periods and events of 2019
+- GitHub: [kreier/calendar] weekends are highlighted in color
+- GitHub: [kreier/calendar] got rainbow colors
+- GitHub: [kreier/calendar] updated dimensions
+- GitHub: [kreier/calendar] first successful calendar
+- GitHub: [kreier/calendar] create first pdf
+- GitHub: [kreier/calendar] Update README.md with dimensions and structure
+- GitHub: [kreier/calendar] Initial commit
+- GitHub: [kreier/hacks] Update README.md
+- GitHub: [kreier/hacks] Create jekyll-gh-pages.yml
+- GitHub: [kreier/hacks] Create prime.c
+- GitHub: [kreier/hacks] remove write protection from USB flash drives
+- GitHub: [kreier/hacks] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/calendar/commit/d31b7a266c90937eba19b927f20ccd6869f1ef98"><rect class="day-cell" data-date="2024-10-04" x="498" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-10-04: 3 entries
-[kreier/calendar] include pictures to visualize the idea of this project
-[kreier/calendar] colors intensified
-[kreier/calendar] documentation January 4th, 2024</title></rect></a>
+- GitHub: [kreier/calendar] include pictures to visualize the idea of this project
+- GitHub: [kreier/calendar] colors intensified
+- GitHub: [kreier/calendar] documentation January 4th, 2024</title></rect></a>
 <rect class="day-cell" data-date="2024-10-05" x="498" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-05: 0 entries</title></rect>
 <text x="510" y="30" font-family="sans-serif" font-size="8" fill="#767676">Oct</text>
 <rect class="day-cell" data-date="2024-10-06" x="510" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-10-07" x="510" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-07: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/dd0eaf7b37260c71045b578354cd3dc7b61ed13d"><rect class="day-cell" data-date="2024-10-08" x="510" y="59" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2024-10-08: 12 entries
-[kreier/benchmark] updated graphics
-[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
-[kreier/benchmark] Update README.md
-[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
-[kreier/benchmark] include 13700T in CoreMark comparison graph
-[kreier/benchmark] fix the small graphs
-[kreier/benchmark] include visual for the GPU category
-[kreier/benchmark] comparison with historic supercomputers
-[kreier/benchmark] enhance visualization
-[kreier/calendar] Create jekyll-gh-pages.yml
-[kreier/calendar] fixed naming of the folders
-[kreier/my_raspberry_pi] README.md</title></rect></a>
+- GitHub: [kreier/benchmark] updated graphics
+- GitHub: [kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
+- GitHub: [kreier/benchmark] include 13700T in CoreMark comparison graph
+- GitHub: [kreier/benchmark] fix the small graphs
+- GitHub: [kreier/benchmark] include visual for the GPU category
+- GitHub: [kreier/benchmark] comparison with historic supercomputers
+- GitHub: [kreier/benchmark] enhance visualization
+- GitHub: [kreier/calendar] Create jekyll-gh-pages.yml
+- GitHub: [kreier/calendar] fixed naming of the folders
+- GitHub: [kreier/my_raspberry_pi] README.md</title></rect></a>
 <rect class="day-cell" data-date="2024-10-09" x="510" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-10-10" x="510" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-10: 0 entries</title></rect>
 <a href="https://github.com/kreier/bilder/commit/127eb246391f5ef13a0a921bc943db17a801ff5b"><rect class="day-cell" data-date="2024-10-11" x="510" y="95" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2024-10-11: 12 entries
-[kreier/bilder] add support for UTF-8 (German folder names)
-[kreier/bilder] include total size in bytes
-[kreier/bilder] export to csv
-[kreier/bilder] list subfolders with files and size
-[kreier/bilder] first edition
-[kreier/bilder] Update README.md
-[kreier/bilder] Initial commit
-[kreier/diary] Create jekyll-gh-pages.yml
-[kreier/diary] Update README.md
-[kreier/diary] Update .gitignore
-[kreier/diary] Initial commit
-[kreier/diary] README.md</title></rect></a>
+- GitHub: [kreier/bilder] add support for UTF-8 (German folder names)
+- GitHub: [kreier/bilder] include total size in bytes
+- GitHub: [kreier/bilder] export to csv
+- GitHub: [kreier/bilder] list subfolders with files and size
+- GitHub: [kreier/bilder] first edition
+- GitHub: [kreier/bilder] Update README.md
+- GitHub: [kreier/bilder] Initial commit
+- GitHub: [kreier/diary] Create jekyll-gh-pages.yml
+- GitHub: [kreier/diary] Update README.md
+- GitHub: [kreier/diary] Update .gitignore
+- GitHub: [kreier/diary] Initial commit
+- GitHub: [kreier/diary] README.md</title></rect></a>
 <rect class="day-cell" data-date="2024-10-12" x="510" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-10-13" x="522" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-10-14" x="522" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-14: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/c45c561466ce9eae7223878edc033b656630e99b"><rect class="day-cell" data-date="2024-10-15" x="522" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-10-15: 2 entries
-[kreier/benchmark] include 3060 Ti
-[kreier/benchmark] include 3060 Ti</title></rect></a>
+- GitHub: [kreier/benchmark] include 3060 Ti
+- GitHub: [kreier/benchmark] include 3060 Ti</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/2075fc68e730883fd2fcc3d931fa220fca185a86"><rect class="day-cell" data-date="2024-10-16" x="522" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-10-16: 2 entries
-[kreier/benchmark] fixed details in graph
-[kreier/benchmark] updated results from 2024 for CoreMark</title></rect></a>
+- GitHub: [kreier/benchmark] fixed details in graph
+- GitHub: [kreier/benchmark] updated results from 2024 for CoreMark</title></rect></a>
 <rect class="day-cell" data-date="2024-10-17" x="522" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-10-18" x="522" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-18: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/e1bf7f17c549e8c8fe50ccf155965507ea0fcab5"><rect class="day-cell" data-date="2024-10-19" x="522" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-10-19: 2 entries
-[kreier/benchmark] Update 13700T, i7-8700 and RTX 3060 Ti
-[kreier/benchmark] Update 13700T result</title></rect></a>
+- GitHub: [kreier/benchmark] Update 13700T, i7-8700 and RTX 3060 Ti
+- GitHub: [kreier/benchmark] Update 13700T result</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/c95bc12f98b0b9025d31644fc90b5173f86b09a7"><rect class="day-cell" data-date="2024-10-20" x="534" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-10-20: 2 entries
-[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
-[kreier/benchmark] include G2030 and details for CPUs</title></rect></a>
+- GitHub: [kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
+- GitHub: [kreier/benchmark] include G2030 and details for CPUs</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/be0c1247e47c5c82ff21d84e14d6ae235e3db867"><rect class="day-cell" data-date="2024-10-21" x="534" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-10-21: 1 entry
-[kreier/benchmark] include Apple M1 and GTX 960</title></rect></a>
+- GitHub: [kreier/benchmark] include Apple M1 and GTX 960</title></rect></a>
 <rect class="day-cell" data-date="2024-10-22" x="534" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-10-23" x="534" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-10-24" x="534" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-24: 0 entries</title></rect>
@@ -1678,42 +1682,42 @@ following the video https://youtu.be/mYgznqvbisM
 <rect class="day-cell" data-date="2024-10-30" x="546" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-10-31" x="546" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-10-31: 0 entries</title></rect>
 <a href="https://github.com/kreier/bilder/commit/68baea11a1c6f54f9c00342849efa4875374fc2f"><rect class="day-cell" data-date="2024-11-01" x="546" y="95" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-11-01: 5 entries
-[kreier/bilder] try to create a pdf with images in them
-Ideas about the Structure of my Obsidian vault
-First use of Obsidian
-A humble beginning 2024
-Note the second</title></rect></a>
+- GitHub: [kreier/bilder] try to create a pdf with images in them
+- Quartz: Ideas about the Structure of my Obsidian vault
+- Quartz: First use of Obsidian
+- Quartz: A humble beginning 2024
+- Quartz: Note the second</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/ae9a556dc212d74deceb727d4658c3e5d70fb11a"><rect class="day-cell" data-date="2024-11-02" x="546" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-02: 3 entries
-[kreier/benchmark] include 13700T
-[kreier/benchmark] include i3-10100
-[kreier/benchmark] link to fix the msvcp140.dll error message</title></rect></a>
+- GitHub: [kreier/benchmark] include 13700T
+- GitHub: [kreier/benchmark] include i3-10100
+- GitHub: [kreier/benchmark] link to fix the msvcp140.dll error message</title></rect></a>
 <text x="558" y="30" font-family="sans-serif" font-size="8" fill="#767676">Nov</text>
 <a href="https://github.com/kreier/benchmark/commit/9f8289b6c98626ea26e195577c476642f6c59ce5"><rect class="day-cell" data-date="2024-11-03" x="558" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-03: 1 entry
-[kreier/benchmark] include i7-8700 and driver instructions</title></rect></a>
+- GitHub: [kreier/benchmark] include i7-8700 and driver instructions</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/686e8e9e1e986f2c5f090ba223d53c8eb6f38724"><rect class="day-cell" data-date="2024-11-04" x="558" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-04: 2 entries
-[kreier/benchmark] visualize generation speed differences
-[kreier/benchmark] GPUs and LLMs speed</title></rect></a>
+- GitHub: [kreier/benchmark] visualize generation speed differences
+- GitHub: [kreier/benchmark] GPUs and LLMs speed</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/f82c70041e96559d347a276a84b82cb005fe5d71"><rect class="day-cell" data-date="2024-11-05" x="558" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-05: 1 entry
-[kreier/benchmark] fix typo, 13700T now with dual channel memory
+- GitHub: [kreier/benchmark] fix typo, 13700T now with dual channel memory
 
 Old speed was some 23 GB/s now up to 45 GB/s with dual 3200 MT/s memory.</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/ba359bff19614e4d05acba4eb939700774eb117b"><rect class="day-cell" data-date="2024-11-06" x="558" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-06: 2 entries
-[kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
-[kreier/benchmark] results of test runs 2024/11/05</title></rect></a>
+- GitHub: [kreier/benchmark] Merge branch 'main' of https://github.com/kreier/benchmark
+- GitHub: [kreier/benchmark] results of test runs 2024/11/05</title></rect></a>
 <rect class="day-cell" data-date="2024-11-07" x="558" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-07: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/81193e214cefece6b2f4e9e59d31d96743396d77"><rect class="day-cell" data-date="2024-11-08" x="558" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-08: 3 entries
-[kreier/benchmark] updated experiments with LLMs
-[kreier/hacks] result of trying the RX 470 - too old
-[kreier/hacks] use RX 6600 for ollama</title></rect></a>
+- GitHub: [kreier/benchmark] updated experiments with LLMs
+- GitHub: [kreier/hacks] result of trying the RX 470 - too old
+- GitHub: [kreier/hacks] use RX 6600 for ollama</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/3949d566e86437ea16916f27a035a6d48c42419e"><rect class="day-cell" data-date="2024-11-09" x="558" y="107" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-11-09: 4 entries
-[kreier/benchmark] compare M1 to M4 with Pro and Max
-[kreier/benchmark] include Apple M1 GPU
-[kreier/benchmark] include llama3.2:3b for comparison
-[kreier/benchmark] improved graph for inference</title></rect></a>
+- GitHub: [kreier/benchmark] compare M1 to M4 with Pro and Max
+- GitHub: [kreier/benchmark] include Apple M1 GPU
+- GitHub: [kreier/benchmark] include llama3.2:3b for comparison
+- GitHub: [kreier/benchmark] improved graph for inference</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/8f9b4d65636d88b2a106340cfc7cf03070c69890"><rect class="day-cell" data-date="2024-11-10" x="570" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-10: 3 entries
-[kreier/benchmark] update results with i7-13700T
-[kreier/benchmark] include E5-2696 v3
-[kreier/benchmark] include i7-6820HQ</title></rect></a>
+- GitHub: [kreier/benchmark] update results with i7-13700T
+- GitHub: [kreier/benchmark] include E5-2696 v3
+- GitHub: [kreier/benchmark] include i7-6820HQ</title></rect></a>
 <rect class="day-cell" data-date="2024-11-11" x="570" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-11-12" x="570" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-11-13" x="570" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-13: 0 entries</title></rect>
@@ -1722,16 +1726,16 @@ Old speed was some 23 GB/s now up to 45 GB/s with dual 3200 MT/s memory.</title>
 <rect class="day-cell" data-date="2024-11-16" x="570" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-11-17" x="582" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-17: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/034baf6937d1d3e8ed5d640f01f5e0b7ff0a1b04"><rect class="day-cell" data-date="2024-11-18" x="582" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-18: 1 entry
-[kreier/benchmark] include Nvidia P106-100</title></rect></a>
+- GitHub: [kreier/benchmark] include Nvidia P106-100</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/1432365f6577debbb5336655e308a853773eeec5"><rect class="day-cell" data-date="2024-11-19" x="582" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-19: 2 entries
-[kreier/benchmark] updated GFLOPS processing power last decades
-[kreier/benchmark] updated graphs for data and memory transfer speed</title></rect></a>
+- GitHub: [kreier/benchmark] updated GFLOPS processing power last decades
+- GitHub: [kreier/benchmark] updated graphs for data and memory transfer speed</title></rect></a>
 <rect class="day-cell" data-date="2024-11-20" x="582" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-20: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/7fa6d5488c9ef28f4bf2d8faf1db7b5025233b31"><rect class="day-cell" data-date="2024-11-21" x="582" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-21: 2 entries
-[kreier/benchmark] Explain fp64
-[kreier/kinhthanh] README.md</title></rect></a>
+- GitHub: [kreier/benchmark] Explain fp64
+- GitHub: [kreier/kinhthanh] README.md</title></rect></a>
 <a href="https://github.com/kreier/Wificar23/blob/master/README.md"><rect class="day-cell" data-date="2024-11-22" x="582" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-11-22: 1 entry
-[kreier/Wificar23] README.md</title></rect></a>
+- GitHub: [kreier/Wificar23] README.md</title></rect></a>
 <rect class="day-cell" data-date="2024-11-23" x="582" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-11-24" x="594" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-11-25" x="594" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-25: 0 entries</title></rect>
@@ -1742,7 +1746,7 @@ Old speed was some 23 GB/s now up to 45 GB/s with dual 3200 MT/s memory.</title>
 <rect class="day-cell" data-date="2024-11-30" x="594" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-11-30: 0 entries</title></rect>
 <text x="606" y="30" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
 <a href="https://kreier.github.io/quartz/Blog/2024/12/Writing-pages-in-Obsidian"><rect class="day-cell" data-date="2024-12-01" x="606" y="35" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2024-12-01: 1 entry
-Writing pages in Obsidian</title></rect></a>
+- Quartz: Writing pages in Obsidian</title></rect></a>
 <rect class="day-cell" data-date="2024-12-02" x="606" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-12-03" x="606" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-12-04" x="606" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-04: 0 entries</title></rect>
@@ -1754,7 +1758,7 @@ Writing pages in Obsidian</title></rect></a>
 <rect class="day-cell" data-date="2024-12-10" x="618" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-12-11" x="618" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-11: 0 entries</title></rect>
 <a href="https://github.com/kreier/Wificar24/blob/main/README.md"><rect class="day-cell" data-date="2024-12-12" x="618" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-12-12: 1 entry
-[kreier/Wificar24] README.md</title></rect></a>
+- GitHub: [kreier/Wificar24] README.md</title></rect></a>
 <rect class="day-cell" data-date="2024-12-13" x="618" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-12-14" x="618" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-12-15" x="630" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-15: 0 entries</title></rect>
@@ -1763,46 +1767,46 @@ Writing pages in Obsidian</title></rect></a>
 <rect class="day-cell" data-date="2024-12-18" x="630" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-12-19" x="630" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-19: 0 entries</title></rect>
 <a href="https://github.com/kreier/calendar/commit/a53eb824c1eae8f1c4b42a2573f693fd992b832a"><rect class="day-cell" data-date="2024-12-20" x="630" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-12-20: 1 entry
-[kreier/calendar] exclude .DS_Store from Synology Diskstation</title></rect></a>
+- GitHub: [kreier/calendar] exclude .DS_Store from Synology Diskstation</title></rect></a>
 <a href="https://github.com/kreier/calendar/commit/c3a3ca75428c617e15b80ce654a22c4c32cdaf00"><rect class="day-cell" data-date="2024-12-21" x="630" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2024-12-21: 1 entry
-[kreier/calendar] include vertical events</title></rect></a>
+- GitHub: [kreier/calendar] include vertical events</title></rect></a>
 <rect class="day-cell" data-date="2024-12-22" x="642" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-22: 0 entries</title></rect>
 <a href="https://github.com/kreier/calendar/commit/d7e6133a9a897a6a383ab398c068a78cfbc8e69d"><rect class="day-cell" data-date="2024-12-23" x="642" y="47" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-12-23: 4 entries
-[kreier/calendar] created with v1.0.24.12
-[kreier/calendar] Update README.md with badges
-[kreier/calendar] Delete .github/workflows/jekyll-gh-pages.yml
-[kreier/calendar] Update jekyll-gh-pages.yml</title></rect></a>
+- GitHub: [kreier/calendar] created with v1.0.24.12
+- GitHub: [kreier/calendar] Update README.md with badges
+- GitHub: [kreier/calendar] Delete .github/workflows/jekyll-gh-pages.yml
+- GitHub: [kreier/calendar] Update jekyll-gh-pages.yml</title></rect></a>
 <rect class="day-cell" data-date="2024-12-24" x="642" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-12-25" x="642" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-25: 0 entries</title></rect>
 <a href="https://github.com/kreier/aisvn/commit/e01f3b8e46d348793e529d06b21061a88f1aaeb1"><rect class="day-cell" data-date="2024-12-26" x="642" y="83" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2024-12-26: 6 entries
-[kreier/aisvn] build status update - replaced Travis CI on the master branch
+- GitHub: [kreier/aisvn] build status update - replaced Travis CI on the master branch
 
 the build status was with Travis CI and the master branch
-[kreier/aisvn] Include badge for version
-[kreier/aisvn] no longer built with Travis CI, but Github Actions
-[kreier/aisvn] README.md
-[kreier/benchmark] include Nvidia P106-100
-[kreier/benchmark] include Nvidia P106-100</title></rect></a>
+- GitHub: [kreier/aisvn] Include badge for version
+- GitHub: [kreier/aisvn] no longer built with Travis CI, but Github Actions
+- GitHub: [kreier/aisvn] README.md
+- GitHub: [kreier/benchmark] include Nvidia P106-100
+- GitHub: [kreier/benchmark] include Nvidia P106-100</title></rect></a>
 <rect class="day-cell" data-date="2024-12-27" x="642" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-12-28" x="642" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-12-29" x="654" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-12-30" x="654" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2024-12-31" x="654" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2024-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2023</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 30, Github: 27 (74), Quartz: 3 (4), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2023</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 30, Github: 27 (74), Quartz: 3 (4), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <text x="30" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <a href="https://kreier.github.io/quartz/Diary/2023"><rect class="day-cell" data-date="2023-01-01" x="30" y="35" width="10" height="10" fill="#ef9a9a" rx="2" ry="2"><title>2023-01-01: 2 entries
-2023
-Roundtrip Vietnam 2023</title></rect></a>
+- Quartz: 2023
+- Quartz: Roundtrip Vietnam 2023</title></rect></a>
 <a href="https://github.com/kreier/Food-PMH/commit/62e837bbd430e0f84ac182d9fa17d347d15c4b75"><rect class="day-cell" data-date="2023-01-02" x="30" y="47" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-01-02: 3 entries
-[kreier/Food-PMH] working prototype for Annam Gourmet
-[kreier/Food-PMH] patch 2023 to work from Argentina
-[kreier/Food-PMH] README.md</title></rect></a>
+- GitHub: [kreier/Food-PMH] working prototype for Annam Gourmet
+- GitHub: [kreier/Food-PMH] patch 2023 to work from Argentina
+- GitHub: [kreier/Food-PMH] README.md</title></rect></a>
 <rect class="day-cell" data-date="2023-01-03" x="30" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-01-04" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-01-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-01-05" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-01-05: 0 entries</title></rect>
@@ -1839,7 +1843,7 @@ Roundtrip Vietnam 2023</title></rect></a>
 <text x="90" y="30" font-family="sans-serif" font-size="8" fill="#767676">Feb</text>
 <rect class="day-cell" data-date="2023-02-05" x="90" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-05: 0 entries</title></rect>
 <a href="https://github.com/kreier/mandelbrot-basic/blob/main/README.md"><rect class="day-cell" data-date="2023-02-06" x="90" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-02-06: 1 entry
-[kreier/mandelbrot-basic] README.md</title></rect></a>
+- GitHub: [kreier/mandelbrot-basic] README.md</title></rect></a>
 <rect class="day-cell" data-date="2023-02-07" x="90" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-02-08" x="90" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-02-09" x="90" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-09: 0 entries</title></rect>
@@ -1863,13 +1867,13 @@ Roundtrip Vietnam 2023</title></rect></a>
 <rect class="day-cell" data-date="2023-02-27" x="126" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-02-28" x="126" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-02-28: 0 entries</title></rect>
 <a href="https://github.com/kreier/aa2023/commit/3a995b912b0d2f351157d1dea25f4d33f739c7eb"><rect class="day-cell" data-date="2023-03-01" x="126" y="71" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-03-01: 4 entries
-[kreier/aa2023] solving VEX VR task
-[kreier/aa2023] artifact documented
-[kreier/aa2023] need /lib for CircuitPython, and Synology update
-[kreier/aa2023] Initial commit</title></rect></a>
+- GitHub: [kreier/aa2023] solving VEX VR task
+- GitHub: [kreier/aa2023] artifact documented
+- GitHub: [kreier/aa2023] need /lib for CircuitPython, and Synology update
+- GitHub: [kreier/aa2023] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/aa2023/commit/777f0aa612b690eed84c4188026e742198086de6"><rect class="day-cell" data-date="2023-03-02" x="126" y="83" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-03-02: 2 entries
-[kreier/aa2023] typo
-[kreier/aa2023] README.md</title></rect></a>
+- GitHub: [kreier/aa2023] typo
+- GitHub: [kreier/aa2023] README.md</title></rect></a>
 <rect class="day-cell" data-date="2023-03-03" x="126" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-03-04" x="126" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-04: 0 entries</title></rect>
 <text x="138" y="30" font-family="sans-serif" font-size="8" fill="#767676">Mar</text>
@@ -1878,21 +1882,21 @@ Roundtrip Vietnam 2023</title></rect></a>
 <rect class="day-cell" data-date="2023-03-07" x="138" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-03-08" x="138" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-08: 0 entries</title></rect>
 <a href="https://github.com/kreier/circuitpython_vid_pid/commit/90120eca359c1065e50ce1f5e49c7fe7ca25936e"><rect class="day-cell" data-date="2023-03-09" x="138" y="83" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2023-03-09: 6 entries
-[kreier/circuitpython_vid_pid] Update README.md
-[kreier/circuitpython_vid_pid] updated list with more boards here at SSIS
-[kreier/circuitpython_vid_pid] first list of PIDs
-[kreier/circuitpython_vid_pid] list connected usb devices
-[kreier/circuitpython_vid_pid] Update .gitignore
-[kreier/circuitpython_vid_pid] Initial commit</title></rect></a>
+- GitHub: [kreier/circuitpython_vid_pid] Update README.md
+- GitHub: [kreier/circuitpython_vid_pid] updated list with more boards here at SSIS
+- GitHub: [kreier/circuitpython_vid_pid] first list of PIDs
+- GitHub: [kreier/circuitpython_vid_pid] list connected usb devices
+- GitHub: [kreier/circuitpython_vid_pid] Update .gitignore
+- GitHub: [kreier/circuitpython_vid_pid] Initial commit</title></rect></a>
 <rect class="day-cell" data-date="2023-03-10" x="138" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-03-11" x="138" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-03-12" x="150" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-12: 0 entries</title></rect>
 <a href="https://github.com/kreier/circuitpython_vid_pid/commit/080d7bba2c9ef6ef18499c1f068e655614441df7"><rect class="day-cell" data-date="2023-03-13" x="150" y="47" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-03-13: 2 entries
-[kreier/circuitpython_vid_pid] Update README.md
-[kreier/t-picoc3] README.md</title></rect></a>
+- GitHub: [kreier/circuitpython_vid_pid] Update README.md
+- GitHub: [kreier/t-picoc3] README.md</title></rect></a>
 <rect class="day-cell" data-date="2023-03-14" x="150" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-14: 0 entries</title></rect>
 <a href="https://github.com/kreier/ssisolar/blob/main/README.md"><rect class="day-cell" data-date="2023-03-15" x="150" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-03-15: 1 entry
-[kreier/ssisolar] README.md</title></rect></a>
+- GitHub: [kreier/ssisolar] README.md</title></rect></a>
 <rect class="day-cell" data-date="2023-03-16" x="150" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-03-17" x="150" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-03-18" x="150" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-18: 0 entries</title></rect>
@@ -1905,9 +1909,9 @@ Roundtrip Vietnam 2023</title></rect></a>
 <rect class="day-cell" data-date="2023-03-25" x="162" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-03-26" x="174" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-26: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/9991cef69b83ec1bb988e08f4b0cfcb020568fb2"><rect class="day-cell" data-date="2023-03-27" x="174" y="47" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-03-27: 3 entries
-[kreier/benchmark] included i3-10100
-[kreier/java23] README.md
-[kreier/p5js] README.md</title></rect></a>
+- GitHub: [kreier/benchmark] included i3-10100
+- GitHub: [kreier/java23] README.md
+- GitHub: [kreier/p5js] README.md</title></rect></a>
 <rect class="day-cell" data-date="2023-03-28" x="174" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-03-29" x="174" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-03-30" x="174" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-03-30: 0 entries</title></rect>
@@ -1916,32 +1920,32 @@ Roundtrip Vietnam 2023</title></rect></a>
 <text x="186" y="30" font-family="sans-serif" font-size="8" fill="#767676">Apr</text>
 <rect class="day-cell" data-date="2023-04-02" x="186" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-02: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP32/commit/ad13beb916c12b4d779af9d7378be9f5990a414b"><rect class="day-cell" data-date="2023-04-03" x="186" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-04-03: 1 entry
-[kreier/ESP32] now support from circuitpython!</title></rect></a>
+- GitHub: [kreier/ESP32] now support from circuitpython!</title></rect></a>
 <rect class="day-cell" data-date="2023-04-04" x="186" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-04-05" x="186" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-05: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-04-06" x="186" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-06: 0 entries</title></rect>
 <a href="https://github.com/kreier/circuit-playground-express/commit/7df8c6f36e84f72619c36ddbb11e617e7807395d"><rect class="day-cell" data-date="2023-04-07" x="186" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-04-07: 1 entry
-[kreier/circuit-playground-express] selection menu included</title></rect></a>
+- GitHub: [kreier/circuit-playground-express] selection menu included</title></rect></a>
 <rect class="day-cell" data-date="2023-04-08" x="186" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-04-09" x="198" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-09: 0 entries</title></rect>
 <a href="https://github.com/kreier/circuit-playground-express/commit/409553dd5f135812feaab0d3c45fbe6c75a78093"><rect class="day-cell" data-date="2023-04-10" x="198" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-04-10: 1 entry
-[kreier/circuit-playground-express] first examples</title></rect></a>
+- GitHub: [kreier/circuit-playground-express] first examples</title></rect></a>
 <rect class="day-cell" data-date="2023-04-11" x="198" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-04-12" x="198" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-04-13" x="198" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-13: 0 entries</title></rect>
 <a href="https://github.com/kreier/circuitpython_vid_pid/commit/d9e50276694d6266332984539cb170b456eb4e08"><rect class="day-cell" data-date="2023-04-14" x="198" y="95" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-04-14: 2 entries
-[kreier/circuitpython_vid_pid] History for T-Display rp2040
-[kreier/circuitpython_vid_pid] README.md</title></rect></a>
+- GitHub: [kreier/circuitpython_vid_pid] History for T-Display rp2040
+- GitHub: [kreier/circuitpython_vid_pid] README.md</title></rect></a>
 <rect class="day-cell" data-date="2023-04-15" x="198" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-04-16" x="210" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-04-17" x="210" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-04-18" x="210" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-18: 0 entries</title></rect>
 <a href="https://github.com/kreier/circuit-playground-express/commit/32083fea660ba275d06e314db3858ba54fb9d31b"><rect class="day-cell" data-date="2023-04-19" x="210" y="71" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-04-19: 5 entries
-[kreier/circuit-playground-express] Merge pull request #1 from matthiaskreier/patch-1
-[kreier/circuit-playground-express] working example with 30ms pulsewidth
-[kreier/circuit-playground-express] early start
-[kreier/circuit-playground-express] send a message with neopixels
-[kreier/circuit-playground-express] using the light sensor as input - Advanced Automation 2023</title></rect></a>
+- GitHub: [kreier/circuit-playground-express] Merge pull request #1 from matthiaskreier/patch-1
+- GitHub: [kreier/circuit-playground-express] working example with 30ms pulsewidth
+- GitHub: [kreier/circuit-playground-express] early start
+- GitHub: [kreier/circuit-playground-express] send a message with neopixels
+- GitHub: [kreier/circuit-playground-express] using the light sensor as input - Advanced Automation 2023</title></rect></a>
 <rect class="day-cell" data-date="2023-04-20" x="210" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-04-21" x="210" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-04-22" x="210" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-04-22: 0 entries</title></rect>
@@ -1958,14 +1962,14 @@ Roundtrip Vietnam 2023</title></rect></a>
 <rect class="day-cell" data-date="2023-05-03" x="234" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-05-04" x="234" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-04: 0 entries</title></rect>
 <a href="https://github.com/kreier/circuit-playground-express/commit/a259439c252d0436f0c0af2451c5fe842196a2de"><rect class="day-cell" data-date="2023-05-05" x="234" y="95" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-05-05: 4 entries
-[kreier/circuit-playground-express] fixed letter F
-[kreier/circuit-playground-express] Create lightsensor_read_morse.py
+- GitHub: [kreier/circuit-playground-express] fixed letter F
+- GitHub: [kreier/circuit-playground-express] Create lightsensor_read_morse.py
 
 reads the average light intensity for 30 cycles as threshold to indicate a high or low, then uses the dot time reference to read dots, dashes and spaces
-[kreier/circuit-playground-express] Create boot.py
+- GitHub: [kreier/circuit-playground-express] Create boot.py
 
 use the switch to activate writing to the flash
-[kreier/circuit-playground-express] README.md</title></rect></a>
+- GitHub: [kreier/circuit-playground-express] README.md</title></rect></a>
 <rect class="day-cell" data-date="2023-05-06" x="234" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-06: 0 entries</title></rect>
 <text x="246" y="30" font-family="sans-serif" font-size="8" fill="#767676">May</text>
 <rect class="day-cell" data-date="2023-05-07" x="246" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-05-07: 0 entries</title></rect>
@@ -2121,29 +2125,29 @@ use the switch to activate writing to the flash
 <rect class="day-cell" data-date="2023-09-30" x="486" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-09-30: 0 entries</title></rect>
 <text x="498" y="30" font-family="sans-serif" font-size="8" fill="#767676">Oct</text>
 <a href="https://kreier.github.io/quartz/Blog/2023/10/Visarun"><rect class="day-cell" data-date="2023-10-01" x="498" y="35" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2023-10-01: 1 entry
-Visarun</title></rect></a>
+- Quartz: Visarun</title></rect></a>
 <rect class="day-cell" data-date="2023-10-02" x="498" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-02: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/3744b2d42c9f8b35a509b8990d37e49fb302a789"><rect class="day-cell" data-date="2023-10-03" x="498" y="59" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2023-10-03: 4 entries
-[kreier/benchmark] include Pavilion al132TX
-[kreier/benchmark] updated results 2018-2021 from 3dmark.com
-[kreier/benchmark] testing hp al132TX with 940MX
-[kreier/benchmark] fixed to regular csv</title></rect></a>
+- GitHub: [kreier/benchmark] include Pavilion al132TX
+- GitHub: [kreier/benchmark] updated results 2018-2021 from 3dmark.com
+- GitHub: [kreier/benchmark] testing hp al132TX with 940MX
+- GitHub: [kreier/benchmark] fixed to regular csv</title></rect></a>
 <rect class="day-cell" data-date="2023-10-04" x="498" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-10-05" x="498" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-05: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-10-06" x="498" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-06: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/d3935c140c03081ad7d954d40fd409ac0fb7ca16"><rect class="day-cell" data-date="2023-10-07" x="498" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-10-07: 1 entry
-[kreier/benchmark] include older laptops</title></rect></a>
+- GitHub: [kreier/benchmark] include older laptops</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/d69f7f599dd3d3d38fcbad1849247e19a52cf549"><rect class="day-cell" data-date="2023-10-08" x="510" y="35" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-10-08: 3 entries
-[kreier/benchmark] testing 3070 Ti with 20 year old benchmarks
-[kreier/benchmark] benchmarking HD Graphics 620
-[kreier/benchmark] included 3070Ti</title></rect></a>
+- GitHub: [kreier/benchmark] testing 3070 Ti with 20 year old benchmarks
+- GitHub: [kreier/benchmark] benchmarking HD Graphics 620
+- GitHub: [kreier/benchmark] included 3070Ti</title></rect></a>
 <rect class="day-cell" data-date="2023-10-09" x="510" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-10-10" x="510" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-10-11" x="510" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-11: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/7b78e7e5e0e0510ec5cf61cf7e7a2a881fbf3f81"><rect class="day-cell" data-date="2023-10-12" x="510" y="83" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-10-12: 3 entries
-[kreier/benchmark] include i3 10100
-[kreier/benchmark] Delete .DS_Store
-[kreier/benchmark] Create .gitignore
+- GitHub: [kreier/benchmark] include i3 10100
+- GitHub: [kreier/benchmark] Delete .DS_Store
+- GitHub: [kreier/benchmark] Create .gitignore
 
 mainly for Synology Diskstation</title></rect></a>
 <rect class="day-cell" data-date="2023-10-13" x="510" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-13: 0 entries</title></rect>
@@ -2151,7 +2155,7 @@ mainly for Synology Diskstation</title></rect></a>
 <rect class="day-cell" data-date="2023-10-15" x="522" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-10-16" x="522" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-16: 0 entries</title></rect>
 <a href="https://kreier.github.io/quartz/Projects/Timeline"><rect class="day-cell" data-date="2023-10-17" x="522" y="59" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2023-10-17: 1 entry
-Timeline</title></rect></a>
+- Quartz: Timeline</title></rect></a>
 <rect class="day-cell" data-date="2023-10-18" x="522" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-10-19" x="522" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-10-20" x="522" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-20: 0 entries</title></rect>
@@ -2166,23 +2170,23 @@ Timeline</title></rect></a>
 <rect class="day-cell" data-date="2023-10-29" x="546" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-10-30" x="546" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-10-30: 0 entries</title></rect>
 <a href="https://github.com/kreier/benfords_law/commit/998ce7a5bb8c128a85d9ef8d461294cf5a6f64db"><rect class="day-cell" data-date="2023-10-31" x="546" y="59" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2023-10-31: 7 entries
-[kreier/benfords_law] inspired by Matt Parkers lecture
-[kreier/benfords_law] Display result and code
-[kreier/benfords_law] first results
-[kreier/benfords_law] referenced inspiration
-[kreier/benfords_law] Update for Synology Diskstation
-[kreier/benfords_law] Initial commit
-[kreier/benfords_law] README.md</title></rect></a>
+- GitHub: [kreier/benfords_law] inspired by Matt Parkers lecture
+- GitHub: [kreier/benfords_law] Display result and code
+- GitHub: [kreier/benfords_law] first results
+- GitHub: [kreier/benfords_law] referenced inspiration
+- GitHub: [kreier/benfords_law] Update for Synology Diskstation
+- GitHub: [kreier/benfords_law] Initial commit
+- GitHub: [kreier/benfords_law] README.md</title></rect></a>
 <rect class="day-cell" data-date="2023-11-01" x="546" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-01: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-11-02" x="546" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-11-03" x="546" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-03: 0 entries</title></rect>
 <a href="https://github.com/kreier/collatz/commit/4f6c00add85f39a0585ecea078dc0a1765b5f693"><rect class="day-cell" data-date="2023-11-04" x="546" y="107" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2023-11-04: 6 entries
-[kreier/collatz] output control, more details
-[kreier/collatz] first program
-[kreier/collatz] reference link to Veritasium video
-[kreier/collatz] Synology Diskstation
-[kreier/collatz] Initial commit
-[kreier/collatz] README.md</title></rect></a>
+- GitHub: [kreier/collatz] output control, more details
+- GitHub: [kreier/collatz] first program
+- GitHub: [kreier/collatz] reference link to Veritasium video
+- GitHub: [kreier/collatz] Synology Diskstation
+- GitHub: [kreier/collatz] Initial commit
+- GitHub: [kreier/collatz] README.md</title></rect></a>
 <text x="558" y="30" font-family="sans-serif" font-size="8" fill="#767676">Nov</text>
 <rect class="day-cell" data-date="2023-11-05" x="558" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-05: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-11-06" x="558" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-11-06: 0 entries</title></rect>
@@ -2216,20 +2220,20 @@ Timeline</title></rect></a>
 <rect class="day-cell" data-date="2023-12-03" x="606" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-12-04" x="606" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-04: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/d704c95630ae65cf6b2894e3eafabfebe3e8b3c6"><rect class="day-cell" data-date="2023-12-05" x="606" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-05: 1 entry
-[kreier/benchmark] updated CoreMark results</title></rect></a>
+- GitHub: [kreier/benchmark] updated CoreMark results</title></rect></a>
 <rect class="day-cell" data-date="2023-12-06" x="606" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-06: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/219750eaacb370c5d9570ecb915b0bee04a31d02"><rect class="day-cell" data-date="2023-12-07" x="606" y="83" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-07: 2 entries
-[kreier/benchmark] created list
-[kreier/benchmark] added microcontrollers</title></rect></a>
+- GitHub: [kreier/benchmark] created list
+- GitHub: [kreier/benchmark] added microcontrollers</title></rect></a>
 <rect class="day-cell" data-date="2023-12-08" x="606" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-12-09" x="606" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-12-10" x="618" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-10: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP8266/commit/d2ea3d00c33b050dd8ba4cc7b632f92f56929517"><rect class="day-cell" data-date="2023-12-11" x="618" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-11: 1 entry
-[kreier/ESP8266] adjust for boot sequence serial speed</title></rect></a>
+- GitHub: [kreier/ESP8266] adjust for boot sequence serial speed</title></rect></a>
 <rect class="day-cell" data-date="2023-12-12" x="618" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-12-13" x="618" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-13: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/fc1217cf6f41b5a2dbfdedee7ad96c642e1c7b97"><rect class="day-cell" data-date="2023-12-14" x="618" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-14: 1 entry
-[kreier/benchmark] updated documentation</title></rect></a>
+- GitHub: [kreier/benchmark] updated documentation</title></rect></a>
 <rect class="day-cell" data-date="2023-12-15" x="618" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-12-16" x="618" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-12-17" x="630" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-17: 0 entries</title></rect>
@@ -2243,42 +2247,42 @@ Timeline</title></rect></a>
 <rect class="day-cell" data-date="2023-12-25" x="642" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-12-26" x="642" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-26: 0 entries</title></rect>
 <a href="https://github.com/kreier/qtpy-oled/blob/main/README.md"><rect class="day-cell" data-date="2023-12-27" x="642" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2023-12-27: 1 entry
-[kreier/qtpy-oled] README.md</title></rect></a>
+- GitHub: [kreier/qtpy-oled] README.md</title></rect></a>
 <rect class="day-cell" data-date="2023-12-28" x="642" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2023-12-29" x="642" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2023-12-29: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP8266/commit/de54276ffbebf7647dabe83d1a2a6d73f5c7f9bc"><rect class="day-cell" data-date="2023-12-30" x="642" y="107" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2023-12-30: 2 entries
-[kreier/ESP8266] first results to 10 million
-[kreier/ESP8266] got SSD1306 display and buttons working</title></rect></a>
+- GitHub: [kreier/ESP8266] first results to 10 million
+- GitHub: [kreier/ESP8266] got SSD1306 display and buttons working</title></rect></a>
 <a href="https://github.com/kreier/ESP8266/commit/69a0e5141b3dfd314c0f29e81fd7b008277279cf"><rect class="day-cell" data-date="2023-12-31" x="654" y="35" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2023-12-31: 6 entries
-[kreier/ESP8266] restored Adafruit implementation, new u8g2
-[kreier/ESP8266] sketch for new display driver outlined
-[kreier/ESP8266] second board activated with U8g2
-[kreier/ESP8266] another OLED library
-[kreier/ESP8266] adjustments for new display
-[kreier/ESP8266] updated documentation and running scope</title></rect></a>
+- GitHub: [kreier/ESP8266] restored Adafruit implementation, new u8g2
+- GitHub: [kreier/ESP8266] sketch for new display driver outlined
+- GitHub: [kreier/ESP8266] second board activated with U8g2
+- GitHub: [kreier/ESP8266] another OLED library
+- GitHub: [kreier/ESP8266] adjustments for new display
+- GitHub: [kreier/ESP8266] updated documentation and running scope</title></rect></a>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2022</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 69, Github: 68 (249), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2022</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 69, Github: 68 (249), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2022"><rect class="day-cell" data-date="2022-01-01" x="30" y="107" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2022-01-01: 1 entry
-2022</title></rect></a>
+- Quartz: 2022</title></rect></a>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="2022-01-02" x="42" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-01-03" x="42" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-01-04" x="42" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-01-05" x="42" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-05: 0 entries</title></rect>
 <a href="https://github.com/kreier/asa/commit/c7357d6735300942386048d6d75675c8164816e2"><rect class="day-cell" data-date="2022-01-06" x="42" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-06: 1 entry
-[kreier/asa] Merge pull request #1 from kreier/master
+- GitHub: [kreier/asa] Merge pull request #1 from kreier/master
 
 extended timeline</title></rect></a>
 <a href="https://github.com/kreier/aisvn/commit/f418ebaaa41c8c893f5e5d1611bcc1be8e0a90a8"><rect class="day-cell" data-date="2022-01-07" x="42" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-07: 2 entries
-[kreier/aisvn] fixed images and links
+- GitHub: [kreier/aisvn] fixed images and links
 
 This should relate to the http version as well.
-[kreier/aisvn] Merge pull request #2 from kreier/kreier-patch-2
+- GitHub: [kreier/aisvn] Merge pull request #2 from kreier/kreier-patch-2
 
 distinguish index.md from readme.md</title></rect></a>
 <rect class="day-cell" data-date="2022-01-08" x="42" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-08: 0 entries</title></rect>
@@ -2287,40 +2291,40 @@ distinguish index.md from readme.md</title></rect></a>
 <rect class="day-cell" data-date="2022-01-11" x="54" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-01-12" x="54" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-12: 0 entries</title></rect>
 <a href="https://github.com/kreier/floatwheel/commit/74fe6566311a926b6d3f6dcd78390c969628e190"><rect class="day-cell" data-date="2022-01-13" x="54" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-13: 1 entry
-[kreier/floatwheel] Initial commit</title></rect></a>
+- GitHub: [kreier/floatwheel] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/a8baba52c7f2ec95f67892c9cfaa6d2d018f1b71"><rect class="day-cell" data-date="2022-01-14" x="54" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-14: 3 entries
-[kreier/benchmark] Merge pull request #1 from kreier/master
+- GitHub: [kreier/benchmark] Merge pull request #1 from kreier/master
 
 Update README.md
-[kreier/benchmark] Update README.md
-[kreier/floatwheel] documentation</title></rect></a>
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/floatwheel] documentation</title></rect></a>
 <rect class="day-cell" data-date="2022-01-15" x="54" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-01-16" x="66" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-16: 0 entries</title></rect>
 <a href="https://github.com/kreier/aisvn/commit/44a532931400221a3ebdd341353b3125351fdb25"><rect class="day-cell" data-date="2022-01-17" x="66" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-17: 2 entries
-[kreier/aisvn] Merge pull request #3 from kreier/kreier-patch-1
+- GitHub: [kreier/aisvn] Merge pull request #3 from kreier/kreier-patch-1
 
 fixed images and links
-[kreier/history] Merge pull request #1 from kreier/kreier-patch-1
+- GitHub: [kreier/history] Merge pull request #1 from kreier/kreier-patch-1
 
 included degrading batteries</title></rect></a>
 <a href="https://github.com/kreier/floatwheel/commit/b9b92df16e2ad0927b9f676b2fda16bbf781c5d0"><rect class="day-cell" data-date="2022-01-18" x="66" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-18: 4 entries
-[kreier/floatwheel] Set theme jekyll-theme-leap-day
-[kreier/floatwheel] Update index.md
-[kreier/floatwheel] Update README.md
-[kreier/floatwheel] Update README.md</title></rect></a>
+- GitHub: [kreier/floatwheel] Set theme jekyll-theme-leap-day
+- GitHub: [kreier/floatwheel] Update index.md
+- GitHub: [kreier/floatwheel] Update README.md
+- GitHub: [kreier/floatwheel] Update README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-01-19" x="66" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-01-20" x="66" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-01-21" x="66" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-01-22" x="66" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-01-23" x="78" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-23: 0 entries</title></rect>
 <a href="https://github.com/kreier/floatwheel/commit/f479a2e1ccadf445258d72f035e5f75940b47c1f"><rect class="day-cell" data-date="2022-01-24" x="78" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-24: 2 entries
-[kreier/floatwheel] fixed typo and pictures
-[kreier/floatwheel] Create README.md</title></rect></a>
+- GitHub: [kreier/floatwheel] fixed typo and pictures
+- GitHub: [kreier/floatwheel] Create README.md</title></rect></a>
 <a href="https://github.com/kreier/floatwheel/commit/95a80cdce8cf7921f26c440299776a44d1cdd3d5"><rect class="day-cell" data-date="2022-01-25" x="78" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-01-25: 4 entries
-[kreier/floatwheel] Merge branch 'main' of https://github.com/kreier/floatwheel
-[kreier/floatwheel] fix for Synology Diskstation
-[kreier/floatwheel] README.md
-[kreier/rc] README.md</title></rect></a>
+- GitHub: [kreier/floatwheel] Merge branch 'main' of https://github.com/kreier/floatwheel
+- GitHub: [kreier/floatwheel] fix for Synology Diskstation
+- GitHub: [kreier/floatwheel] README.md
+- GitHub: [kreier/rc] README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-01-26" x="78" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-01-27" x="78" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-01-28" x="78" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-01-28: 0 entries</title></rect>
@@ -2399,7 +2403,7 @@ included degrading batteries</title></rect></a>
 <rect class="day-cell" data-date="2022-04-08" x="198" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-04-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-04-09" x="198" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-04-09: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP32/commit/84f09686143d7b3ab09a1cbac2fbb54b850260cb"><rect class="day-cell" data-date="2022-04-10" x="210" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-04-10: 1 entry
-[kreier/ESP32] Update README.md</title></rect></a>
+- GitHub: [kreier/ESP32] Update README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-04-11" x="210" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-04-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-04-12" x="210" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-04-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-04-13" x="210" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-04-13: 0 entries</title></rect>
@@ -2426,8 +2430,8 @@ included degrading batteries</title></rect></a>
 <rect class="day-cell" data-date="2022-05-03" x="246" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-05-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-05-04" x="246" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-05-04: 0 entries</title></rect>
 <a href="https://github.com/kreier/csv-reader-pressures/commit/82c67f739c18282c49080d60062f9d0f3c1f46e3"><rect class="day-cell" data-date="2022-05-05" x="246" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-05-05: 2 entries
-[kreier/csv-reader-pressures] short outline
-[kreier/csv-reader-pressures] extended output</title></rect></a>
+- GitHub: [kreier/csv-reader-pressures] short outline
+- GitHub: [kreier/csv-reader-pressures] extended output</title></rect></a>
 <rect class="day-cell" data-date="2022-05-06" x="246" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-05-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-05-07" x="246" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-05-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-05-08" x="258" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-05-08: 0 entries</title></rect>
@@ -2435,14 +2439,14 @@ included degrading batteries</title></rect></a>
 <rect class="day-cell" data-date="2022-05-10" x="258" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-05-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-05-11" x="258" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-05-11: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/85d70b38084c927a785325de72cd236fa04acbf7"><rect class="day-cell" data-date="2022-05-12" x="258" y="83" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-05-12: 8 entries
-[kreier/benchmark] included E6600
-[kreier/benchmark] fixed formatting
-[kreier/benchmark] updated E6600 from IDEAcenter
-[kreier/frc] update LICENCE to comply with FRC
-[kreier/frc] documentation 2020
-[kreier/frc] updated for Synology Diskstation
-[kreier/frc] short overview
-[kreier/frc] Initial commit</title></rect></a>
+- GitHub: [kreier/benchmark] included E6600
+- GitHub: [kreier/benchmark] fixed formatting
+- GitHub: [kreier/benchmark] updated E6600 from IDEAcenter
+- GitHub: [kreier/frc] update LICENCE to comply with FRC
+- GitHub: [kreier/frc] documentation 2020
+- GitHub: [kreier/frc] updated for Synology Diskstation
+- GitHub: [kreier/frc] short overview
+- GitHub: [kreier/frc] Initial commit</title></rect></a>
 <rect class="day-cell" data-date="2022-05-13" x="258" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-05-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-05-14" x="258" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-05-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-05-15" x="270" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-05-15: 0 entries</title></rect>
@@ -2451,91 +2455,91 @@ included degrading batteries</title></rect></a>
 <rect class="day-cell" data-date="2022-05-18" x="270" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-05-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-05-19" x="270" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-05-19: 0 entries</title></rect>
 <a href="https://github.com/kreier/heatpipe/commit/317455bc311fcf381d80627c419bd49254101a3a"><rect class="day-cell" data-date="2022-05-20" x="270" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-05-20: 4 entries
-[kreier/heatpipe] Set theme jekyll-theme-slate
-[kreier/heatpipe] Create README.md
-[kreier/heatpipe] Create main.py
-[kreier/heatpipe] Initial commit</title></rect></a>
+- GitHub: [kreier/heatpipe] Set theme jekyll-theme-slate
+- GitHub: [kreier/heatpipe] Create README.md
+- GitHub: [kreier/heatpipe] Create main.py
+- GitHub: [kreier/heatpipe] Initial commit</title></rect></a>
 <rect class="day-cell" data-date="2022-05-21" x="270" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-05-21: 0 entries</title></rect>
 <a href="https://github.com/kreier/aa/commit/ac9f097a5e0ed963842559ef23bda1a5ebcf78f7"><rect class="day-cell" data-date="2022-05-22" x="282" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-05-22: 3 entries
-[kreier/aa] Set theme jekyll-theme-cayman
-[kreier/aa] Update README.md
-[kreier/aa] Initial commit</title></rect></a>
+- GitHub: [kreier/aa] Set theme jekyll-theme-cayman
+- GitHub: [kreier/aa] Update README.md
+- GitHub: [kreier/aa] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/aa/commit/bee5ffd67a8a474f54492655ca95584ff2500b08"><rect class="day-cell" data-date="2022-05-23" x="282" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-05-23: 3 entries
-[kreier/aa] Evan's reference code
-[kreier/heatpipe] Merge pull request #1 from kreier/friday-patch
+- GitHub: [kreier/aa] Evan's reference code
+- GitHub: [kreier/heatpipe] Merge pull request #1 from kreier/friday-patch
 
 patched on Friday
-[kreier/heatpipe] patched on Friday</title></rect></a>
+- GitHub: [kreier/heatpipe] patched on Friday</title></rect></a>
 <a href="https://github.com/kreier/app1/commit/43bbfefe3cdda042d1721a8361f4abf8f953033e"><rect class="day-cell" data-date="2022-05-24" x="282" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-05-24: 3 entries
-[kreier/app1] Set theme jekyll-theme-cayman
-[kreier/app1] curriculum documentation 2022
-[kreier/app1] Initial commit</title></rect></a>
+- GitHub: [kreier/app1] Set theme jekyll-theme-cayman
+- GitHub: [kreier/app1] curriculum documentation 2022
+- GitHub: [kreier/app1] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/app1/commit/43cb01b7914d9ffe8d6bf2634dfac7abf6ff8efa"><rect class="day-cell" data-date="2022-05-25" x="282" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-05-25: 4 entries
-[kreier/app1] more standards added
-[kreier/app1] Merge branch 'main' of https://github.com/kreier/app1
-[kreier/app1] curriculum documentation
-[kreier/app1] README.md</title></rect></a>
+- GitHub: [kreier/app1] more standards added
+- GitHub: [kreier/app1] Merge branch 'main' of https://github.com/kreier/app1
+- GitHub: [kreier/app1] curriculum documentation
+- GitHub: [kreier/app1] README.md</title></rect></a>
 <a href="https://github.com/kreier/aa/commit/2fb1f28c545118ae1573b10b37a0d1847cb460e9"><rect class="day-cell" data-date="2022-05-26" x="282" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-05-26: 1 entry
-[kreier/aa] success reading photoresistor values</title></rect></a>
+- GitHub: [kreier/aa] success reading photoresistor values</title></rect></a>
 <rect class="day-cell" data-date="2022-05-27" x="282" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-05-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-05-28" x="282" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-05-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-05-29" x="294" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-05-29: 0 entries</title></rect>
 <a href="https://github.com/kreier/history/commit/e9a77d1300b8c9f8dbf33bae44d70b11161a63a0"><rect class="day-cell" data-date="2022-05-30" x="294" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-05-30: 2 entries
-[kreier/history] updated iPad M1 5G
-[kreier/vex2022] README.md</title></rect></a>
+- GitHub: [kreier/history] updated iPad M1 5G
+- GitHub: [kreier/vex2022] README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-05-31" x="294" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-05-31: 0 entries</title></rect>
 <a href="https://github.com/kreier/csv-reader-pressures/commit/310d7bd7a0b666b6eded9d297d1d7b3bcf1e6e31"><rect class="day-cell" data-date="2022-06-01" x="294" y="71" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-06-01: 8 entries
-[kreier/csv-reader-pressures] Merge pull request #1 from kreier/add-license-1
+- GitHub: [kreier/csv-reader-pressures] Merge pull request #1 from kreier/add-license-1
 
 Create LICENCE
-[kreier/csv-reader-pressures] Create LICENCE
-[kreier/csv-reader-pressures] README.md
-[kreier/fan_tachometer] updated for Synology Diskstation
-[kreier/fan_tachometer] Update README.md
-[kreier/fan_tachometer] documentation May 26th, 2022
-[kreier/fan_tachometer] Update README.md
-[kreier/fan_tachometer] Initial commit</title></rect></a>
+- GitHub: [kreier/csv-reader-pressures] Create LICENCE
+- GitHub: [kreier/csv-reader-pressures] README.md
+- GitHub: [kreier/fan_tachometer] updated for Synology Diskstation
+- GitHub: [kreier/fan_tachometer] Update README.md
+- GitHub: [kreier/fan_tachometer] documentation May 26th, 2022
+- GitHub: [kreier/fan_tachometer] Update README.md
+- GitHub: [kreier/fan_tachometer] Initial commit</title></rect></a>
 <rect class="day-cell" data-date="2022-06-02" x="294" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-02: 0 entries</title></rect>
 <a href="https://github.com/kreier/fan_tachometer/commit/a9d3f79d6f0b631298b5e9ece2810ce259caad4d"><rect class="day-cell" data-date="2022-06-03" x="294" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-06-03: 1 entry
-[kreier/fan_tachometer] Create fan_rpm_threshold.py</title></rect></a>
+- GitHub: [kreier/fan_tachometer] Create fan_rpm_threshold.py</title></rect></a>
 <rect class="day-cell" data-date="2022-06-04" x="294" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-04: 0 entries</title></rect>
 <text x="306" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jun</text>
 <rect class="day-cell" data-date="2022-06-05" x="306" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-05: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-06-06" x="306" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-06-07" x="306" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-07: 0 entries</title></rect>
 <a href="https://github.com/kreier/fan_tachometer/commit/19ca7040e98ae40210ed4e292124886db964cdc9"><rect class="day-cell" data-date="2022-06-08" x="306" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-06-08: 1 entry
-[kreier/fan_tachometer] works up to 4000 rpm</title></rect></a>
+- GitHub: [kreier/fan_tachometer] works up to 4000 rpm</title></rect></a>
 <rect class="day-cell" data-date="2022-06-09" x="306" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-06-10" x="306" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-06-11" x="306" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-06-12" x="318" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-12: 0 entries</title></rect>
 <a href="https://github.com/kreier/fan_tachometer/commit/cfded28d0a46c450399242b240e5095f8dd70a8e"><rect class="day-cell" data-date="2022-06-13" x="318" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-06-13: 2 entries
-[kreier/fan_tachometer] included centrifuge data
-[kreier/fan_tachometer] Add files via upload</title></rect></a>
+- GitHub: [kreier/fan_tachometer] included centrifuge data
+- GitHub: [kreier/fan_tachometer] Add files via upload</title></rect></a>
 <a href="https://github.com/kreier/aa/commit/49b6db3691367c02ae46fdf0e42d5a1c72302949"><rect class="day-cell" data-date="2022-06-14" x="318" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-06-14: 3 entries
-[kreier/aa] logos
-[kreier/dragoncoin] proposal June 2022
-[kreier/dragoncoin] Initial commit</title></rect></a>
+- GitHub: [kreier/aa] logos
+- GitHub: [kreier/dragoncoin] proposal June 2022
+- GitHub: [kreier/dragoncoin] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/dragoncoin/commit/b9ee06927c284b4eb9d66419e0302b69d415fbd0"><rect class="day-cell" data-date="2022-06-15" x="318" y="71" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-06-15: 5 entries
-[kreier/dragoncoin] from binance academy
+- GitHub: [kreier/dragoncoin] from binance academy
 
 Source: https://academy.binance.com/en/articles/how-to-create-your-own-cryptocurrency
-[kreier/dragoncoin] empty shell of a token
-[kreier/dragoncoin] updated information
-[kreier/dragoncoin] Update README.md
-[kreier/dragoncoin] legal framework</title></rect></a>
+- GitHub: [kreier/dragoncoin] empty shell of a token
+- GitHub: [kreier/dragoncoin] updated information
+- GitHub: [kreier/dragoncoin] Update README.md
+- GitHub: [kreier/dragoncoin] legal framework</title></rect></a>
 <a href="https://github.com/kreier/dragoncoin/commit/af8ccad4f45c1857e4bc277aa42664c59c72162f"><rect class="day-cell" data-date="2022-06-16" x="318" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-06-16: 2 entries
-[kreier/dragoncoin] still 1 error in remix
-[kreier/dragoncoin] included Eat The Block code</title></rect></a>
+- GitHub: [kreier/dragoncoin] still 1 error in remix
+- GitHub: [kreier/dragoncoin] included Eat The Block code</title></rect></a>
 <a href="https://github.com/kreier/fan_tachometer/commit/d3c985a9ca48e4a594447b5c04172f639f028954"><rect class="day-cell" data-date="2022-06-17" x="318" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-06-17: 2 entries
-[kreier/fan_tachometer] clean up
-[kreier/fan_tachometer] README.md</title></rect></a>
+- GitHub: [kreier/fan_tachometer] clean up
+- GitHub: [kreier/fan_tachometer] README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-06-18" x="318" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-06-19" x="330" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-19: 0 entries</title></rect>
 <a href="https://github.com/kreier/dragoncoin/commit/09093062ca32673cddff5d6c1808a216e49cc51a"><rect class="day-cell" data-date="2022-06-20" x="330" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-06-20: 3 entries
-[kreier/dragoncoin] expanded examples
-[kreier/dragoncoin] Synology Diskstation
-[kreier/dragoncoin] README.md</title></rect></a>
+- GitHub: [kreier/dragoncoin] expanded examples
+- GitHub: [kreier/dragoncoin] Synology Diskstation
+- GitHub: [kreier/dragoncoin] README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-06-21" x="330" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-06-22" x="330" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-06-23" x="330" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-23: 0 entries</title></rect>
@@ -2544,21 +2548,21 @@ Source: https://academy.binance.com/en/articles/how-to-create-your-own-cryptocur
 <rect class="day-cell" data-date="2022-06-26" x="342" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-06-27" x="342" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-27: 0 entries</title></rect>
 <a href="https://github.com/kreier/csp2022/commit/86a95c8c87bbe0fde445b5a54fecfce72f6ae049"><rect class="day-cell" data-date="2022-06-28" x="342" y="59" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-06-28: 7 entries
-[kreier/csp2022] Update README.md
-[kreier/csp2022] Create README.md
-[kreier/csp2022] fixed, works
-[kreier/csp2022] Create assignment.py
-[kreier/csp2022] Initial commit
-[kreier/heatpipe] included screenshot of running program
-[kreier/heatpipe] screen snapshot May 20th, 2022</title></rect></a>
+- GitHub: [kreier/csp2022] Update README.md
+- GitHub: [kreier/csp2022] Create README.md
+- GitHub: [kreier/csp2022] fixed, works
+- GitHub: [kreier/csp2022] Create assignment.py
+- GitHub: [kreier/csp2022] Initial commit
+- GitHub: [kreier/heatpipe] included screenshot of running program
+- GitHub: [kreier/heatpipe] screen snapshot May 20th, 2022</title></rect></a>
 <a href="https://github.com/kreier/csp2022/commit/bb17bf46b826ebcdce03a2c7aa7a924ec38966f6"><rect class="day-cell" data-date="2022-06-29" x="342" y="71" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-06-29: 7 entries
-[kreier/csp2022] replit edition 2022
-[kreier/csp2022] copy from Reg Hahne
-[kreier/csp2022] included java version
-[kreier/csp2022] working example
-[kreier/csp2022] Update .gitignore
-[kreier/history] update with Anaconda installation
-[kreier/history] README.md</title></rect></a>
+- GitHub: [kreier/csp2022] replit edition 2022
+- GitHub: [kreier/csp2022] copy from Reg Hahne
+- GitHub: [kreier/csp2022] included java version
+- GitHub: [kreier/csp2022] working example
+- GitHub: [kreier/csp2022] Update .gitignore
+- GitHub: [kreier/history] update with Anaconda installation
+- GitHub: [kreier/history] README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-06-30" x="342" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-06-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-07-01" x="342" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-07-01: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-07-02" x="342" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-07-02: 0 entries</title></rect>
@@ -2570,7 +2574,7 @@ Source: https://academy.binance.com/en/articles/how-to-create-your-own-cryptocur
 <rect class="day-cell" data-date="2022-07-07" x="354" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-07-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-07-08" x="354" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-07-08: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/6a07e5514c991ad820646fb9dc08a5f1ceb7b104"><rect class="day-cell" data-date="2022-07-09" x="354" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-07-09: 1 entry
-[kreier/benchmark] Update README.md</title></rect></a>
+- GitHub: [kreier/benchmark] Update README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-07-10" x="366" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-07-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-07-11" x="366" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-07-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-07-12" x="366" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-07-12: 0 entries</title></rect>
@@ -2596,14 +2600,14 @@ Source: https://academy.binance.com/en/articles/how-to-create-your-own-cryptocur
 <rect class="day-cell" data-date="2022-08-01" x="402" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-01: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-08-02" x="402" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-02: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/4abbbd188e973c79fd8ded795eed57082ed5f3eb"><rect class="day-cell" data-date="2022-08-03" x="402" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-08-03: 1 entry
-[kreier/benchmark] update history August 2022</title></rect></a>
+- GitHub: [kreier/benchmark] update history August 2022</title></rect></a>
 <rect class="day-cell" data-date="2022-08-04" x="402" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-08-05" x="402" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-05: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-08-06" x="402" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-06: 0 entries</title></rect>
 <text x="414" y="30" font-family="sans-serif" font-size="8" fill="#767676">Aug</text>
 <rect class="day-cell" data-date="2022-08-07" x="414" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-07: 0 entries</title></rect>
 <a href="https://github.com/kreier/aa/commit/158799369b88442d878df115af88902357f4f4fe"><rect class="day-cell" data-date="2022-08-08" x="414" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-08-08: 1 entry
-[kreier/aa] Create README.md</title></rect></a>
+- GitHub: [kreier/aa] Create README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-08-09" x="414" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-08-10" x="414" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-08-11" x="414" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-11: 0 entries</title></rect>
@@ -2613,51 +2617,51 @@ Source: https://academy.binance.com/en/articles/how-to-create-your-own-cryptocur
 <rect class="day-cell" data-date="2022-08-15" x="426" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-08-16" x="426" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-16: 0 entries</title></rect>
 <a href="https://github.com/kreier/hello_world/commit/7dead3a3a064afa2ec7d4fa9be64294b28c5ea02"><rect class="day-cell" data-date="2022-08-17" x="426" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-08-17: 4 entries
-[kreier/hello_world] Create hello-world.py
-[kreier/hello_world] included code with code highlighting
-[kreier/hello_world] Write my first outline.
-[kreier/hello_world] Initial commit</title></rect></a>
+- GitHub: [kreier/hello_world] Create hello-world.py
+- GitHub: [kreier/hello_world] included code with code highlighting
+- GitHub: [kreier/hello_world] Write my first outline.
+- GitHub: [kreier/hello_world] Initial commit</title></rect></a>
 <rect class="day-cell" data-date="2022-08-18" x="426" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-08-19" x="426" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-08-20" x="426" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-08-21" x="438" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-08-22" x="438" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-22: 0 entries</title></rect>
 <a href="https://github.com/kreier/hello_world/commit/ce0d24806e696d6560696414242609e0f49c89ec"><rect class="day-cell" data-date="2022-08-23" x="438" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-08-23: 2 entries
-[kreier/hello_world] Create helloworld.js
-[kreier/hello_world] README.md</title></rect></a>
+- GitHub: [kreier/hello_world] Create helloworld.js
+- GitHub: [kreier/hello_world] README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-08-24" x="438" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-24: 0 entries</title></rect>
 <a href="https://github.com/kreier/csp2022/commit/0c6bbe8cb6d56ffadab616d64575deddfc2fe376"><rect class="day-cell" data-date="2022-08-25" x="438" y="83" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-08-25: 5 entries
-[kreier/csp2022] raw code from Jupyter Notebook
-[kreier/csp2022] code snippet included
-[kreier/csp2022] extended overview
-[kreier/csp2022] Add files via upload
-[kreier/csp2022] Create README.md</title></rect></a>
+- GitHub: [kreier/csp2022] raw code from Jupyter Notebook
+- GitHub: [kreier/csp2022] code snippet included
+- GitHub: [kreier/csp2022] extended overview
+- GitHub: [kreier/csp2022] Add files via upload
+- GitHub: [kreier/csp2022] Create README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-08-26" x="438" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-08-27" x="438" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-08-28" x="450" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-08-29" x="450" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-08-30" x="450" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-08-30: 0 entries</title></rect>
 <a href="https://github.com/kreier/aa/commit/b3a3f5a66db7e4113bf98109ce894d32c5ca19d5"><rect class="day-cell" data-date="2022-08-31" x="450" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-08-31: 2 entries
-[kreier/aa] reference code @emwdx 2022-01-26
+- GitHub: [kreier/aa] reference code @emwdx 2022-01-26
 
 Code provided by Evan Weinberg @emwdx at https://docs.google.com/document/d/1wTmN4Vld7YhsWqiCh0UvgKstFQewss1yAlwlfFfodJM
-[kreier/aa] Create README.md</title></rect></a>
+- GitHub: [kreier/aa] Create README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-09-01" x="450" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-01: 0 entries</title></rect>
 <a href="https://github.com/kreier/ls/blob/main/README.md"><rect class="day-cell" data-date="2022-09-02" x="450" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-09-02: 1 entry
-[kreier/ls] README.md</title></rect></a>
+- GitHub: [kreier/ls] README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-09-03" x="450" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-03: 0 entries</title></rect>
 <text x="462" y="30" font-family="sans-serif" font-size="8" fill="#767676">Sep</text>
 <rect class="day-cell" data-date="2022-09-04" x="462" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-09-05" x="462" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-05: 0 entries</title></rect>
 <a href="https://github.com/kreier/aa/commit/bd7c1fff0ebd6c932939eed37867b6d1aaf00db6"><rect class="day-cell" data-date="2022-09-06" x="462" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-09-06: 3 entries
-[kreier/aa] Create 5-1_modularCodeExampleStart.js
-[kreier/aa] fix order of links
-[kreier/aa] extended to day 6 to 9</title></rect></a>
+- GitHub: [kreier/aa] Create 5-1_modularCodeExampleStart.js
+- GitHub: [kreier/aa] fix order of links
+- GitHub: [kreier/aa] extended to day 6 to 9</title></rect></a>
 <a href="https://github.com/kreier/aa/commit/0fe6f6dc62f79ddb9ae06854224a1cf0f199c8e2"><rect class="day-cell" data-date="2022-09-07" x="462" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-09-07: 4 entries
-[kreier/aa] scaffold for unit 2
-[kreier/aa] link the first 9 days
-[kreier/aa] detail fixed
-[kreier/aa] updated structure</title></rect></a>
+- GitHub: [kreier/aa] scaffold for unit 2
+- GitHub: [kreier/aa] link the first 9 days
+- GitHub: [kreier/aa] detail fixed
+- GitHub: [kreier/aa] updated structure</title></rect></a>
 <rect class="day-cell" data-date="2022-09-08" x="462" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-09-09" x="462" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-09-10" x="462" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-10: 0 entries</title></rect>
@@ -2670,18 +2674,18 @@ Code provided by Evan Weinberg @emwdx at https://docs.google.com/document/d/1wTm
 <rect class="day-cell" data-date="2022-09-17" x="474" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-09-18" x="486" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-18: 0 entries</title></rect>
 <a href="https://github.com/kreier/csp2022/commit/9c74772bdc92a4497efebaa7e4e0b178992f4306"><rect class="day-cell" data-date="2022-09-19" x="486" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-09-19: 1 entry
-[kreier/csp2022] 218 lines of code</title></rect></a>
+- GitHub: [kreier/csp2022] 218 lines of code</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/c72feb28c47def1c36b0ea7af1e37fd59af23281"><rect class="day-cell" data-date="2022-09-20" x="486" y="59" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-09-20: 6 entries
-[kreier/benchmark] Create geekbench2022.xlsx
-[kreier/csp2022] fix mistakes
-[kreier/csp2022] Update README.md
-[kreier/csp2022] updated documentation
-[kreier/csp2022] shortest solution
-[kreier/csp2022] Update README.md</title></rect></a>
+- GitHub: [kreier/benchmark] Create geekbench2022.xlsx
+- GitHub: [kreier/csp2022] fix mistakes
+- GitHub: [kreier/csp2022] Update README.md
+- GitHub: [kreier/csp2022] updated documentation
+- GitHub: [kreier/csp2022] shortest solution
+- GitHub: [kreier/csp2022] Update README.md</title></rect></a>
 <a href="https://github.com/kreier/csp2022/commit/11e2202220b8a7f85acca70ab5519a9da2e05271"><rect class="day-cell" data-date="2022-09-21" x="486" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-09-21: 3 entries
-[kreier/csp2022] two more fast solutions - 5 lines
-[kreier/csp2022] Update README.md
-[kreier/csp2022] README.md</title></rect></a>
+- GitHub: [kreier/csp2022] two more fast solutions - 5 lines
+- GitHub: [kreier/csp2022] Update README.md
+- GitHub: [kreier/csp2022] README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-09-22" x="486" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-09-23" x="486" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-09-24" x="486" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-24: 0 entries</title></rect>
@@ -2691,18 +2695,18 @@ Code provided by Evan Weinberg @emwdx at https://docs.google.com/document/d/1wTm
 <rect class="day-cell" data-date="2022-09-28" x="498" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-09-29" x="498" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-09-29: 0 entries</title></rect>
 <a href="https://github.com/kreier/littleCV/blob/main/README.md"><rect class="day-cell" data-date="2022-09-30" x="498" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-09-30: 1 entry
-[kreier/littleCV] README.md</title></rect></a>
+- GitHub: [kreier/littleCV] README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-10-01" x="498" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-01: 0 entries</title></rect>
 <text x="510" y="30" font-family="sans-serif" font-size="8" fill="#767676">Oct</text>
 <rect class="day-cell" data-date="2022-10-02" x="510" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-10-03" x="510" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-10-04" x="510" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-04: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/733fc96f4cb5c7ee26ec26ee5030f65159daa01c"><rect class="day-cell" data-date="2022-10-05" x="510" y="71" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-10-05: 5 entries
-[kreier/benchmark] Update README.md
-[kreier/benchmark] Update README.md
-[kreier/benchmark] Create README.md
-[kreier/benchmark] Create launch.json
-[kreier/benchmark] included mandelbrot with timer</title></rect></a>
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/benchmark] Create README.md
+- GitHub: [kreier/benchmark] Create launch.json
+- GitHub: [kreier/benchmark] included mandelbrot with timer</title></rect></a>
 <rect class="day-cell" data-date="2022-10-06" x="510" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-10-07" x="510" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-10-08" x="510" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-08: 0 entries</title></rect>
@@ -2716,55 +2720,55 @@ Code provided by Evan Weinberg @emwdx at https://docs.google.com/document/d/1wTm
 <rect class="day-cell" data-date="2022-10-16" x="534" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-10-17" x="534" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-17: 0 entries</title></rect>
 <a href="https://github.com/kreier/Burger1/commit/898438157c98a825c0741e01996cd6e5cb911d6e"><rect class="day-cell" data-date="2022-10-18" x="534" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-18: 3 entries
-[kreier/Burger1] initial release
-[kreier/Burger1] Initial Commit
-[kreier/sandwich] README.md</title></rect></a>
+- GitHub: [kreier/Burger1] initial release
+- GitHub: [kreier/Burger1] Initial Commit
+- GitHub: [kreier/sandwich] README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-10-19" x="534" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-19: 0 entries</title></rect>
 <a href="https://github.com/kreier/clue/commit/2e66c5995473588092799e93efdd828f3d9d1aa1"><rect class="day-cell" data-date="2022-10-20" x="534" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-20: 4 entries
-[kreier/clue] plotter for input temp pressure uvm
-[kreier/clue] 1.8 seconds
-[kreier/clue] sketches of the first day
-[kreier/clue] Initial commit</title></rect></a>
+- GitHub: [kreier/clue] plotter for input temp pressure uvm
+- GitHub: [kreier/clue] 1.8 seconds
+- GitHub: [kreier/clue] sketches of the first day
+- GitHub: [kreier/clue] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/aa/commit/1e5f91186ec64e69761e19d56dd0162a038c0b18"><rect class="day-cell" data-date="2022-10-21" x="534" y="95" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-10-21: 8 entries
-[kreier/aa] Feather M0 artifacts
-[kreier/aa] restructured
-[kreier/aa] include Synology Diskstation
-[kreier/clue] essentials for first sketch
-[kreier/clue] Delete .DS_Store
-[kreier/clue] include lib for easier deployment on new devices
-[kreier/clue] Delete .DS_Store
-[kreier/clue] include Synology Diskstation</title></rect></a>
+- GitHub: [kreier/aa] Feather M0 artifacts
+- GitHub: [kreier/aa] restructured
+- GitHub: [kreier/aa] include Synology Diskstation
+- GitHub: [kreier/clue] essentials for first sketch
+- GitHub: [kreier/clue] Delete .DS_Store
+- GitHub: [kreier/clue] include lib for easier deployment on new devices
+- GitHub: [kreier/clue] Delete .DS_Store
+- GitHub: [kreier/clue] include Synology Diskstation</title></rect></a>
 <rect class="day-cell" data-date="2022-10-22" x="534" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-10-23" x="546" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-23: 0 entries</title></rect>
 <a href="https://github.com/kreier/aa/commit/62e2c93fff7329d62456610dc7f5e2bef8ff7cd5"><rect class="day-cell" data-date="2022-10-24" x="546" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-24: 2 entries
-[kreier/aa] Merge pull request #1 from matthiaskreier/patch-1
+- GitHub: [kreier/aa] Merge pull request #1 from matthiaskreier/patch-1
 
 Create 9-1_drinkmachineInputButton.js
-[kreier/temp] README.md</title></rect></a>
+- GitHub: [kreier/temp] README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-10-25" x="546" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-10-26" x="546" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-10-27" x="546" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-27: 0 entries</title></rect>
 <a href="https://github.com/kreier/clue/commit/ef768328e04326b39fc5fef1aab5e2cd06d4f3a2"><rect class="day-cell" data-date="2022-10-28" x="546" y="95" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2022-10-28: 10 entries
-[kreier/clue] first colorful render
-[kreier/clue] clue sensor plotter added
-[kreier/clue] calculate height using barometric pressure
-[kreier/clue] display humidity and temperature
-[kreier/clue] Merge branch 'main' of https://github.com/kreier/clue
-[kreier/clue] include spirit level
-[kreier/clue] included picture of i2c scanner
-[kreier/clue] Add files via upload
-[kreier/clue] Create README.md
-[kreier/clue] first graphical output</title></rect></a>
+- GitHub: [kreier/clue] first colorful render
+- GitHub: [kreier/clue] clue sensor plotter added
+- GitHub: [kreier/clue] calculate height using barometric pressure
+- GitHub: [kreier/clue] display humidity and temperature
+- GitHub: [kreier/clue] Merge branch 'main' of https://github.com/kreier/clue
+- GitHub: [kreier/clue] include spirit level
+- GitHub: [kreier/clue] included picture of i2c scanner
+- GitHub: [kreier/clue] Add files via upload
+- GitHub: [kreier/clue] Create README.md
+- GitHub: [kreier/clue] first graphical output</title></rect></a>
 <rect class="day-cell" data-date="2022-10-29" x="546" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-10-30" x="558" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-10-30: 0 entries</title></rect>
 <a href="https://github.com/kreier/circuit-playground-express/commit/1c4360d1d8ced0ed2bc120faf05e228a433965f8"><rect class="day-cell" data-date="2022-10-31" x="558" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-10-31: 4 entries
-[kreier/circuit-playground-express] initial commit
-[kreier/circuit-playground-express] Update .gitignore
-[kreier/circuit-playground-express] Initial commit
-[kreier/clue] with external stemma i2c modules</title></rect></a>
+- GitHub: [kreier/circuit-playground-express] initial commit
+- GitHub: [kreier/circuit-playground-express] Update .gitignore
+- GitHub: [kreier/circuit-playground-express] Initial commit
+- GitHub: [kreier/clue] with external stemma i2c modules</title></rect></a>
 <rect class="day-cell" data-date="2022-11-01" x="558" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-01: 0 entries</title></rect>
 <a href="https://github.com/kreier/clue/commit/f24aeab2c9cf194cf3e34e702fc7a02ca32e65b6"><rect class="day-cell" data-date="2022-11-02" x="558" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-11-02: 1 entry
-[kreier/clue] fix</title></rect></a>
+- GitHub: [kreier/clue] fix</title></rect></a>
 <rect class="day-cell" data-date="2022-11-03" x="558" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-11-04" x="558" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-11-05" x="558" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-05: 0 entries</title></rect>
@@ -2775,73 +2779,73 @@ Create 9-1_drinkmachineInputButton.js
 <rect class="day-cell" data-date="2022-11-09" x="570" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-11-10" x="570" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-10: 0 entries</title></rect>
 <a href="https://github.com/kreier/badge/commit/a76f0b18f8c7927d23b83fae97885debf3f03e2a"><rect class="day-cell" data-date="2022-11-11" x="570" y="95" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-11-11: 6 entries
-[kreier/badge] finished
-[kreier/badge] Add files via upload
-[kreier/badge] Create LICENCE
-[kreier/badge] Create .gitignore
-[kreier/badge] Create README.md
-[kreier/badge] README.md</title></rect></a>
+- GitHub: [kreier/badge] finished
+- GitHub: [kreier/badge] Add files via upload
+- GitHub: [kreier/badge] Create LICENCE
+- GitHub: [kreier/badge] Create .gitignore
+- GitHub: [kreier/badge] Create README.md
+- GitHub: [kreier/badge] README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-11-12" x="570" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-11-13" x="582" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-13: 0 entries</title></rect>
 <a href="https://github.com/kreier/mandelbrot-ios/blob/main/README.md"><rect class="day-cell" data-date="2022-11-14" x="582" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-11-14: 1 entry
-[kreier/mandelbrot-ios] README.md</title></rect></a>
+- GitHub: [kreier/mandelbrot-ios] README.md</title></rect></a>
 <a href="https://github.com/kreier/circuit-playground-express/commit/f919cfee6654b8a7573a471a5d6013adc4d34348"><rect class="day-cell" data-date="2022-11-15" x="582" y="59" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2022-11-15: 18 entries
-[kreier/circuit-playground-express] Merge branch 'main' of https://github.com/kreier/circuit-playground-express
-[kreier/circuit-playground-express] saved from CircuitPlaygroundExpress repository
-[kreier/circuit-playground-express] speed comparison
-[kreier/circuit-playground-express] output prime numbers
-[kreier/circuit-playground-express] fixed image link
-[kreier/circuit-playground-express] Add files via upload
-[kreier/circuit-playground-express] Create README.md
-[kreier/circuit-playground-express] starfield
-[kreier/circuit-playground-express] required for Gizmo TFT
-[kreier/circuit-playground-express] don't ignore lib
-[kreier/circuit-playground-express] Merge branch 'main' of https://github.com/kreier/circuit-playground-express
-[kreier/circuit-playground-express] updated with Gizmo TFT
-[kreier/circuit-playground-express] Update README.md
-[kreier/circular_art_2022] Create circular_patterns.js
-[kreier/circular_art_2022] Initial commit
-[kreier/circular_art_2022] README.md
-[kreier/clue] Update README.md
-[kreier/clue] Update README.md</title></rect></a>
+- GitHub: [kreier/circuit-playground-express] Merge branch 'main' of https://github.com/kreier/circuit-playground-express
+- GitHub: [kreier/circuit-playground-express] saved from CircuitPlaygroundExpress repository
+- GitHub: [kreier/circuit-playground-express] speed comparison
+- GitHub: [kreier/circuit-playground-express] output prime numbers
+- GitHub: [kreier/circuit-playground-express] fixed image link
+- GitHub: [kreier/circuit-playground-express] Add files via upload
+- GitHub: [kreier/circuit-playground-express] Create README.md
+- GitHub: [kreier/circuit-playground-express] starfield
+- GitHub: [kreier/circuit-playground-express] required for Gizmo TFT
+- GitHub: [kreier/circuit-playground-express] don't ignore lib
+- GitHub: [kreier/circuit-playground-express] Merge branch 'main' of https://github.com/kreier/circuit-playground-express
+- GitHub: [kreier/circuit-playground-express] updated with Gizmo TFT
+- GitHub: [kreier/circuit-playground-express] Update README.md
+- GitHub: [kreier/circular_art_2022] Create circular_patterns.js
+- GitHub: [kreier/circular_art_2022] Initial commit
+- GitHub: [kreier/circular_art_2022] README.md
+- GitHub: [kreier/clue] Update README.md
+- GitHub: [kreier/clue] Update README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-11-16" x="582" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-16: 0 entries</title></rect>
 <a href="https://github.com/kreier/clue/commit/bab9f4abb06f0dd6f64bc422ebe4a270115de715"><rect class="day-cell" data-date="2022-11-17" x="582" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-11-17: 2 entries
-[kreier/clue] documentation kittenbot
-[kreier/clue] included kittenbot update</title></rect></a>
+- GitHub: [kreier/clue] documentation kittenbot
+- GitHub: [kreier/clue] included kittenbot update</title></rect></a>
 <a href="https://github.com/kreier/SwiftUI_Landmarks/blob/main/README.md"><rect class="day-cell" data-date="2022-11-18" x="582" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-11-18: 1 entry
-[kreier/SwiftUI_Landmarks] README.md</title></rect></a>
+- GitHub: [kreier/SwiftUI_Landmarks] README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-11-19" x="582" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-11-20" x="594" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-11-21" x="594" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-21: 0 entries</title></rect>
 <a href="https://github.com/kreier/circuit-playground-express/commit/0181447f243081a57701acc54379632fc0cd89be"><rect class="day-cell" data-date="2022-11-22" x="594" y="59" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-11-22: 7 entries
-[kreier/circuit-playground-express] Create free_memory.py
-[kreier/circuit-playground-express] circulating red dot
-[kreier/circuit-playground-express] fixed pull-up
-[kreier/circuit-playground-express] Create rotating_red_dot.py
-[kreier/circuit-playground-express] with TFT Gizmo attached
-[kreier/clue] Merge branch 'main' of https://github.com/kreier/clue
-[kreier/clue] examples for kittenbot</title></rect></a>
+- GitHub: [kreier/circuit-playground-express] Create free_memory.py
+- GitHub: [kreier/circuit-playground-express] circulating red dot
+- GitHub: [kreier/circuit-playground-express] fixed pull-up
+- GitHub: [kreier/circuit-playground-express] Create rotating_red_dot.py
+- GitHub: [kreier/circuit-playground-express] with TFT Gizmo attached
+- GitHub: [kreier/clue] Merge branch 'main' of https://github.com/kreier/clue
+- GitHub: [kreier/clue] examples for kittenbot</title></rect></a>
 <a href="https://github.com/kreier/circle_k/commit/2622d91eeeed4c819e94f4d0617ab9f48a9ec3da"><rect class="day-cell" data-date="2022-11-23" x="594" y="71" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-11-23: 7 entries
-[kreier/circle_k] Update README.md
-[kreier/circle_k] Create README.md
-[kreier/circle_k] Update README.md
-[kreier/circle_k] Add files via upload
-[kreier/circle_k] Create sketch.js
-[kreier/circle_k] Create .gitignore
-[kreier/circle_k] Initial commit</title></rect></a>
+- GitHub: [kreier/circle_k] Update README.md
+- GitHub: [kreier/circle_k] Create README.md
+- GitHub: [kreier/circle_k] Update README.md
+- GitHub: [kreier/circle_k] Add files via upload
+- GitHub: [kreier/circle_k] Create sketch.js
+- GitHub: [kreier/circle_k] Create .gitignore
+- GitHub: [kreier/circle_k] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/clue/commit/1062f687a21e3dd610b105a3857131ddd4722988"><rect class="day-cell" data-date="2022-11-24" x="594" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-11-24: 3 entries
-[kreier/clue] Update README.md
-[kreier/clue] red knight rider light
-[kreier/clue] README.md</title></rect></a>
+- GitHub: [kreier/clue] Update README.md
+- GitHub: [kreier/clue] red knight rider light
+- GitHub: [kreier/clue] README.md</title></rect></a>
 <a href="https://github.com/kreier/circle_k/commit/b01056409abbdd315035fce882dfb4594ffe4050"><rect class="day-cell" data-date="2022-11-25" x="594" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-11-25: 2 entries
-[kreier/circle_k] updated wider image
-[kreier/circle_k] Add files via upload</title></rect></a>
+- GitHub: [kreier/circle_k] updated wider image
+- GitHub: [kreier/circle_k] Add files via upload</title></rect></a>
 <rect class="day-cell" data-date="2022-11-26" x="594" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-11-27" x="606" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-11-28" x="606" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-28: 0 entries</title></rect>
 <a href="https://github.com/kreier/Food-PMH/commit/c30d8b1cab9591b3ae062f0659aef657c5855026"><rect class="day-cell" data-date="2022-11-29" x="606" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-11-29: 2 entries
-[kreier/Food-PMH] Create .gitignore
-[kreier/Food-PMH] Create README.md</title></rect></a>
+- GitHub: [kreier/Food-PMH] Create .gitignore
+- GitHub: [kreier/Food-PMH] Create README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-11-30" x="606" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-11-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-12-01" x="606" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-01: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-12-02" x="606" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-02: 0 entries</title></rect>
@@ -2857,17 +2861,17 @@ Create 9-1_drinkmachineInputButton.js
 <rect class="day-cell" data-date="2022-12-11" x="630" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-12-12" x="630" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-12: 0 entries</title></rect>
 <a href="https://github.com/kreier/bluefruit/commit/f2b6e042df8bd640f1b64845e2d47d406b513b0b"><rect class="day-cell" data-date="2022-12-13" x="630" y="59" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2022-12-13: 11 entries
-[kreier/bluefruit] include prime numbers
-[kreier/bluefruit] measure time to paint
-[kreier/bluefruit] Merge branch 'main' of https://github.com/kreier/bluefruit
-[kreier/bluefruit] documentation of first programs
-[kreier/bluefruit] example program
-[kreier/bluefruit] libraries 2022-12-13
-[kreier/bluefruit] apps 2022-12-13
-[kreier/bluefruit] simple start
-[kreier/bluefruit] excluded .DS_Store and included /lib
-[kreier/bluefruit] Initial commit
-[kreier/bluefruit] README.md</title></rect></a>
+- GitHub: [kreier/bluefruit] include prime numbers
+- GitHub: [kreier/bluefruit] measure time to paint
+- GitHub: [kreier/bluefruit] Merge branch 'main' of https://github.com/kreier/bluefruit
+- GitHub: [kreier/bluefruit] documentation of first programs
+- GitHub: [kreier/bluefruit] example program
+- GitHub: [kreier/bluefruit] libraries 2022-12-13
+- GitHub: [kreier/bluefruit] apps 2022-12-13
+- GitHub: [kreier/bluefruit] simple start
+- GitHub: [kreier/bluefruit] excluded .DS_Store and included /lib
+- GitHub: [kreier/bluefruit] Initial commit
+- GitHub: [kreier/bluefruit] README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-12-14" x="630" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-12-15" x="630" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-12-16" x="630" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-16: 0 entries</title></rect>
@@ -2877,55 +2881,55 @@ Create 9-1_drinkmachineInputButton.js
 <rect class="day-cell" data-date="2022-12-20" x="642" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-12-21" x="642" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-21: 0 entries</title></rect>
 <a href="https://github.com/kreier/rvr/blob/main/README.md"><rect class="day-cell" data-date="2022-12-22" x="642" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-12-22: 1 entry
-[kreier/rvr] README.md</title></rect></a>
+- GitHub: [kreier/rvr] README.md</title></rect></a>
 <a href="https://github.com/kreier/gocart23/commit/c83a8023277a8fb2248445cd3021618a2743a521"><rect class="day-cell" data-date="2022-12-23" x="642" y="95" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2022-12-23: 7 entries
-[kreier/gocart23] Update README.md
-[kreier/gocart23] Add files via upload
-[kreier/gocart23] Create README.md
-[kreier/gocart23] Update README.md
-[kreier/gocart23] lib for circuitpython
-[kreier/gocart23] collect some information about material
-[kreier/gocart23] Initial commit</title></rect></a>
+- GitHub: [kreier/gocart23] Update README.md
+- GitHub: [kreier/gocart23] Add files via upload
+- GitHub: [kreier/gocart23] Create README.md
+- GitHub: [kreier/gocart23] Update README.md
+- GitHub: [kreier/gocart23] lib for circuitpython
+- GitHub: [kreier/gocart23] collect some information about material
+- GitHub: [kreier/gocart23] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/arduino/commit/131c561080cff1966aa2f5782c3ba066606fbc00"><rect class="day-cell" data-date="2022-12-24" x="642" y="107" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2022-12-24: 10 entries
-[kreier/arduino] Update .gitignore
-[kreier/arduino] Initial commit
-[kreier/benchmark] from October 2020
-[kreier/gocart23] included pictures for documentation
-[kreier/gocart23] documentation from TAS tech cube
-[kreier/gocart23] Create README.md
-[kreier/gocart23] Create README.md
-[kreier/gocart23] first rough calculation
-[kreier/gocart23] document visit to TAS
-[kreier/gocart23] photo from TAS Tech Cube Taipei</title></rect></a>
+- GitHub: [kreier/arduino] Update .gitignore
+- GitHub: [kreier/arduino] Initial commit
+- GitHub: [kreier/benchmark] from October 2020
+- GitHub: [kreier/gocart23] included pictures for documentation
+- GitHub: [kreier/gocart23] documentation from TAS tech cube
+- GitHub: [kreier/gocart23] Create README.md
+- GitHub: [kreier/gocart23] Create README.md
+- GitHub: [kreier/gocart23] first rough calculation
+- GitHub: [kreier/gocart23] document visit to TAS
+- GitHub: [kreier/gocart23] photo from TAS Tech Cube Taipei</title></rect></a>
 <a href="https://github.com/kreier/heatpipe/commit/26905f89a4d7111765338e2086924910898f3b9b"><rect class="day-cell" data-date="2022-12-25" x="654" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-12-25: 3 entries
-[kreier/heatpipe] Add files via upload
-[kreier/heatpipe] Add files via upload
-[kreier/heatpipe] README.md</title></rect></a>
+- GitHub: [kreier/heatpipe] Add files via upload
+- GitHub: [kreier/heatpipe] Add files via upload
+- GitHub: [kreier/heatpipe] README.md</title></rect></a>
 <a href="https://github.com/kreier/gocart23/commit/bc95fd19c17feb01f99d67ae5d385e613c6988bc"><rect class="day-cell" data-date="2022-12-26" x="654" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-12-26: 3 entries
-[kreier/gocart23] found more CIM motors, 2 in the robot and 6 available for projects
-[kreier/gocart23] timing belts and motor update
-[kreier/gocart23] README.md</title></rect></a>
+- GitHub: [kreier/gocart23] found more CIM motors, 2 in the robot and 6 available for projects
+- GitHub: [kreier/gocart23] timing belts and motor update
+- GitHub: [kreier/gocart23] README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-12-27" x="654" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-12-28" x="654" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-28: 0 entries</title></rect>
 <a href="https://github.com/kreier/frc/commit/8ed99ef18a320c9bbc791dce93a7ae6cb601b835"><rect class="day-cell" data-date="2022-12-29" x="654" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2022-12-29: 2 entries
-[kreier/frc] outlook 2023
-[kreier/frc] README.md</title></rect></a>
+- GitHub: [kreier/frc] outlook 2023
+- GitHub: [kreier/frc] README.md</title></rect></a>
 <rect class="day-cell" data-date="2022-12-30" x="654" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2022-12-31" x="654" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2022-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2021</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 17, Github: 16 (33), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2021</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 17, Github: 16 (33), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2021"><rect class="day-cell" data-date="2021-01-01" x="30" y="95" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2021-01-01: 1 entry
-2021</title></rect></a>
+- Quartz: 2021</title></rect></a>
 <rect class="day-cell" data-date="2021-01-02" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-02: 0 entries</title></rect>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="2021-01-03" x="42" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-03: 0 entries</title></rect>
 <a href="https://github.com/kreier/me2arm/blob/main/README.md"><rect class="day-cell" data-date="2021-01-04" x="42" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-01-04: 1 entry
-[kreier/me2arm] README.md</title></rect></a>
+- GitHub: [kreier/me2arm] README.md</title></rect></a>
 <rect class="day-cell" data-date="2021-01-05" x="42" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-05: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-01-06" x="42" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-01-07" x="42" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-01-07: 0 entries</title></rect>
@@ -3029,21 +3033,21 @@ Create 9-1_drinkmachineInputButton.js
 <rect class="day-cell" data-date="2021-04-12" x="210" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-04-13" x="210" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-13: 0 entries</title></rect>
 <a href="https://github.com/kreier/aqi/commit/ab232dc5d18e2268e31fdc4a1b65283ac7bafe7a"><rect class="day-cell" data-date="2021-04-14" x="210" y="71" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2021-04-14: 5 entries
-[kreier/aqi] Merge pull request #2 from kreier/kreier-patch-1
+- GitHub: [kreier/aqi] Merge pull request #2 from kreier/kreier-patch-1
 
 included temperature and humidity data
-[kreier/aqi] updated 7 sensor links madavi.de
-[kreier/aqi] Add files via upload
-[kreier/aqi] indoor sensor Phu My Hung updated
-[kreier/aqi] included temperature and humidity data</title></rect></a>
+- GitHub: [kreier/aqi] updated 7 sensor links madavi.de
+- GitHub: [kreier/aqi] Add files via upload
+- GitHub: [kreier/aqi] indoor sensor Phu My Hung updated
+- GitHub: [kreier/aqi] included temperature and humidity data</title></rect></a>
 <a href="https://github.com/kreier/aqi/commit/bcd08a66b4a150a0d561fd57bb50a1d09c506f83"><rect class="day-cell" data-date="2021-04-15" x="210" y="83" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-04-15: 2 entries
-[kreier/aqi] two more pictures fixed
-[kreier/aqi] Update index.md</title></rect></a>
+- GitHub: [kreier/aqi] two more pictures fixed
+- GitHub: [kreier/aqi] Update index.md</title></rect></a>
 <a href="https://github.com/kreier/aqi/commit/bbc0ec88f1c29f43d2875090c97e5e2a23885903"><rect class="day-cell" data-date="2021-04-16" x="210" y="95" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-04-16: 2 entries
-[kreier/aqi] Merge pull request #3 from kreier/kreier-patch-2
+- GitHub: [kreier/aqi] Merge pull request #3 from kreier/kreier-patch-2
 
 extended sensors, fixed pictures
-[kreier/aqi] README.md</title></rect></a>
+- GitHub: [kreier/aqi] README.md</title></rect></a>
 <rect class="day-cell" data-date="2021-04-17" x="210" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-04-18" x="222" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-04-19" x="222" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-04-19: 0 entries</title></rect>
@@ -3098,13 +3102,13 @@ extended sensors, fixed pictures
 <text x="306" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jun</text>
 <rect class="day-cell" data-date="2021-06-06" x="306" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-06: 0 entries</title></rect>
 <a href="https://github.com/kreier/history/commit/2dabd8202832188bb98c6b7aef747b6bba5d953e"><rect class="day-cell" data-date="2021-06-07" x="306" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-06-07: 1 entry
-[kreier/history] Create electricity2021.png</title></rect></a>
+- GitHub: [kreier/history] Create electricity2021.png</title></rect></a>
 <rect class="day-cell" data-date="2021-06-08" x="306" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-06-09" x="306" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-06-10" x="306" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-10: 0 entries</title></rect>
 <a href="https://github.com/kreier/history/commit/be2d526acd8b580c03cfd0dfbc0d5cdbee70ba73"><rect class="day-cell" data-date="2021-06-11" x="306" y="95" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-06-11: 2 entries
-[kreier/history] added Swift
-[kreier/history] added energy consumption history</title></rect></a>
+- GitHub: [kreier/history] added Swift
+- GitHub: [kreier/history] added energy consumption history</title></rect></a>
 <rect class="day-cell" data-date="2021-06-12" x="306" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-06-13" x="318" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-06-14" x="318" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-06-14: 0 entries</title></rect>
@@ -3235,12 +3239,12 @@ extended sensors, fixed pictures
 <rect class="day-cell" data-date="2021-10-13" x="522" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-10-14" x="522" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-14: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/e20e5c33207a4315476ad60041c4ebb5bacef9fc"><rect class="day-cell" data-date="2021-10-15" x="522" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-10-15: 1 entry
-[kreier/benchmark] GFLOPS updated</title></rect></a>
+- GitHub: [kreier/benchmark] GFLOPS updated</title></rect></a>
 <rect class="day-cell" data-date="2021-10-16" x="522" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-10-17" x="534" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-10-18" x="534" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-18: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/30a8d29d6f0ec8da35559a9bf4ecdb13cb4af2ad"><rect class="day-cell" data-date="2021-10-19" x="534" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-10-19: 1 entry
-[kreier/benchmark] included M1 Pro and M1 Max</title></rect></a>
+- GitHub: [kreier/benchmark] included M1 Pro and M1 Max</title></rect></a>
 <rect class="day-cell" data-date="2021-10-20" x="534" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-10-21" x="534" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-10-22" x="534" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-10-22: 0 entries</title></rect>
@@ -3284,7 +3288,7 @@ extended sensors, fixed pictures
 <rect class="day-cell" data-date="2021-11-28" x="606" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-11-29" x="606" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-11-29: 0 entries</title></rect>
 <a href="https://github.com/kreier/ar65view/commit/0edbea6976126fea85474c4ae37bec2efa2f86ca"><rect class="day-cell" data-date="2021-11-30" x="606" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-11-30: 1 entry
-[kreier/ar65view] first transcoding attempt</title></rect></a>
+- GitHub: [kreier/ar65view] first transcoding attempt</title></rect></a>
 <rect class="day-cell" data-date="2021-12-01" x="606" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-01: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-12-02" x="606" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-12-03" x="606" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-03: 0 entries</title></rect>
@@ -3295,41 +3299,41 @@ extended sensors, fixed pictures
 <rect class="day-cell" data-date="2021-12-07" x="618" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-12-08" x="618" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-08: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP32/commit/17e31342a4d4218fa0d47b653b53d96dae467bc1"><rect class="day-cell" data-date="2021-12-09" x="618" y="83" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2021-12-09: 4 entries
-[kreier/ESP32] included 2 pictures
-[kreier/ESP32] Add files via upload
-[kreier/ESP32] included T-Display
-[kreier/history] linked my first C++ program from 21 years ago</title></rect></a>
+- GitHub: [kreier/ESP32] included 2 pictures
+- GitHub: [kreier/ESP32] Add files via upload
+- GitHub: [kreier/ESP32] included T-Display
+- GitHub: [kreier/history] linked my first C++ program from 21 years ago</title></rect></a>
 <a href="https://github.com/kreier/ESP32/commit/a32c98fd96a4cb5de9cf598bcc9a172d87e7385d"><rect class="day-cell" data-date="2021-12-10" x="618" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-12-10: 1 entry
-[kreier/ESP32] updated power consumption</title></rect></a>
+- GitHub: [kreier/ESP32] updated power consumption</title></rect></a>
 <rect class="day-cell" data-date="2021-12-11" x="618" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-12-12" x="630" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-12: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP32/commit/2632c6ab6fdcc74742ee95e0e0a94a9049b743af"><rect class="day-cell" data-date="2021-12-13" x="630" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-12-13: 1 entry
-[kreier/ESP32] completed power table</title></rect></a>
+- GitHub: [kreier/ESP32] completed power table</title></rect></a>
 <rect class="day-cell" data-date="2021-12-14" x="630" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-12-15" x="630" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-15: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP32/commit/0a48b949c9476c9b70fb863f82c2919b9aadc059"><rect class="day-cell" data-date="2021-12-16" x="630" y="83" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2021-12-16: 2 entries
-[kreier/ESP32] Merge pull request #2 from kreier/aisvn-data-patch-1
+- GitHub: [kreier/ESP32] Merge pull request #2 from kreier/aisvn-data-patch-1
 
 fix link to image - done
-[kreier/labs] README.md</title></rect></a>
+- GitHub: [kreier/labs] README.md</title></rect></a>
 <rect class="day-cell" data-date="2021-12-17" x="630" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-12-18" x="630" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-12-19" x="642" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-19: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/b4b1b18ca0271a84584047c3c5b9bbd48ba6d721"><rect class="day-cell" data-date="2021-12-20" x="642" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2021-12-20: 1 entry
-[kreier/benchmark] Set theme jekyll-theme-cayman</title></rect></a>
+- GitHub: [kreier/benchmark] Set theme jekyll-theme-cayman</title></rect></a>
 <a href="https://github.com/kreier/aisvn/commit/c6dda816c70b21a7a800b3af01f4a806ab551f69"><rect class="day-cell" data-date="2021-12-21" x="642" y="59" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2021-12-21: 5 entries
-[kreier/aisvn] Merge pull request #1 from kreier/kreier-patch-1
+- GitHub: [kreier/aisvn] Merge pull request #1 from kreier/kreier-patch-1
 
 removed non-working link
-[kreier/aisvn] distinguish index.md from readme.md
-[kreier/aisvn] removed non-working link
-[kreier/dat.bike] updates December 2021
-[kreier/dat.bike] README.md</title></rect></a>
+- GitHub: [kreier/aisvn] distinguish index.md from readme.md
+- GitHub: [kreier/aisvn] removed non-working link
+- GitHub: [kreier/dat.bike] updates December 2021
+- GitHub: [kreier/dat.bike] README.md</title></rect></a>
 <rect class="day-cell" data-date="2021-12-22" x="642" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-22: 0 entries</title></rect>
 <a href="https://github.com/kreier/history/commit/8e875e8c2c71295efc95cc4e7341561b1002493d"><rect class="day-cell" data-date="2021-12-23" x="642" y="83" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2021-12-23: 3 entries
-[kreier/history] included referenced data
-[kreier/history] included degrading batteries
-[kreier/swift2021] README.md</title></rect></a>
+- GitHub: [kreier/history] included referenced data
+- GitHub: [kreier/history] included degrading batteries
+- GitHub: [kreier/swift2021] README.md</title></rect></a>
 <rect class="day-cell" data-date="2021-12-24" x="642" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-12-25" x="642" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-12-26" x="654" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-26: 0 entries</title></rect>
@@ -3339,32 +3343,32 @@ removed non-working link
 <rect class="day-cell" data-date="2021-12-30" x="654" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2021-12-31" x="654" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2021-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2020</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 86, Github: 84 (321), Quartz: 2 (3), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2020</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 86, Github: 84 (321), Quartz: 2 (3), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2020"><rect class="day-cell" data-date="2020-01-01" x="30" y="71" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2020-01-01: 1 entry
-2020</title></rect></a>
+- Quartz: 2020</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/1d287ef836b7a8e681394564accbf36533381be8"><rect class="day-cell" data-date="2020-01-02" x="30" y="83" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-01-02: 6 entries
-[kreier/benchmark] Merge branch 'master' of https://github.com/kreier/benchmark
-[kreier/benchmark] source code 2.2.3
-[kreier/benchmark] results updated
-[kreier/benchmark] Create README.md
-[kreier/benchmark] Update README.md
-[kreier/benchmark] Initial commit</title></rect></a>
+- GitHub: [kreier/benchmark] Merge branch 'master' of https://github.com/kreier/benchmark
+- GitHub: [kreier/benchmark] source code 2.2.3
+- GitHub: [kreier/benchmark] results updated
+- GitHub: [kreier/benchmark] Create README.md
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/benchmark] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/asa2/commit/ae059c89d3af792168254e136fa3c1820083c1b5"><rect class="day-cell" data-date="2020-01-03" x="30" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-01-03: 2 entries
-[kreier/asa2] link to software for editors
-[kreier/asa2] Update README.md</title></rect></a>
+- GitHub: [kreier/asa2] link to software for editors
+- GitHub: [kreier/asa2] Update README.md</title></rect></a>
 <rect class="day-cell" data-date="2020-01-04" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-04: 0 entries</title></rect>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="2020-01-05" x="42" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-05: 0 entries</title></rect>
 <a href="https://github.com/kreier/asa2/commit/9745821d07984c60016f1d729926a89835c9c616"><rect class="day-cell" data-date="2020-01-06" x="42" y="47" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-01-06: 4 entries
-[kreier/asa2] Update ultrasonic_beep.ino
-[kreier/asa2] Create ultrasonic_beep.ino
-[kreier/asa2] Create ultrasonic_buzzer.ino
-[kreier/asa2] Create ultrasonic_1602_buzzer.ino</title></rect></a>
+- GitHub: [kreier/asa2] Update ultrasonic_beep.ino
+- GitHub: [kreier/asa2] Create ultrasonic_beep.ino
+- GitHub: [kreier/asa2] Create ultrasonic_buzzer.ino
+- GitHub: [kreier/asa2] Create ultrasonic_1602_buzzer.ino</title></rect></a>
 <rect class="day-cell" data-date="2020-01-07" x="42" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-01-08" x="42" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-01-09" x="42" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-09: 0 entries</title></rect>
@@ -3372,7 +3376,7 @@ removed non-working link
 <rect class="day-cell" data-date="2020-01-11" x="42" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-01-12" x="54" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-12: 0 entries</title></rect>
 <a href="https://github.com/kreier/asa2/commit/583e52d67992edb23f6b1f39ad3fd5a5c52a134d"><rect class="day-cell" data-date="2020-01-13" x="54" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-01-13: 1 entry
-[kreier/asa2] T300 for Yau and Sean</title></rect></a>
+- GitHub: [kreier/asa2] T300 for Yau and Sean</title></rect></a>
 <rect class="day-cell" data-date="2020-01-14" x="54" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-01-15" x="54" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-01-16" x="54" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-16: 0 entries</title></rect>
@@ -3381,57 +3385,57 @@ removed non-working link
 <rect class="day-cell" data-date="2020-01-19" x="66" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-01-20" x="66" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-20: 0 entries</title></rect>
 <a href="https://github.com/kreier/aisvn/commit/43ee099a35fbab4e3ea12a7e5c5b015fd2713f68"><rect class="day-cell" data-date="2020-01-21" x="66" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-01-21: 3 entries
-[kreier/aisvn] Update README.md
-[kreier/aisvn] cardboard values
-[kreier/aisvn] Create README.md</title></rect></a>
+- GitHub: [kreier/aisvn] Update README.md
+- GitHub: [kreier/aisvn] cardboard values
+- GitHub: [kreier/aisvn] Create README.md</title></rect></a>
 <rect class="day-cell" data-date="2020-01-22" x="66" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-22: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/12283b1202d3231b4e0270d44bede51265e18844"><rect class="day-cell" data-date="2020-01-23" x="66" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-01-23: 1 entry
-[kreier/benchmark] Create README.md</title></rect></a>
+- GitHub: [kreier/benchmark] Create README.md</title></rect></a>
 <a href="https://github.com/kreier/asa3/commit/9efcda6a6cf94b5dd14e0c10ef4610c412befd90"><rect class="day-cell" data-date="2020-01-24" x="66" y="95" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2020-01-24: 13 entries
-[kreier/asa3] Update .gitignore
-[kreier/asa3] Add files via upload
-[kreier/asa3] Update README.md
-[kreier/asa3] Create README.md
-[kreier/asa3] Update README.md
-[kreier/asa3] Update README.md
-[kreier/asa3] Add files via upload
-[kreier/asa3] Update README.md
-[kreier/asa3] added screws and nuts
-[kreier/asa3] Update README.md
-[kreier/asa3] Add files via upload
-[kreier/asa3] Create README.md
-[kreier/asa3] Initial commit</title></rect></a>
+- GitHub: [kreier/asa3] Update .gitignore
+- GitHub: [kreier/asa3] Add files via upload
+- GitHub: [kreier/asa3] Update README.md
+- GitHub: [kreier/asa3] Create README.md
+- GitHub: [kreier/asa3] Update README.md
+- GitHub: [kreier/asa3] Update README.md
+- GitHub: [kreier/asa3] Add files via upload
+- GitHub: [kreier/asa3] Update README.md
+- GitHub: [kreier/asa3] added screws and nuts
+- GitHub: [kreier/asa3] Update README.md
+- GitHub: [kreier/asa3] Add files via upload
+- GitHub: [kreier/asa3] Create README.md
+- GitHub: [kreier/asa3] Initial commit</title></rect></a>
 <rect class="day-cell" data-date="2020-01-25" x="66" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-01-26" x="78" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-26: 0 entries</title></rect>
 <a href="https://github.com/kreier/history/commit/664be094a4634023d64999a348d97a6f33f6dcdc"><rect class="day-cell" data-date="2020-01-27" x="78" y="47" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-01-27: 5 entries
-[kreier/history] java pictures included
-[kreier/history] Update README.md
-[kreier/history] backup from saiht.de/physik/physik.html
-[kreier/history] Synology Diskstation
-[kreier/history] Initial commit</title></rect></a>
+- GitHub: [kreier/history] java pictures included
+- GitHub: [kreier/history] Update README.md
+- GitHub: [kreier/history] backup from saiht.de/physik/physik.html
+- GitHub: [kreier/history] Synology Diskstation
+- GitHub: [kreier/history] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/ESP8266/commit/060bf44c5250eeeb15ae97af592ebf61a27e3ed1"><rect class="day-cell" data-date="2020-01-28" x="78" y="59" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2020-01-28: 8 entries
-[kreier/ESP8266] Update readme.md
-[kreier/ESP8266] Update 2020
-[kreier/ESP8266] Create .gitignore
-[kreier/ESP8266] update display ssd1306 and sh1106
-[kreier/history] Create README.md
-[kreier/history] Arduino begins
-[kreier/history] Create README.md
-[kreier/history] 2018 update</title></rect></a>
+- GitHub: [kreier/ESP8266] Update readme.md
+- GitHub: [kreier/ESP8266] Update 2020
+- GitHub: [kreier/ESP8266] Create .gitignore
+- GitHub: [kreier/ESP8266] update display ssd1306 and sh1106
+- GitHub: [kreier/history] Create README.md
+- GitHub: [kreier/history] Arduino begins
+- GitHub: [kreier/history] Create README.md
+- GitHub: [kreier/history] 2018 update</title></rect></a>
 <a href="https://github.com/kreier/ESP8266/commit/50af6580916e3ab35017f5476499be486c156bb8"><rect class="day-cell" data-date="2020-01-29" x="78" y="71" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2020-01-29: 10 entries
-[kreier/ESP8266] Update display_5x7.ino
-[kreier/history] image links fixed
-[kreier/history] added pictures for visuals
-[kreier/history] Update README.md
-[kreier/history] update 2020/01/29
-[kreier/history] Merge branch 'master' of https://github.com/kreier/history
-[kreier/history] backup 2016/07/28
-[kreier/history] Update README.md
-[kreier/history] Set theme jekyll-theme-cayman
-[kreier/history] Update README.md</title></rect></a>
+- GitHub: [kreier/ESP8266] Update display_5x7.ino
+- GitHub: [kreier/history] image links fixed
+- GitHub: [kreier/history] added pictures for visuals
+- GitHub: [kreier/history] Update README.md
+- GitHub: [kreier/history] update 2020/01/29
+- GitHub: [kreier/history] Merge branch 'master' of https://github.com/kreier/history
+- GitHub: [kreier/history] backup 2016/07/28
+- GitHub: [kreier/history] Update README.md
+- GitHub: [kreier/history] Set theme jekyll-theme-cayman
+- GitHub: [kreier/history] Update README.md</title></rect></a>
 <a href="https://github.com/kreier/history/commit/1ce68bb841031b9685f54319cc88b955e6461b69"><rect class="day-cell" data-date="2020-01-30" x="78" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-01-30: 2 entries
-[kreier/history] Create battle-royale.mlx
-[kreier/history] Update README.md</title></rect></a>
+- GitHub: [kreier/history] Create battle-royale.mlx
+- GitHub: [kreier/history] Update README.md</title></rect></a>
 <rect class="day-cell" data-date="2020-01-31" x="78" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-01-31: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-02-01" x="78" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-01: 0 entries</title></rect>
 <text x="90" y="30" font-family="sans-serif" font-size="8" fill="#767676">Feb</text>
@@ -3440,10 +3444,10 @@ removed non-working link
 <rect class="day-cell" data-date="2020-02-04" x="90" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-02-05" x="90" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-05: 0 entries</title></rect>
 <a href="https://github.com/kreier/aisvn/commit/c3fc8706a4b34f82ef355de050bad5ebf0d6d07d"><rect class="day-cell" data-date="2020-02-06" x="90" y="83" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-02-06: 4 entries
-[kreier/aisvn] Update README.md
-[kreier/aisvn] Update README.md
-[kreier/aisvn] Create .gitignore
-[kreier/aisvn] Update README.md</title></rect></a>
+- GitHub: [kreier/aisvn] Update README.md
+- GitHub: [kreier/aisvn] Update README.md
+- GitHub: [kreier/aisvn] Create .gitignore
+- GitHub: [kreier/aisvn] Update README.md</title></rect></a>
 <rect class="day-cell" data-date="2020-02-07" x="90" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-02-08" x="90" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-02-09" x="102" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-09: 0 entries</title></rect>
@@ -3457,8 +3461,8 @@ removed non-working link
 <rect class="day-cell" data-date="2020-02-17" x="114" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-02-18" x="114" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-18: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/993d905aa045af7dbc97407a3946cdf140a39d8d"><rect class="day-cell" data-date="2020-02-19" x="114" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-02-19: 2 entries
-[kreier/benchmark] update 2018
-[kreier/ESP8266] Update display_5x7.ino</title></rect></a>
+- GitHub: [kreier/benchmark] update 2018
+- GitHub: [kreier/ESP8266] Update display_5x7.ino</title></rect></a>
 <rect class="day-cell" data-date="2020-02-20" x="114" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-02-21" x="114" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-02-22" x="114" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-22: 0 entries</title></rect>
@@ -3468,9 +3472,9 @@ removed non-working link
 <rect class="day-cell" data-date="2020-02-26" x="126" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-02-27" x="126" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-27: 0 entries</title></rect>
 <a href="https://github.com/kreier/aqi/commit/2443b9a7788295177e0d20a90c15f276e5e3618d"><rect class="day-cell" data-date="2020-02-28" x="126" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-02-28: 3 entries
-[kreier/aqi] Update README.md
-[kreier/aqi] Update README.md
-[kreier/aqi] Update LICENSE</title></rect></a>
+- GitHub: [kreier/aqi] Update README.md
+- GitHub: [kreier/aqi] Update README.md
+- GitHub: [kreier/aqi] Update LICENSE</title></rect></a>
 <rect class="day-cell" data-date="2020-02-29" x="126" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-02-29: 0 entries</title></rect>
 <text x="138" y="30" font-family="sans-serif" font-size="8" fill="#767676">Mar</text>
 <rect class="day-cell" data-date="2020-03-01" x="138" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-01: 0 entries</title></rect>
@@ -3479,72 +3483,72 @@ removed non-working link
 <rect class="day-cell" data-date="2020-03-04" x="138" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-03-05" x="138" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-05: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/46556e9b7d597561333955ee12e1c19912917627"><rect class="day-cell" data-date="2020-03-06" x="138" y="95" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-03-06: 6 entries
-[kreier/benchmark] Merge branch 'master' of https://github.com/kreier/benchmark
-[kreier/benchmark] Create 3dmark.xlsx
-[kreier/benchmark] Update README.md
-[kreier/benchmark] Create README.md
-[kreier/benchmark] Update README.md
-[kreier/benchmark] Create 2008-2016.jpg</title></rect></a>
+- GitHub: [kreier/benchmark] Merge branch 'master' of https://github.com/kreier/benchmark
+- GitHub: [kreier/benchmark] Create 3dmark.xlsx
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/benchmark] Create README.md
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/benchmark] Create 2008-2016.jpg</title></rect></a>
 <rect class="day-cell" data-date="2020-03-07" x="138" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-03-08" x="150" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-03-09" x="150" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-03-10" x="150" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-10: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/eb240b651f463171a53a48eb9a0964547e40527a"><rect class="day-cell" data-date="2020-03-11" x="150" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-03-11: 1 entry
-[kreier/benchmark] review 2020-03-10</title></rect></a>
+- GitHub: [kreier/benchmark] review 2020-03-10</title></rect></a>
 <a href="https://github.com/kreier/actuator/commit/9778d367d34666c699d1ba922988c4ab049955e2"><rect class="day-cell" data-date="2020-03-12" x="150" y="83" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2020-03-12: 8 entries
-[kreier/actuator] Update README.md
-[kreier/actuator] Update README.md
-[kreier/actuator] Update README.md
-[kreier/actuator] Add files via upload
-[kreier/actuator] Create README.md
-[kreier/actuator] Update README.md
-[kreier/actuator] Initial commit
-[kreier/benchmark] Update 3dmark.xlsx</title></rect></a>
+- GitHub: [kreier/actuator] Update README.md
+- GitHub: [kreier/actuator] Update README.md
+- GitHub: [kreier/actuator] Update README.md
+- GitHub: [kreier/actuator] Add files via upload
+- GitHub: [kreier/actuator] Create README.md
+- GitHub: [kreier/actuator] Update README.md
+- GitHub: [kreier/actuator] Initial commit
+- GitHub: [kreier/benchmark] Update 3dmark.xlsx</title></rect></a>
 <a href="https://github.com/kreier/actuator/commit/db9f0305aae2ae01c1e17cba594e78015f6f3ab3"><rect class="day-cell" data-date="2020-03-13" x="150" y="95" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2020-03-13: 8 entries
-[kreier/actuator] Update README.md
-[kreier/actuator] Update README.md
-[kreier/actuator] Add files via upload
-[kreier/actuator] Add files via upload
-[kreier/actuator] Create README.md
-[kreier/actuator] Set theme jekyll-theme-cayman
-[kreier/benchmark] Update README.md
-[kreier/benchmark] Set theme jekyll-theme-cayman</title></rect></a>
+- GitHub: [kreier/actuator] Update README.md
+- GitHub: [kreier/actuator] Update README.md
+- GitHub: [kreier/actuator] Add files via upload
+- GitHub: [kreier/actuator] Add files via upload
+- GitHub: [kreier/actuator] Create README.md
+- GitHub: [kreier/actuator] Set theme jekyll-theme-cayman
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/benchmark] Set theme jekyll-theme-cayman</title></rect></a>
 <rect class="day-cell" data-date="2020-03-14" x="150" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-14: 0 entries</title></rect>
 <a href="https://github.com/kreier/actuator/commit/39bee9abbccce7642d0953eff118c0d19d79138b"><rect class="day-cell" data-date="2020-03-15" x="162" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-03-15: 3 entries
-[kreier/actuator] Create d1_mini.png
-[kreier/benchmark] Merge branch 'master' of https://github.com/kreier/benchmark
-[kreier/benchmark] Update 3dmark.xlsx</title></rect></a>
+- GitHub: [kreier/actuator] Create d1_mini.png
+- GitHub: [kreier/benchmark] Merge branch 'master' of https://github.com/kreier/benchmark
+- GitHub: [kreier/benchmark] Update 3dmark.xlsx</title></rect></a>
 <rect class="day-cell" data-date="2020-03-16" x="162" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-03-17" x="162" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-17: 0 entries</title></rect>
 <a href="https://github.com/kreier/actuator/commit/f1a55e4aed9a43f8aaf60a2a376b23a8f915ad1c"><rect class="day-cell" data-date="2020-03-18" x="162" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-03-18: 3 entries
-[kreier/actuator] exclude Synology Discstation
-[kreier/actuator] Create README.md
-[kreier/actuator] Create README.md</title></rect></a>
+- GitHub: [kreier/actuator] exclude Synology Discstation
+- GitHub: [kreier/actuator] Create README.md
+- GitHub: [kreier/actuator] Create README.md</title></rect></a>
 <a href="https://github.com/kreier/actuator/commit/b8c0650f347332547eee94340a101a85371504da"><rect class="day-cell" data-date="2020-03-19" x="162" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-03-19: 2 entries
-[kreier/actuator] Update README.md
-[kreier/actuator] Create README.md</title></rect></a>
+- GitHub: [kreier/actuator] Update README.md
+- GitHub: [kreier/actuator] Create README.md</title></rect></a>
 <a href="https://github.com/kreier/actuator/commit/3aaf17d8c997a373f21994cbc83c1641e4dcb268"><rect class="day-cell" data-date="2020-03-20" x="162" y="95" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-03-20: 5 entries
-[kreier/actuator] Update README.md
-[kreier/actuator] Add files via upload
-[kreier/actuator] Update README.md
-[kreier/benchmark] Add files via upload
-[kreier/benchmark] Create README.md</title></rect></a>
+- GitHub: [kreier/actuator] Update README.md
+- GitHub: [kreier/actuator] Add files via upload
+- GitHub: [kreier/actuator] Update README.md
+- GitHub: [kreier/benchmark] Add files via upload
+- GitHub: [kreier/benchmark] Create README.md</title></rect></a>
 <rect class="day-cell" data-date="2020-03-21" x="162" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-03-22" x="174" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-22: 0 entries</title></rect>
 <a href="https://github.com/kreier/actuator/commit/28f0b3a1403d441d5df8a27d424ff174fda0f10f"><rect class="day-cell" data-date="2020-03-23" x="174" y="47" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-03-23: 5 entries
-[kreier/actuator] included table bearings naming system
-[kreier/actuator] Add files via upload
-[kreier/actuator] Update README.md
-[kreier/actuator] Add files via upload
-[kreier/actuator] Update README.md</title></rect></a>
+- GitHub: [kreier/actuator] included table bearings naming system
+- GitHub: [kreier/actuator] Add files via upload
+- GitHub: [kreier/actuator] Update README.md
+- GitHub: [kreier/actuator] Add files via upload
+- GitHub: [kreier/actuator] Update README.md</title></rect></a>
 <rect class="day-cell" data-date="2020-03-24" x="174" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-24: 0 entries</title></rect>
 <a href="https://github.com/kreier/actuator/commit/59473e5bc4a0b172164a6d48a4289a552c2c563c"><rect class="day-cell" data-date="2020-03-25" x="174" y="71" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-03-25: 6 entries
-[kreier/actuator] Update README.md
-[kreier/actuator] Merge branch 'master' of https://github.com/kreier/actuator
-[kreier/actuator] Create README.md
-[kreier/actuator] Update README.md
-[kreier/actuator] Update README.md
-[kreier/actuator] Create 5010_bldc.jpg</title></rect></a>
+- GitHub: [kreier/actuator] Update README.md
+- GitHub: [kreier/actuator] Merge branch 'master' of https://github.com/kreier/actuator
+- GitHub: [kreier/actuator] Create README.md
+- GitHub: [kreier/actuator] Update README.md
+- GitHub: [kreier/actuator] Update README.md
+- GitHub: [kreier/actuator] Create 5010_bldc.jpg</title></rect></a>
 <rect class="day-cell" data-date="2020-03-26" x="174" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-03-27" x="174" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-03-28" x="174" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-03-28: 0 entries</title></rect>
@@ -3561,7 +3565,7 @@ removed non-working link
 <rect class="day-cell" data-date="2020-04-07" x="198" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-04-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-04-08" x="198" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-04-08: 0 entries</title></rect>
 <a href="https://github.com/kreier/actuator/commit/d872a0941f2e13cc573f1f5a9d7a8eaa335be96d"><rect class="day-cell" data-date="2020-04-09" x="198" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-04-09: 1 entry
-[kreier/actuator] Update README.md</title></rect></a>
+- GitHub: [kreier/actuator] Update README.md</title></rect></a>
 <rect class="day-cell" data-date="2020-04-10" x="198" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-04-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-04-11" x="198" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-04-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-04-12" x="210" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-04-12: 0 entries</title></rect>
@@ -3598,11 +3602,11 @@ removed non-working link
 <rect class="day-cell" data-date="2020-05-12" x="258" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-05-13" x="258" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-13: 0 entries</title></rect>
 <a href="https://github.com/kreier/actuator/commit/6351002520112c828da77d8b8bbbd94d56e8002c"><rect class="day-cell" data-date="2020-05-14" x="258" y="83" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-05-14: 5 entries
-[kreier/actuator] reorganized 2020/05/14
-[kreier/actuator] involute 48T import
-[kreier/actuator] converted 25.4 inch to mm
-[kreier/actuator] Create Planet_10 v2.stl
-[kreier/actuator] back to school 2020/05/14</title></rect></a>
+- GitHub: [kreier/actuator] reorganized 2020/05/14
+- GitHub: [kreier/actuator] involute 48T import
+- GitHub: [kreier/actuator] converted 25.4 inch to mm
+- GitHub: [kreier/actuator] Create Planet_10 v2.stl
+- GitHub: [kreier/actuator] back to school 2020/05/14</title></rect></a>
 <rect class="day-cell" data-date="2020-05-15" x="258" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-05-16" x="258" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-05-17" x="270" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-17: 0 entries</title></rect>
@@ -3615,18 +3619,18 @@ removed non-working link
 <rect class="day-cell" data-date="2020-05-24" x="282" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-05-25" x="282" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-25: 0 entries</title></rect>
 <a href="https://github.com/kreier/407B/commit/355ce08a96d2d5d6cae799bcd756128532e7ec64"><rect class="day-cell" data-date="2020-05-26" x="282" y="59" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-05-26: 4 entries
-[kreier/407B] Update LICENSE
-[kreier/407B] Update README.md
-[kreier/407B] Set theme jekyll-theme-time-machine
-[kreier/407B] Update README.md</title></rect></a>
+- GitHub: [kreier/407B] Update LICENSE
+- GitHub: [kreier/407B] Update README.md
+- GitHub: [kreier/407B] Set theme jekyll-theme-time-machine
+- GitHub: [kreier/407B] Update README.md</title></rect></a>
 <rect class="day-cell" data-date="2020-05-27" x="282" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-05-28" x="282" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-05-29" x="282" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-05-30" x="282" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-05-31" x="294" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-05-31: 0 entries</title></rect>
 <a href="https://kreier.github.io/quartz/Blog/2020/06/Third-Sabbatical"><rect class="day-cell" data-date="2020-06-01" x="294" y="47" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2020-06-01: 2 entries
-Third Sabbatical
-Start of my third Sabbatical</title></rect></a>
+- Quartz: Third Sabbatical
+- Quartz: Start of my third Sabbatical</title></rect></a>
 <rect class="day-cell" data-date="2020-06-02" x="294" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-06-03" x="294" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-06-04" x="294" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-04: 0 entries</title></rect>
@@ -3649,92 +3653,92 @@ Start of my third Sabbatical</title></rect></a>
 <rect class="day-cell" data-date="2020-06-20" x="318" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-06-21" x="330" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-21: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP32/commit/4590ee38e5387b026930d1472cd3cd4305345db0"><rect class="day-cell" data-date="2020-06-22" x="330" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-06-22: 1 entry
-[kreier/ESP32] sniplets from simple investigations June 2020</title></rect></a>
+- GitHub: [kreier/ESP32] sniplets from simple investigations June 2020</title></rect></a>
 <a href="https://github.com/kreier/ESP32/commit/9bd4d3e266bc7cc5d4cec1489cf467947f1f1c53"><rect class="day-cell" data-date="2020-06-23" x="330" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-06-23: 2 entries
-[kreier/ESP32] Update README.md
-[kreier/ESP32] resized picture, new structure</title></rect></a>
+- GitHub: [kreier/ESP32] Update README.md
+- GitHub: [kreier/ESP32] resized picture, new structure</title></rect></a>
 <a href="https://github.com/kreier/ESP32/commit/03a85904ce1cfdbe252b46769a3afd606e6ce78e"><rect class="day-cell" data-date="2020-06-24" x="330" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-06-24: 1 entry
-[kreier/ESP32] 2020/06/23</title></rect></a>
+- GitHub: [kreier/ESP32] 2020/06/23</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/fce272c8828ed4665c4a2030199e834e1c68362c"><rect class="day-cell" data-date="2020-06-25" x="330" y="83" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2020-06-25: 8 entries
-[kreier/benchmark] picture fixed, CoreMark added
-[kreier/benchmark] ochrin made ESP8266 and dualcore running
-[kreier/benchmark] Update README.md
-[kreier/benchmark] Update README.md
-[kreier/benchmark] Update README.md
-[kreier/benchmark] Create README.md
-[kreier/benchmark] copy of https://github.com/PaulStoffregen/CoreMark
-[kreier/benchmark] copied from PaulStoffregen</title></rect></a>
+- GitHub: [kreier/benchmark] picture fixed, CoreMark added
+- GitHub: [kreier/benchmark] ochrin made ESP8266 and dualcore running
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/benchmark] Create README.md
+- GitHub: [kreier/benchmark] copy of https://github.com/PaulStoffregen/CoreMark
+- GitHub: [kreier/benchmark] copied from PaulStoffregen</title></rect></a>
 <rect class="day-cell" data-date="2020-06-26" x="330" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-06-27" x="330" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-06-28" x="342" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-06-28: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/b71cb919734a10c225626609f8ee5575c7a5f7d8"><rect class="day-cell" data-date="2020-06-29" x="342" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-06-29: 3 entries
-[kreier/benchmark] included Raspberry Pi 3
-[kreier/benchmark] Update README.md
-[kreier/ESP32] included NODEMCU and ATMega 2560</title></rect></a>
+- GitHub: [kreier/benchmark] included Raspberry Pi 3
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/ESP32] included NODEMCU and ATMega 2560</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/166431a190c257b25496f248f2c16e65088fcee9"><rect class="day-cell" data-date="2020-06-30" x="342" y="59" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2020-06-30: 7 entries
-[kreier/benchmark] Merge branch 'master' of https://github.com/kreier/benchmark
-[kreier/benchmark] Create whetstone1.2.ino
-[kreier/benchmark] updated whetstone 1.2
-[kreier/benchmark] included Ubuntu and Roy Longbottom
-[kreier/benchmark] updated Mega 2560
-[kreier/benchmark] initial commit
-[kreier/ESP32] update 20200630</title></rect></a>
+- GitHub: [kreier/benchmark] Merge branch 'master' of https://github.com/kreier/benchmark
+- GitHub: [kreier/benchmark] Create whetstone1.2.ino
+- GitHub: [kreier/benchmark] updated whetstone 1.2
+- GitHub: [kreier/benchmark] included Ubuntu and Roy Longbottom
+- GitHub: [kreier/benchmark] updated Mega 2560
+- GitHub: [kreier/benchmark] initial commit
+- GitHub: [kreier/ESP32] update 20200630</title></rect></a>
 <a href="https://github.com/kreier/ESP8266/commit/b93513a709437607558c26a034fd3480571f224c"><rect class="day-cell" data-date="2020-07-01" x="342" y="71" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2020-07-01: 7 entries
-[kreier/ESP8266] linearity of ADC - cut off at 3.1 volt
-[kreier/ESP8266] Create README.md
-[kreier/ESP8266] Create read_analog.ino
-[kreier/ESP8266] fast double blink with inverted logic for ESP8266
-[kreier/ESP8266] Update README.md
-[kreier/ESP8266] make monitor works in /coremark and /helloworld
-[kreier/ESP8266] Create README.md</title></rect></a>
+- GitHub: [kreier/ESP8266] linearity of ADC - cut off at 3.1 volt
+- GitHub: [kreier/ESP8266] Create README.md
+- GitHub: [kreier/ESP8266] Create read_analog.ino
+- GitHub: [kreier/ESP8266] fast double blink with inverted logic for ESP8266
+- GitHub: [kreier/ESP8266] Update README.md
+- GitHub: [kreier/ESP8266] make monitor works in /coremark and /helloworld
+- GitHub: [kreier/ESP8266] Create README.md</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/e560ecc608ac39d88f2a50f17fecc6c2784b1187"><rect class="day-cell" data-date="2020-07-02" x="342" y="83" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-07-02: 6 entries
-[kreier/benchmark] Create paper_ICIST_2017.pdf
-[kreier/benchmark] included Amlogic S905W
-[kreier/ESP8266] temperature measurement with LM35
-[kreier/ESP8266] Google Sheets export adjusted for Excel
-[kreier/ESP8266] updated overview with pictures and code
-[kreier/ESP8266] calibration old ESP8266 with 81mA standby</title></rect></a>
+- GitHub: [kreier/benchmark] Create paper_ICIST_2017.pdf
+- GitHub: [kreier/benchmark] included Amlogic S905W
+- GitHub: [kreier/ESP8266] temperature measurement with LM35
+- GitHub: [kreier/ESP8266] Google Sheets export adjusted for Excel
+- GitHub: [kreier/ESP8266] updated overview with pictures and code
+- GitHub: [kreier/ESP8266] calibration old ESP8266 with 81mA standby</title></rect></a>
 <rect class="day-cell" data-date="2020-07-03" x="342" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-07-04" x="342" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-04: 0 entries</title></rect>
 <text x="354" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jul</text>
 <rect class="day-cell" data-date="2020-07-05" x="354" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-05: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/383f39a05aa1863f9ba7f8a17859d4fd7864041b"><rect class="day-cell" data-date="2020-07-06" x="354" y="47" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2020-07-06: 7 entries
-[kreier/benchmark] updated with Mark/MHz
-[kreier/benchmark] reorganized and linked
-[kreier/ESP32] set time DS3231 with instructions
-[kreier/ESP32] https://github.com/NorthernWidget/DS3231/tree/master/examples
-[kreier/ESP32] link to code included
-[kreier/ESP32] new scanner for RTC
-[kreier/ESP8266] Set theme jekyll-theme-cayman</title></rect></a>
+- GitHub: [kreier/benchmark] updated with Mark/MHz
+- GitHub: [kreier/benchmark] reorganized and linked
+- GitHub: [kreier/ESP32] set time DS3231 with instructions
+- GitHub: [kreier/ESP32] https://github.com/NorthernWidget/DS3231/tree/master/examples
+- GitHub: [kreier/ESP32] link to code included
+- GitHub: [kreier/ESP32] new scanner for RTC
+- GitHub: [kreier/ESP8266] Set theme jekyll-theme-cayman</title></rect></a>
 <rect class="day-cell" data-date="2020-07-07" x="354" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-07: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP32/commit/35f638b05a2750acb4087d2ccdf07a2600784ac1"><rect class="day-cell" data-date="2020-07-08" x="354" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-07-08: 1 entry
-[kreier/ESP32] get time from DS3231 formatted via i2c</title></rect></a>
+- GitHub: [kreier/ESP32] get time from DS3231 formatted via i2c</title></rect></a>
 <rect class="day-cell" data-date="2020-07-09" x="354" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-09: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP32/commit/2c69a2bab54a59e1726db9d65e3add9f25f7491d"><rect class="day-cell" data-date="2020-07-10" x="354" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-07-10: 2 entries
-[kreier/ESP32] list of boards updated, and code
-[kreier/ESP32] updated list of boards</title></rect></a>
+- GitHub: [kreier/ESP32] list of boards updated, and code
+- GitHub: [kreier/ESP32] updated list of boards</title></rect></a>
 <rect class="day-cell" data-date="2020-07-11" x="354" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-07-12" x="366" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-12: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP8266/commit/5dcb457fb07252787408ff8ddd8c73aeb64c1b8a"><rect class="day-cell" data-date="2020-07-13" x="366" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-07-13: 2 entries
-[kreier/ESP8266] updated RTC output
-[kreier/ESP8266] RTC DS3231 on ESP8266</title></rect></a>
+- GitHub: [kreier/ESP8266] updated RTC output
+- GitHub: [kreier/ESP8266] RTC DS3231 on ESP8266</title></rect></a>
 <a href="https://github.com/kreier/ESP8266/commit/ca3bbe01505c13071e469e6860543a5eb100d295"><rect class="day-cell" data-date="2020-07-14" x="366" y="59" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-07-14: 5 entries
-[kreier/ESP8266] v0.3 updated pin definition
-[kreier/ESP8266] found i2c on oled and serial
-[kreier/ESP8266] time and temp on 1.3" 26x9 display
-[kreier/ESP8266] display time and temp 26x9 on 1.3" display
-[kreier/ESP8266] v0.2 with 1.3" OLED SPI display for time</title></rect></a>
+- GitHub: [kreier/ESP8266] v0.3 updated pin definition
+- GitHub: [kreier/ESP8266] found i2c on oled and serial
+- GitHub: [kreier/ESP8266] time and temp on 1.3" 26x9 display
+- GitHub: [kreier/ESP8266] display time and temp 26x9 on 1.3" display
+- GitHub: [kreier/ESP8266] v0.2 with 1.3" OLED SPI display for time</title></rect></a>
 <a href="https://github.com/kreier/ar65view/commit/397ff8ee5c88dbd4eed7570a5ec114fe036c4182"><rect class="day-cell" data-date="2020-07-15" x="366" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-07-15: 2 entries
-[kreier/ar65view] included 3 gifs
-[kreier/ar65view] Add files via upload</title></rect></a>
+- GitHub: [kreier/ar65view] included 3 gifs
+- GitHub: [kreier/ar65view] Add files via upload</title></rect></a>
 <rect class="day-cell" data-date="2020-07-16" x="366" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-16: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/b5513eb5ec08053054481bca0e48c0714603efae"><rect class="day-cell" data-date="2020-07-17" x="366" y="95" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-07-17: 6 entries
-[kreier/benchmark] included CoreMark/MHz
-[kreier/benchmark] comparison coremark per Mhz in Arm and x86 and others
-[kreier/benchmark] included i7 6820HQ and graphics
-[kreier/benchmark] updated results 2020
-[kreier/benchmark] graphics for coremark
-[kreier/benchmark] some results from July 2020</title></rect></a>
+- GitHub: [kreier/benchmark] included CoreMark/MHz
+- GitHub: [kreier/benchmark] comparison coremark per Mhz in Arm and x86 and others
+- GitHub: [kreier/benchmark] included i7 6820HQ and graphics
+- GitHub: [kreier/benchmark] updated results 2020
+- GitHub: [kreier/benchmark] graphics for coremark
+- GitHub: [kreier/benchmark] some results from July 2020</title></rect></a>
 <rect class="day-cell" data-date="2020-07-18" x="366" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-07-19" x="378" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-07-20" x="378" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-07-20: 0 entries</title></rect>
@@ -3760,8 +3764,8 @@ Start of my third Sabbatical</title></rect></a>
 <rect class="day-cell" data-date="2020-08-08" x="402" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-08-09" x="414" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-09: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/d119fd4ba501bceea514843490687dde7062acbc"><rect class="day-cell" data-date="2020-08-10" x="414" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-08-10: 2 entries
-[kreier/benchmark] Multithread Raspberry 4
-[kreier/benchmark] Raspberry Pi 4 updated</title></rect></a>
+- GitHub: [kreier/benchmark] Multithread Raspberry 4
+- GitHub: [kreier/benchmark] Raspberry Pi 4 updated</title></rect></a>
 <rect class="day-cell" data-date="2020-08-11" x="414" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-08-12" x="414" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-08-13" x="414" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-13: 0 entries</title></rect>
@@ -3776,28 +3780,28 @@ Start of my third Sabbatical</title></rect></a>
 <rect class="day-cell" data-date="2020-08-22" x="426" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-08-23" x="438" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-23: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/43473636faecbaae993095b68cbe7e23e5fa19fa"><rect class="day-cell" data-date="2020-08-24" x="438" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-08-24: 2 entries
-[kreier/benchmark] JetStream 2 for iPhone 7
-[kreier/benchmark] include Raspberry 3</title></rect></a>
+- GitHub: [kreier/benchmark] JetStream 2 for iPhone 7
+- GitHub: [kreier/benchmark] include Raspberry 3</title></rect></a>
 <a href="https://github.com/kreier/history/commit/5c1bd723051ea2957a524ee4485b4927315bbbeb"><rect class="day-cell" data-date="2020-08-25" x="438" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-08-25: 3 entries
-[kreier/history] shrinked csv
-[kreier/history] shared with friends
-[kreier/history] prelimary 2019</title></rect></a>
+- GitHub: [kreier/history] shrinked csv
+- GitHub: [kreier/history] shared with friends
+- GitHub: [kreier/history] prelimary 2019</title></rect></a>
 <rect class="day-cell" data-date="2020-08-26" x="438" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-08-27" x="438" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-08-28" x="438" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-08-29" x="438" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-08-30" x="450" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-08-30: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/029d3cb6fdb0028e65d13087ac56bdf19120ad3d"><rect class="day-cell" data-date="2020-08-31" x="450" y="47" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2020-08-31: 7 entries
-[kreier/benchmark] included 4960 HQ from MBP15 late 2013
-[kreier/ESP8266] short overview or project
-[kreier/ESP8266] design, oled and serial output
-[kreier/ESP8266] screenshot August 26th, 2020
-[kreier/ESP8266] boards and i2c_scanner
-[kreier/ESP8266] Add files via upload
-[kreier/ESP8266] updated I2C scanner</title></rect></a>
+- GitHub: [kreier/benchmark] included 4960 HQ from MBP15 late 2013
+- GitHub: [kreier/ESP8266] short overview or project
+- GitHub: [kreier/ESP8266] design, oled and serial output
+- GitHub: [kreier/ESP8266] screenshot August 26th, 2020
+- GitHub: [kreier/ESP8266] boards and i2c_scanner
+- GitHub: [kreier/ESP8266] Add files via upload
+- GitHub: [kreier/ESP8266] updated I2C scanner</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/e4e85ff1154a3966a64ca730ba781a7f2be61598"><rect class="day-cell" data-date="2020-09-01" x="450" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-09-01: 2 entries
-[kreier/benchmark] i7-4960HQ multi-thread updated
-[kreier/benchmark] Mark/MHz for i7 updated</title></rect></a>
+- GitHub: [kreier/benchmark] i7-4960HQ multi-thread updated
+- GitHub: [kreier/benchmark] Mark/MHz for i7 updated</title></rect></a>
 <rect class="day-cell" data-date="2020-09-02" x="450" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-09-03" x="450" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-09-04" x="450" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-04: 0 entries</title></rect>
@@ -3805,7 +3809,7 @@ Start of my third Sabbatical</title></rect></a>
 <text x="462" y="30" font-family="sans-serif" font-size="8" fill="#767676">Sep</text>
 <rect class="day-cell" data-date="2020-09-06" x="462" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-06: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/914f517656a1a2d486bd89d5276d065628ad5638"><rect class="day-cell" data-date="2020-09-07" x="462" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-09-07: 1 entry
-[kreier/benchmark] invluded DS216+II</title></rect></a>
+- GitHub: [kreier/benchmark] invluded DS216+II</title></rect></a>
 <rect class="day-cell" data-date="2020-09-08" x="462" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-09-09" x="462" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-09-10" x="462" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-10: 0 entries</title></rect>
@@ -3815,8 +3819,8 @@ Start of my third Sabbatical</title></rect></a>
 <rect class="day-cell" data-date="2020-09-14" x="474" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-09-15" x="474" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-15: 0 entries</title></rect>
 <a href="https://github.com/kreier/ar65view/commit/6dbcff6ec8629292109cb61f998bdead3f1bdf58"><rect class="day-cell" data-date="2020-09-16" x="474" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-09-16: 2 entries
-[kreier/ar65view] update jekyll-theme-cayman
-[kreier/benchmark] include ZBook 15 G3 with 6820HQ</title></rect></a>
+- GitHub: [kreier/ar65view] update jekyll-theme-cayman
+- GitHub: [kreier/benchmark] include ZBook 15 G3 with 6820HQ</title></rect></a>
 <rect class="day-cell" data-date="2020-09-17" x="474" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-09-18" x="474" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-09-19" x="474" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-19: 0 entries</title></rect>
@@ -3824,29 +3828,29 @@ Start of my third Sabbatical</title></rect></a>
 <rect class="day-cell" data-date="2020-09-21" x="486" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-09-22" x="486" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-22: 0 entries</title></rect>
 <a href="https://github.com/kreier/history/commit/688ea1c53c3f2d4d72641f6a16c40226f0ac7ad8"><rect class="day-cell" data-date="2020-09-23" x="486" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-09-23: 3 entries
-[kreier/history] Update README.md
-[kreier/history] more examples included
-[kreier/history] Create README.md</title></rect></a>
+- GitHub: [kreier/history] Update README.md
+- GitHub: [kreier/history] more examples included
+- GitHub: [kreier/history] Create README.md</title></rect></a>
 <a href="https://github.com/kreier/asa/commit/c5f31d6150f30abb100fc60b5040924a5f89e6fe"><rect class="day-cell" data-date="2020-09-24" x="486" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-09-24: 1 entry
-[kreier/asa] inspiration car linked</title></rect></a>
+- GitHub: [kreier/asa] inspiration car linked</title></rect></a>
 <rect class="day-cell" data-date="2020-09-25" x="486" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-09-26" x="486" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-09-27" x="498" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-09-28" x="498" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-09-29" x="498" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-09-29: 0 entries</title></rect>
 <a href="https://github.com/kreier/asa3/commit/1faf103f7c7bf51ec3032a8806db404242d34010"><rect class="day-cell" data-date="2020-09-30" x="498" y="71" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2020-09-30: 10 entries
-[kreier/asa3] Merge branch 'master' of https://github.com/kreier/asa3
-[kreier/asa3] updated design
-[kreier/asa3] Set theme jekyll-theme-cayman
-[kreier/asa3] relocated for centralized documentation
-[kreier/asa3] initial website in /docs folder
-[kreier/asa3] darkened headers
-[kreier/asa3] color adjustment
-[kreier/asa3] Update README.md
-[kreier/asa3] Set theme jekyll-theme-cayman
-[kreier/asa3] README.md</title></rect></a>
+- GitHub: [kreier/asa3] Merge branch 'master' of https://github.com/kreier/asa3
+- GitHub: [kreier/asa3] updated design
+- GitHub: [kreier/asa3] Set theme jekyll-theme-cayman
+- GitHub: [kreier/asa3] relocated for centralized documentation
+- GitHub: [kreier/asa3] initial website in /docs folder
+- GitHub: [kreier/asa3] darkened headers
+- GitHub: [kreier/asa3] color adjustment
+- GitHub: [kreier/asa3] Update README.md
+- GitHub: [kreier/asa3] Set theme jekyll-theme-cayman
+- GitHub: [kreier/asa3] README.md</title></rect></a>
 <a href="https://github.com/kreier/ESP32/commit/c81186c97d0043efab46bce5c1f431baa5c5b333"><rect class="day-cell" data-date="2020-10-01" x="498" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-01: 1 entry
-[kreier/ESP32] adopt blue color scheme</title></rect></a>
+- GitHub: [kreier/ESP32] adopt blue color scheme</title></rect></a>
 <rect class="day-cell" data-date="2020-10-02" x="498" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-10-03" x="498" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-03: 0 entries</title></rect>
 <text x="510" y="30" font-family="sans-serif" font-size="8" fill="#767676">Oct</text>
@@ -3859,62 +3863,62 @@ Start of my third Sabbatical</title></rect></a>
 <rect class="day-cell" data-date="2020-10-10" x="510" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-10-11" x="522" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-11: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP32/commit/8ca0601cd562e79622210958fce9f94f78d4151d"><rect class="day-cell" data-date="2020-10-12" x="522" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-12: 1 entry
-[kreier/ESP32] Set theme jekyll-theme-hacker</title></rect></a>
+- GitHub: [kreier/ESP32] Set theme jekyll-theme-hacker</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/49a6dc806d4cfcba6440ea81d1302509fc769ca0"><rect class="day-cell" data-date="2020-10-13" x="522" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-13: 3 entries
-[kreier/benchmark] fixed pictures, added details
-[kreier/benchmark] Create README.md
-[kreier/benchmark] historic results 2008 to 2020</title></rect></a>
+- GitHub: [kreier/benchmark] fixed pictures, added details
+- GitHub: [kreier/benchmark] Create README.md
+- GitHub: [kreier/benchmark] historic results 2008 to 2020</title></rect></a>
 <a href="https://github.com/kreier/aqi/commit/1cae63b131eaa06b60cbd5e369b059c830b738e7"><rect class="day-cell" data-date="2020-10-14" x="522" y="71" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2020-10-14: 11 entries
-[kreier/aqi] Update _config.yml
-[kreier/ar65view] fixed link to image
-[kreier/ar65view] jekyll theme cayman
-[kreier/ar65view] proper html info page
-[kreier/benchmark] hdparm values from Yoga 370
-[kreier/benchmark] Update README.md
-[kreier/benchmark] Update _config.yml
-[kreier/benchmark] Update README.md
-[kreier/benchmark] test speed of /dev/sda
-[kreier/ESP32] Update and rename Blink2020_sweep.ino to Blink2020sweep.ino
-[kreier/history] Update README.md</title></rect></a>
+- GitHub: [kreier/aqi] Update _config.yml
+- GitHub: [kreier/ar65view] fixed link to image
+- GitHub: [kreier/ar65view] jekyll theme cayman
+- GitHub: [kreier/ar65view] proper html info page
+- GitHub: [kreier/benchmark] hdparm values from Yoga 370
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/benchmark] Update _config.yml
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/benchmark] test speed of /dev/sda
+- GitHub: [kreier/ESP32] Update and rename Blink2020_sweep.ino to Blink2020sweep.ino
+- GitHub: [kreier/history] Update README.md</title></rect></a>
 <a href="https://github.com/kreier/ESP32/commit/8edf47d7f35d5a920295de332cb552a1087642d2"><rect class="day-cell" data-date="2020-10-15" x="522" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-15: 2 entries
-[kreier/ESP32] Merge branch 'master' of https://github.com/kreier/ESP32
-[kreier/ESP32] instructions for plotting included</title></rect></a>
+- GitHub: [kreier/ESP32] Merge branch 'master' of https://github.com/kreier/ESP32
+- GitHub: [kreier/ESP32] instructions for plotting included</title></rect></a>
 <a href="https://github.com/kreier/T80/blob/master/README.md"><rect class="day-cell" data-date="2020-10-16" x="522" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-16: 1 entry
-[kreier/T80] README.md</title></rect></a>
+- GitHub: [kreier/T80] README.md</title></rect></a>
 <rect class="day-cell" data-date="2020-10-17" x="522" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-10-18" x="534" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-10-19" x="534" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-10-20" x="534" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-20: 0 entries</title></rect>
 <a href="https://github.com/kreier/actuator/commit/af81df83f969d024100d28b02cce60cde76b147b"><rect class="day-cell" data-date="2020-10-21" x="534" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-21: 2 entries
-[kreier/actuator] Update _config.yml
-[kreier/T110] README.md</title></rect></a>
+- GitHub: [kreier/actuator] Update _config.yml
+- GitHub: [kreier/T110] README.md</title></rect></a>
 <a href="https://github.com/kreier/ESP32/commit/eab83db697e00e28b7a720540235a6076eed7697"><rect class="day-cell" data-date="2020-10-22" x="534" y="83" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-10-22: 6 entries
-[kreier/ESP32] Merge branch 'master' of https://github.com/kreier/ESP32
-[kreier/ESP32] new boards, reorganized
-[kreier/ESP32] Update README.md
-[kreier/ESP32] relocated important project
-[kreier/ESP32] Create README.md
-[kreier/ESP32] Create startup-post.ino</title></rect></a>
+- GitHub: [kreier/ESP32] Merge branch 'master' of https://github.com/kreier/ESP32
+- GitHub: [kreier/ESP32] new boards, reorganized
+- GitHub: [kreier/ESP32] Update README.md
+- GitHub: [kreier/ESP32] relocated important project
+- GitHub: [kreier/ESP32] Create README.md
+- GitHub: [kreier/ESP32] Create startup-post.ino</title></rect></a>
 <a href="https://github.com/kreier/T200/blob/master/README.md"><rect class="day-cell" data-date="2020-10-23" x="534" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-23: 1 entry
-[kreier/T200] README.md</title></rect></a>
+- GitHub: [kreier/T200] README.md</title></rect></a>
 <rect class="day-cell" data-date="2020-10-24" x="534" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-10-25" x="546" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-25: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/82086185d9525f3bf51792256d403ad2c9904b7a"><rect class="day-cell" data-date="2020-10-26" x="546" y="47" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-10-26: 6 entries
-[kreier/benchmark] link to browser benchmarks
-[kreier/benchmark] Update README.md
-[kreier/benchmark] Create README.md
-[kreier/ESP32] sends float temp to serial for plotter
-[kreier/ESP32] updated pins
-[kreier/ESP32] updated NodeMCU</title></rect></a>
+- GitHub: [kreier/benchmark] link to browser benchmarks
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/benchmark] Create README.md
+- GitHub: [kreier/ESP32] sends float temp to serial for plotter
+- GitHub: [kreier/ESP32] updated pins
+- GitHub: [kreier/ESP32] updated NodeMCU</title></rect></a>
 <rect class="day-cell" data-date="2020-10-27" x="546" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-27: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/9466335a750552e9749c87ab2d185f41360bcf56"><rect class="day-cell" data-date="2020-10-28" x="546" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-28: 2 entries
-[kreier/benchmark] shortened SuperPi
-[kreier/benchmark] included i5 7300U</title></rect></a>
+- GitHub: [kreier/benchmark] shortened SuperPi
+- GitHub: [kreier/benchmark] included i5 7300U</title></rect></a>
 <a href="https://github.com/kreier/ESP32/commit/be8658af865e79a10a3ccdabb678578684cf4bd2"><rect class="day-cell" data-date="2020-10-29" x="546" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-29: 1 entry
-[kreier/ESP32] updated setup in science library D1 HCM</title></rect></a>
+- GitHub: [kreier/ESP32] updated setup in science library D1 HCM</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/ea8c74c3329f8ef4ef70363e34ea739f2f616ff7"><rect class="day-cell" data-date="2020-10-30" x="546" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-10-30: 2 entries
-[kreier/benchmark] two more results
-[kreier/benchmark] Speedometer 2.0 results</title></rect></a>
+- GitHub: [kreier/benchmark] two more results
+- GitHub: [kreier/benchmark] Speedometer 2.0 results</title></rect></a>
 <rect class="day-cell" data-date="2020-10-31" x="546" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-10-31: 0 entries</title></rect>
 <text x="558" y="30" font-family="sans-serif" font-size="8" fill="#767676">Nov</text>
 <rect class="day-cell" data-date="2020-11-01" x="558" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-01: 0 entries</title></rect>
@@ -3923,85 +3927,85 @@ Start of my third Sabbatical</title></rect></a>
 <rect class="day-cell" data-date="2020-11-04" x="558" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-11-05" x="558" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-05: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP32/commit/4148255a9c78e148f345a4455cf5fa5a677d6990"><rect class="day-cell" data-date="2020-11-06" x="558" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-11-06: 3 entries
-[kreier/ESP32] Update analog_pins_read.ino
-[kreier/ESP32] sample stages to determine power consumption
-[kreier/ESP32] Create analog_pins_read.ino</title></rect></a>
+- GitHub: [kreier/ESP32] Update analog_pins_read.ino
+- GitHub: [kreier/ESP32] sample stages to determine power consumption
+- GitHub: [kreier/ESP32] Create analog_pins_read.ino</title></rect></a>
 <rect class="day-cell" data-date="2020-11-07" x="558" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-11-08" x="570" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-11-09" x="570" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-09: 0 entries</title></rect>
 <a href="https://github.com/kreier/aqi/commit/6e21a4dde5a4369255bb8c3b033055d5238b0c7a"><rect class="day-cell" data-date="2020-11-10" x="570" y="59" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2020-11-10: 8 entries
-[kreier/aqi] worldwide sensor maps updated
-[kreier/aqi] worldwide sensor map
-[kreier/aqi] Merge branch 'master' of https://github.com/kreier/aqi
-[kreier/aqi] data from 2020
-[kreier/aqi] Set theme jekyll-theme-cayman
-[kreier/aqi] red-blue color scheme
-[kreier/aqi] new website setup
-[kreier/ESP32] better formatted output of 18 analog pins</title></rect></a>
+- GitHub: [kreier/aqi] worldwide sensor maps updated
+- GitHub: [kreier/aqi] worldwide sensor map
+- GitHub: [kreier/aqi] Merge branch 'master' of https://github.com/kreier/aqi
+- GitHub: [kreier/aqi] data from 2020
+- GitHub: [kreier/aqi] Set theme jekyll-theme-cayman
+- GitHub: [kreier/aqi] red-blue color scheme
+- GitHub: [kreier/aqi] new website setup
+- GitHub: [kreier/ESP32] better formatted output of 18 analog pins</title></rect></a>
 <rect class="day-cell" data-date="2020-11-11" x="570" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-11: 0 entries</title></rect>
 <a href="https://github.com/kreier/asa2/commit/12cedad5e0a754e60d21fda15fdcd8922d9a6759"><rect class="day-cell" data-date="2020-11-12" x="570" y="83" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2020-11-12: 8 entries
-[kreier/asa2] Set theme jekyll-theme-cayman
-[kreier/asa2] documentation extended
-[kreier/asa2] Update README.md
-[kreier/asa2] Merge branch 'master' of https://github.com/kreier/asa2
-[kreier/asa2] examples expanded
-[kreier/asa2] Update README.md
-[kreier/asa2] Update _config.yml
-[kreier/asa2] README.md</title></rect></a>
+- GitHub: [kreier/asa2] Set theme jekyll-theme-cayman
+- GitHub: [kreier/asa2] documentation extended
+- GitHub: [kreier/asa2] Update README.md
+- GitHub: [kreier/asa2] Merge branch 'master' of https://github.com/kreier/asa2
+- GitHub: [kreier/asa2] examples expanded
+- GitHub: [kreier/asa2] Update README.md
+- GitHub: [kreier/asa2] Update _config.yml
+- GitHub: [kreier/asa2] README.md</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/2db81d56a5043b791336c5bce3d89673d44e2631"><rect class="day-cell" data-date="2020-11-13" x="570" y="95" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2020-11-13: 7 entries
-[kreier/benchmark] layout rendering html fixed
-[kreier/benchmark] update 2020-11-13
-[kreier/benchmark] updated 2020-11-13
-[kreier/benchmark] Update README.md
-[kreier/benchmark] Create README.md
-[kreier/benchmark] Update README.md
-[kreier/benchmark] Create README.md</title></rect></a>
+- GitHub: [kreier/benchmark] layout rendering html fixed
+- GitHub: [kreier/benchmark] update 2020-11-13
+- GitHub: [kreier/benchmark] updated 2020-11-13
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/benchmark] Create README.md
+- GitHub: [kreier/benchmark] Update README.md
+- GitHub: [kreier/benchmark] Create README.md</title></rect></a>
 <rect class="day-cell" data-date="2020-11-14" x="570" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-11-15" x="582" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-15: 0 entries</title></rect>
 <a href="https://github.com/kreier/aisvn/commit/f38715fc7dcf4fcf8dbb86225ac305eb559965d0"><rect class="day-cell" data-date="2020-11-16" x="582" y="47" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-11-16: 4 entries
-[kreier/aisvn] reorganized
-[kreier/benchmark] Merge branch 'master' of https://github.com/kreier/benchmark
-[kreier/benchmark] Update geekbench.xlsx
-[kreier/benchmark] Update geekbench.xlsx</title></rect></a>
+- GitHub: [kreier/aisvn] reorganized
+- GitHub: [kreier/benchmark] Merge branch 'master' of https://github.com/kreier/benchmark
+- GitHub: [kreier/benchmark] Update geekbench.xlsx
+- GitHub: [kreier/benchmark] Update geekbench.xlsx</title></rect></a>
 <rect class="day-cell" data-date="2020-11-17" x="582" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-17: 0 entries</title></rect>
 <a href="https://github.com/kreier/benchmark/commit/7d80200ddfe62082070218a1f6b5ed91cfb597b9"><rect class="day-cell" data-date="2020-11-18" x="582" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-11-18: 1 entry
-[kreier/benchmark] updated 2020/11/18</title></rect></a>
+- GitHub: [kreier/benchmark] updated 2020/11/18</title></rect></a>
 <rect class="day-cell" data-date="2020-11-19" x="582" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-11-20" x="582" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-11-21" x="582" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-11-22" x="594" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-22: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP32/commit/a45c860e36e6aa314ca0e78c821d0e701d5a0b60"><rect class="day-cell" data-date="2020-11-23" x="594" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-11-23: 1 entry
-[kreier/ESP32] expanded documentation</title></rect></a>
+- GitHub: [kreier/ESP32] expanded documentation</title></rect></a>
 <a href="https://github.com/kreier/benchmark/commit/45c0d629644c47888835e05fc658033922e0971a"><rect class="day-cell" data-date="2020-11-24" x="594" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-11-24: 1 entry
-[kreier/benchmark] results for Raspberry Pi 3</title></rect></a>
+- GitHub: [kreier/benchmark] results for Raspberry Pi 3</title></rect></a>
 <a href="https://github.com/kreier/ESP32/commit/6b972e408646f205ba4297ed3272a3f4077f61ee"><rect class="day-cell" data-date="2020-11-25" x="594" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-11-25: 1 entry
-[kreier/ESP32] corrected link</title></rect></a>
+- GitHub: [kreier/ESP32] corrected link</title></rect></a>
 <rect class="day-cell" data-date="2020-11-26" x="594" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-26: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP32/commit/1fc2f0cc970fe48a85295cd71c3bc7e8e78839fd"><rect class="day-cell" data-date="2020-11-27" x="594" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-11-27: 3 entries
-[kreier/ESP32] Merge branch 'master' of https://github.com/kreier/ESP32
-[kreier/ESP32] expanded power consumption measurements
-[kreier/remote] README.md</title></rect></a>
+- GitHub: [kreier/ESP32] Merge branch 'master' of https://github.com/kreier/ESP32
+- GitHub: [kreier/ESP32] expanded power consumption measurements
+- GitHub: [kreier/remote] README.md</title></rect></a>
 <rect class="day-cell" data-date="2020-11-28" x="594" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-11-29" x="606" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-11-29: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP32/commit/17b371e81680493507929eb0663790b162517280"><rect class="day-cell" data-date="2020-11-30" x="606" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-11-30: 2 entries
-[kreier/ESP32] cleanup
-[kreier/ESP32] new values</title></rect></a>
+- GitHub: [kreier/ESP32] cleanup
+- GitHub: [kreier/ESP32] new values</title></rect></a>
 <rect class="day-cell" data-date="2020-12-01" x="606" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-01: 0 entries</title></rect>
 <a href="https://github.com/kreier/aisvn/commit/010702f66389bb5e4d58360e76eb8e7bcb772514"><rect class="day-cell" data-date="2020-12-02" x="606" y="71" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2020-12-02: 8 entries
-[kreier/aisvn] minor layout fixes
-[kreier/aisvn] remove two more analogWrite()
-[kreier/aisvn] removed Serial1 and analogWrite for ESP32
-[kreier/aisvn] hopefully only "unused" warnings but successful build
-[kreier/aisvn] any meaningful code removed ...
-[kreier/aisvn] no inclusion - but Travis fails ...
-[kreier/aisvn] T300 testrun with Travis
-[kreier/T410] README.md</title></rect></a>
+- GitHub: [kreier/aisvn] minor layout fixes
+- GitHub: [kreier/aisvn] remove two more analogWrite()
+- GitHub: [kreier/aisvn] removed Serial1 and analogWrite for ESP32
+- GitHub: [kreier/aisvn] hopefully only "unused" warnings but successful build
+- GitHub: [kreier/aisvn] any meaningful code removed ...
+- GitHub: [kreier/aisvn] no inclusion - but Travis fails ...
+- GitHub: [kreier/aisvn] T300 testrun with Travis
+- GitHub: [kreier/T410] README.md</title></rect></a>
 <rect class="day-cell" data-date="2020-12-03" x="606" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-03: 0 entries</title></rect>
 <a href="https://github.com/kreier/dat.bike/commit/3944bf4d30b72124eeb98e7590fdf78d14d48b9a"><rect class="day-cell" data-date="2020-12-04" x="606" y="95" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-12-04: 4 entries
-[kreier/dat.bike] Set theme jekyll-theme-cayman
-[kreier/dat.bike] calculations 2020/12/04
-[kreier/dat.bike] Initial commit
-[kreier/kreier.github.io] README.md</title></rect></a>
+- GitHub: [kreier/dat.bike] Set theme jekyll-theme-cayman
+- GitHub: [kreier/dat.bike] calculations 2020/12/04
+- GitHub: [kreier/dat.bike] Initial commit
+- GitHub: [kreier/kreier.github.io] README.md</title></rect></a>
 <rect class="day-cell" data-date="2020-12-05" x="606" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-05: 0 entries</title></rect>
 <text x="618" y="30" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
 <rect class="day-cell" data-date="2020-12-06" x="618" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-06: 0 entries</title></rect>
@@ -4010,26 +4014,26 @@ Start of my third Sabbatical</title></rect></a>
 <rect class="day-cell" data-date="2020-12-09" x="618" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-12-10" x="618" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-10: 0 entries</title></rect>
 <a href="https://github.com/kreier/dat.bike/commit/9459daaa496fc910df2f9fbae2670aa670a40f7c"><rect class="day-cell" data-date="2020-12-11" x="618" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-12-11: 1 entry
-[kreier/dat.bike] geometrics comparison</title></rect></a>
+- GitHub: [kreier/dat.bike] geometrics comparison</title></rect></a>
 <rect class="day-cell" data-date="2020-12-12" x="618" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-12-13" x="630" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-12-14" x="630" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-14: 0 entries</title></rect>
 <a href="https://github.com/kreier/history/commit/67a0be6ae1dd66de3ab2107e52cf2066f91fa5f5"><rect class="day-cell" data-date="2020-12-15" x="630" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-12-15: 3 entries
-[kreier/history] included 2020 with ESP32
-[kreier/kreier.org-aqi] README.md
-[kreier/ultrasonic] README.md</title></rect></a>
+- GitHub: [kreier/history] included 2020 with ESP32
+- GitHub: [kreier/kreier.org-aqi] README.md
+- GitHub: [kreier/ultrasonic] README.md</title></rect></a>
 <a href="https://github.com/kreier/407B/commit/cb59e424e8882b698eac060e15fbe69b8a2c7b51"><rect class="day-cell" data-date="2020-12-16" x="630" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-12-16: 3 entries
-[kreier/407B] repository, branch and folder fixed
-[kreier/407B] README.md
-[kreier/rfid] README.md</title></rect></a>
+- GitHub: [kreier/407B] repository, branch and folder fixed
+- GitHub: [kreier/407B] README.md
+- GitHub: [kreier/rfid] README.md</title></rect></a>
 <a href="https://github.com/kreier/asa/commit/00fcd70beee2c009988193b5fdac827551cb467c"><rect class="day-cell" data-date="2020-12-17" x="630" y="83" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-12-17: 5 entries
-[kreier/asa] fixed timeline from 2019
-[kreier/asa] licence badge and release indicator
-[kreier/asa] extended timeline
-[kreier/ESP8266] Merge pull request #1 from kreier/master
+- GitHub: [kreier/asa] fixed timeline from 2019
+- GitHub: [kreier/asa] licence badge and release indicator
+- GitHub: [kreier/asa] extended timeline
+- GitHub: [kreier/ESP8266] Merge pull request #1 from kreier/master
 
 documented display driver and i2c scanner
-[kreier/ESP8266] documented display driver and i2c scanner
+- GitHub: [kreier/ESP8266] documented display driver and i2c scanner
 
 The libraries from Oli Kraus to drive monochrome OLED displays have been referenced.
 
@@ -4039,7 +4043,7 @@ And the I2C scanner example shows the results from the found ZS-042 RTC module. 
 <rect class="day-cell" data-date="2020-12-20" x="642" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-12-21" x="642" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-21: 0 entries</title></rect>
 <a href="https://github.com/kreier/physics/blob/main/README.md"><rect class="day-cell" data-date="2020-12-22" x="642" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2020-12-22: 1 entry
-[kreier/physics] README.md</title></rect></a>
+- GitHub: [kreier/physics] README.md</title></rect></a>
 <rect class="day-cell" data-date="2020-12-23" x="642" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-12-24" x="642" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-12-25" x="642" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-25: 0 entries</title></rect>
@@ -4047,24 +4051,24 @@ And the I2C scanner example shows the results from the found ZS-042 RTC module. 
 <rect class="day-cell" data-date="2020-12-27" x="654" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-12-28" x="654" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-28: 0 entries</title></rect>
 <a href="https://github.com/kreier/aqi/commit/fe1971c824167561804906bc9aeb52db7171b8a5"><rect class="day-cell" data-date="2020-12-29" x="654" y="59" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2020-12-29: 4 entries
-[kreier/aqi] updated list, included 4872940
-[kreier/aqi] Merge pull request #1 from kreier/master
+- GitHub: [kreier/aqi] updated list, included 4872940
+- GitHub: [kreier/aqi] Merge pull request #1 from kreier/master
 
 some recent measured data with new interface
-[kreier/aqi] updated with some recent data
-[kreier/aqi] some recent measured data with new interface</title></rect></a>
+- GitHub: [kreier/aqi] updated with some recent data
+- GitHub: [kreier/aqi] some recent measured data with new interface</title></rect></a>
 <rect class="day-cell" data-date="2020-12-30" x="654" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2020-12-31" x="654" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2020-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2019</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 55, Github: 51 (232), Quartz: 3 (5), Wordpress: 2 (2), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2019</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 55, Github: 51 (232), Quartz: 3 (5), Wordpress: 2 (2), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Blog/2019/01/Monkey-Island-I"><rect class="day-cell" data-date="2019-01-01" x="30" y="59" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2019-01-01: 2 entries
-Monkey Island I
-2019</title></rect></a>
+- Quartz: Monkey Island I
+- Quartz: 2019</title></rect></a>
 <rect class="day-cell" data-date="2019-01-02" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-01-03" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-01-04" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-01-04: 0 entries</title></rect>
@@ -4080,8 +4084,8 @@ Monkey Island I
 <rect class="day-cell" data-date="2019-01-13" x="54" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-01-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-01-14" x="54" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-01-14: 0 entries</title></rect>
 <a href="https://kreier.github.io/quartz/Travel/Leisure/Monkey-Island"><rect class="day-cell" data-date="2019-01-15" x="54" y="59" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2019-01-15: 2 entries
-Monkey Island
-Hiking in Vietnam</title></rect></a>
+- Quartz: Monkey Island
+- Quartz: Hiking in Vietnam</title></rect></a>
 <rect class="day-cell" data-date="2019-01-16" x="54" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-01-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-01-17" x="54" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-01-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-01-18" x="54" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-01-18: 0 entries</title></rect>
@@ -4133,7 +4137,7 @@ Hiking in Vietnam</title></rect></a>
 <rect class="day-cell" data-date="2019-03-03" x="138" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-03-04" x="138" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-04: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2019/03/05/sciencefair-2019/"><rect class="day-cell" data-date="2019-03-05" x="138" y="59" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2019-03-05: 1 entry
-Sciencefair 2019</title></rect></a>
+- WordPress: Sciencefair 2019</title></rect></a>
 <rect class="day-cell" data-date="2019-03-06" x="138" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-03-07" x="138" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-03-08" x="138" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-08: 0 entries</title></rect>
@@ -4155,31 +4159,31 @@ Sciencefair 2019</title></rect></a>
 <rect class="day-cell" data-date="2019-03-24" x="174" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-03-25" x="174" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-25: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2019/03/26/ai-und-ml/"><rect class="day-cell" data-date="2019-03-26" x="174" y="59" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2019-03-26: 5 entries
-AI und ML
-[kreier/ESP32] included image
-[kreier/ESP32] two ESP32 working
-[kreier/ESP32] Update README.md
-[kreier/ESP32] Initial commit</title></rect></a>
+- WordPress: AI und ML
+- GitHub: [kreier/ESP32] included image
+- GitHub: [kreier/ESP32] two ESP32 working
+- GitHub: [kreier/ESP32] Update README.md
+- GitHub: [kreier/ESP32] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/ESP32/commit/ca54986ea877b0a9ee706955c1a9ed5641778272"><rect class="day-cell" data-date="2019-03-27" x="174" y="71" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2019-03-27: 19 entries
-[kreier/ESP32] exports all 6 buttons and joystick values to the serial port
-[kreier/ESP32] only 91 lines left from 113
-[kreier/ESP32] Add files via upload
-[kreier/ESP32] Rename GoBLE_reciever_1.0.ino to GoBLE_reciever_0.1.ino
-[kreier/ESP32] Update README.md
-[kreier/ESP32] Update README.md
-[kreier/ESP32] Add files via upload
-[kreier/ESP32] Create README.md
-[kreier/ESP32] Create GoBLE reciever.ino
-[kreier/ESP32] Update README.md
-[kreier/ESP32] Update README.md
-[kreier/ESP32] Add files via upload
-[kreier/ESP32] Add files via upload
-[kreier/ESP32] Add files via upload
-[kreier/ESP32] Add files via upload
-[kreier/ESP32] Delete info.md
-[kreier/ESP32] Add files via upload
-[kreier/ESP32] Create README.md
-[kreier/ESP32] Create info.md</title></rect></a>
+- GitHub: [kreier/ESP32] exports all 6 buttons and joystick values to the serial port
+- GitHub: [kreier/ESP32] only 91 lines left from 113
+- GitHub: [kreier/ESP32] Add files via upload
+- GitHub: [kreier/ESP32] Rename GoBLE_reciever_1.0.ino to GoBLE_reciever_0.1.ino
+- GitHub: [kreier/ESP32] Update README.md
+- GitHub: [kreier/ESP32] Update README.md
+- GitHub: [kreier/ESP32] Add files via upload
+- GitHub: [kreier/ESP32] Create README.md
+- GitHub: [kreier/ESP32] Create GoBLE reciever.ino
+- GitHub: [kreier/ESP32] Update README.md
+- GitHub: [kreier/ESP32] Update README.md
+- GitHub: [kreier/ESP32] Add files via upload
+- GitHub: [kreier/ESP32] Add files via upload
+- GitHub: [kreier/ESP32] Add files via upload
+- GitHub: [kreier/ESP32] Add files via upload
+- GitHub: [kreier/ESP32] Delete info.md
+- GitHub: [kreier/ESP32] Add files via upload
+- GitHub: [kreier/ESP32] Create README.md
+- GitHub: [kreier/ESP32] Create info.md</title></rect></a>
 <rect class="day-cell" data-date="2019-03-28" x="174" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-03-29" x="174" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-03-30" x="174" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-03-30: 0 entries</title></rect>
@@ -4192,19 +4196,19 @@ AI und ML
 <rect class="day-cell" data-date="2019-04-06" x="186" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-06: 0 entries</title></rect>
 <text x="198" y="30" font-family="sans-serif" font-size="8" fill="#767676">Apr</text>
 <a href="https://github.com/kreier/ESP32/commit/2a91fe2062f3f7fb4423c671c934e52199f377ea"><rect class="day-cell" data-date="2019-04-07" x="198" y="35" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-04-07: 2 entries
-[kreier/ESP32] Blue LED indicates BLE connection, motor values calculated
-[kreier/ESP32] blinking LED indicates Bluetooth status, Motor values calculated</title></rect></a>
+- GitHub: [kreier/ESP32] Blue LED indicates BLE connection, motor values calculated
+- GitHub: [kreier/ESP32] blinking LED indicates Bluetooth status, Motor values calculated</title></rect></a>
 <rect class="day-cell" data-date="2019-04-08" x="198" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-04-09" x="198" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-09: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP8266/commit/279d7c6a1eaa2772fbedfc227352a8c75d6346bf"><rect class="day-cell" data-date="2019-04-10" x="198" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-04-10: 4 entries
-[kreier/ESP8266] Add files via upload
-[kreier/ESP8266] Update README.md
-[kreier/ESP8266] Create README.md
-[kreier/ESP8266] Initial commit</title></rect></a>
+- GitHub: [kreier/ESP8266] Add files via upload
+- GitHub: [kreier/ESP8266] Update README.md
+- GitHub: [kreier/ESP8266] Create README.md
+- GitHub: [kreier/ESP8266] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/ESP8266/commit/17884f17c84657e85468b1a2ceac008921f16883"><rect class="day-cell" data-date="2019-04-11" x="198" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-04-11: 3 entries
-[kreier/ESP8266] Create install.php
-[kreier/ESP8266] Create http_post.ino
-[kreier/ESP8266] Create README.md</title></rect></a>
+- GitHub: [kreier/ESP8266] Create install.php
+- GitHub: [kreier/ESP8266] Create http_post.ino
+- GitHub: [kreier/ESP8266] Create README.md</title></rect></a>
 <rect class="day-cell" data-date="2019-04-12" x="198" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-04-13" x="198" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-04-14" x="210" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-14: 0 entries</title></rect>
@@ -4225,7 +4229,7 @@ AI und ML
 <rect class="day-cell" data-date="2019-04-29" x="234" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-04-30" x="234" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-04-30: 0 entries</title></rect>
 <a href="https://kreier.github.io/quartz/Blog/2019/05/Cat-Tien-National-Park-II"><rect class="day-cell" data-date="2019-05-01" x="234" y="71" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2019-05-01: 1 entry
-Cat Tien National Park II</title></rect></a>
+- Quartz: Cat Tien National Park II</title></rect></a>
 <rect class="day-cell" data-date="2019-05-02" x="234" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-05-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-05-03" x="234" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-05-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-05-04" x="234" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-05-04: 0 entries</title></rect>
@@ -4347,70 +4351,70 @@ Cat Tien National Park II</title></rect></a>
 <rect class="day-cell" data-date="2019-08-24" x="426" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-08-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-08-25" x="438" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-08-25: 0 entries</title></rect>
 <a href="https://github.com/kreier/asa/commit/c0b528144fc1b0eb9f21f96db1b99a0752378854"><rect class="day-cell" data-date="2019-08-26" x="438" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-08-26: 2 entries
-[kreier/asa] Update README.md
-[kreier/asa] Initial commit</title></rect></a>
+- GitHub: [kreier/asa] Update README.md
+- GitHub: [kreier/asa] Initial commit</title></rect></a>
 <rect class="day-cell" data-date="2019-08-27" x="438" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-08-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-08-28" x="438" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-08-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-08-29" x="438" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-08-29: 0 entries</title></rect>
 <a href="https://github.com/kreier/asa/commit/7368bbd7a26b87a48911e94d80bacdbb6d9c60f9"><rect class="day-cell" data-date="2019-08-30" x="438" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-08-30: 2 entries
-[kreier/asa] Add files via upload
-[kreier/asa] Create README.md</title></rect></a>
+- GitHub: [kreier/asa] Add files via upload
+- GitHub: [kreier/asa] Create README.md</title></rect></a>
 <rect class="day-cell" data-date="2019-08-31" x="438" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-08-31: 0 entries</title></rect>
 <text x="450" y="30" font-family="sans-serif" font-size="8" fill="#767676">Sep</text>
 <rect class="day-cell" data-date="2019-09-01" x="450" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-01: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-09-02" x="450" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-09-03" x="450" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-03: 0 entries</title></rect>
 <a href="https://github.com/kreier/asa/commit/f8c51bb41dc2c7162093f04b333c292976ffb59e"><rect class="day-cell" data-date="2019-09-04" x="450" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-04: 2 entries
-[kreier/asa] sample code motor shield
-[kreier/asa] Add files via upload</title></rect></a>
+- GitHub: [kreier/asa] sample code motor shield
+- GitHub: [kreier/asa] Add files via upload</title></rect></a>
 <a href="https://github.com/kreier/asa/commit/a7d4332e615e28dbf991e0361db9617f3a1f0822"><rect class="day-cell" data-date="2019-09-05" x="450" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-05: 5 entries
-[kreier/asa] Update motorshield_1.ino
-[kreier/asa] Update readme.md
-[kreier/asa] Update and rename motor shield_1.ino to motorshield_1.ino
-[kreier/asa] Create readme.md
-[kreier/asa] Create motor shield_1.ino</title></rect></a>
+- GitHub: [kreier/asa] Update motorshield_1.ino
+- GitHub: [kreier/asa] Update readme.md
+- GitHub: [kreier/asa] Update and rename motor shield_1.ino to motorshield_1.ino
+- GitHub: [kreier/asa] Create readme.md
+- GitHub: [kreier/asa] Create motor shield_1.ino</title></rect></a>
 <a href="https://github.com/kreier/asa/commit/f3d1f2fd790e0bbb346928f84aa206fcb50d400e"><rect class="day-cell" data-date="2019-09-06" x="450" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-06: 3 entries
-[kreier/asa] Update buzzer_demo
-[kreier/asa] Create README.md
-[kreier/asa] Create buzzer_demo</title></rect></a>
+- GitHub: [kreier/asa] Update buzzer_demo
+- GitHub: [kreier/asa] Create README.md
+- GitHub: [kreier/asa] Create buzzer_demo</title></rect></a>
 <rect class="day-cell" data-date="2019-09-07" x="450" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-09-08" x="462" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-09-09" x="462" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-09: 0 entries</title></rect>
 <a href="https://github.com/kreier/asa/commit/7b9f146d120dc3b18d4d584d5c9b5d8093c508e4"><rect class="day-cell" data-date="2019-09-10" x="462" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-10: 2 entries
-[kreier/asa] Add files via upload
-[kreier/asa] Create README.md</title></rect></a>
+- GitHub: [kreier/asa] Add files via upload
+- GitHub: [kreier/asa] Create README.md</title></rect></a>
 <rect class="day-cell" data-date="2019-09-11" x="462" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-09-12" x="462" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-09-13" x="462" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-09-14" x="462" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-09-15" x="474" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-15: 0 entries</title></rect>
 <a href="https://github.com/kreier/asa/commit/4f84ba60382681aaf4a9f9d463dd3780324d9c55"><rect class="day-cell" data-date="2019-09-16" x="474" y="47" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2019-09-16: 6 entries
-[kreier/asa] Update README.md
-[kreier/asa] pins, does not work with Leonardo.
-[kreier/asa] Create PS2X-example.ino
-[kreier/asa] sources for Raspberry Pi included.
-[kreier/asa] Update README.md
-[kreier/asa] Update README.md</title></rect></a>
+- GitHub: [kreier/asa] Update README.md
+- GitHub: [kreier/asa] pins, does not work with Leonardo.
+- GitHub: [kreier/asa] Create PS2X-example.ino
+- GitHub: [kreier/asa] sources for Raspberry Pi included.
+- GitHub: [kreier/asa] Update README.md
+- GitHub: [kreier/asa] Update README.md</title></rect></a>
 <a href="https://github.com/kreier/asa/commit/05d92a4c723c157309b581456c4fdd600170b82d"><rect class="day-cell" data-date="2019-09-17" x="474" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-17: 2 entries
-[kreier/asa] Add files via upload
-[kreier/asa] included image</title></rect></a>
+- GitHub: [kreier/asa] Add files via upload
+- GitHub: [kreier/asa] included image</title></rect></a>
 <a href="https://github.com/kreier/asa/commit/b855a680d095e223dd41ef551ef8b4ca58bad473"><rect class="day-cell" data-date="2019-09-18" x="474" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-18: 2 entries
-[kreier/asa] new pin assignment
-[kreier/asa] another working sample</title></rect></a>
+- GitHub: [kreier/asa] new pin assignment
+- GitHub: [kreier/asa] another working sample</title></rect></a>
 <rect class="day-cell" data-date="2019-09-19" x="474" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-19: 0 entries</title></rect>
 <a href="https://github.com/kreier/asa/commit/ea17c8eeaef69a01ebad178b1855a2ba1e157541"><rect class="day-cell" data-date="2019-09-20" x="474" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-20: 4 entries
-[kreier/asa] indicate PWM pins
-[kreier/asa] Update and rename README.md to readme.md
-[kreier/asa] Update README.md
-[kreier/asa] Add files via upload</title></rect></a>
+- GitHub: [kreier/asa] indicate PWM pins
+- GitHub: [kreier/asa] Update and rename README.md to readme.md
+- GitHub: [kreier/asa] Update README.md
+- GitHub: [kreier/asa] Add files via upload</title></rect></a>
 <rect class="day-cell" data-date="2019-09-21" x="474" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-09-22" x="486" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-22: 0 entries</title></rect>
 <a href="https://github.com/kreier/asa/commit/3c73892e7cd4c13c0e115d08f1f319af53ac8888"><rect class="day-cell" data-date="2019-09-23" x="486" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-09-23: 5 entries
-[kreier/asa] Add files via upload
-[kreier/asa] pins defined, CH340 update
-[kreier/asa] Update readme.md
-[kreier/asa] Update and rename README.md to readme.md
-[kreier/asa] Add files via upload</title></rect></a>
+- GitHub: [kreier/asa] Add files via upload
+- GitHub: [kreier/asa] pins defined, CH340 update
+- GitHub: [kreier/asa] Update readme.md
+- GitHub: [kreier/asa] Update and rename README.md to readme.md
+- GitHub: [kreier/asa] Add files via upload</title></rect></a>
 <rect class="day-cell" data-date="2019-09-24" x="486" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-09-25" x="486" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-09-26" x="486" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-26: 0 entries</title></rect>
@@ -4419,10 +4423,10 @@ Cat Tien National Park II</title></rect></a>
 <rect class="day-cell" data-date="2019-09-29" x="498" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-09-30" x="498" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-09-30: 0 entries</title></rect>
 <a href="https://github.com/kreier/asa/commit/fbab7079713c1da9374ad066b531a3d2f68eccd9"><rect class="day-cell" data-date="2019-10-01" x="498" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-01: 4 entries
-[kreier/asa] move to motorshield folder
-[kreier/asa] renamed folder
-[kreier/asa] Add files via upload
-[kreier/asa] Update readme.md</title></rect></a>
+- GitHub: [kreier/asa] move to motorshield folder
+- GitHub: [kreier/asa] renamed folder
+- GitHub: [kreier/asa] Add files via upload
+- GitHub: [kreier/asa] Update readme.md</title></rect></a>
 <rect class="day-cell" data-date="2019-10-02" x="498" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-10-03" x="498" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-10-04" x="498" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-04: 0 entries</title></rect>
@@ -4430,150 +4434,150 @@ Cat Tien National Park II</title></rect></a>
 <text x="510" y="30" font-family="sans-serif" font-size="8" fill="#767676">Oct</text>
 <rect class="day-cell" data-date="2019-10-06" x="510" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-06: 0 entries</title></rect>
 <a href="https://github.com/kreier/407B/commit/7d9de9aad284c3fed73912ba39f2f8309ba8b6e3"><rect class="day-cell" data-date="2019-10-07" x="510" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-07: 3 entries
-[kreier/407B] Create nametag_aisvn.ino
-[kreier/407B] Update README.md
-[kreier/407B] Initial commit</title></rect></a>
+- GitHub: [kreier/407B] Create nametag_aisvn.ino
+- GitHub: [kreier/407B] Update README.md
+- GitHub: [kreier/407B] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/407B/commit/cfa6331638cb900fb7c52f6ea3820a56e0a75997"><rect class="day-cell" data-date="2019-10-08" x="510" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-08: 2 entries
-[kreier/407B] Luke and Katie alias added
-[kreier/407B] Update README.md</title></rect></a>
+- GitHub: [kreier/407B] Luke and Katie alias added
+- GitHub: [kreier/407B] Update README.md</title></rect></a>
 <a href="https://github.com/kreier/407B/commit/dce48a1d9d0e835775abe3baf150a34897564da3"><rect class="day-cell" data-date="2019-10-09" x="510" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-09: 5 entries
-[kreier/407B] Add files via upload
-[kreier/407B] Create readme.md
-[kreier/407B] image links fixed
-[kreier/407B] image links corrected
-[kreier/407B] Create readme.md</title></rect></a>
+- GitHub: [kreier/407B] Add files via upload
+- GitHub: [kreier/407B] Create readme.md
+- GitHub: [kreier/407B] image links fixed
+- GitHub: [kreier/407B] image links corrected
+- GitHub: [kreier/407B] Create readme.md</title></rect></a>
 <a href="https://github.com/kreier/407B/commit/c2bbc11fa8c84d626fc288693e0780cd391855bb"><rect class="day-cell" data-date="2019-10-10" x="510" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-10: 3 entries
-[kreier/407B] Create readme.md
-[kreier/aqi] Update README.md
-[kreier/aqi] Initial commit</title></rect></a>
+- GitHub: [kreier/407B] Create readme.md
+- GitHub: [kreier/aqi] Update README.md
+- GitHub: [kreier/aqi] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/aqi/commit/d90400bd7758835b0cfaf3efff169315ddbece64"><rect class="day-cell" data-date="2019-10-11" x="510" y="95" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2019-10-11: 15 entries
-[kreier/aqi] included QR code as picture
-[kreier/aqi] Add files via upload
-[kreier/aqi] map data included
-[kreier/aqi] Update readme.md
-[kreier/aqi] Add files via upload
-[kreier/aqi] Add files via upload
-[kreier/aqi] Add files via upload
-[kreier/aqi] Update readme.md
-[kreier/aqi] Create readme.md
-[kreier/aqi] Update README.md
-[kreier/aqi] three sensors added
-[kreier/aqi] programmed in 2015
-[kreier/aqi] Create readme.md
-[kreier/aqi] updated DIY kit
-[kreier/aqi] database sensor updated</title></rect></a>
+- GitHub: [kreier/aqi] included QR code as picture
+- GitHub: [kreier/aqi] Add files via upload
+- GitHub: [kreier/aqi] map data included
+- GitHub: [kreier/aqi] Update readme.md
+- GitHub: [kreier/aqi] Add files via upload
+- GitHub: [kreier/aqi] Add files via upload
+- GitHub: [kreier/aqi] Add files via upload
+- GitHub: [kreier/aqi] Update readme.md
+- GitHub: [kreier/aqi] Create readme.md
+- GitHub: [kreier/aqi] Update README.md
+- GitHub: [kreier/aqi] three sensors added
+- GitHub: [kreier/aqi] programmed in 2015
+- GitHub: [kreier/aqi] Create readme.md
+- GitHub: [kreier/aqi] updated DIY kit
+- GitHub: [kreier/aqi] database sensor updated</title></rect></a>
 <rect class="day-cell" data-date="2019-10-12" x="510" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-10-13" x="522" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-13: 0 entries</title></rect>
 <a href="https://github.com/kreier/aqi/commit/35cbae0937df06e5f4a98935ecd343caf1d9d5e4"><rect class="day-cell" data-date="2019-10-14" x="522" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-14: 3 entries
-[kreier/aqi] Create readme.md
-[kreier/aqi] Add files via upload
-[kreier/aqi] Create readme.md</title></rect></a>
+- GitHub: [kreier/aqi] Create readme.md
+- GitHub: [kreier/aqi] Add files via upload
+- GitHub: [kreier/aqi] Create readme.md</title></rect></a>
 <a href="https://github.com/kreier/407B/commit/a747a433a875a93e8f39332a7d3998580ea96a4d"><rect class="day-cell" data-date="2019-10-15" x="522" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-15: 2 entries
-[kreier/407B] created 2016-01-26 for NaWi AG at Eichenschule Scheessel
-[kreier/407B] created 2016-01-26 in Hofkoh for NaWi-AG in grade 4 &amp; 5 at the Eichenschule</title></rect></a>
+- GitHub: [kreier/407B] created 2016-01-26 for NaWi AG at Eichenschule Scheessel
+- GitHub: [kreier/407B] created 2016-01-26 in Hofkoh for NaWi-AG in grade 4 &amp; 5 at the Eichenschule</title></rect></a>
 <a href="https://github.com/kreier/407B/commit/965950dc2b26bebbdbfca06f5693ec10e364a1ba"><rect class="day-cell" data-date="2019-10-16" x="522" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-16: 1 entry
-[kreier/407B] progress bar and uptime</title></rect></a>
+- GitHub: [kreier/407B] progress bar and uptime</title></rect></a>
 <a href="https://github.com/kreier/407B/commit/1c21cf8953e097eca2ad29239f04a45bb040b746"><rect class="day-cell" data-date="2019-10-17" x="522" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-17: 5 entries
-[kreier/407B] sensors and maps integraded
-[kreier/407B] Add files via upload
-[kreier/407B] Create readme.md
-[kreier/407B] sensors integraded
-[kreier/407B] Create readme.md</title></rect></a>
+- GitHub: [kreier/407B] sensors and maps integraded
+- GitHub: [kreier/407B] Add files via upload
+- GitHub: [kreier/407B] Create readme.md
+- GitHub: [kreier/407B] sensors integraded
+- GitHub: [kreier/407B] Create readme.md</title></rect></a>
 <a href="https://github.com/kreier/aqi/commit/ef97f6e1233aaaeb3e7efecb0a623b7b0cf56155"><rect class="day-cell" data-date="2019-10-18" x="522" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-18: 1 entry
-[kreier/aqi] Create readme.md</title></rect></a>
+- GitHub: [kreier/aqi] Create readme.md</title></rect></a>
 <rect class="day-cell" data-date="2019-10-19" x="522" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-10-20" x="534" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-20: 0 entries</title></rect>
 <a href="https://github.com/kreier/aqi/commit/e049e27dbb98c5fc04abc63f1a2383872386651e"><rect class="day-cell" data-date="2019-10-21" x="534" y="47" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2019-10-21: 12 entries
-[kreier/aqi] infoboard for students
-[kreier/aqi] overview and conversion of units
-[kreier/asa] Instruction to successful BT remote control
-[kreier/asa] BT controlled robot via with 3 speeds
-[kreier/asa] analogWrite(128) is 50%
-[kreier/asa] fixed - works with pin 8 on Leonardo and HC-05
-[kreier/asa] SoftwareSerial needs pin 8
-[kreier/asa] works with HC-05 and Arduino Uno, not Leonardo ...
-[kreier/asa] not yet working with Leonardo
-[kreier/asa] max speed only 50% (128)
-[kreier/asa] pin assignment updated
-[kreier/asa] Pin assignment</title></rect></a>
+- GitHub: [kreier/aqi] infoboard for students
+- GitHub: [kreier/aqi] overview and conversion of units
+- GitHub: [kreier/asa] Instruction to successful BT remote control
+- GitHub: [kreier/asa] BT controlled robot via with 3 speeds
+- GitHub: [kreier/asa] analogWrite(128) is 50%
+- GitHub: [kreier/asa] fixed - works with pin 8 on Leonardo and HC-05
+- GitHub: [kreier/asa] SoftwareSerial needs pin 8
+- GitHub: [kreier/asa] works with HC-05 and Arduino Uno, not Leonardo ...
+- GitHub: [kreier/asa] not yet working with Leonardo
+- GitHub: [kreier/asa] max speed only 50% (128)
+- GitHub: [kreier/asa] pin assignment updated
+- GitHub: [kreier/asa] Pin assignment</title></rect></a>
 <a href="https://github.com/kreier/407B/commit/708639409d40ce62d004310cc95a6cc7ea7e6817"><rect class="day-cell" data-date="2019-10-22" x="534" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-22: 3 entries
-[kreier/407B] .flush() does not work and minor fixes
-[kreier/407B] Add files via upload
-[kreier/asa] BLE remote controller software added</title></rect></a>
+- GitHub: [kreier/407B] .flush() does not work and minor fixes
+- GitHub: [kreier/407B] Add files via upload
+- GitHub: [kreier/asa] BLE remote controller software added</title></rect></a>
 <a href="https://github.com/kreier/407B/commit/e5ac62dbedc59194e1d565486c07f326dcd129ab"><rect class="day-cell" data-date="2019-10-23" x="534" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-23: 2 entries
-[kreier/407B] new example
-[kreier/407B] Create readme.md</title></rect></a>
+- GitHub: [kreier/407B] new example
+- GitHub: [kreier/407B] Create readme.md</title></rect></a>
 <rect class="day-cell" data-date="2019-10-24" x="534" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-24: 0 entries</title></rect>
 <a href="https://github.com/kreier/407B/commit/68697c32b1d8c544d8432f924002dd8c8e448bac"><rect class="day-cell" data-date="2019-10-25" x="534" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-25: 3 entries
-[kreier/407B] ultrasonic distance and IR proximity with uptime counter
-[kreier/407B] sketch 2019-10-25 with german comments - unfinished
-[kreier/407B] Sketch from 2019-10-23</title></rect></a>
+- GitHub: [kreier/407B] ultrasonic distance and IR proximity with uptime counter
+- GitHub: [kreier/407B] sketch 2019-10-25 with german comments - unfinished
+- GitHub: [kreier/407B] Sketch from 2019-10-23</title></rect></a>
 <rect class="day-cell" data-date="2019-10-26" x="534" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-10-27" x="546" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-10-27: 0 entries</title></rect>
 <a href="https://github.com/kreier/407B/commit/676bc63d1ee5b6e04f0d76c18b1e51fbb9c77b99"><rect class="day-cell" data-date="2019-10-28" x="546" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-28: 2 entries
-[kreier/407B] minutes overrun bug fixed in tuptime
-[kreier/asa] Create readme.md</title></rect></a>
+- GitHub: [kreier/407B] minutes overrun bug fixed in tuptime
+- GitHub: [kreier/asa] Create readme.md</title></rect></a>
 <a href="https://github.com/kreier/asa/commit/bcf9ebf567439d35489b5f40b23c01fb99f29227"><rect class="day-cell" data-date="2019-10-29" x="546" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-29: 3 entries
-[kreier/asa] Delete bluetooth-robot_iOS.ino
-[kreier/asa] to be used with BitBlue
-[kreier/asa] to be used with BitBlue</title></rect></a>
+- GitHub: [kreier/asa] Delete bluetooth-robot_iOS.ino
+- GitHub: [kreier/asa] to be used with BitBlue
+- GitHub: [kreier/asa] to be used with BitBlue</title></rect></a>
 <a href="https://github.com/kreier/aqi/commit/b731d47e75ac7b5ee09397df978208faac55c532"><rect class="day-cell" data-date="2019-10-30" x="546" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-30: 3 entries
-[kreier/aqi] map HCM linked
-[kreier/aqi] map view October 17th, 2019
-[kreier/aqi] compare PM2.5 to AQI in China and US</title></rect></a>
+- GitHub: [kreier/aqi] map HCM linked
+- GitHub: [kreier/aqi] map view October 17th, 2019
+- GitHub: [kreier/aqi] compare PM2.5 to AQI in China and US</title></rect></a>
 <a href="https://github.com/kreier/407B/commit/f50efe3165c1ac1a684f7d179b66057b7cd06de5"><rect class="day-cell" data-date="2019-10-31" x="546" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-10-31: 1 entry
-[kreier/407B] int overflow minutes correction</title></rect></a>
+- GitHub: [kreier/407B] int overflow minutes correction</title></rect></a>
 <a href="https://github.com/kreier/407B/commit/fde0989a59b217e16c04296541bc2d3816cbb283"><rect class="day-cell" data-date="2019-11-01" x="546" y="95" width="10" height="10" fill="#ffcc80" rx="2" ry="2"><title>2019-11-01: 11 entries
-[kreier/407B] function to return string with uptime
-[kreier/407B] rollover in comparison (2 unsigned long) fixed
-[kreier/aqi] sensor table added
-[kreier/aqi] list of sensors 2019-11
-[kreier/aqi] sensor list updated
-[kreier/aqi] created 2019-10-15
-[kreier/aqi] export from kaggle
-[kreier/aqi] Update readme.md
-[kreier/aqi] Create analyze2018-1.py
-[kreier/asa] software iOS and Android
-[kreier/asa] to be used with BLEJoystick</title></rect></a>
+- GitHub: [kreier/407B] function to return string with uptime
+- GitHub: [kreier/407B] rollover in comparison (2 unsigned long) fixed
+- GitHub: [kreier/aqi] sensor table added
+- GitHub: [kreier/aqi] list of sensors 2019-11
+- GitHub: [kreier/aqi] sensor list updated
+- GitHub: [kreier/aqi] created 2019-10-15
+- GitHub: [kreier/aqi] export from kaggle
+- GitHub: [kreier/aqi] Update readme.md
+- GitHub: [kreier/aqi] Create analyze2018-1.py
+- GitHub: [kreier/asa] software iOS and Android
+- GitHub: [kreier/asa] to be used with BLEJoystick</title></rect></a>
 <rect class="day-cell" data-date="2019-11-02" x="546" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-02: 0 entries</title></rect>
 <text x="558" y="30" font-family="sans-serif" font-size="8" fill="#767676">Nov</text>
 <rect class="day-cell" data-date="2019-11-03" x="558" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-03: 0 entries</title></rect>
 <a href="https://github.com/kreier/asa/commit/8f784539eb3181973b8c6e1f6c3f84bf6b7c9757"><rect class="day-cell" data-date="2019-11-04" x="558" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-04: 5 entries
-[kreier/asa] correct calculate uptime
-[kreier/asa] logo
-[kreier/asa] updated pin assignment bluetooth
-[kreier/asa] just sweep 30 to 150 degrees, wait at 90
-[kreier/asa] ultrasonic on servo created</title></rect></a>
+- GitHub: [kreier/asa] correct calculate uptime
+- GitHub: [kreier/asa] logo
+- GitHub: [kreier/asa] updated pin assignment bluetooth
+- GitHub: [kreier/asa] just sweep 30 to 150 degrees, wait at 90
+- GitHub: [kreier/asa] ultrasonic on servo created</title></rect></a>
 <a href="https://github.com/kreier/asa/commit/a6da1d8de75a02509fa2066ebcba1f743284a53f"><rect class="day-cell" data-date="2019-11-05" x="558" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-05: 2 entries
-[kreier/asa] new servo and ultrasonic
-[kreier/asa] with servo and ultrasonic</title></rect></a>
+- GitHub: [kreier/asa] new servo and ultrasonic
+- GitHub: [kreier/asa] with servo and ultrasonic</title></rect></a>
 <rect class="day-cell" data-date="2019-11-06" x="558" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-11-07" x="558" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-07: 0 entries</title></rect>
 <a href="https://github.com/kreier/asa/commit/627a1cef7fbb363386ea8fbeffba8faeffbe784a"><rect class="day-cell" data-date="2019-11-08" x="558" y="95" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-08: 1 entry
-[kreier/asa] remote with servo, ultrasonic and acoustic feedback</title></rect></a>
+- GitHub: [kreier/asa] remote with servo, ultrasonic and acoustic feedback</title></rect></a>
 <a href="https://github.com/kreier/asa/commit/e8913750197fcbda77c5f6b338faadc8a1684f21"><rect class="day-cell" data-date="2019-11-09" x="558" y="107" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-09: 1 entry
-[kreier/asa] Set theme jekyll-theme-slate</title></rect></a>
+- GitHub: [kreier/asa] Set theme jekyll-theme-slate</title></rect></a>
 <rect class="day-cell" data-date="2019-11-10" x="570" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-10: 0 entries</title></rect>
 <a href="https://github.com/kreier/aqi/commit/6fdd41b7b2f4c6f1b736cb36ad8f7de2d684ad3b"><rect class="day-cell" data-date="2019-11-11" x="570" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-11: 3 entries
-[kreier/aqi] DHT sensors
-[kreier/aqi] DHT22 links
-[kreier/aqi] Set theme jekyll-theme-slate</title></rect></a>
+- GitHub: [kreier/aqi] DHT sensors
+- GitHub: [kreier/aqi] DHT22 links
+- GitHub: [kreier/aqi] Set theme jekyll-theme-slate</title></rect></a>
 <a href="https://github.com/kreier/asa/commit/b0ec5507c15b6d5c14985faeacb8c0e0281510ed"><rect class="day-cell" data-date="2019-11-12" x="570" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-12: 3 entries
-[kreier/asa] 2019-10-21 led blink if income
-[kreier/asa] 2019-10-21
-[kreier/asa] Print BLE serial to 1602</title></rect></a>
+- GitHub: [kreier/asa] 2019-10-21 led blink if income
+- GitHub: [kreier/asa] 2019-10-21
+- GitHub: [kreier/asa] Print BLE serial to 1602</title></rect></a>
 <a href="https://github.com/kreier/407B/commit/dcc977852def53f7881bbd0378dcce3210e5d415"><rect class="day-cell" data-date="2019-11-13" x="570" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-13: 5 entries
-[kreier/407B] Update _config.yml
-[kreier/407B] Set theme jekyll-theme-slate
-[kreier/ar65view] Set theme jekyll-theme-cayman
-[kreier/asa] Update _config.yml
-[kreier/asa] Update _config.yml</title></rect></a>
+- GitHub: [kreier/407B] Update _config.yml
+- GitHub: [kreier/407B] Set theme jekyll-theme-slate
+- GitHub: [kreier/ar65view] Set theme jekyll-theme-cayman
+- GitHub: [kreier/asa] Update _config.yml
+- GitHub: [kreier/asa] Update _config.yml</title></rect></a>
 <rect class="day-cell" data-date="2019-11-14" x="570" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-11-15" x="570" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-11-16" x="570" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-11-17" x="582" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-17: 0 entries</title></rect>
 <a href="https://github.com/kreier/asa/commit/13af9439955ccc7693c066eb5b7dc429a9e9f611"><rect class="day-cell" data-date="2019-11-18" x="582" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-11-18: 1 entry
-[kreier/asa] name and declaration refined</title></rect></a>
+- GitHub: [kreier/asa] name and declaration refined</title></rect></a>
 <rect class="day-cell" data-date="2019-11-19" x="582" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-11-20" x="582" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-11-21" x="582" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-11-21: 0 entries</title></rect>
@@ -4589,7 +4593,7 @@ Cat Tien National Park II</title></rect></a>
 <text x="606" y="30" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
 <rect class="day-cell" data-date="2019-12-01" x="606" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-01: 0 entries</title></rect>
 <a href="https://github.com/kreier/asa/commit/90a3e62042bf5fce486233c28affb3e39b37cbea"><rect class="day-cell" data-date="2019-12-02" x="606" y="47" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-12-02: 1 entry
-[kreier/asa] Huy's Android treaked software - week 2</title></rect></a>
+- GitHub: [kreier/asa] Huy's Android treaked software - week 2</title></rect></a>
 <rect class="day-cell" data-date="2019-12-03" x="606" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-12-04" x="606" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-12-05" x="606" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-05: 0 entries</title></rect>
@@ -4605,47 +4609,47 @@ Cat Tien National Park II</title></rect></a>
 <rect class="day-cell" data-date="2019-12-15" x="630" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-12-16" x="630" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-16: 0 entries</title></rect>
 <a href="https://github.com/kreier/ar65view/commit/824e5f207dfe215dcfc27ba6c97be82ff53382e3"><rect class="day-cell" data-date="2019-12-17" x="630" y="59" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2019-12-17: 13 entries
-[kreier/ar65view] updated jnlp description
-[kreier/ar65view] Merge branch 'master' of https://github.com/kreier/ar65view
-[kreier/ar65view] Update README.md
-[kreier/ar65view] successful build with Travis CI
-[kreier/ar65view] updated to 2011/02/01 from SVN sourceforge
-[kreier/ar65view] from SVN 2011/02/01
-[kreier/ar65view] removed &lt;import file="nbproject/build-impl.xml"/&gt;
-[kreier/ar65view] removed &lt;import file="jnlp-impl.xml"/&gt;
-[kreier/ar65view] removed extension jnlp-impl.xml
-[kreier/ar65view] Create .travis.yml
-[kreier/ESP32] Update README.md
-[kreier/ESP32] copy from circuits4you - temperature 53.33 degree
-[kreier/ESP32] Create README.md</title></rect></a>
+- GitHub: [kreier/ar65view] updated jnlp description
+- GitHub: [kreier/ar65view] Merge branch 'master' of https://github.com/kreier/ar65view
+- GitHub: [kreier/ar65view] Update README.md
+- GitHub: [kreier/ar65view] successful build with Travis CI
+- GitHub: [kreier/ar65view] updated to 2011/02/01 from SVN sourceforge
+- GitHub: [kreier/ar65view] from SVN 2011/02/01
+- GitHub: [kreier/ar65view] removed &lt;import file="nbproject/build-impl.xml"/&gt;
+- GitHub: [kreier/ar65view] removed &lt;import file="jnlp-impl.xml"/&gt;
+- GitHub: [kreier/ar65view] removed extension jnlp-impl.xml
+- GitHub: [kreier/ar65view] Create .travis.yml
+- GitHub: [kreier/ESP32] Update README.md
+- GitHub: [kreier/ESP32] copy from circuits4you - temperature 53.33 degree
+- GitHub: [kreier/ESP32] Create README.md</title></rect></a>
 <a href="https://github.com/kreier/aisvn/commit/ceff8a8dd868be254d79209f43bc56bffb0056b8"><rect class="day-cell" data-date="2019-12-18" x="630" y="71" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-12-18: 3 entries
-[kreier/aisvn] Create README.md
-[kreier/aisvn] Create README.md
-[kreier/aisvn] Initial commit</title></rect></a>
+- GitHub: [kreier/aisvn] Create README.md
+- GitHub: [kreier/aisvn] Create README.md
+- GitHub: [kreier/aisvn] Initial commit</title></rect></a>
 <a href="https://github.com/kreier/aisvn/commit/e1d8248284f9befb842be5089389a0eb22c1f321"><rect class="day-cell" data-date="2019-12-19" x="630" y="83" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2019-12-19: 23 entries
-[kreier/aisvn] Create .esp32.test.skip
-[kreier/aisvn] Update .travis.yml
-[kreier/aisvn] Create .esp8266.test.skip
-[kreier/aisvn] Update .travis.yml
-[kreier/aisvn] INSTALL_PLATFORMS limited
-[kreier/aisvn] missing void?
-[kreier/aisvn] remove install
-[kreier/aisvn] Update README.md
-[kreier/aisvn] Create .travis.yml
-[kreier/aisvn] Create drive_20191219.ino
-[kreier/aisvn] licence updated
-[kreier/aisvn] Update LICENSE
-[kreier/aisvn] Set theme jekyll-theme-leap-day
-[kreier/aisvn] build update and travis
-[kreier/aisvn] Create README.md
-[kreier/aisvn] Update README.md
-[kreier/aisvn] Update README.md
-[kreier/ar65view] Update LICENSE
-[kreier/ar65view] added info badges
-[kreier/ar65view] included os, removed sudo (ignored by Travis)
-[kreier/ar65view] link too sourceforge.net
-[kreier/ar65view] screenshot included
-[kreier/ar65view] screenshot Windows Vista in 2008</title></rect></a>
+- GitHub: [kreier/aisvn] Create .esp32.test.skip
+- GitHub: [kreier/aisvn] Update .travis.yml
+- GitHub: [kreier/aisvn] Create .esp8266.test.skip
+- GitHub: [kreier/aisvn] Update .travis.yml
+- GitHub: [kreier/aisvn] INSTALL_PLATFORMS limited
+- GitHub: [kreier/aisvn] missing void?
+- GitHub: [kreier/aisvn] remove install
+- GitHub: [kreier/aisvn] Update README.md
+- GitHub: [kreier/aisvn] Create .travis.yml
+- GitHub: [kreier/aisvn] Create drive_20191219.ino
+- GitHub: [kreier/aisvn] licence updated
+- GitHub: [kreier/aisvn] Update LICENSE
+- GitHub: [kreier/aisvn] Set theme jekyll-theme-leap-day
+- GitHub: [kreier/aisvn] build update and travis
+- GitHub: [kreier/aisvn] Create README.md
+- GitHub: [kreier/aisvn] Update README.md
+- GitHub: [kreier/aisvn] Update README.md
+- GitHub: [kreier/ar65view] Update LICENSE
+- GitHub: [kreier/ar65view] added info badges
+- GitHub: [kreier/ar65view] included os, removed sudo (ignored by Travis)
+- GitHub: [kreier/ar65view] link too sourceforge.net
+- GitHub: [kreier/ar65view] screenshot included
+- GitHub: [kreier/ar65view] screenshot Windows Vista in 2008</title></rect></a>
 <rect class="day-cell" data-date="2019-12-20" x="630" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-12-21" x="630" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-12-22" x="642" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-22: 0 entries</title></rect>
@@ -4653,40 +4657,40 @@ Cat Tien National Park II</title></rect></a>
 <rect class="day-cell" data-date="2019-12-24" x="642" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-12-25" x="642" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-25: 0 entries</title></rect>
 <a href="https://github.com/kreier/aisvn/commit/e44ef005bcbfca1e96e6778824d536198ede7ff4"><rect class="day-cell" data-date="2019-12-26" x="642" y="83" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-12-26: 5 entries
-[kreier/aisvn] adopted blue color scheme
-[kreier/aisvn] copied from T400
-[kreier/aisvn] switch to cayman
-[kreier/aisvn] expanded history and documentation links
-[kreier/aisvn] project update</title></rect></a>
+- GitHub: [kreier/aisvn] adopted blue color scheme
+- GitHub: [kreier/aisvn] copied from T400
+- GitHub: [kreier/aisvn] switch to cayman
+- GitHub: [kreier/aisvn] expanded history and documentation links
+- GitHub: [kreier/aisvn] project update</title></rect></a>
 <a href="https://github.com/kreier/aisvn/commit/e036dad910c1c106516c2efa22709cb8773df212"><rect class="day-cell" data-date="2019-12-27" x="642" y="95" width="10" height="10" fill="#ffa726" rx="2" ry="2"><title>2019-12-27: 13 entries
-[kreier/aisvn] proper links to work with html
-[kreier/aisvn] licence, more robot cars listed
-[kreier/asa] changed GPL to MIT
-[kreier/asa2] bracket fixed
-[kreier/asa2] i2c scan example
-[kreier/asa2] welcome message for OLED
-[kreier/asa2] copy from AdaFruit
-[kreier/asa2] simple I2C scanner 2019/12/27
-[kreier/asa2] Set theme jekyll-theme-cayman
-[kreier/asa2] Update README.md
-[kreier/asa2] Create README.md
-[kreier/asa2] Create README.md
-[kreier/asa2] Initial commit</title></rect></a>
+- GitHub: [kreier/aisvn] proper links to work with html
+- GitHub: [kreier/aisvn] licence, more robot cars listed
+- GitHub: [kreier/asa] changed GPL to MIT
+- GitHub: [kreier/asa2] bracket fixed
+- GitHub: [kreier/asa2] i2c scan example
+- GitHub: [kreier/asa2] welcome message for OLED
+- GitHub: [kreier/asa2] copy from AdaFruit
+- GitHub: [kreier/asa2] simple I2C scanner 2019/12/27
+- GitHub: [kreier/asa2] Set theme jekyll-theme-cayman
+- GitHub: [kreier/asa2] Update README.md
+- GitHub: [kreier/asa2] Create README.md
+- GitHub: [kreier/asa2] Create README.md
+- GitHub: [kreier/asa2] Initial commit</title></rect></a>
 <rect class="day-cell" data-date="2019-12-28" x="642" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-12-29" x="654" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2019-12-30" x="654" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2019-12-30: 0 entries</title></rect>
 <a href="https://github.com/kreier/ESP32/commit/9b39fdd94bc8d654d76fda093d583379be84d889"><rect class="day-cell" data-date="2019-12-31" x="654" y="59" width="10" height="10" fill="#fff3e0" rx="2" ry="2"><title>2019-12-31: 2 entries
-[kreier/ESP32] Set theme jekyll-theme-cayman
-[kreier/ESP32] Update LICENSE</title></rect></a>
+- GitHub: [kreier/ESP32] Set theme jekyll-theme-cayman
+- GitHub: [kreier/ESP32] Update LICENSE</title></rect></a>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2018</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2018</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2018"><rect class="day-cell" data-date="2018-01-01" x="30" y="47" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2018-01-01: 1 entry
-2018</title></rect></a>
+- Quartz: 2018</title></rect></a>
 <rect class="day-cell" data-date="2018-01-02" x="30" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2018-01-03" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2018-01-04" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-01-04: 0 entries</title></rect>
@@ -5064,15 +5068,15 @@ Cat Tien National Park II</title></rect></a>
 <rect class="day-cell" data-date="2018-12-30" x="654" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2018-12-31" x="654" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2018-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2017</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 6, Github: 0 (0), Quartz: 2 (2), Wordpress: 4 (4), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2017</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 6, Github: 0 (0), Quartz: 2 (2), Wordpress: 4 (4), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <text x="30" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <a href="https://kreier.github.io/quartz/Diary/2017"><rect class="day-cell" data-date="2017-01-01" x="30" y="35" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2017-01-01: 1 entry
-2017</title></rect></a>
+- Quartz: 2017</title></rect></a>
 <rect class="day-cell" data-date="2017-01-02" x="30" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2017-01-03" x="30" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2017-01-04" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-01-04: 0 entries</title></rect>
@@ -5085,10 +5089,10 @@ Cat Tien National Park II</title></rect></a>
 <rect class="day-cell" data-date="2017-01-11" x="42" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-01-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2017-01-12" x="42" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-01-12: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2017/01/13/berichte-von-kollegen/"><rect class="day-cell" data-date="2017-01-13" x="42" y="95" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2017-01-13: 1 entry
-Berichte von Kollegen</title></rect></a>
+- WordPress: Berichte von Kollegen</title></rect></a>
 <rect class="day-cell" data-date="2017-01-14" x="42" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-01-14: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2017/01/15/who-is-faster-you-or-the-city/"><rect class="day-cell" data-date="2017-01-15" x="54" y="35" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2017-01-15: 1 entry
-You or the City &amp;#8211; Who is faster?</title></rect></a>
+- WordPress: You or the City &amp;#8211; Who is faster?</title></rect></a>
 <rect class="day-cell" data-date="2017-01-16" x="54" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-01-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2017-01-17" x="54" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-01-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2017-01-18" x="54" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-01-18: 0 entries</title></rect>
@@ -5134,7 +5138,7 @@ You or the City &amp;#8211; Who is faster?</title></rect></a>
 <rect class="day-cell" data-date="2017-02-26" x="126" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-02-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2017-02-27" x="126" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-02-27: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2017/02/28/waffelverkauf/"><rect class="day-cell" data-date="2017-02-28" x="126" y="59" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2017-02-28: 1 entry
-Waffelverkauf</title></rect></a>
+- WordPress: Waffelverkauf</title></rect></a>
 <rect class="day-cell" data-date="2017-03-01" x="126" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-03-01: 0 entries</title></rect>
 <rect class="day-cell" data-date="2017-03-02" x="126" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-03-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2017-03-03" x="126" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-03-03: 0 entries</title></rect>
@@ -5148,7 +5152,7 @@ Waffelverkauf</title></rect></a>
 <rect class="day-cell" data-date="2017-03-10" x="138" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-03-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2017-03-11" x="138" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-03-11: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2017/03/12/spring-race-10km-um-den-golfplatz/"><rect class="day-cell" data-date="2017-03-12" x="150" y="35" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2017-03-12: 1 entry
-Spring Race 10km um den Golfplatz</title></rect></a>
+- WordPress: Spring Race 10km um den Golfplatz</title></rect></a>
 <rect class="day-cell" data-date="2017-03-13" x="150" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-03-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2017-03-14" x="150" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-03-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2017-03-15" x="150" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-03-15: 0 entries</title></rect>
@@ -5295,7 +5299,7 @@ Spring Race 10km um den Golfplatz</title></rect></a>
 <rect class="day-cell" data-date="2017-07-30" x="390" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-07-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2017-07-31" x="390" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-07-31: 0 entries</title></rect>
 <a href="https://kreier.github.io/quartz/Blog/2017/08/AISVN"><rect class="day-cell" data-date="2017-08-01" x="390" y="59" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2017-08-01: 1 entry
-AISVN</title></rect></a>
+- Quartz: AISVN</title></rect></a>
 <rect class="day-cell" data-date="2017-08-02" x="390" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-08-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2017-08-03" x="390" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-08-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2017-08-04" x="390" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-08-04: 0 entries</title></rect>
@@ -5454,14 +5458,14 @@ AISVN</title></rect></a>
 <rect class="day-cell" data-date="2017-12-30" x="642" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2017-12-31" x="654" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2017-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2016</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 28, Github: 0 (0), Quartz: 1 (1), Wordpress: 26 (27), Legacy: 1 (1)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2016</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 28, Github: 0 (0), Quartz: 1 (1), Wordpress: 26 (27), Legacy: 1 (1)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2016"><rect class="day-cell" data-date="2016-01-01" x="30" y="95" width="10" height="10" fill="#ef9a9a" rx="2" ry="2"><title>2016-01-01: 1 entry
-2016</title></rect></a>
+- Quartz: 2016</title></rect></a>
 <rect class="day-cell" data-date="2016-01-02" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-01-02: 0 entries</title></rect>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="2016-01-03" x="42" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-01-03: 0 entries</title></rect>
@@ -5524,7 +5528,7 @@ AISVN</title></rect></a>
 <rect class="day-cell" data-date="2016-02-28" x="138" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-02-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-02-29" x="138" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-02-29: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2016/03/01/stirlingmotor/"><rect class="day-cell" data-date="2016-03-01" x="138" y="59" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-03-01: 1 entry
-Stirlingmotor</title></rect></a>
+- WordPress: Stirlingmotor</title></rect></a>
 <rect class="day-cell" data-date="2016-03-02" x="138" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-03-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-03-03" x="138" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-03-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-03-04" x="138" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-03-04: 0 entries</title></rect>
@@ -5562,7 +5566,7 @@ Stirlingmotor</title></rect></a>
 <rect class="day-cell" data-date="2016-04-03" x="198" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-04-04" x="198" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-04: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2016/04/05/musteraufgaben-klasse-10-vorlaeufig/"><rect class="day-cell" data-date="2016-04-05" x="198" y="59" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-04-05: 1 entry
-Musteraufgaben Physik 10</title></rect></a>
+- WordPress: Musteraufgaben Physik 10</title></rect></a>
 <rect class="day-cell" data-date="2016-04-06" x="198" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-04-07" x="198" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-04-08" x="198" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-08: 0 entries</title></rect>
@@ -5581,7 +5585,7 @@ Musteraufgaben Physik 10</title></rect></a>
 <rect class="day-cell" data-date="2016-04-21" x="222" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-04-22" x="222" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-22: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2016/04/23/lagerfeuer-und-lightpainting/"><rect class="day-cell" data-date="2016-04-23" x="222" y="107" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-04-23: 1 entry
-Lagerfeuer und Lightpainting</title></rect></a>
+- WordPress: Lagerfeuer und Lightpainting</title></rect></a>
 <rect class="day-cell" data-date="2016-04-24" x="234" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-04-25" x="234" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-04-26" x="234" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-04-26: 0 entries</title></rect>
@@ -5688,34 +5692,34 @@ Lagerfeuer und Lightpainting</title></rect></a>
 <rect class="day-cell" data-date="2016-08-02" x="402" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-08-03" x="402" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-03: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2016/08/04/ankunft-ho-chi-minh-city/"><rect class="day-cell" data-date="2016-08-04" x="402" y="83" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-04: 1 entry
-Ankunft Ho Chi Minh City</title></rect></a>
+- WordPress: Ankunft Ho Chi Minh City</title></rect></a>
 <a href="https://saiht.de/blog/2016/08/05/neue-wohnung/"><rect class="day-cell" data-date="2016-08-05" x="402" y="95" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-05: 1 entry
-neue Wohnung</title></rect></a>
+- WordPress: neue Wohnung</title></rect></a>
 <a href="https://saiht.de/blog/2016/08/06/nicos-hochzeit/"><rect class="day-cell" data-date="2016-08-06" x="402" y="107" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-06: 1 entry
-Nico&amp;#8217;s Hochzeit</title></rect></a>
+- WordPress: Nico&amp;#8217;s Hochzeit</title></rect></a>
 <text x="414" y="30" font-family="sans-serif" font-size="8" fill="#767676">Aug</text>
 <a href="https://saiht.de/blog/2016/08/07/shoppen-am-sonntag/"><rect class="day-cell" data-date="2016-08-07" x="414" y="35" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-07: 1 entry
-Shoppen am Sonntag</title></rect></a>
+- WordPress: Shoppen am Sonntag</title></rect></a>
 <a href="https://saiht.de/blog/2016/08/08/bankkonto-1-standard-chartered/"><rect class="day-cell" data-date="2016-08-08" x="414" y="47" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-08: 1 entry
-Bankkonto 1: Standard Chartered</title></rect></a>
+- WordPress: Bankkonto 1: Standard Chartered</title></rect></a>
 <a href="https://saiht.de/blog/2016/08/09/bankkonto-2-sc-vn-die-zweite/"><rect class="day-cell" data-date="2016-08-09" x="414" y="59" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-09: 1 entry
-Bankkonto 2: sc.vn die Zweite</title></rect></a>
+- WordPress: Bankkonto 2: sc.vn die Zweite</title></rect></a>
 <a href="https://saiht.de/blog/2016/08/10/ankunft-saigon/"><rect class="day-cell" data-date="2016-08-10" x="414" y="71" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-10: 1 entry
-Übergangswohnung und neu mit FTTH</title></rect></a>
+- WordPress: Übergangswohnung und neu mit FTTH</title></rect></a>
 <a href="https://saiht.de/blog/2016/08/11/fuehrungszeugnis-konsulat/"><rect class="day-cell" data-date="2016-08-11" x="414" y="83" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-11: 1 entry
-Führungszeugnis Konsulat</title></rect></a>
+- WordPress: Führungszeugnis Konsulat</title></rect></a>
 <a href="https://saiht.de/blog/2016/08/12/reifendruckkontrolle-auf-vietnamesisch/"><rect class="day-cell" data-date="2016-08-12" x="414" y="95" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-12: 1 entry
-Reifendruckkontrolle auf vietnamesisch</title></rect></a>
+- WordPress: Reifendruckkontrolle auf vietnamesisch</title></rect></a>
 <a href="https://saiht.de/blog/2016/08/13/willkommen-in-hanoi/"><rect class="day-cell" data-date="2016-08-13" x="414" y="107" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-13: 1 entry
-Willkommen in Hanoi</title></rect></a>
+- WordPress: Willkommen in Hanoi</title></rect></a>
 <a href="https://saiht.de/blog/2016/08/14/ha-long-bucht/"><rect class="day-cell" data-date="2016-08-14" x="426" y="35" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-14: 1 entry
-Ha-Long Bucht</title></rect></a>
+- WordPress: Ha-Long Bucht</title></rect></a>
 <a href="https://saiht.de/blog/2016/08/15/wasserpuppentheater-hanoi/"><rect class="day-cell" data-date="2016-08-15" x="426" y="47" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-15: 1 entry
-Wasserpuppentheater Hanoi</title></rect></a>
+- WordPress: Wasserpuppentheater Hanoi</title></rect></a>
 <a href="https://saiht.de/blog/2016/08/16/rfid-fuer-die-tiefgarage/"><rect class="day-cell" data-date="2016-08-16" x="426" y="59" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-16: 1 entry
-RFID für die Tiefgarage</title></rect></a>
+- WordPress: RFID für die Tiefgarage</title></rect></a>
 <a href="https://saiht.de/blog/2016/08/17/bankkonto-3-bidv-und-vietin/"><rect class="day-cell" data-date="2016-08-17" x="426" y="71" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-17: 1 entry
-Bankkonto 3: BIDV und Vietin</title></rect></a>
+- WordPress: Bankkonto 3: BIDV und Vietin</title></rect></a>
 <rect class="day-cell" data-date="2016-08-18" x="426" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-08-19" x="426" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-08-20" x="426" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-20: 0 entries</title></rect>
@@ -5725,19 +5729,19 @@ Bankkonto 3: BIDV und Vietin</title></rect></a>
 <rect class="day-cell" data-date="2016-08-24" x="438" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-08-25" x="438" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-25: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2016/08/26/erster-schultag/"><rect class="day-cell" data-date="2016-08-26" x="438" y="95" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-26: 1 entry
-Erster Schultag</title></rect></a>
+- WordPress: Erster Schultag</title></rect></a>
 <a href="https://saiht.de/blog/2016/08/27/ueberschwemmte-schule/"><rect class="day-cell" data-date="2016-08-27" x="438" y="107" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-27: 1 entry
-überschwemmte Schule</title></rect></a>
+- WordPress: überschwemmte Schule</title></rect></a>
 <rect class="day-cell" data-date="2016-08-28" x="450" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-28: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2016/08/29/vier-klassen-in-einer-klasse/"><rect class="day-cell" data-date="2016-08-29" x="450" y="47" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-08-29: 1 entry
-Vier Klassen in einer Klasse?</title></rect></a>
+- WordPress: Vier Klassen in einer Klasse?</title></rect></a>
 <rect class="day-cell" data-date="2016-08-30" x="450" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-08-31" x="450" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-08-31: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-09-01" x="450" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-01: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2016/09/02/holzbestellung-fuer-die-holzwerkstatt/"><rect class="day-cell" data-date="2016-09-02" x="450" y="95" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-09-02: 1 entry
-Holzbestellung für die Holzwerkstatt</title></rect></a>
+- WordPress: Holzbestellung für die Holzwerkstatt</title></rect></a>
 <a href="https://saiht.de/blog/2016/09/03/topcase-fuer-das-motorrad/"><rect class="day-cell" data-date="2016-09-03" x="450" y="107" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-09-03: 1 entry
-Topcase für das Motorrad</title></rect></a>
+- WordPress: Topcase für das Motorrad</title></rect></a>
 <text x="462" y="30" font-family="sans-serif" font-size="8" fill="#767676">Sep</text>
 <rect class="day-cell" data-date="2016-09-04" x="462" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-09-05" x="462" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-05: 0 entries</title></rect>
@@ -5745,19 +5749,19 @@ Topcase für das Motorrad</title></rect></a>
 <rect class="day-cell" data-date="2016-09-07" x="462" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-09-08" x="462" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-08: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2016/09/09/fahrt-zur-schule-mit-der-gopro-yi-xiaomi/"><rect class="day-cell" data-date="2016-09-09" x="462" y="95" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2016-09-09: 2 entries
-Fahrt zur Schule mit der GoPro (Yi Xiaomi)
-Holzwerkstatt 1 &amp;#8211; Regal in TimeLapse</title></rect></a>
+- WordPress: Fahrt zur Schule mit der GoPro (Yi Xiaomi)
+- WordPress: Holzwerkstatt 1 &amp;#8211; Regal in TimeLapse</title></rect></a>
 <rect class="day-cell" data-date="2016-09-10" x="462" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-09-11" x="474" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-11: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2016/09/12/langsames-internet/"><rect class="day-cell" data-date="2016-09-12" x="474" y="47" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-09-12: 1 entry
-Langsames Internet</title></rect></a>
+- WordPress: Langsames Internet</title></rect></a>
 <rect class="day-cell" data-date="2016-09-13" x="474" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-09-14" x="474" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-09-15" x="474" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-15: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2016/09/16/ernaehrungsumstellung/"><rect class="day-cell" data-date="2016-09-16" x="474" y="95" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-09-16: 1 entry
-Ernährungsumstellung</title></rect></a>
+- WordPress: Ernährungsumstellung</title></rect></a>
 <a href="https://saiht.de/blog/2016/09/17/am-strand-von-vung-tau/"><rect class="day-cell" data-date="2016-09-17" x="474" y="107" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2016-09-17: 1 entry
-Am Strand von Vũng Tàu</title></rect></a>
+- WordPress: Am Strand von Vũng Tàu</title></rect></a>
 <rect class="day-cell" data-date="2016-09-18" x="486" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-09-19" x="486" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-09-20" x="486" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-09-20: 0 entries</title></rect>
@@ -5840,7 +5844,7 @@ Am Strand von Vũng Tàu</title></rect></a>
 <text x="618" y="30" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
 <rect class="day-cell" data-date="2016-12-04" x="618" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-12-04: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/computer/benchmark.html"><rect class="day-cell" data-date="2016-12-05" x="618" y="47" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2016-12-05: 1 entry
-Kleine Benchmarkseite des saiht</title></rect></a>
+- Legacy HTML: Kleine Benchmarkseite des saiht</title></rect></a>
 <rect class="day-cell" data-date="2016-12-06" x="618" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-12-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-12-07" x="618" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-12-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-12-08" x="618" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-12-08: 0 entries</title></rect>
@@ -5868,14 +5872,14 @@ Kleine Benchmarkseite des saiht</title></rect></a>
 <rect class="day-cell" data-date="2016-12-30" x="654" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2016-12-31" x="654" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2016-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2015</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 17, Github: 0 (0), Quartz: 1 (1), Wordpress: 16 (16), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2015</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 17, Github: 0 (0), Quartz: 1 (1), Wordpress: 16 (16), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2015"><rect class="day-cell" data-date="2015-01-01" x="30" y="83" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2015-01-01: 1 entry
-2015</title></rect></a>
+- Quartz: 2015</title></rect></a>
 <rect class="day-cell" data-date="2015-01-02" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-01-03" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-01-03: 0 entries</title></rect>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
@@ -5886,7 +5890,7 @@ Kleine Benchmarkseite des saiht</title></rect></a>
 <rect class="day-cell" data-date="2015-01-08" x="42" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-01-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-01-09" x="42" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-01-09: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2015/01/10/physik-aufgabe-4-fuer-klasse-9b/"><rect class="day-cell" data-date="2015-01-10" x="42" y="107" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-01-10: 1 entry
-Physik Aufgabe 4 für Klasse 9B</title></rect></a>
+- WordPress: Physik Aufgabe 4 für Klasse 9B</title></rect></a>
 <rect class="day-cell" data-date="2015-01-11" x="54" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-01-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-01-12" x="54" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-01-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-01-13" x="54" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-01-13: 0 entries</title></rect>
@@ -5936,7 +5940,7 @@ Physik Aufgabe 4 für Klasse 9B</title></rect></a>
 <rect class="day-cell" data-date="2015-02-25" x="126" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-02-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-02-26" x="126" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-02-26: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2015/02/27/didacta-2015-das-digitale-klassenzimmer/"><rect class="day-cell" data-date="2015-02-27" x="126" y="95" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-02-27: 1 entry
-Didacta 2015 &amp;#8211; Das digitale Klassenzimmer</title></rect></a>
+- WordPress: Didacta 2015 &amp;#8211; Das digitale Klassenzimmer</title></rect></a>
 <rect class="day-cell" data-date="2015-02-28" x="126" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-02-28: 0 entries</title></rect>
 <text x="138" y="30" font-family="sans-serif" font-size="8" fill="#767676">Mar</text>
 <rect class="day-cell" data-date="2015-03-01" x="138" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-03-01: 0 entries</title></rect>
@@ -6000,7 +6004,7 @@ Didacta 2015 &amp;#8211; Das digitale Klassenzimmer</title></rect></a>
 <rect class="day-cell" data-date="2015-04-27" x="234" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-04-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-04-28" x="234" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-04-28: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2015/04/29/reaktionsschema-nach-passig/"><rect class="day-cell" data-date="2015-04-29" x="234" y="71" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-04-29: 1 entry
-Reaktionsschema nach Passig</title></rect></a>
+- WordPress: Reaktionsschema nach Passig</title></rect></a>
 <rect class="day-cell" data-date="2015-04-30" x="234" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-04-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-05-01" x="234" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-05-01: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-05-02" x="234" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-05-02: 0 entries</title></rect>
@@ -6035,7 +6039,7 @@ Reaktionsschema nach Passig</title></rect></a>
 <rect class="day-cell" data-date="2015-05-30" x="282" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-05-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-05-31" x="294" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-05-31: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2015/06/01/musteraufgaben-mathematik-7/"><rect class="day-cell" data-date="2015-06-01" x="294" y="47" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-06-01: 1 entry
-Musteraufgaben Mathematik 7</title></rect></a>
+- WordPress: Musteraufgaben Mathematik 7</title></rect></a>
 <rect class="day-cell" data-date="2015-06-02" x="294" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-06-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-06-03" x="294" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-06-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-06-04" x="294" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-06-04: 0 entries</title></rect>
@@ -6045,7 +6049,7 @@ Musteraufgaben Mathematik 7</title></rect></a>
 <rect class="day-cell" data-date="2015-06-07" x="306" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-06-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-06-08" x="306" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-06-08: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2015/06/09/medienkonsum-die-zweite/"><rect class="day-cell" data-date="2015-06-09" x="306" y="59" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-06-09: 1 entry
-Medienkonsum die Zweite</title></rect></a>
+- WordPress: Medienkonsum die Zweite</title></rect></a>
 <rect class="day-cell" data-date="2015-06-10" x="306" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-06-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-06-11" x="306" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-06-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-06-12" x="306" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-06-12: 0 entries</title></rect>
@@ -6078,7 +6082,7 @@ Medienkonsum die Zweite</title></rect></a>
 <rect class="day-cell" data-date="2015-07-08" x="354" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-07-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-07-09" x="354" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-07-09: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2015/07/10/regenparty-hofkoh/"><rect class="day-cell" data-date="2015-07-10" x="354" y="95" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-07-10: 1 entry
-Regenparty Hofkoh</title></rect></a>
+- WordPress: Regenparty Hofkoh</title></rect></a>
 <rect class="day-cell" data-date="2015-07-11" x="354" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-07-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-07-12" x="366" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-07-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-07-13" x="366" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-07-13: 0 entries</title></rect>
@@ -6116,7 +6120,7 @@ Regenparty Hofkoh</title></rect></a>
 <rect class="day-cell" data-date="2015-08-13" x="414" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-08-14" x="414" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-14: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2015/08/15/wetter-live-blitze/"><rect class="day-cell" data-date="2015-08-15" x="414" y="107" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-08-15: 1 entry
-Wetter live: Blitze</title></rect></a>
+- WordPress: Wetter live: Blitze</title></rect></a>
 <rect class="day-cell" data-date="2015-08-16" x="426" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-08-17" x="426" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-08-18" x="426" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-18: 0 entries</title></rect>
@@ -6126,14 +6130,14 @@ Wetter live: Blitze</title></rect></a>
 <rect class="day-cell" data-date="2015-08-22" x="426" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-08-23" x="438" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-23: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2015/08/24/die-eigene-cloud/"><rect class="day-cell" data-date="2015-08-24" x="438" y="47" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-08-24: 1 entry
-Die eigene Cloud</title></rect></a>
+- WordPress: Die eigene Cloud</title></rect></a>
 <rect class="day-cell" data-date="2015-08-25" x="438" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-08-26" x="438" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-08-27" x="438" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-08-28" x="438" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-08-29" x="438" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-29: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2015/08/30/globalisierung-fuer-privatkunden/"><rect class="day-cell" data-date="2015-08-30" x="450" y="35" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-08-30: 1 entry
-Globalisierung für Privatkunden</title></rect></a>
+- WordPress: Globalisierung für Privatkunden</title></rect></a>
 <rect class="day-cell" data-date="2015-08-31" x="450" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-08-31: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-09-01" x="450" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-09-01: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-09-02" x="450" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-09-02: 0 entries</title></rect>
@@ -6182,7 +6186,7 @@ Globalisierung für Privatkunden</title></rect></a>
 <rect class="day-cell" data-date="2015-10-13" x="522" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-10-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-10-14" x="522" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-10-14: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2015/10/15/360-grad-video/"><rect class="day-cell" data-date="2015-10-15" x="522" y="83" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-10-15: 1 entry
-360° VR Video</title></rect></a>
+- WordPress: 360° VR Video</title></rect></a>
 <rect class="day-cell" data-date="2015-10-16" x="522" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-10-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-10-17" x="522" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-10-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-10-18" x="534" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-10-18: 0 entries</title></rect>
@@ -6206,27 +6210,27 @@ Globalisierung für Privatkunden</title></rect></a>
 <rect class="day-cell" data-date="2015-11-04" x="558" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-11-05" x="558" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-05: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2015/11/06/physik-10-klasse/"><rect class="day-cell" data-date="2015-11-06" x="558" y="95" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-11-06: 1 entry
-Physik 10. Klasse</title></rect></a>
+- WordPress: Physik 10. Klasse</title></rect></a>
 <rect class="day-cell" data-date="2015-11-07" x="558" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-11-08" x="570" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-11-09" x="570" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-11-10" x="570" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-11-11" x="570" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-11: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2015/11/12/revolution-in-der-bildung/"><rect class="day-cell" data-date="2015-11-12" x="570" y="83" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-11-12: 1 entry
-Revolution in der Bildung?</title></rect></a>
+- WordPress: Revolution in der Bildung?</title></rect></a>
 <rect class="day-cell" data-date="2015-11-13" x="570" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-11-14" x="570" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-11-15" x="582" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-15: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2015/11/16/kinematik-physik-10/"><rect class="day-cell" data-date="2015-11-16" x="582" y="47" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-11-16: 1 entry
-Kinematik &amp;#8211; Physik 10</title></rect></a>
+- WordPress: Kinematik &amp;#8211; Physik 10</title></rect></a>
 <rect class="day-cell" data-date="2015-11-17" x="582" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-11-18" x="582" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-11-19" x="582" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-11-20" x="582" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-20: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2015/11/21/lightpainting/"><rect class="day-cell" data-date="2015-11-21" x="582" y="107" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-11-21: 1 entry
-Lightpainting</title></rect></a>
+- WordPress: Lightpainting</title></rect></a>
 <a href="https://saiht.de/blog/2015/11/22/fortschritte-baumbausprojekt/"><rect class="day-cell" data-date="2015-11-22" x="594" y="35" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-11-22: 1 entry
-Fortschritte Baumhausprojekt</title></rect></a>
+- WordPress: Fortschritte Baumhausprojekt</title></rect></a>
 <rect class="day-cell" data-date="2015-11-23" x="594" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-11-24" x="594" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-11-25" x="594" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-11-25: 0 entries</title></rect>
@@ -6251,7 +6255,7 @@ Fortschritte Baumhausprojekt</title></rect></a>
 <rect class="day-cell" data-date="2015-12-13" x="630" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-12-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-12-14" x="630" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-12-14: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2015/12/15/sternbilder-im-winter/"><rect class="day-cell" data-date="2015-12-15" x="630" y="59" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2015-12-15: 1 entry
-Sternbilder im Winter</title></rect></a>
+- WordPress: Sternbilder im Winter</title></rect></a>
 <rect class="day-cell" data-date="2015-12-16" x="630" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-12-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-12-17" x="630" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-12-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-12-18" x="630" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-12-18: 0 entries</title></rect>
@@ -6269,20 +6273,20 @@ Sternbilder im Winter</title></rect></a>
 <rect class="day-cell" data-date="2015-12-30" x="654" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2015-12-31" x="654" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2015-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2014</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 11, Github: 0 (0), Quartz: 1 (1), Wordpress: 8 (8), Legacy: 2 (2)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2014</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 11, Github: 0 (0), Quartz: 1 (1), Wordpress: 8 (8), Legacy: 2 (2)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2014"><rect class="day-cell" data-date="2014-01-01" x="30" y="71" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2014-01-01: 1 entry
-2014</title></rect></a>
+- Quartz: 2014</title></rect></a>
 <rect class="day-cell" data-date="2014-01-02" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-01-03" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-01-04" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-01-04: 0 entries</title></rect>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <a href="https://saiht.de/blog/2014/01/05/start-der-webseite/"><rect class="day-cell" data-date="2014-01-05" x="42" y="35" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2014-01-05: 1 entry
-Start der Webseite</title></rect></a>
+- WordPress: Start der Webseite</title></rect></a>
 <rect class="day-cell" data-date="2014-01-06" x="42" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-01-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-01-07" x="42" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-01-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-01-08" x="42" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-01-08: 0 entries</title></rect>
@@ -6291,10 +6295,10 @@ Start der Webseite</title></rect></a>
 <rect class="day-cell" data-date="2014-01-11" x="42" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-01-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-01-12" x="54" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-01-12: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/2013_usa.html"><rect class="day-cell" data-date="2014-01-13" x="54" y="47" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2014-01-13: 1 entry
-USA 2013: From Eastcoast to Westcoast - and back! Including Canada</title></rect></a>
+- Legacy HTML: USA 2013: From Eastcoast to Westcoast - and back! Including Canada</title></rect></a>
 <rect class="day-cell" data-date="2014-01-14" x="54" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-01-14: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2014/01/15/jahreshauptversammlung/"><rect class="day-cell" data-date="2014-01-15" x="54" y="71" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2014-01-15: 1 entry
-Jahreshauptversammlung</title></rect></a>
+- WordPress: Jahreshauptversammlung</title></rect></a>
 <rect class="day-cell" data-date="2014-01-16" x="54" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-01-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-01-17" x="54" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-01-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-01-18" x="54" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-01-18: 0 entries</title></rect>
@@ -6496,11 +6500,11 @@ Jahreshauptversammlung</title></rect></a>
 <rect class="day-cell" data-date="2014-07-27" x="390" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-07-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-07-28" x="390" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-07-28: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2014/07/29/fortsetzung-baumhausprojekt/"><rect class="day-cell" data-date="2014-07-29" x="390" y="59" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2014-07-29: 1 entry
-Fortsetzung Baumhausprojekt</title></rect></a>
+- WordPress: Fortsetzung Baumhausprojekt</title></rect></a>
 <rect class="day-cell" data-date="2014-07-30" x="390" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-07-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-07-31" x="390" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-07-31: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/glossar/handy.html"><rect class="day-cell" data-date="2014-08-01" x="390" y="95" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2014-08-01: 1 entry
-Handysammlung</title></rect></a>
+- Legacy HTML: Handysammlung</title></rect></a>
 <rect class="day-cell" data-date="2014-08-02" x="390" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-08-02: 0 entries</title></rect>
 <text x="402" y="30" font-family="sans-serif" font-size="8" fill="#767676">Aug</text>
 <rect class="day-cell" data-date="2014-08-03" x="402" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-08-03: 0 entries</title></rect>
@@ -6511,7 +6515,7 @@ Handysammlung</title></rect></a>
 <rect class="day-cell" data-date="2014-08-08" x="402" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-08-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-08-09" x="402" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-08-09: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2014/08/10/hobby-zum-beruf-machen/"><rect class="day-cell" data-date="2014-08-10" x="414" y="35" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2014-08-10: 1 entry
-Hobby zum Beruf machen?</title></rect></a>
+- WordPress: Hobby zum Beruf machen?</title></rect></a>
 <rect class="day-cell" data-date="2014-08-11" x="414" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-08-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-08-12" x="414" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-08-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-08-13" x="414" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-08-13: 0 entries</title></rect>
@@ -6562,7 +6566,7 @@ Hobby zum Beruf machen?</title></rect></a>
 <rect class="day-cell" data-date="2014-09-26" x="486" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-09-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-09-27" x="486" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-09-27: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2014/09/28/aussicht-in-8-metern-hoehe/"><rect class="day-cell" data-date="2014-09-28" x="498" y="35" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2014-09-28: 1 entry
-Aussicht in 8 Metern Höhe</title></rect></a>
+- WordPress: Aussicht in 8 Metern Höhe</title></rect></a>
 <rect class="day-cell" data-date="2014-09-29" x="498" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-09-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-09-30" x="498" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-09-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-10-01" x="498" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-10-01: 0 entries</title></rect>
@@ -6571,7 +6575,7 @@ Aussicht in 8 Metern Höhe</title></rect></a>
 <rect class="day-cell" data-date="2014-10-04" x="498" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-10-04: 0 entries</title></rect>
 <text x="510" y="30" font-family="sans-serif" font-size="8" fill="#767676">Oct</text>
 <a href="https://saiht.de/blog/2014/10/05/ein-regenschutz/"><rect class="day-cell" data-date="2014-10-05" x="510" y="35" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2014-10-05: 1 entry
-ein Regenschutz</title></rect></a>
+- WordPress: ein Regenschutz</title></rect></a>
 <rect class="day-cell" data-date="2014-10-06" x="510" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-10-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-10-07" x="510" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-10-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-10-08" x="510" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-10-08: 0 entries</title></rect>
@@ -6593,7 +6597,7 @@ ein Regenschutz</title></rect></a>
 <rect class="day-cell" data-date="2014-10-24" x="534" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-10-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-10-25" x="534" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-10-25: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2014/10/26/filmliste/"><rect class="day-cell" data-date="2014-10-26" x="546" y="35" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2014-10-26: 1 entry
-Filmliste</title></rect></a>
+- WordPress: Filmliste</title></rect></a>
 <rect class="day-cell" data-date="2014-10-27" x="546" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-10-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-10-28" x="546" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-10-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-10-29" x="546" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-10-29: 0 entries</title></rect>
@@ -6645,7 +6649,7 @@ Filmliste</title></rect></a>
 <rect class="day-cell" data-date="2014-12-12" x="618" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-12-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-12-13" x="618" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-12-13: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2014/12/14/temperatur-in-hofkoh/"><rect class="day-cell" data-date="2014-12-14" x="630" y="35" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2014-12-14: 1 entry
-Temperatur in Hofkoh</title></rect></a>
+- WordPress: Temperatur in Hofkoh</title></rect></a>
 <rect class="day-cell" data-date="2014-12-15" x="630" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-12-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-12-16" x="630" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-12-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-12-17" x="630" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-12-17: 0 entries</title></rect>
@@ -6664,14 +6668,14 @@ Temperatur in Hofkoh</title></rect></a>
 <rect class="day-cell" data-date="2014-12-30" x="654" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2014-12-31" x="654" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2014-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2013</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 6, Github: 0 (0), Quartz: 1 (1), Wordpress: 2 (2), Legacy: 3 (3)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2013</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 6, Github: 0 (0), Quartz: 1 (1), Wordpress: 2 (2), Legacy: 3 (3)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2013"><rect class="day-cell" data-date="2013-01-01" x="30" y="59" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2013-01-01: 1 entry
-2013</title></rect></a>
+- Quartz: 2013</title></rect></a>
 <rect class="day-cell" data-date="2013-01-02" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2013-01-03" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2013-01-04" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-04: 0 entries</title></rect>
@@ -6679,10 +6683,10 @@ Temperatur in Hofkoh</title></rect></a>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="2013-01-06" x="42" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-06: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/2012_westeuropa.html"><rect class="day-cell" data-date="2013-01-07" x="42" y="47" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2013-01-07: 1 entry
-Tour durch Westeuropa im sonnigen Herbst - entlang der Côte d`Azur</title></rect></a>
+- Legacy HTML: Tour durch Westeuropa im sonnigen Herbst - entlang der Côte d`Azur</title></rect></a>
 <rect class="day-cell" data-date="2013-01-08" x="42" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-08: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/projekte/umfang.html"><rect class="day-cell" data-date="2013-01-09" x="42" y="71" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2013-01-09: 1 entry
-Statistik zu saiht.de</title></rect></a>
+- Legacy HTML: Statistik zu saiht.de</title></rect></a>
 <rect class="day-cell" data-date="2013-01-10" x="42" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2013-01-11" x="42" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2013-01-12" x="42" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-01-12: 0 entries</title></rect>
@@ -6836,7 +6840,7 @@ Statistik zu saiht.de</title></rect></a>
 <rect class="day-cell" data-date="2013-06-04" x="294" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2013-06-05" x="294" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-05: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2013/06/06/baumhaus-ebene-eins/"><rect class="day-cell" data-date="2013-06-06" x="294" y="83" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2013-06-06: 1 entry
-Baumhaus &amp;#8211; Ebene eins</title></rect></a>
+- WordPress: Baumhaus &amp;#8211; Ebene eins</title></rect></a>
 <rect class="day-cell" data-date="2013-06-07" x="294" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2013-06-08" x="294" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2013-06-09" x="306" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-09: 0 entries</title></rect>
@@ -6853,7 +6857,7 @@ Baumhaus &amp;#8211; Ebene eins</title></rect></a>
 <rect class="day-cell" data-date="2013-06-20" x="318" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2013-06-21" x="318" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-21: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/urlaub.html"><rect class="day-cell" data-date="2013-06-22" x="318" y="107" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2013-06-22: 1 entry
-Wo war der saiht im Urlaub?</title></rect></a>
+- Legacy HTML: Wo war der saiht im Urlaub?</title></rect></a>
 <rect class="day-cell" data-date="2013-06-23" x="330" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2013-06-24" x="330" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2013-06-25" x="330" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-06-25: 0 entries</title></rect>
@@ -6923,7 +6927,7 @@ Wo war der saiht im Urlaub?</title></rect></a>
 <rect class="day-cell" data-date="2013-08-26" x="438" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-08-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2013-08-27" x="438" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-08-27: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2013/08/28/projektbeginn-baumhaus/"><rect class="day-cell" data-date="2013-08-28" x="438" y="71" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2013-08-28: 1 entry
-Projektbeginn Baumhaus</title></rect></a>
+- WordPress: Projektbeginn Baumhaus</title></rect></a>
 <rect class="day-cell" data-date="2013-08-29" x="438" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-08-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2013-08-30" x="438" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-08-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2013-08-31" x="438" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-08-31: 0 entries</title></rect>
@@ -7054,15 +7058,15 @@ Projektbeginn Baumhaus</title></rect></a>
 <rect class="day-cell" data-date="2013-12-30" x="654" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2013-12-31" x="654" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2013-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2012</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 6, Github: 0 (0), Quartz: 1 (1), Wordpress: 1 (1), Legacy: 4 (4)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2012</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 6, Github: 0 (0), Quartz: 1 (1), Wordpress: 1 (1), Legacy: 4 (4)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <text x="30" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <a href="https://kreier.github.io/quartz/Diary/2012"><rect class="day-cell" data-date="2012-01-01" x="30" y="35" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2012-01-01: 1 entry
-2012</title></rect></a>
+- Quartz: 2012</title></rect></a>
 <rect class="day-cell" data-date="2012-01-02" x="30" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2012-01-03" x="30" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2012-01-04" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-01-04: 0 entries</title></rect>
@@ -7229,7 +7233,7 @@ Projektbeginn Baumhaus</title></rect></a>
 <rect class="day-cell" data-date="2012-06-08" x="294" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-06-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2012-06-09" x="294" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-06-09: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2012/06/10/architektur-mit-sketchup/"><rect class="day-cell" data-date="2012-06-10" x="306" y="35" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2012-06-10: 1 entry
-Architektur mit SketchUp</title></rect></a>
+- WordPress: Architektur mit SketchUp</title></rect></a>
 <rect class="day-cell" data-date="2012-06-11" x="306" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-06-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2012-06-12" x="306" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-06-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2012-06-13" x="306" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-06-13: 0 entries</title></rect>
@@ -7378,12 +7382,12 @@ Architektur mit SketchUp</title></rect></a>
 <rect class="day-cell" data-date="2012-10-30" x="546" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-10-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2012-10-31" x="546" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-10-31: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/2011_scandinavien.html"><rect class="day-cell" data-date="2012-11-01" x="546" y="83" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2012-11-01: 1 entry
-Städtetour nach Skandinavien - und dann einmal um die Ostsee</title></rect></a>
+- Legacy HTML: Städtetour nach Skandinavien - und dann einmal um die Ostsee</title></rect></a>
 <rect class="day-cell" data-date="2012-11-02" x="546" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2012-11-03" x="546" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-03: 0 entries</title></rect>
 <text x="558" y="30" font-family="sans-serif" font-size="8" fill="#767676">Nov</text>
 <a href="https://saiht.de/legacy/urlaub/liste.html"><rect class="day-cell" data-date="2012-11-04" x="558" y="35" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2012-11-04: 1 entry
-Liste der besuchten Lnder des saiht</title></rect></a>
+- Legacy HTML: Liste der besuchten Lnder des saiht</title></rect></a>
 <rect class="day-cell" data-date="2012-11-05" x="558" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-05: 0 entries</title></rect>
 <rect class="day-cell" data-date="2012-11-06" x="558" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2012-11-07" x="558" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-07: 0 entries</title></rect>
@@ -7400,7 +7404,7 @@ Liste der besuchten Lnder des saiht</title></rect></a>
 <rect class="day-cell" data-date="2012-11-18" x="582" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2012-11-19" x="582" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-19: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/computer/history.html"><rect class="day-cell" data-date="2012-11-20" x="582" y="59" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2012-11-20: 1 entry
-die saiht-Computergeschichte</title></rect></a>
+- Legacy HTML: die saiht-Computergeschichte</title></rect></a>
 <rect class="day-cell" data-date="2012-11-21" x="582" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2012-11-22" x="582" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2012-11-23" x="582" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-11-23: 0 entries</title></rect>
@@ -7421,7 +7425,7 @@ die saiht-Computergeschichte</title></rect></a>
 <rect class="day-cell" data-date="2012-12-07" x="606" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-12-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2012-12-08" x="606" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-12-08: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/2002_ukraine.html"><rect class="day-cell" data-date="2012-12-09" x="618" y="35" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2012-12-09: 1 entry
-Sommerschule in der Ukraine</title></rect></a>
+- Legacy HTML: Sommerschule in der Ukraine</title></rect></a>
 <rect class="day-cell" data-date="2012-12-10" x="618" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-12-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2012-12-11" x="618" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-12-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2012-12-12" x="618" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-12-12: 0 entries</title></rect>
@@ -7445,14 +7449,14 @@ Sommerschule in der Ukraine</title></rect></a>
 <rect class="day-cell" data-date="2012-12-30" x="654" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2012-12-31" x="654" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2012-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2011</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 4, Github: 2 (9), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 1 (1)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2011</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 4, Github: 2 (9), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 1 (1)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2011"><rect class="day-cell" data-date="2011-01-01" x="30" y="107" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2011-01-01: 1 entry
-2011</title></rect></a>
+- Quartz: 2011</title></rect></a>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="2011-01-02" x="42" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2011-01-03" x="42" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-01-03: 0 entries</title></rect>
@@ -7476,7 +7480,7 @@ Sommerschule in der Ukraine</title></rect></a>
 <rect class="day-cell" data-date="2011-01-21" x="66" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-01-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2011-01-22" x="66" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-01-22: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/rechts.html"><rect class="day-cell" data-date="2011-01-23" x="78" y="35" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2011-01-23: 1 entry
-Einstieg in saiht.de deutsch</title></rect></a>
+- Legacy HTML: Einstieg in saiht.de deutsch</title></rect></a>
 <rect class="day-cell" data-date="2011-01-24" x="78" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-01-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2011-01-25" x="78" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-01-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2011-01-26" x="78" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-01-26: 0 entries</title></rect>
@@ -7486,32 +7490,32 @@ Einstieg in saiht.de deutsch</title></rect></a>
 <rect class="day-cell" data-date="2011-01-30" x="90" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-01-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2011-01-31" x="90" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-01-31: 0 entries</title></rect>
 <a href="https://github.com/kreier/ar65view-svn/commit/a42d2af15b077f87e7e0abeb8de4595e9532afdf"><rect class="day-cell" data-date="2011-02-01" x="90" y="59" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2011-02-01: 5 entries
-[kreier/ar65view-svn]
+- GitHub: [kreier/ar65view-svn]
 
 git-svn-id: https://svn.code.sf.net/p/ar65view/code/trunk@8 b8ae2691-4d6a-4b66-994b-82975cb9aa85
-[kreier/ar65view-svn]
+- GitHub: [kreier/ar65view-svn]
 
 git-svn-id: https://svn.code.sf.net/p/ar65view/code/trunk@7 b8ae2691-4d6a-4b66-994b-82975cb9aa85
-[kreier/ar65view-svn]
+- GitHub: [kreier/ar65view-svn]
 
 git-svn-id: https://svn.code.sf.net/p/ar65view/code/trunk@6 b8ae2691-4d6a-4b66-994b-82975cb9aa85
-[kreier/ar65view-svn]
+- GitHub: [kreier/ar65view-svn]
 
 git-svn-id: https://svn.code.sf.net/p/ar65view/code/trunk@3 b8ae2691-4d6a-4b66-994b-82975cb9aa85
-[kreier/ar65view-svn]
+- GitHub: [kreier/ar65view-svn]
 
 git-svn-id: https://svn.code.sf.net/p/ar65view/code/trunk@2 b8ae2691-4d6a-4b66-994b-82975cb9aa85</title></rect></a>
 <a href="https://github.com/kreier/ar65view-svn/commit/203a67d7d51cd0aa04de455743bab20fb1ac8881"><rect class="day-cell" data-date="2011-02-02" x="90" y="71" width="10" height="10" fill="#fb8c00" rx="2" ry="2"><title>2011-02-02: 4 entries
-[kreier/ar65view-svn] latest compressed signed JAR-file
+- GitHub: [kreier/ar65view-svn] latest compressed signed JAR-file
 
 git-svn-id: https://svn.code.sf.net/p/ar65view/code/trunk@13 b8ae2691-4d6a-4b66-994b-82975cb9aa85
-[kreier/ar65view-svn] remove more UTF-8 errors
+- GitHub: [kreier/ar65view-svn] remove more UTF-8 errors
 
 git-svn-id: https://svn.code.sf.net/p/ar65view/code/trunk@11 b8ae2691-4d6a-4b66-994b-82975cb9aa85
-[kreier/ar65view-svn] remove ISO - UTF-8 errors
+- GitHub: [kreier/ar65view-svn] remove ISO - UTF-8 errors
 
 git-svn-id: https://svn.code.sf.net/p/ar65view/code/trunk@10 b8ae2691-4d6a-4b66-994b-82975cb9aa85
-[kreier/ar65view-svn] remove UTF-8 errors
+- GitHub: [kreier/ar65view-svn] remove UTF-8 errors
 
 git-svn-id: https://svn.code.sf.net/p/ar65view/code/trunk@9 b8ae2691-4d6a-4b66-994b-82975cb9aa85</title></rect></a>
 <rect class="day-cell" data-date="2011-02-03" x="90" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-02-03: 0 entries</title></rect>
@@ -7858,14 +7862,14 @@ git-svn-id: https://svn.code.sf.net/p/ar65view/code/trunk@9 b8ae2691-4d6a-4b66-9
 <rect class="day-cell" data-date="2011-12-30" x="654" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2011-12-31" x="654" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2011-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2010</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 8, Github: 0 (0), Quartz: 1 (1), Wordpress: 3 (3), Legacy: 4 (4)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2010</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 8, Github: 0 (0), Quartz: 1 (1), Wordpress: 3 (3), Legacy: 4 (4)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2010"><rect class="day-cell" data-date="2010-01-01" x="30" y="95" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2010-01-01: 1 entry
-2010</title></rect></a>
+- Quartz: 2010</title></rect></a>
 <rect class="day-cell" data-date="2010-01-02" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-01-02: 0 entries</title></rect>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="2010-01-03" x="42" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-01-03: 0 entries</title></rect>
@@ -7913,7 +7917,7 @@ git-svn-id: https://svn.code.sf.net/p/ar65view/code/trunk@9 b8ae2691-4d6a-4b66-9
 <rect class="day-cell" data-date="2010-02-13" x="102" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-02-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-02-14" x="114" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-02-14: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2010/02/15/wieder-online/"><rect class="day-cell" data-date="2010-02-15" x="114" y="47" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2010-02-15: 1 entry
-wieder online</title></rect></a>
+- WordPress: wieder online</title></rect></a>
 <rect class="day-cell" data-date="2010-02-16" x="114" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-02-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-02-17" x="114" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-02-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-02-18" x="114" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-02-18: 0 entries</title></rect>
@@ -7965,7 +7969,7 @@ wieder online</title></rect></a>
 <text x="198" y="30" font-family="sans-serif" font-size="8" fill="#767676">Apr</text>
 <rect class="day-cell" data-date="2010-04-04" x="198" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-04-04: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/logfeile/logfeile.html"><rect class="day-cell" data-date="2010-04-05" x="198" y="47" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2010-04-05: 1 entry
-Chronologie der saiht-Seiten</title></rect></a>
+- Legacy HTML: Chronologie der saiht-Seiten</title></rect></a>
 <rect class="day-cell" data-date="2010-04-06" x="198" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-04-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-04-07" x="198" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-04-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-04-08" x="198" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-04-08: 0 entries</title></rect>
@@ -8034,7 +8038,7 @@ Chronologie der saiht-Seiten</title></rect></a>
 <rect class="day-cell" data-date="2010-06-08" x="306" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-06-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-06-09" x="306" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-06-09: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2010/06/10/projekt-der-htw-berlin/"><rect class="day-cell" data-date="2010-06-10" x="306" y="83" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2010-06-10: 1 entry
-Projekt der HTW Berlin</title></rect></a>
+- WordPress: Projekt der HTW Berlin</title></rect></a>
 <rect class="day-cell" data-date="2010-06-11" x="306" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-06-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-06-12" x="306" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-06-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-06-13" x="318" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-06-13: 0 entries</title></rect>
@@ -8097,7 +8101,7 @@ Projekt der HTW Berlin</title></rect></a>
 <rect class="day-cell" data-date="2010-08-07" x="402" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-08-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-08-08" x="414" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-08-08: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/logfeile/gruppe.html"><rect class="day-cell" data-date="2010-08-09" x="414" y="47" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2010-08-09: 1 entry
-Gruppenfotos</title></rect></a>
+- Legacy HTML: Gruppenfotos</title></rect></a>
 <rect class="day-cell" data-date="2010-08-10" x="414" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-08-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-08-11" x="414" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-08-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-08-12" x="414" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-08-12: 0 entries</title></rect>
@@ -8162,11 +8166,11 @@ Gruppenfotos</title></rect></a>
 <rect class="day-cell" data-date="2010-10-08" x="510" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-10-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-10-09" x="510" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-10-09: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/projekte/02sdw.html"><rect class="day-cell" data-date="2010-10-10" x="522" y="35" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2010-10-10: 1 entry
-Schule zur Dienstamtlichen Weiterbildung (SDW)</title></rect></a>
+- Legacy HTML: Schule zur Dienstamtlichen Weiterbildung (SDW)</title></rect></a>
 <rect class="day-cell" data-date="2010-10-11" x="522" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-10-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-10-12" x="522" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-10-12: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2010/10/13/sdw-beendet/"><rect class="day-cell" data-date="2010-10-13" x="522" y="71" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2010-10-13: 1 entry
-SDW beendet</title></rect></a>
+- WordPress: SDW beendet</title></rect></a>
 <rect class="day-cell" data-date="2010-10-14" x="522" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-10-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-10-15" x="522" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-10-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-10-16" x="522" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-10-16: 0 entries</title></rect>
@@ -8204,7 +8208,7 @@ SDW beendet</title></rect></a>
 <rect class="day-cell" data-date="2010-11-16" x="582" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-11-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-11-17" x="582" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-11-17: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/2010_georgien.html"><rect class="day-cell" data-date="2010-11-18" x="582" y="83" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2010-11-18: 1 entry
-Zu Besuch bei den Delegierten aus der Ukraine und Georgien</title></rect></a>
+- Legacy HTML: Zu Besuch bei den Delegierten aus der Ukraine und Georgien</title></rect></a>
 <rect class="day-cell" data-date="2010-11-19" x="582" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-11-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-11-20" x="582" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-11-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-11-21" x="594" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-11-21: 0 entries</title></rect>
@@ -8250,16 +8254,16 @@ Zu Besuch bei den Delegierten aus der Ukraine und Georgien</title></rect></a>
 <rect class="day-cell" data-date="2010-12-30" x="654" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2010-12-31" x="654" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2010-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2009</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 17, Github: 0 (0), Quartz: 1 (1), Wordpress: 7 (7), Legacy: 10 (17)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2009</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 17, Github: 0 (0), Quartz: 1 (1), Wordpress: 7 (7), Legacy: 10 (17)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://saiht.de/legacy/urlaub/2008_tatra.html"><rect class="day-cell" data-date="2009-01-01" x="30" y="83" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2009-01-01: 3 entries
-Herbsturlaub in der Hohen Tatra
-7 Wochen Afrika
-2009</title></rect></a>
+- Legacy HTML: Herbsturlaub in der Hohen Tatra
+- Legacy HTML: 7 Wochen Afrika
+- Quartz: 2009</title></rect></a>
 <rect class="day-cell" data-date="2009-01-02" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-01-03" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-03: 0 entries</title></rect>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
@@ -8280,9 +8284,9 @@ Herbsturlaub in der Hohen Tatra
 <rect class="day-cell" data-date="2009-01-18" x="66" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-01-19" x="66" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-19: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/projekte/15nb100.html"><rect class="day-cell" data-date="2009-01-20" x="66" y="59" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2009-01-20: 3 entries
-Festplattentausch am Toshiba NB-100
-Unsere Tschechientouren
-Projekte des saiht</title></rect></a>
+- Legacy HTML: Festplattentausch am Toshiba NB-100
+- Legacy HTML: Unsere Tschechientouren
+- Legacy HTML: Projekte des saiht</title></rect></a>
 <rect class="day-cell" data-date="2009-01-21" x="66" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-01-22" x="66" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-01-23" x="66" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-23: 0 entries</title></rect>
@@ -8290,9 +8294,9 @@ Projekte des saiht</title></rect></a>
 <rect class="day-cell" data-date="2009-01-25" x="78" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-01-26" x="78" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-26: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/2013_usa_plan.html"><rect class="day-cell" data-date="2009-01-27" x="78" y="59" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2009-01-27: 3 entries
-Per Auto quer durch den Osten Nordamerikas
-Per Auto quer durch den Osten Nordamerikas
-Per Auto quer durch den Osten Nordamerikas</title></rect></a>
+- Legacy HTML: Per Auto quer durch den Osten Nordamerikas
+- Legacy HTML: Per Auto quer durch den Osten Nordamerikas
+- Legacy HTML: Per Auto quer durch den Osten Nordamerikas</title></rect></a>
 <rect class="day-cell" data-date="2009-01-28" x="78" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-01-29" x="78" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-01-30" x="78" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-01-30: 0 entries</title></rect>
@@ -8300,7 +8304,7 @@ Per Auto quer durch den Osten Nordamerikas</title></rect></a>
 <text x="90" y="30" font-family="sans-serif" font-size="8" fill="#767676">Feb</text>
 <rect class="day-cell" data-date="2009-02-01" x="90" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-02-01: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2009/02/02/wo-ist-der-arbeitgeber-2/"><rect class="day-cell" data-date="2009-02-02" x="90" y="47" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2009-02-02: 1 entry
-Wo ist der Arbeitgeber</title></rect></a>
+- WordPress: Wo ist der Arbeitgeber</title></rect></a>
 <rect class="day-cell" data-date="2009-02-03" x="90" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-02-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-02-04" x="90" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-02-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-02-05" x="90" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-02-05: 0 entries</title></rect>
@@ -8318,8 +8322,8 @@ Wo ist der Arbeitgeber</title></rect></a>
 <rect class="day-cell" data-date="2009-02-17" x="114" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-02-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-02-18" x="114" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-02-18: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/projekte/13zeitleiste.html"><rect class="day-cell" data-date="2009-02-19" x="114" y="83" width="10" height="10" fill="#64b5f6" rx="2" ry="2"><title>2009-02-19: 2 entries
-Zeitleiste
-Bibellesen</title></rect></a>
+- Legacy HTML: Zeitleiste
+- Legacy HTML: Bibellesen</title></rect></a>
 <rect class="day-cell" data-date="2009-02-20" x="114" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-02-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-02-21" x="114" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-02-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-02-22" x="126" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-02-22: 0 entries</title></rect>
@@ -8353,17 +8357,17 @@ Bibellesen</title></rect></a>
 <rect class="day-cell" data-date="2009-03-21" x="162" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-03-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-03-22" x="174" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-03-22: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2009/03/23/aufstieg-in-die-top5000-bei-wikipedia/"><rect class="day-cell" data-date="2009-03-23" x="174" y="47" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2009-03-23: 1 entry
-Aufstieg in die Top5000 bei Wikipedia</title></rect></a>
+- WordPress: Aufstieg in die Top5000 bei Wikipedia</title></rect></a>
 <a href="https://saiht.de/legacy/computer/computer.html"><rect class="day-cell" data-date="2009-03-24" x="174" y="59" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2009-03-24: 1 entry
-Computerseite des saiht</title></rect></a>
+- Legacy HTML: Computerseite des saiht</title></rect></a>
 <rect class="day-cell" data-date="2009-03-25" x="174" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-03-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-03-26" x="174" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-03-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-03-27" x="174" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-03-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-03-28" x="174" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-03-28: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2009/03/29/weltkarte-von-uniteddomains/"><rect class="day-cell" data-date="2009-03-29" x="186" y="35" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2009-03-29: 1 entry
-Weltkarte von united.domains</title></rect></a>
+- WordPress: Weltkarte von united.domains</title></rect></a>
 <a href="https://saiht.de/legacy/freizeit/fahrrad.html"><rect class="day-cell" data-date="2009-03-30" x="186" y="47" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2009-03-30: 1 entry
-die Fahrradseite</title></rect></a>
+- Legacy HTML: die Fahrradseite</title></rect></a>
 <rect class="day-cell" data-date="2009-03-31" x="186" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-03-31: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-04-01" x="186" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-04-01: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-04-02" x="186" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-04-02: 0 entries</title></rect>
@@ -8388,7 +8392,7 @@ die Fahrradseite</title></rect></a>
 <rect class="day-cell" data-date="2009-04-20" x="222" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-04-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-04-21" x="222" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-04-21: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/2008_usa.html"><rect class="day-cell" data-date="2009-04-22" x="222" y="71" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2009-04-22: 1 entry
-Die Ostküste der USA: Florida und New York</title></rect></a>
+- Legacy HTML: Die Ostküste der USA: Florida und New York</title></rect></a>
 <rect class="day-cell" data-date="2009-04-23" x="222" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-04-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-04-24" x="222" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-04-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-04-25" x="222" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-04-25: 0 entries</title></rect>
@@ -8452,7 +8456,7 @@ Die Ostküste der USA: Florida und New York</title></rect></a>
 <rect class="day-cell" data-date="2009-06-20" x="318" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-06-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-06-21" x="330" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-06-21: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/freizeit/bilder.html"><rect class="day-cell" data-date="2009-06-22" x="330" y="47" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2009-06-22: 1 entry
-Unsere Tschechientouren</title></rect></a>
+- Legacy HTML: Unsere Tschechientouren</title></rect></a>
 <rect class="day-cell" data-date="2009-06-23" x="330" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-06-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-06-24" x="330" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-06-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-06-25" x="330" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-06-25: 0 entries</title></rect>
@@ -8502,11 +8506,11 @@ Unsere Tschechientouren</title></rect></a>
 <rect class="day-cell" data-date="2009-08-06" x="402" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-08-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-08-07" x="402" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-08-07: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2009/08/08/ausflug-nach-syrien-und-jordanien/"><rect class="day-cell" data-date="2009-08-08" x="402" y="107" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2009-08-08: 1 entry
-Ausflug nach Syrien und Jordanien</title></rect></a>
+- WordPress: Ausflug nach Syrien und Jordanien</title></rect></a>
 <rect class="day-cell" data-date="2009-08-09" x="414" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-08-09: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/2009_jordan_bilder.html"><rect class="day-cell" data-date="2009-08-10" x="414" y="47" width="10" height="10" fill="#64b5f6" rx="2" ry="2"><title>2009-08-10: 2 entries
-Mit dem Auto nach Jordanien
-Mit dem Auto nach Jordanien</title></rect></a>
+- Legacy HTML: Mit dem Auto nach Jordanien
+- Legacy HTML: Mit dem Auto nach Jordanien</title></rect></a>
 <rect class="day-cell" data-date="2009-08-11" x="414" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-08-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-08-12" x="414" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-08-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-08-13" x="414" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-08-13: 0 entries</title></rect>
@@ -8548,7 +8552,7 @@ Mit dem Auto nach Jordanien</title></rect></a>
 <rect class="day-cell" data-date="2009-09-17" x="474" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-09-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-09-18" x="474" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-09-18: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/logfeile/friends.html"><rect class="day-cell" data-date="2009-09-19" x="474" y="107" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2009-09-19: 1 entry
-Homepages von Freunden und Bekannten</title></rect></a>
+- Legacy HTML: Homepages von Freunden und Bekannten</title></rect></a>
 <rect class="day-cell" data-date="2009-09-20" x="486" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-09-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-09-21" x="486" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-09-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-09-22" x="486" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-09-22: 0 entries</title></rect>
@@ -8574,7 +8578,7 @@ Homepages von Freunden und Bekannten</title></rect></a>
 <rect class="day-cell" data-date="2009-10-11" x="522" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-10-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-10-12" x="522" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-10-12: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2009/10/13/zuruck-aus-moskau/"><rect class="day-cell" data-date="2009-10-13" x="522" y="59" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2009-10-13: 1 entry
-Zwei Wochen Moskau</title></rect></a>
+- WordPress: Zwei Wochen Moskau</title></rect></a>
 <rect class="day-cell" data-date="2009-10-14" x="522" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-10-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-10-15" x="522" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-10-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-10-16" x="522" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-10-16: 0 entries</title></rect>
@@ -8585,12 +8589,12 @@ Zwei Wochen Moskau</title></rect></a>
 <rect class="day-cell" data-date="2009-10-21" x="534" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-10-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-10-22" x="534" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-10-22: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2009/10/23/zuruck-aus-moskau-2/"><rect class="day-cell" data-date="2009-10-23" x="534" y="95" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2009-10-23: 1 entry
-Zurück aus Moskau</title></rect></a>
+- WordPress: Zurück aus Moskau</title></rect></a>
 <rect class="day-cell" data-date="2009-10-24" x="534" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-10-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-10-25" x="546" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-10-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-10-26" x="546" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-10-26: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2009/10/27/weiterer-server/"><rect class="day-cell" data-date="2009-10-27" x="546" y="59" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2009-10-27: 1 entry
-Weiterer Server</title></rect></a>
+- WordPress: Weiterer Server</title></rect></a>
 <rect class="day-cell" data-date="2009-10-28" x="546" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-10-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-10-29" x="546" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-10-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-10-30" x="546" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-10-30: 0 entries</title></rect>
@@ -8659,14 +8663,14 @@ Weiterer Server</title></rect></a>
 <rect class="day-cell" data-date="2009-12-30" x="654" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2009-12-31" x="654" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2009-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2008</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 23, Github: 0 (0), Quartz: 1 (1), Wordpress: 11 (13), Legacy: 11 (12)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2008</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 23, Github: 0 (0), Quartz: 1 (1), Wordpress: 11 (13), Legacy: 11 (12)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2008"><rect class="day-cell" data-date="2008-01-01" x="30" y="59" width="10" height="10" fill="#ef9a9a" rx="2" ry="2"><title>2008-01-01: 1 entry
-2008</title></rect></a>
+- Quartz: 2008</title></rect></a>
 <rect class="day-cell" data-date="2008-01-02" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-01-03" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-01-04" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-01-04: 0 entries</title></rect>
@@ -8691,8 +8695,8 @@ Weiterer Server</title></rect></a>
 <rect class="day-cell" data-date="2008-01-22" x="66" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-01-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-01-23" x="66" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-01-23: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2008/01/24/zum-funften-mal-nach-moskau/"><rect class="day-cell" data-date="2008-01-24" x="66" y="83" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2008-01-24: 2 entries
-zum fünften Mal nach Moskau
-Diplomarbeit ist fertig!</title></rect></a>
+- WordPress: zum fünften Mal nach Moskau
+- WordPress: Diplomarbeit ist fertig!</title></rect></a>
 <rect class="day-cell" data-date="2008-01-25" x="66" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-01-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-01-26" x="66" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-01-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-01-27" x="78" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-01-27: 0 entries</title></rect>
@@ -8751,13 +8755,13 @@ Diplomarbeit ist fertig!</title></rect></a>
 <rect class="day-cell" data-date="2008-03-18" x="162" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-03-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-03-19" x="162" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-03-19: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2008/03/20/abschlussprufung-des-physikstudiums/"><rect class="day-cell" data-date="2008-03-20" x="162" y="83" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2008-03-20: 1 entry
-Abschlussprüfung des Physikstudiums</title></rect></a>
+- WordPress: Abschlussprüfung des Physikstudiums</title></rect></a>
 <rect class="day-cell" data-date="2008-03-21" x="162" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-03-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-03-22" x="162" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-03-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-03-23" x="174" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-03-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-03-24" x="174" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-03-24: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/physik/physik.html"><rect class="day-cell" data-date="2008-03-25" x="174" y="59" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2008-03-25: 1 entry
-Studium zum Diplom-Physiker</title></rect></a>
+- Legacy HTML: Studium zum Diplom-Physiker</title></rect></a>
 <rect class="day-cell" data-date="2008-03-26" x="174" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-03-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-03-27" x="174" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-03-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-03-28" x="174" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-03-28: 0 entries</title></rect>
@@ -8782,15 +8786,15 @@ Studium zum Diplom-Physiker</title></rect></a>
 <rect class="day-cell" data-date="2008-04-15" x="210" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-04-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-04-16" x="210" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-04-16: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2008/04/17/upgrade-auf-wordpress-25/"><rect class="day-cell" data-date="2008-04-17" x="210" y="83" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2008-04-17: 2 entries
-upgrade auf WordPress 2.5
-Mandigo Theme</title></rect></a>
+- WordPress: upgrade auf WordPress 2.5
+- WordPress: Mandigo Theme</title></rect></a>
 <rect class="day-cell" data-date="2008-04-18" x="210" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-04-18: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/freizeit/einladungen.html"><rect class="day-cell" data-date="2008-04-19" x="210" y="107" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2008-04-19: 1 entry
-Unsere Tschechientouren</title></rect></a>
+- Legacy HTML: Unsere Tschechientouren</title></rect></a>
 <rect class="day-cell" data-date="2008-04-20" x="222" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-04-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-04-21" x="222" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-04-21: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/"><rect class="day-cell" data-date="2008-04-22" x="222" y="59" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2008-04-22: 1 entry
-der saiht im internet</title></rect></a>
+- Legacy HTML: der saiht im internet</title></rect></a>
 <rect class="day-cell" data-date="2008-04-23" x="222" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-04-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-04-24" x="222" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-04-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-04-25" x="222" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-04-25: 0 entries</title></rect>
@@ -8804,7 +8808,7 @@ der saiht im internet</title></rect></a>
 <rect class="day-cell" data-date="2008-05-03" x="234" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-03: 0 entries</title></rect>
 <text x="246" y="30" font-family="sans-serif" font-size="8" fill="#767676">May</text>
 <a href="https://saiht.de/legacy/guestbook.html"><rect class="day-cell" data-date="2008-05-04" x="246" y="35" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2008-05-04: 1 entry
-Gstebuch</title></rect></a>
+- Legacy HTML: Gstebuch</title></rect></a>
 <rect class="day-cell" data-date="2008-05-05" x="246" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-05: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-05-06" x="246" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-05-07" x="246" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-07: 0 entries</title></rect>
@@ -8814,21 +8818,21 @@ Gstebuch</title></rect></a>
 <rect class="day-cell" data-date="2008-05-11" x="258" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-05-12" x="258" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-12: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/2008_ruegen.html"><rect class="day-cell" data-date="2008-05-13" x="258" y="59" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2008-05-13: 2 entries
-Fahrradurlaub auf Rügen
-Elbrus im Kaukasus</title></rect></a>
+- Legacy HTML: Fahrradurlaub auf Rügen
+- Legacy HTML: Elbrus im Kaukasus</title></rect></a>
 <rect class="day-cell" data-date="2008-05-14" x="258" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-05-15" x="258" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-15: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2008/05/16/wordpress-ist-ganz-einfach-2/"><rect class="day-cell" data-date="2008-05-16" x="258" y="95" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2008-05-16: 1 entry
-WordPress ist ganz einfach</title></rect></a>
+- WordPress: WordPress ist ganz einfach</title></rect></a>
 <rect class="day-cell" data-date="2008-05-17" x="258" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-05-18" x="270" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-18: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/computer/html.html"><rect class="day-cell" data-date="2008-05-19" x="270" y="47" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2008-05-19: 1 entry
-HTML-Seiten selbst erstellen</title></rect></a>
+- Legacy HTML: HTML-Seiten selbst erstellen</title></rect></a>
 <rect class="day-cell" data-date="2008-05-20" x="270" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-05-21" x="270" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-05-22" x="270" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-22: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/freizeit/teilnehmer.html"><rect class="day-cell" data-date="2008-05-23" x="270" y="95" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2008-05-23: 1 entry
-Teilnehmer der Tschechientouren</title></rect></a>
+- Legacy HTML: Teilnehmer der Tschechientouren</title></rect></a>
 <rect class="day-cell" data-date="2008-05-24" x="270" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-05-25" x="282" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-05-26" x="282" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-05-26: 0 entries</title></rect>
@@ -8921,7 +8925,7 @@ Teilnehmer der Tschechientouren</title></rect></a>
 <rect class="day-cell" data-date="2008-08-18" x="426" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-08-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-08-19" x="426" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-08-19: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2008/08/20/noch-immer-in-deutschland/"><rect class="day-cell" data-date="2008-08-20" x="426" y="71" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2008-08-20: 1 entry
-noch immer in Deutschland</title></rect></a>
+- WordPress: noch immer in Deutschland</title></rect></a>
 <rect class="day-cell" data-date="2008-08-21" x="426" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-08-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-08-22" x="426" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-08-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-08-23" x="426" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-08-23: 0 entries</title></rect>
@@ -8958,18 +8962,18 @@ noch immer in Deutschland</title></rect></a>
 <rect class="day-cell" data-date="2008-09-22" x="486" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-09-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-09-23" x="486" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-09-23: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2008/09/24/freies-blog-bei-wordpress/"><rect class="day-cell" data-date="2008-09-24" x="486" y="71" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2008-09-24: 1 entry
-Freies Blog bei WordPress</title></rect></a>
+- WordPress: Freies Blog bei WordPress</title></rect></a>
 <a href="https://saiht.de/blog/2008/09/25/hier-bei-werner/"><rect class="day-cell" data-date="2008-09-25" x="486" y="83" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2008-09-25: 1 entry
-Hier bei Werner</title></rect></a>
+- WordPress: Hier bei Werner</title></rect></a>
 <rect class="day-cell" data-date="2008-09-26" x="486" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-09-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-09-27" x="486" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-09-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-09-28" x="498" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-09-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-09-29" x="498" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-09-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-09-30" x="498" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-09-30: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/projekte/04ledigsein.html"><rect class="day-cell" data-date="2008-10-01" x="498" y="71" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2008-10-01: 1 entry
-Grnde fr das Ledigsein</title></rect></a>
+- Legacy HTML: Grnde fr das Ledigsein</title></rect></a>
 <a href="https://saiht.de/blog/2008/10/02/krank-zum-unpassenden-zeitpunkt/"><rect class="day-cell" data-date="2008-10-02" x="498" y="83" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2008-10-02: 1 entry
-Krank zum unpassenden Zeitpunkt</title></rect></a>
+- WordPress: Krank zum unpassenden Zeitpunkt</title></rect></a>
 <rect class="day-cell" data-date="2008-10-03" x="498" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-10-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-10-04" x="498" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-10-04: 0 entries</title></rect>
 <text x="510" y="30" font-family="sans-serif" font-size="8" fill="#767676">Oct</text>
@@ -8984,7 +8988,7 @@ Krank zum unpassenden Zeitpunkt</title></rect></a>
 <rect class="day-cell" data-date="2008-10-13" x="522" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-10-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-10-14" x="522" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-10-14: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2008/10/15/zuruck-aus-dem-urlaub/"><rect class="day-cell" data-date="2008-10-15" x="522" y="71" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2008-10-15: 1 entry
-Zurück aus dem Urlaub in der Hohen Tatra</title></rect></a>
+- WordPress: Zurück aus dem Urlaub in der Hohen Tatra</title></rect></a>
 <rect class="day-cell" data-date="2008-10-16" x="522" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-10-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-10-17" x="522" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-10-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-10-18" x="522" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-10-18: 0 entries</title></rect>
@@ -9005,7 +9009,7 @@ Zurück aus dem Urlaub in der Hohen Tatra</title></rect></a>
 <text x="558" y="30" font-family="sans-serif" font-size="8" fill="#767676">Nov</text>
 <rect class="day-cell" data-date="2008-11-02" x="558" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-11-02: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/glossar/family.html"><rect class="day-cell" data-date="2008-11-03" x="558" y="47" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2008-11-03: 1 entry
-Familie</title></rect></a>
+- Legacy HTML: Familie</title></rect></a>
 <rect class="day-cell" data-date="2008-11-04" x="558" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-11-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-11-05" x="558" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-11-05: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-11-06" x="558" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-11-06: 0 entries</title></rect>
@@ -9038,19 +9042,19 @@ Familie</title></rect></a>
 <rect class="day-cell" data-date="2008-12-03" x="606" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-12-04" x="606" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-04: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/2008_usa_bilder.html"><rect class="day-cell" data-date="2008-12-05" x="606" y="95" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2008-12-05: 1 entry
-Die Ostküste der USA: Florida und New York</title></rect></a>
+- Legacy HTML: Die Ostküste der USA: Florida und New York</title></rect></a>
 <rect class="day-cell" data-date="2008-12-06" x="606" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-06: 0 entries</title></rect>
 <text x="618" y="30" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
 <rect class="day-cell" data-date="2008-12-07" x="618" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-12-08" x="618" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-12-09" x="618" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-09: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2008/12/10/zuruck-aus-amerika/"><rect class="day-cell" data-date="2008-12-10" x="618" y="71" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2008-12-10: 1 entry
-Zurück aus Amerika</title></rect></a>
+- WordPress: Zurück aus Amerika</title></rect></a>
 <rect class="day-cell" data-date="2008-12-11" x="618" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-12-12" x="618" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-12-13" x="618" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-13: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/freizeit/einzelevents.html"><rect class="day-cell" data-date="2008-12-14" x="630" y="35" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2008-12-14: 1 entry
-Einzelevents</title></rect></a>
+- Legacy HTML: Einzelevents</title></rect></a>
 <rect class="day-cell" data-date="2008-12-15" x="630" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-12-16" x="630" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-12-17" x="630" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-17: 0 entries</title></rect>
@@ -9065,19 +9069,19 @@ Einzelevents</title></rect></a>
 <rect class="day-cell" data-date="2008-12-26" x="642" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-12-27" x="642" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-27: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2008/12/28/man-liest-mich/"><rect class="day-cell" data-date="2008-12-28" x="654" y="35" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2008-12-28: 1 entry
-Man liest mich</title></rect></a>
+- WordPress: Man liest mich</title></rect></a>
 <rect class="day-cell" data-date="2008-12-29" x="654" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-12-30" x="654" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2008-12-31" x="654" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2008-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2007</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 12, Github: 0 (0), Quartz: 1 (1), Wordpress: 5 (5), Legacy: 6 (6)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2007</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 12, Github: 0 (0), Quartz: 1 (1), Wordpress: 5 (5), Legacy: 6 (6)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2007"><rect class="day-cell" data-date="2007-01-01" x="30" y="47" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2007-01-01: 1 entry
-2007</title></rect></a>
+- Quartz: 2007</title></rect></a>
 <rect class="day-cell" data-date="2007-01-02" x="30" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-01-03" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-01-04" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-01-04: 0 entries</title></rect>
@@ -9179,7 +9183,7 @@ Man liest mich</title></rect></a>
 <rect class="day-cell" data-date="2007-04-06" x="186" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-04-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-04-07" x="186" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-04-07: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/projekte/deutsch.html"><rect class="day-cell" data-date="2007-04-08" x="198" y="35" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2007-04-08: 1 entry
-Bildung durch Lesen</title></rect></a>
+- Legacy HTML: Bildung durch Lesen</title></rect></a>
 <rect class="day-cell" data-date="2007-04-09" x="198" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-04-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-04-10" x="198" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-04-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-04-11" x="198" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-04-11: 0 entries</title></rect>
@@ -9218,7 +9222,7 @@ Bildung durch Lesen</title></rect></a>
 <rect class="day-cell" data-date="2007-05-13" x="258" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-05-14" x="258" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-14: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/2003_elbsandstein.html"><rect class="day-cell" data-date="2007-05-15" x="258" y="59" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2007-05-15: 1 entry
-Kurzurlaub im Elbsandsteingebirge</title></rect></a>
+- Legacy HTML: Kurzurlaub im Elbsandsteingebirge</title></rect></a>
 <rect class="day-cell" data-date="2007-05-16" x="258" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-05-17" x="258" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-05-18" x="258" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-18: 0 entries</title></rect>
@@ -9230,7 +9234,7 @@ Kurzurlaub im Elbsandsteingebirge</title></rect></a>
 <rect class="day-cell" data-date="2007-05-24" x="270" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-05-25" x="270" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-25: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/1998_thailand_pic.html"><rect class="day-cell" data-date="2007-05-26" x="270" y="107" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2007-05-26: 1 entry
-Thailand &amp; Malaysia - nur die Bilder</title></rect></a>
+- Legacy HTML: Thailand &amp; Malaysia - nur die Bilder</title></rect></a>
 <rect class="day-cell" data-date="2007-05-27" x="282" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-05-28" x="282" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-05-29" x="282" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-05-29: 0 entries</title></rect>
@@ -9242,7 +9246,7 @@ Thailand &amp; Malaysia - nur die Bilder</title></rect></a>
 <rect class="day-cell" data-date="2007-06-03" x="294" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-06-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-06-04" x="294" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-06-04: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/impressum.html"><rect class="day-cell" data-date="2007-06-05" x="294" y="59" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2007-06-05: 1 entry
-Impressum</title></rect></a>
+- Legacy HTML: Impressum</title></rect></a>
 <rect class="day-cell" data-date="2007-06-06" x="294" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-06-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-06-07" x="294" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-06-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-06-08" x="294" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-06-08: 0 entries</title></rect>
@@ -9313,7 +9317,7 @@ Impressum</title></rect></a>
 <rect class="day-cell" data-date="2007-08-10" x="402" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-08-11" x="402" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-11: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/logfeile/sitemap.html"><rect class="day-cell" data-date="2007-08-12" x="414" y="35" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2007-08-12: 1 entry
-Sitemap</title></rect></a>
+- Legacy HTML: Sitemap</title></rect></a>
 <rect class="day-cell" data-date="2007-08-13" x="414" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-08-14" x="414" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-08-15" x="414" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-15: 0 entries</title></rect>
@@ -9330,7 +9334,7 @@ Sitemap</title></rect></a>
 <rect class="day-cell" data-date="2007-08-26" x="438" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-08-27" x="438" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-27: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2007/08/28/registrierung-von-saiht-org/"><rect class="day-cell" data-date="2007-08-28" x="438" y="59" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2007-08-28: 1 entry
-Registrierung von saiht.org</title></rect></a>
+- WordPress: Registrierung von saiht.org</title></rect></a>
 <rect class="day-cell" data-date="2007-08-29" x="438" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-08-30" x="438" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-08-31" x="438" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-08-31: 0 entries</title></rect>
@@ -9345,7 +9349,7 @@ Registrierung von saiht.org</title></rect></a>
 <rect class="day-cell" data-date="2007-09-08" x="450" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-09-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-09-09" x="462" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-09-09: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2007/09/10/abflug-nach-moskau/"><rect class="day-cell" data-date="2007-09-10" x="462" y="47" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2007-09-10: 1 entry
-Abflug nach Moskau</title></rect></a>
+- WordPress: Abflug nach Moskau</title></rect></a>
 <rect class="day-cell" data-date="2007-09-11" x="462" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-09-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-09-12" x="462" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-09-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-09-13" x="462" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-09-13: 0 entries</title></rect>
@@ -9379,7 +9383,7 @@ Abflug nach Moskau</title></rect></a>
 <rect class="day-cell" data-date="2007-10-10" x="510" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-10-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-10-11" x="510" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-10-11: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2007/10/12/aufstieg-auf-den-elbrus/"><rect class="day-cell" data-date="2007-10-12" x="510" y="95" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2007-10-12: 1 entry
-Aufstieg auf den Elbrus</title></rect></a>
+- WordPress: Aufstieg auf den Elbrus</title></rect></a>
 <rect class="day-cell" data-date="2007-10-13" x="510" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-10-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-10-14" x="522" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-10-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-10-15" x="522" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-10-15: 0 entries</title></rect>
@@ -9392,7 +9396,7 @@ Aufstieg auf den Elbrus</title></rect></a>
 <rect class="day-cell" data-date="2007-10-22" x="534" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-10-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-10-23" x="534" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-10-23: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2007/10/24/grunde-fur-das-ledigsein/"><rect class="day-cell" data-date="2007-10-24" x="534" y="71" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2007-10-24: 1 entry
-Gründe für das Ledigsein</title></rect></a>
+- WordPress: Gründe für das Ledigsein</title></rect></a>
 <rect class="day-cell" data-date="2007-10-25" x="534" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-10-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-10-26" x="534" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-10-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-10-27" x="534" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-10-27: 0 entries</title></rect>
@@ -9430,7 +9434,7 @@ Gründe für das Ledigsein</title></rect></a>
 <rect class="day-cell" data-date="2007-11-27" x="594" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-11-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-11-28" x="594" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-11-28: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/projekte/02leben.html"><rect class="day-cell" data-date="2007-11-29" x="594" y="83" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2007-11-29: 1 entry
-Kann Leben durch Zufall entstehen?</title></rect></a>
+- Legacy HTML: Kann Leben durch Zufall entstehen?</title></rect></a>
 <rect class="day-cell" data-date="2007-11-30" x="594" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-11-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-12-01" x="594" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-12-01: 0 entries</title></rect>
 <text x="606" y="30" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
@@ -9443,7 +9447,7 @@ Kann Leben durch Zufall entstehen?</title></rect></a>
 <rect class="day-cell" data-date="2007-12-08" x="606" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-12-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-12-09" x="618" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-12-09: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2007/12/10/russischer-vortrag-uber-studienergebnisse/"><rect class="day-cell" data-date="2007-12-10" x="618" y="47" width="10" height="10" fill="#216e39" rx="2" ry="2"><title>2007-12-10: 1 entry
-russischer Vortrag über Studienergebnisse</title></rect></a>
+- WordPress: russischer Vortrag über Studienergebnisse</title></rect></a>
 <rect class="day-cell" data-date="2007-12-11" x="618" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-12-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-12-12" x="618" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-12-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-12-13" x="618" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-12-13: 0 entries</title></rect>
@@ -9466,15 +9470,15 @@ russischer Vortrag über Studienergebnisse</title></rect></a>
 <rect class="day-cell" data-date="2007-12-30" x="654" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2007-12-31" x="654" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2007-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2006</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 24, Github: 0 (0), Quartz: 1 (1), Wordpress: 1 (1), Legacy: 22 (36)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2006</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 24, Github: 0 (0), Quartz: 1 (1), Wordpress: 1 (1), Legacy: 22 (36)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <text x="30" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <a href="https://kreier.github.io/quartz/Diary/2006"><rect class="day-cell" data-date="2006-01-01" x="30" y="35" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2006-01-01: 1 entry
-2006</title></rect></a>
+- Quartz: 2006</title></rect></a>
 <rect class="day-cell" data-date="2006-01-02" x="30" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-01-03" x="30" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-01-04" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-04: 0 entries</title></rect>
@@ -9498,10 +9502,10 @@ russischer Vortrag über Studienergebnisse</title></rect></a>
 <rect class="day-cell" data-date="2006-01-22" x="66" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-01-23" x="66" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-23: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/projekte/99leer.html"><rect class="day-cell" data-date="2006-01-24" x="66" y="59" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2006-01-24: 2 entries
-Leerprojekt
-Wie lange ist ein Schpfungstag?</title></rect></a>
+- Legacy HTML: Leerprojekt
+- Legacy HTML: Wie lange ist ein Schpfungstag?</title></rect></a>
 <a href="https://saiht.de/legacy/projekte/05exfreund.html"><rect class="day-cell" data-date="2006-01-25" x="66" y="71" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-01-25: 1 entry
-Wieso wird aus so vielen Jungs bald ein Exfreund?</title></rect></a>
+- Legacy HTML: Wieso wird aus so vielen Jungs bald ein Exfreund?</title></rect></a>
 <rect class="day-cell" data-date="2006-01-26" x="66" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-01-27" x="66" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-01-28" x="66" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-28: 0 entries</title></rect>
@@ -9510,9 +9514,9 @@ Wieso wird aus so vielen Jungs bald ein Exfreund?</title></rect></a>
 <rect class="day-cell" data-date="2006-01-31" x="78" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-01-31: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-02-01" x="78" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-01: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/2005_osteuropa.html"><rect class="day-cell" data-date="2006-02-02" x="78" y="83" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-02-02: 1 entry
-Rundreise durch Sdosteuropa</title></rect></a>
+- Legacy HTML: Rundreise durch Sdosteuropa</title></rect></a>
 <a href="https://saiht.de/legacy/freizeit/witz.html"><rect class="day-cell" data-date="2006-02-03" x="78" y="95" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-02-03: 1 entry
-Unsere Tschechientouren</title></rect></a>
+- Legacy HTML: Unsere Tschechientouren</title></rect></a>
 <rect class="day-cell" data-date="2006-02-04" x="78" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-04: 0 entries</title></rect>
 <text x="90" y="30" font-family="sans-serif" font-size="8" fill="#767676">Feb</text>
 <rect class="day-cell" data-date="2006-02-05" x="90" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-05: 0 entries</title></rect>
@@ -9520,7 +9524,7 @@ Unsere Tschechientouren</title></rect></a>
 <rect class="day-cell" data-date="2006-02-07" x="90" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-02-08" x="90" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-08: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/projekte/03jesus.html"><rect class="day-cell" data-date="2006-02-09" x="90" y="83" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-02-09: 1 entry
-Wann wurde Jesus geboren?</title></rect></a>
+- Legacy HTML: Wann wurde Jesus geboren?</title></rect></a>
 <rect class="day-cell" data-date="2006-02-10" x="90" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-02-11" x="90" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-02-12" x="102" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-02-12: 0 entries</title></rect>
@@ -9579,7 +9583,7 @@ Wann wurde Jesus geboren?</title></rect></a>
 <rect class="day-cell" data-date="2006-04-04" x="186" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-04-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-04-05" x="186" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-04-05: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/projekte/12freiheit.html"><rect class="day-cell" data-date="2006-04-06" x="186" y="83" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-04-06: 1 entry
-Was ist Freiheit?</title></rect></a>
+- Legacy HTML: Was ist Freiheit?</title></rect></a>
 <rect class="day-cell" data-date="2006-04-07" x="186" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-04-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-04-08" x="186" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-04-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-04-09" x="198" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-04-09: 0 entries</title></rect>
@@ -9610,7 +9614,7 @@ Was ist Freiheit?</title></rect></a>
 <rect class="day-cell" data-date="2006-05-04" x="234" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-05-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-05-05" x="234" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-05-05: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/geschichte/c14.html"><rect class="day-cell" data-date="2006-05-06" x="234" y="107" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-05-06: 1 entry
-C14-Zeitbestimmung</title></rect></a>
+- Legacy HTML: C14-Zeitbestimmung</title></rect></a>
 <text x="246" y="30" font-family="sans-serif" font-size="8" fill="#767676">May</text>
 <rect class="day-cell" data-date="2006-05-07" x="246" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-05-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-05-08" x="246" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-05-08: 0 entries</title></rect>
@@ -9684,9 +9688,9 @@ C14-Zeitbestimmung</title></rect></a>
 <rect class="day-cell" data-date="2006-07-13" x="354" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-07-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-07-14" x="354" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-07-14: 0 entries</title></rect>
 <a href="https://saiht.de/blog/2006/07/15/erste-datenbank-erstes-wordpress-blog/"><rect class="day-cell" data-date="2006-07-15" x="354" y="107" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2006-07-15: 1 entry
-erste Datenbank, erstes WordPress-Blog</title></rect></a>
+- WordPress: erste Datenbank, erstes WordPress-Blog</title></rect></a>
 <a href="https://saiht.de/legacy/logfeile/wohnung.html"><rect class="day-cell" data-date="2006-07-16" x="366" y="35" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-07-16: 1 entry
-Wohnorte auf diesem Planeten</title></rect></a>
+- Legacy HTML: Wohnorte auf diesem Planeten</title></rect></a>
 <rect class="day-cell" data-date="2006-07-17" x="366" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-07-17: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-07-18" x="366" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-07-18: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-07-19" x="366" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-07-19: 0 entries</title></rect>
@@ -9717,13 +9721,13 @@ Wohnorte auf diesem Planeten</title></rect></a>
 <rect class="day-cell" data-date="2006-08-12" x="402" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-08-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-08-13" x="414" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-08-13: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/physik/program/vir2qti.cpp"><rect class="day-cell" data-date="2006-08-14" x="414" y="47" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2006-08-14: 7 entries
-vir2qti.cpp
-vir2qti.java
-vir2qti.exe
-vir2qti.cpp
-vir2qti
-vir2qti.class
-vir2qti.java</title></rect></a>
+- Legacy HTML: vir2qti.cpp
+- Legacy HTML: vir2qti.java
+- Legacy HTML: vir2qti.exe
+- Legacy HTML: vir2qti.cpp
+- Legacy HTML: vir2qti
+- Legacy HTML: vir2qti.class
+- Legacy HTML: vir2qti.java</title></rect></a>
 <rect class="day-cell" data-date="2006-08-15" x="414" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-08-15: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-08-16" x="414" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-08-16: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-08-17" x="414" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-08-17: 0 entries</title></rect>
@@ -9738,15 +9742,15 @@ vir2qti.java</title></rect></a>
 <rect class="day-cell" data-date="2006-08-26" x="426" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-08-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-08-27" x="438" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-08-27: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/physik/thesis/thesis.html"><rect class="day-cell" data-date="2006-08-28" x="438" y="47" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-08-28: 1 entry
-Photoemission on narrow Bandgap II-VI-semiconductors Diplomarbeit HUMBOLDT-UNIVERSITÄT ZU BERLIN
+- Legacy HTML: Photoemission on narrow Bandgap II-VI-semiconductors Diplomarbeit HUMBOLDT-UNIVERSITÄT ZU BERLIN
 INSTITUT FÜR PHYSIK
 AG ELEKTRONISCHE EIGENSCHAFTEN UND SUPRALEITUNG</title></rect></a>
 <rect class="day-cell" data-date="2006-08-29" x="438" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-08-29: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/physik/thesis/diplomae.html"><rect class="day-cell" data-date="2006-08-30" x="438" y="71" width="10" height="10" fill="#64b5f6" rx="2" ry="2"><title>2006-08-30: 4 entries
-Detailinformationen zur Diplomarbeit
-Zeitleiste horizontal
-Zeitleiste horizontal
-Detailinformationen zur Diplomarbeit</title></rect></a>
+- Legacy HTML: Detailinformationen zur Diplomarbeit
+- Legacy HTML: Zeitleiste horizontal
+- Legacy HTML: Zeitleiste horizontal
+- Legacy HTML: Detailinformationen zur Diplomarbeit</title></rect></a>
 <rect class="day-cell" data-date="2006-08-31" x="438" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-08-31: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-09-01" x="438" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-09-01: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-09-02" x="438" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-09-02: 0 entries</title></rect>
@@ -9756,14 +9760,14 @@ Detailinformationen zur Diplomarbeit</title></rect></a>
 <rect class="day-cell" data-date="2006-09-05" x="450" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-09-05: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-09-06" x="450" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-09-06: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/projekte/zeitleiste/zeit4.html"><rect class="day-cell" data-date="2006-09-07" x="450" y="83" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-09-07: 1 entry
-Zeitleiste horizontal</title></rect></a>
+- Legacy HTML: Zeitleiste horizontal</title></rect></a>
 <rect class="day-cell" data-date="2006-09-08" x="450" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-09-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-09-09" x="450" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-09-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-09-10" x="462" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-09-10: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/logfeile/bericht3.html"><rect class="day-cell" data-date="2006-09-11" x="462" y="47" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2006-09-11: 3 entries
-Bericht vom 13. 2. 2004
-Bericht vom 14. 11. 2004
-Bericht vom 15. 8. 2003</title></rect></a>
+- Legacy HTML: Bericht vom 13. 2. 2004
+- Legacy HTML: Bericht vom 14. 11. 2004
+- Legacy HTML: Bericht vom 15. 8. 2003</title></rect></a>
 <rect class="day-cell" data-date="2006-09-12" x="462" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-09-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-09-13" x="462" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-09-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-09-14" x="462" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-09-14: 0 entries</title></rect>
@@ -9814,23 +9818,23 @@ Bericht vom 15. 8. 2003</title></rect></a>
 <rect class="day-cell" data-date="2006-10-28" x="534" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-10-28: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-10-29" x="546" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-10-29: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/2006_italy.html"><rect class="day-cell" data-date="2006-10-30" x="546" y="47" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-10-30: 1 entry
-Gardasee im Oktober 2006</title></rect></a>
+- Legacy HTML: Gardasee im Oktober 2006</title></rect></a>
 <rect class="day-cell" data-date="2006-10-31" x="546" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-10-31: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/geschichte/geschichte.html"><rect class="day-cell" data-date="2006-11-01" x="546" y="71" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-11-01: 1 entry
-interessante Fragen der Geschichte</title></rect></a>
+- Legacy HTML: interessante Fragen der Geschichte</title></rect></a>
 <rect class="day-cell" data-date="2006-11-02" x="546" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-11-03" x="546" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-11-04" x="546" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-04: 0 entries</title></rect>
 <text x="558" y="30" font-family="sans-serif" font-size="8" fill="#767676">Nov</text>
 <rect class="day-cell" data-date="2006-11-05" x="558" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-05: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/freizeit/motorrad.html"><rect class="day-cell" data-date="2006-11-06" x="558" y="47" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-11-06: 1 entry
-die Motorradseite</title></rect></a>
+- Legacy HTML: die Motorradseite</title></rect></a>
 <rect class="day-cell" data-date="2006-11-07" x="558" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-11-08" x="558" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-08: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/hardware.html"><rect class="day-cell" data-date="2006-11-09" x="558" y="83" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-11-09: 1 entry
-verwendete Hardware</title></rect></a>
+- Legacy HTML: verwendete Hardware</title></rect></a>
 <a href="https://saiht.de/legacy/glossar/glossar.html"><rect class="day-cell" data-date="2006-11-10" x="558" y="95" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-11-10: 1 entry
-Glossar</title></rect></a>
+- Legacy HTML: Glossar</title></rect></a>
 <rect class="day-cell" data-date="2006-11-11" x="558" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-11: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-11-12" x="570" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-11-13" x="570" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-13: 0 entries</title></rect>
@@ -9844,12 +9848,12 @@ Glossar</title></rect></a>
 <rect class="day-cell" data-date="2006-11-21" x="582" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-21: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-11-22" x="582" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-22: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/freizeit/tornowsee.html"><rect class="day-cell" data-date="2006-11-23" x="582" y="83" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-11-23: 1 entry
-Informationen zum Tornowsee</title></rect></a>
+- Legacy HTML: Informationen zum Tornowsee</title></rect></a>
 <a href="https://saiht.de/legacy/freizeit/freizeit.html"><rect class="day-cell" data-date="2006-11-24" x="582" y="95" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2006-11-24: 2 entries
-Freizeitaktivitten des saiht
-Synchronisierung des Festfrequenzmonitors GDM 1963 HE</title></rect></a>
+- Legacy HTML: Freizeitaktivitten des saiht
+- Legacy HTML: Synchronisierung des Festfrequenzmonitors GDM 1963 HE</title></rect></a>
 <a href="https://saiht.de/legacy/freizeit/kanu.html"><rect class="day-cell" data-date="2006-11-25" x="582" y="107" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2006-11-25: 1 entry
-Kanu, saiht und Natur</title></rect></a>
+- Legacy HTML: Kanu, saiht und Natur</title></rect></a>
 <rect class="day-cell" data-date="2006-11-26" x="594" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-11-27" x="594" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-11-28" x="594" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-11-28: 0 entries</title></rect>
@@ -9859,8 +9863,8 @@ Kanu, saiht und Natur</title></rect></a>
 <rect class="day-cell" data-date="2006-12-02" x="594" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-12-02: 0 entries</title></rect>
 <text x="606" y="30" font-family="sans-serif" font-size="8" fill="#767676">Dec</text>
 <a href="https://saiht.de/legacy/freizeit/tschechien00.html"><rect class="day-cell" data-date="2006-12-03" x="606" y="35" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2006-12-03: 2 entries
-Unsere Tschechientouren
-Angkor Wat</title></rect></a>
+- Legacy HTML: Unsere Tschechientouren
+- Legacy HTML: Angkor Wat</title></rect></a>
 <rect class="day-cell" data-date="2006-12-04" x="606" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-12-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-12-05" x="606" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-12-05: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-12-06" x="606" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-12-06: 0 entries</title></rect>
@@ -9890,14 +9894,14 @@ Angkor Wat</title></rect></a>
 <rect class="day-cell" data-date="2006-12-30" x="642" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2006-12-31" x="654" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2006-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2005</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 6, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 5 (7)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2005</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 6, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 5 (7)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2005"><rect class="day-cell" data-date="2005-01-01" x="30" y="107" width="10" height="10" fill="#ef9a9a" rx="2" ry="2"><title>2005-01-01: 1 entry
-2005</title></rect></a>
+- Quartz: 2005</title></rect></a>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="2005-01-02" x="42" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2005-01-03" x="42" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-01-03: 0 entries</title></rect>
@@ -9955,7 +9959,7 @@ Angkor Wat</title></rect></a>
 <rect class="day-cell" data-date="2005-02-23" x="126" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-02-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2005-02-24" x="126" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-02-24: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/1998_thailand.html"><rect class="day-cell" data-date="2005-02-25" x="126" y="95" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2005-02-25: 1 entry
-Thailand &amp; Malaysia</title></rect></a>
+- Legacy HTML: Thailand &amp; Malaysia</title></rect></a>
 <rect class="day-cell" data-date="2005-02-26" x="126" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-02-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2005-02-27" x="138" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-02-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2005-02-28" x="138" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-02-28: 0 entries</title></rect>
@@ -10028,9 +10032,9 @@ Thailand &amp; Malaysia</title></rect></a>
 <rect class="day-cell" data-date="2005-05-03" x="246" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-05-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2005-05-04" x="246" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-05-04: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/2004_transsib.html"><rect class="day-cell" data-date="2005-05-05" x="246" y="83" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2005-05-05: 3 entries
-21000 km mit der Transsibirischen Eisenbahn
-Erlbach
-Winterurlaub Dolomiten</title></rect></a>
+- Legacy HTML: 21000 km mit der Transsibirischen Eisenbahn
+- Legacy HTML: Erlbach
+- Legacy HTML: Winterurlaub Dolomiten</title></rect></a>
 <rect class="day-cell" data-date="2005-05-06" x="246" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-05-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2005-05-07" x="246" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-05-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2005-05-08" x="258" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-05-08: 0 entries</title></rect>
@@ -10080,7 +10084,7 @@ Winterurlaub Dolomiten</title></rect></a>
 <rect class="day-cell" data-date="2005-06-20" x="330" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-20: 0 entries</title></rect>
 <rect class="day-cell" data-date="2005-06-21" x="330" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-21: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/projekte/07abitur.html"><rect class="day-cell" data-date="2005-06-22" x="330" y="71" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2005-06-22: 1 entry
-Wie erhlt man ein Abitur?</title></rect></a>
+- Legacy HTML: Wie erhlt man ein Abitur?</title></rect></a>
 <rect class="day-cell" data-date="2005-06-23" x="330" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2005-06-24" x="330" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2005-06-25" x="330" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-25: 0 entries</title></rect>
@@ -10088,7 +10092,7 @@ Wie erhlt man ein Abitur?</title></rect></a>
 <rect class="day-cell" data-date="2005-06-27" x="342" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2005-06-28" x="342" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-28: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/1996_austria_winter.html"><rect class="day-cell" data-date="2005-06-29" x="342" y="71" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2005-06-29: 1 entry
-mein erster Winterurlaub</title></rect></a>
+- Legacy HTML: mein erster Winterurlaub</title></rect></a>
 <rect class="day-cell" data-date="2005-06-30" x="342" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-06-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2005-07-01" x="342" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-01: 0 entries</title></rect>
 <rect class="day-cell" data-date="2005-07-02" x="342" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-02: 0 entries</title></rect>
@@ -10120,7 +10124,7 @@ mein erster Winterurlaub</title></rect></a>
 <rect class="day-cell" data-date="2005-07-27" x="390" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2005-07-28" x="390" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-28: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/projekte/06papier.html"><rect class="day-cell" data-date="2005-07-29" x="390" y="95" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2005-07-29: 1 entry
-Wie oft kann man ein Blatt Papier falten?</title></rect></a>
+- Legacy HTML: Wie oft kann man ein Blatt Papier falten?</title></rect></a>
 <rect class="day-cell" data-date="2005-07-30" x="390" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2005-07-31" x="402" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-07-31: 0 entries</title></rect>
 <rect class="day-cell" data-date="2005-08-01" x="402" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-08-01: 0 entries</title></rect>
@@ -10282,14 +10286,14 @@ Wie oft kann man ein Blatt Papier falten?</title></rect></a>
 <rect class="day-cell" data-date="2005-12-30" x="654" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2005-12-31" x="654" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2005-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2004</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 4, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 3 (3)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2004</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 4, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 3 (3)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2004"><rect class="day-cell" data-date="2004-01-01" x="30" y="83" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2004-01-01: 1 entry
-2004</title></rect></a>
+- Quartz: 2004</title></rect></a>
 <rect class="day-cell" data-date="2004-01-02" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2004-01-03" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-03: 0 entries</title></rect>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
@@ -10298,7 +10302,7 @@ Wie oft kann man ein Blatt Papier falten?</title></rect></a>
 <rect class="day-cell" data-date="2004-01-06" x="42" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-06: 0 entries</title></rect>
 <rect class="day-cell" data-date="2004-01-07" x="42" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-07: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/projekte/auslegung.html"><rect class="day-cell" data-date="2004-01-08" x="42" y="83" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2004-01-08: 1 entry
-Beispiel einer extremen (und beiderseits falschen) Bibelauslegung (Rmer 10:2)</title></rect></a>
+- Legacy HTML: Beispiel einer extremen (und beiderseits falschen) Bibelauslegung (Rmer 10:2)</title></rect></a>
 <rect class="day-cell" data-date="2004-01-09" x="42" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="2004-01-10" x="42" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2004-01-11" x="54" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-11: 0 entries</title></rect>
@@ -10312,7 +10316,7 @@ Beispiel einer extremen (und beiderseits falschen) Bibelauslegung (Rmer 10:2)</t
 <rect class="day-cell" data-date="2004-01-19" x="66" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2004-01-20" x="66" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-20: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/computer/cdrom.html"><rect class="day-cell" data-date="2004-01-21" x="66" y="71" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2004-01-21: 1 entry
-Motherboard zerstrt CD-ROM Laufwerke</title></rect></a>
+- Legacy HTML: Motherboard zerstrt CD-ROM Laufwerke</title></rect></a>
 <rect class="day-cell" data-date="2004-01-22" x="66" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2004-01-23" x="66" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2004-01-24" x="66" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-01-24: 0 entries</title></rect>
@@ -10636,7 +10640,7 @@ Motherboard zerstrt CD-ROM Laufwerke</title></rect></a>
 <rect class="day-cell" data-date="2004-11-27" x="594" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2004-11-28" x="606" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-28: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/1997_usa.html"><rect class="day-cell" data-date="2004-11-29" x="606" y="47" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2004-11-29: 1 entry
-USA - der Westen</title></rect></a>
+- Legacy HTML: USA - der Westen</title></rect></a>
 <rect class="day-cell" data-date="2004-11-30" x="606" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-11-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2004-12-01" x="606" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-12-01: 0 entries</title></rect>
 <rect class="day-cell" data-date="2004-12-02" x="606" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-12-02: 0 entries</title></rect>
@@ -10671,14 +10675,14 @@ USA - der Westen</title></rect></a>
 <rect class="day-cell" data-date="2004-12-30" x="654" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2004-12-31" x="654" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2004-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2003</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 3, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 2 (2)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2003</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 3, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 2 (2)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2003"><rect class="day-cell" data-date="2003-01-01" x="30" y="71" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2003-01-01: 1 entry
-2003</title></rect></a>
+- Quartz: 2003</title></rect></a>
 <rect class="day-cell" data-date="2003-01-02" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2003-01-03" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2003-01-04" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-01-04: 0 entries</title></rect>
@@ -10736,7 +10740,7 @@ USA - der Westen</title></rect></a>
 <rect class="day-cell" data-date="2003-02-23" x="126" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-02-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2003-02-24" x="126" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-02-24: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/projekte/bibel/bibel1.html"><rect class="day-cell" data-date="2003-02-25" x="126" y="59" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2003-02-25: 1 entry
-das Bibelleseprogramm im ersten Jahr</title></rect></a>
+- Legacy HTML: das Bibelleseprogramm im ersten Jahr</title></rect></a>
 <rect class="day-cell" data-date="2003-02-26" x="126" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-02-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2003-02-27" x="126" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-02-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2003-02-28" x="126" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-02-28: 0 entries</title></rect>
@@ -10865,7 +10869,7 @@ das Bibelleseprogramm im ersten Jahr</title></rect></a>
 <rect class="day-cell" data-date="2003-06-27" x="330" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-06-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2003-06-28" x="330" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-06-28: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/projekte/09propaganda.html"><rect class="day-cell" data-date="2003-06-29" x="342" y="35" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2003-06-29: 1 entry
-Propaganda und Irrefhrungen</title></rect></a>
+- Legacy HTML: Propaganda und Irrefhrungen</title></rect></a>
 <rect class="day-cell" data-date="2003-06-30" x="342" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-06-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2003-07-01" x="342" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-07-01: 0 entries</title></rect>
 <rect class="day-cell" data-date="2003-07-02" x="342" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-07-02: 0 entries</title></rect>
@@ -11058,14 +11062,14 @@ Propaganda und Irrefhrungen</title></rect></a>
 <rect class="day-cell" data-date="2003-12-30" x="654" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2003-12-31" x="654" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2003-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2002</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 2, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 1 (1)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2002</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 2, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 1 (1)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2002"><rect class="day-cell" data-date="2002-01-01" x="30" y="59" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2002-01-01: 1 entry
-2002</title></rect></a>
+- Quartz: 2002</title></rect></a>
 <rect class="day-cell" data-date="2002-01-02" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2002-01-03" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2002-01-04" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-01-04: 0 entries</title></rect>
@@ -11254,7 +11258,7 @@ Propaganda und Irrefhrungen</title></rect></a>
 <rect class="day-cell" data-date="2002-06-30" x="342" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-06-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2002-07-01" x="342" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-07-01: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/1997.html"><rect class="day-cell" data-date="2002-07-02" x="342" y="59" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2002-07-02: 1 entry
-tote Verweisseite</title></rect></a>
+- Legacy HTML: tote Verweisseite</title></rect></a>
 <rect class="day-cell" data-date="2002-07-03" x="342" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-07-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2002-07-04" x="342" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-07-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2002-07-05" x="342" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-07-05: 0 entries</title></rect>
@@ -11444,14 +11448,14 @@ tote Verweisseite</title></rect></a>
 <rect class="day-cell" data-date="2002-12-30" x="654" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2002-12-31" x="654" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2002-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2001</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 3, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 2 (2)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2001</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 3, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 2 (2)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2001"><rect class="day-cell" data-date="2001-01-01" x="30" y="47" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>2001-01-01: 1 entry
-2001</title></rect></a>
+- Quartz: 2001</title></rect></a>
 <rect class="day-cell" data-date="2001-01-02" x="30" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2001-01-03" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="2001-01-04" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-01-04: 0 entries</title></rect>
@@ -11525,7 +11529,7 @@ tote Verweisseite</title></rect></a>
 <rect class="day-cell" data-date="2001-03-10" x="138" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-03-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2001-03-11" x="150" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-03-11: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/physik/ranseier.html"><rect class="day-cell" data-date="2001-03-12" x="150" y="47" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2001-03-12: 1 entry
-Karl Ranseier ist tot</title></rect></a>
+- Legacy HTML: Karl Ranseier ist tot</title></rect></a>
 <rect class="day-cell" data-date="2001-03-13" x="150" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-03-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2001-03-14" x="150" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-03-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2001-03-15" x="150" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-03-15: 0 entries</title></rect>
@@ -11737,7 +11741,7 @@ Karl Ranseier ist tot</title></rect></a>
 <rect class="day-cell" data-date="2001-10-01" x="498" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-10-01: 0 entries</title></rect>
 <rect class="day-cell" data-date="2001-10-02" x="498" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-10-02: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/urlaub/2001_fahrrad.html"><rect class="day-cell" data-date="2001-10-03" x="498" y="71" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2001-10-03: 1 entry
-mit dem Rad nach Rumnien</title></rect></a>
+- Legacy HTML: mit dem Rad nach Rumnien</title></rect></a>
 <rect class="day-cell" data-date="2001-10-04" x="498" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-10-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2001-10-05" x="498" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-10-05: 0 entries</title></rect>
 <rect class="day-cell" data-date="2001-10-06" x="498" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-10-06: 0 entries</title></rect>
@@ -11831,14 +11835,14 @@ mit dem Rad nach Rumnien</title></rect></a>
 <rect class="day-cell" data-date="2001-12-30" x="654" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2001-12-31" x="654" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2001-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">2000</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 7, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 6 (12)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2000</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 7, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 6 (12)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/2000"><rect class="day-cell" data-date="2000-01-01" x="30" y="107" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"><title>2000-01-01: 1 entry
-2000</title></rect></a>
+- Quartz: 2000</title></rect></a>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="2000-01-02" x="42" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="2000-01-03" x="42" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-01-03: 0 entries</title></rect>
@@ -11988,7 +11992,7 @@ mit dem Rad nach Rumnien</title></rect></a>
 <rect class="day-cell" data-date="2000-05-22" x="282" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-05-22: 0 entries</title></rect>
 <rect class="day-cell" data-date="2000-05-23" x="282" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-05-23: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/projekte/11freundschaft.html"><rect class="day-cell" data-date="2000-05-24" x="282" y="71" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2000-05-24: 1 entry
-Freundschaft</title></rect></a>
+- Legacy HTML: Freundschaft</title></rect></a>
 <rect class="day-cell" data-date="2000-05-25" x="282" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-05-25: 0 entries</title></rect>
 <rect class="day-cell" data-date="2000-05-26" x="282" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-05-26: 0 entries</title></rect>
 <rect class="day-cell" data-date="2000-05-27" x="282" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-05-27: 0 entries</title></rect>
@@ -12003,9 +12007,9 @@ Freundschaft</title></rect></a>
 <rect class="day-cell" data-date="2000-06-04" x="306" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-04: 0 entries</title></rect>
 <rect class="day-cell" data-date="2000-06-05" x="306" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-05: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/projekte/bibel/bibel2.html"><rect class="day-cell" data-date="2000-06-06" x="306" y="59" width="10" height="10" fill="#64b5f6" rx="2" ry="2"><title>2000-06-06: 3 entries
-das Bibelleseprogramm im zweiten Jahr
-das Bibelleseprogramm im dritten Jahr
-Wie man selbst gesund bleibt und dabei andere Leute in den Wahnsinn treibt:!</title></rect></a>
+- Legacy HTML: das Bibelleseprogramm im zweiten Jahr
+- Legacy HTML: das Bibelleseprogramm im dritten Jahr
+- Legacy HTML: Wie man selbst gesund bleibt und dabei andere Leute in den Wahnsinn treibt:!</title></rect></a>
 <rect class="day-cell" data-date="2000-06-07" x="306" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-07: 0 entries</title></rect>
 <rect class="day-cell" data-date="2000-06-08" x="306" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-08: 0 entries</title></rect>
 <rect class="day-cell" data-date="2000-06-09" x="306" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-09: 0 entries</title></rect>
@@ -12021,10 +12025,10 @@ Wie man selbst gesund bleibt und dabei andere Leute in den Wahnsinn treibt:!</ti
 <rect class="day-cell" data-date="2000-06-19" x="330" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-19: 0 entries</title></rect>
 <rect class="day-cell" data-date="2000-06-20" x="330" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-20: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/computer/atx.html"><rect class="day-cell" data-date="2000-06-21" x="330" y="71" width="10" height="10" fill="#90caf9" rx="2" ry="2"><title>2000-06-21: 2 entries
-Linux schaltet den ATX-Rechner nicht aus
-Anmerkung</title></rect></a>
+- Legacy HTML: Linux schaltet den ATX-Rechner nicht aus
+- Legacy HTML: Anmerkung</title></rect></a>
 <a href="https://saiht.de/legacy/computer/inder.html"><rect class="day-cell" data-date="2000-06-22" x="330" y="83" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2000-06-22: 1 entry
-InderNet</title></rect></a>
+- Legacy HTML: InderNet</title></rect></a>
 <rect class="day-cell" data-date="2000-06-23" x="330" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-23: 0 entries</title></rect>
 <rect class="day-cell" data-date="2000-06-24" x="330" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-24: 0 entries</title></rect>
 <rect class="day-cell" data-date="2000-06-25" x="342" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-25: 0 entries</title></rect>
@@ -12032,10 +12036,10 @@ InderNet</title></rect></a>
 <rect class="day-cell" data-date="2000-06-27" x="342" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-27: 0 entries</title></rect>
 <rect class="day-cell" data-date="2000-06-28" x="342" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-28: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/geschichte/maya.html"><rect class="day-cell" data-date="2000-06-29" x="342" y="83" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>2000-06-29: 4 entries
-Maya
-Die Geschichte Ägyptens
-Was ist Wahrheit?
-Psychologie</title></rect></a>
+- Legacy HTML: Maya
+- Legacy HTML: Die Geschichte Ägyptens
+- Legacy HTML: Was ist Wahrheit?
+- Legacy HTML: Psychologie</title></rect></a>
 <rect class="day-cell" data-date="2000-06-30" x="342" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-06-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="2000-07-01" x="342" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-07-01: 0 entries</title></rect>
 <text x="354" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jul</text>
@@ -12145,7 +12149,7 @@ Psychologie</title></rect></a>
 <rect class="day-cell" data-date="2000-10-10" x="522" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-10-10: 0 entries</title></rect>
 <rect class="day-cell" data-date="2000-10-11" x="522" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-10-11: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/physik/reform.html"><rect class="day-cell" data-date="2000-10-12" x="522" y="83" width="10" height="10" fill="#bbdefb" rx="2" ry="2"><title>2000-10-12: 1 entry
-Mathematikunterricht nach der Bildungsreform</title></rect></a>
+- Legacy HTML: Mathematikunterricht nach der Bildungsreform</title></rect></a>
 <rect class="day-cell" data-date="2000-10-13" x="522" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-10-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="2000-10-14" x="522" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-10-14: 0 entries</title></rect>
 <rect class="day-cell" data-date="2000-10-15" x="534" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-10-15: 0 entries</title></rect>
@@ -12228,14 +12232,14 @@ Mathematikunterricht nach der Bildungsreform</title></rect></a>
 <rect class="day-cell" data-date="2000-12-29" x="654" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-12-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="2000-12-30" x="654" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2000-12-30: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1999</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 2, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 1 (1)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1999</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 2, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 1 (1)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1999"><rect class="day-cell" data-date="1999-01-01" x="30" y="95" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1999-01-01: 1 entry
-1999</title></rect></a>
+- Quartz: 1999</title></rect></a>
 <rect class="day-cell" data-date="1999-01-02" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1999-01-02: 0 entries</title></rect>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="1999-01-03" x="42" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1999-01-03: 0 entries</title></rect>
@@ -12561,7 +12565,7 @@ Mathematikunterricht nach der Bildungsreform</title></rect></a>
 <rect class="day-cell" data-date="1999-11-09" x="570" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1999-11-09: 0 entries</title></rect>
 <rect class="day-cell" data-date="1999-11-10" x="570" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1999-11-10: 0 entries</title></rect>
 <a href="https://saiht.de/legacy/alt.html"><rect class="day-cell" data-date="1999-11-11" x="570" y="83" width="10" height="10" fill="#42a5f5" rx="2" ry="2"><title>1999-11-11: 1 entry
-der saiht im web</title></rect></a>
+- Legacy HTML: der saiht im web</title></rect></a>
 <rect class="day-cell" data-date="1999-11-12" x="570" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1999-11-12: 0 entries</title></rect>
 <rect class="day-cell" data-date="1999-11-13" x="570" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1999-11-13: 0 entries</title></rect>
 <rect class="day-cell" data-date="1999-11-14" x="582" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1999-11-14: 0 entries</title></rect>
@@ -12614,14 +12618,14 @@ der saiht im web</title></rect></a>
 <rect class="day-cell" data-date="1999-12-30" x="654" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1999-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1999-12-31" x="654" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1999-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1998</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1998</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1998"><rect class="day-cell" data-date="1998-01-01" x="30" y="83" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1998-01-01: 1 entry
-1998</title></rect></a>
+- Quartz: 1998</title></rect></a>
 <rect class="day-cell" data-date="1998-01-02" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1998-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1998-01-03" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1998-01-03: 0 entries</title></rect>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
@@ -12999,14 +13003,14 @@ der saiht im web</title></rect></a>
 <rect class="day-cell" data-date="1998-12-30" x="654" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1998-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1998-12-31" x="654" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1998-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1997</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 2, Github: 0 (0), Quartz: 2 (2), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1997</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 2, Github: 0 (0), Quartz: 2 (2), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1997"><rect class="day-cell" data-date="1997-01-01" x="30" y="71" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1997-01-01: 1 entry
-1997</title></rect></a>
+- Quartz: 1997</title></rect></a>
 <rect class="day-cell" data-date="1997-01-02" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1997-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1997-01-03" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1997-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="1997-01-04" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1997-01-04: 0 entries</title></rect>
@@ -13352,7 +13356,7 @@ der saiht im web</title></rect></a>
 <rect class="day-cell" data-date="1997-11-29" x="594" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1997-11-29: 0 entries</title></rect>
 <rect class="day-cell" data-date="1997-11-30" x="606" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1997-11-30: 0 entries</title></rect>
 <a href="https://kreier.github.io/quartz/Blog/1997/12/Reflection-on-1997"><rect class="day-cell" data-date="1997-12-01" x="606" y="47" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1997-12-01: 1 entry
-Reflection on 1997</title></rect></a>
+- Quartz: Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1997-12-02" x="606" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1997-12-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1997-12-03" x="606" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1997-12-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="1997-12-04" x="606" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1997-12-04: 0 entries</title></rect>
@@ -13385,14 +13389,14 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1997-12-30" x="654" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1997-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1997-12-31" x="654" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1997-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1996</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1996</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1996"><rect class="day-cell" data-date="1996-01-01" x="30" y="47" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1996-01-01: 1 entry
-1996</title></rect></a>
+- Quartz: 1996</title></rect></a>
 <rect class="day-cell" data-date="1996-01-02" x="30" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1996-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1996-01-03" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1996-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="1996-01-04" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1996-01-04: 0 entries</title></rect>
@@ -13771,15 +13775,15 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1996-12-30" x="654" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1996-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1996-12-31" x="654" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1996-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1995</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1995</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <text x="30" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <a href="https://kreier.github.io/quartz/Diary/1995"><rect class="day-cell" data-date="1995-01-01" x="30" y="35" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1995-01-01: 1 entry
-1995</title></rect></a>
+- Quartz: 1995</title></rect></a>
 <rect class="day-cell" data-date="1995-01-02" x="30" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1995-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1995-01-03" x="30" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1995-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="1995-01-04" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1995-01-04: 0 entries</title></rect>
@@ -14156,14 +14160,14 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1995-12-30" x="642" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1995-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1995-12-31" x="654" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1995-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1994</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1994</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1994"><rect class="day-cell" data-date="1994-01-01" x="30" y="107" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1994-01-01: 1 entry
-1994</title></rect></a>
+- Quartz: 1994</title></rect></a>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="1994-01-02" x="42" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1994-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1994-01-03" x="42" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1994-01-03: 0 entries</title></rect>
@@ -14541,14 +14545,14 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1994-12-30" x="654" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1994-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1994-12-31" x="654" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1994-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1993</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1993</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1993"><rect class="day-cell" data-date="1993-01-01" x="30" y="95" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1993-01-01: 1 entry
-1993</title></rect></a>
+- Quartz: 1993</title></rect></a>
 <rect class="day-cell" data-date="1993-01-02" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1993-01-02: 0 entries</title></rect>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="1993-01-03" x="42" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1993-01-03: 0 entries</title></rect>
@@ -14926,14 +14930,14 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1993-12-30" x="654" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1993-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1993-12-31" x="654" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1993-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1992</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1992</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1992"><rect class="day-cell" data-date="1992-01-01" x="30" y="71" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1992-01-01: 1 entry
-1992</title></rect></a>
+- Quartz: 1992</title></rect></a>
 <rect class="day-cell" data-date="1992-01-02" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1992-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1992-01-03" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1992-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="1992-01-04" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1992-01-04: 0 entries</title></rect>
@@ -15312,14 +15316,14 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1992-12-30" x="654" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1992-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1992-12-31" x="654" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1992-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1991</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1991</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1991"><rect class="day-cell" data-date="1991-01-01" x="30" y="59" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1991-01-01: 1 entry
-1991</title></rect></a>
+- Quartz: 1991</title></rect></a>
 <rect class="day-cell" data-date="1991-01-02" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1991-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1991-01-03" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1991-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="1991-01-04" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1991-01-04: 0 entries</title></rect>
@@ -15697,14 +15701,14 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1991-12-30" x="654" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1991-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1991-12-31" x="654" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1991-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1990</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1990</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1990"><rect class="day-cell" data-date="1990-01-01" x="30" y="47" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1990-01-01: 1 entry
-1990</title></rect></a>
+- Quartz: 1990</title></rect></a>
 <rect class="day-cell" data-date="1990-01-02" x="30" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1990-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1990-01-03" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1990-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="1990-01-04" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1990-01-04: 0 entries</title></rect>
@@ -16082,15 +16086,15 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1990-12-30" x="654" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1990-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1990-12-31" x="654" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1990-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1989</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1989</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <text x="30" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <a href="https://kreier.github.io/quartz/Diary/1989"><rect class="day-cell" data-date="1989-01-01" x="30" y="35" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1989-01-01: 1 entry
-1989</title></rect></a>
+- Quartz: 1989</title></rect></a>
 <rect class="day-cell" data-date="1989-01-02" x="30" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1989-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1989-01-03" x="30" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1989-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="1989-01-04" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1989-01-04: 0 entries</title></rect>
@@ -16467,14 +16471,14 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1989-12-30" x="642" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1989-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1989-12-31" x="654" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1989-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1988</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1988</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1988"><rect class="day-cell" data-date="1988-01-01" x="30" y="95" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1988-01-01: 1 entry
-1988</title></rect></a>
+- Quartz: 1988</title></rect></a>
 <rect class="day-cell" data-date="1988-01-02" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1988-01-02: 0 entries</title></rect>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="1988-01-03" x="42" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1988-01-03: 0 entries</title></rect>
@@ -16853,14 +16857,14 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1988-12-30" x="654" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1988-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1988-12-31" x="654" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1988-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1987</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1987</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1987"><rect class="day-cell" data-date="1987-01-01" x="30" y="83" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1987-01-01: 1 entry
-1987</title></rect></a>
+- Quartz: 1987</title></rect></a>
 <rect class="day-cell" data-date="1987-01-02" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1987-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1987-01-03" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1987-01-03: 0 entries</title></rect>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
@@ -17238,14 +17242,14 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1987-12-30" x="654" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1987-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1987-12-31" x="654" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1987-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1986</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1986</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1986"><rect class="day-cell" data-date="1986-01-01" x="30" y="71" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1986-01-01: 1 entry
-1986</title></rect></a>
+- Quartz: 1986</title></rect></a>
 <rect class="day-cell" data-date="1986-01-02" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1986-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1986-01-03" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1986-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="1986-01-04" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1986-01-04: 0 entries</title></rect>
@@ -17623,14 +17627,14 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1986-12-30" x="654" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1986-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1986-12-31" x="654" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1986-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1985</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1985</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1985"><rect class="day-cell" data-date="1985-01-01" x="30" y="59" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1985-01-01: 1 entry
-1985</title></rect></a>
+- Quartz: 1985</title></rect></a>
 <rect class="day-cell" data-date="1985-01-02" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1985-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1985-01-03" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1985-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="1985-01-04" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1985-01-04: 0 entries</title></rect>
@@ -18008,15 +18012,15 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1985-12-30" x="654" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1985-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1985-12-31" x="654" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1985-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1984</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1984</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <text x="30" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <a href="https://kreier.github.io/quartz/Diary/1984"><rect class="day-cell" data-date="1984-01-01" x="30" y="35" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1984-01-01: 1 entry
-1984</title></rect></a>
+- Quartz: 1984</title></rect></a>
 <rect class="day-cell" data-date="1984-01-02" x="30" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1984-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1984-01-03" x="30" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1984-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="1984-01-04" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1984-01-04: 0 entries</title></rect>
@@ -18394,14 +18398,14 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1984-12-30" x="654" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1984-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1984-12-31" x="654" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1984-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1983</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1983</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1983"><rect class="day-cell" data-date="1983-01-01" x="30" y="107" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1983-01-01: 1 entry
-1983</title></rect></a>
+- Quartz: 1983</title></rect></a>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="1983-01-02" x="42" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1983-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1983-01-03" x="42" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1983-01-03: 0 entries</title></rect>
@@ -18779,14 +18783,14 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1983-12-30" x="654" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1983-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1983-12-31" x="654" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1983-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1982</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1982</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1982"><rect class="day-cell" data-date="1982-01-01" x="30" y="95" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1982-01-01: 1 entry
-1982</title></rect></a>
+- Quartz: 1982</title></rect></a>
 <rect class="day-cell" data-date="1982-01-02" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1982-01-02: 0 entries</title></rect>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="1982-01-03" x="42" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1982-01-03: 0 entries</title></rect>
@@ -19164,14 +19168,14 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1982-12-30" x="654" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1982-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1982-12-31" x="654" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1982-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1981</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1981</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1981"><rect class="day-cell" data-date="1981-01-01" x="30" y="83" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1981-01-01: 1 entry
-1981</title></rect></a>
+- Quartz: 1981</title></rect></a>
 <rect class="day-cell" data-date="1981-01-02" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1981-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1981-01-03" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1981-01-03: 0 entries</title></rect>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
@@ -19549,14 +19553,14 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1981-12-30" x="654" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1981-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1981-12-31" x="654" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1981-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1980</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1980</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1980"><rect class="day-cell" data-date="1980-01-01" x="30" y="59" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1980-01-01: 1 entry
-1980</title></rect></a>
+- Quartz: 1980</title></rect></a>
 <rect class="day-cell" data-date="1980-01-02" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1980-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1980-01-03" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1980-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="1980-01-04" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1980-01-04: 0 entries</title></rect>
@@ -19935,14 +19939,14 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1980-12-30" x="654" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1980-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1980-12-31" x="654" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1980-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1979</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1979</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1979"><rect class="day-cell" data-date="1979-01-01" x="30" y="47" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1979-01-01: 1 entry
-1979</title></rect></a>
+- Quartz: 1979</title></rect></a>
 <rect class="day-cell" data-date="1979-01-02" x="30" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1979-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1979-01-03" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1979-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="1979-01-04" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1979-01-04: 0 entries</title></rect>
@@ -20320,15 +20324,15 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1979-12-30" x="654" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1979-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1979-12-31" x="654" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1979-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1978</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1978</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <text x="30" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <a href="https://kreier.github.io/quartz/Diary/1978"><rect class="day-cell" data-date="1978-01-01" x="30" y="35" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1978-01-01: 1 entry
-1978</title></rect></a>
+- Quartz: 1978</title></rect></a>
 <rect class="day-cell" data-date="1978-01-02" x="30" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1978-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1978-01-03" x="30" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1978-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="1978-01-04" x="30" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1978-01-04: 0 entries</title></rect>
@@ -20705,14 +20709,14 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1978-12-30" x="642" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1978-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1978-12-31" x="654" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1978-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1977</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1977</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1977"><rect class="day-cell" data-date="1977-01-01" x="30" y="107" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1977-01-01: 1 entry
-1977</title></rect></a>
+- Quartz: 1977</title></rect></a>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="1977-01-02" x="42" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1977-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1977-01-03" x="42" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1977-01-03: 0 entries</title></rect>
@@ -21090,14 +21094,14 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1977-12-30" x="654" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1977-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1977-12-31" x="654" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1977-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1976</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1976</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1976"><rect class="day-cell" data-date="1976-01-01" x="30" y="83" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1976-01-01: 1 entry
-1976</title></rect></a>
+- Quartz: 1976</title></rect></a>
 <rect class="day-cell" data-date="1976-01-02" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1976-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1976-01-03" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1976-01-03: 0 entries</title></rect>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
@@ -21476,14 +21480,14 @@ Reflection on 1997</title></rect></a>
 <rect class="day-cell" data-date="1976-12-30" x="654" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1976-12-30: 0 entries</title></rect>
 <rect class="day-cell" data-date="1976-12-31" x="654" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1976-12-31: 0 entries</title></rect>
 </svg>
-<svg viewBox="0 0 676 139" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
-<text x="5" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#24292e">1975</text>
-<text x="45" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
+<svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+<text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">1975</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 1, Github: 0 (0), Quartz: 1 (1), Wordpress: 0 (0), Legacy: 0 (0)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
 <a href="https://kreier.github.io/quartz/Diary/1975"><rect class="day-cell" data-date="1975-01-01" x="30" y="71" width="10" height="10" fill="#ef5350" rx="2" ry="2"><title>1975-01-01: 1 entry
-1975</title></rect></a>
+- Quartz: 1975</title></rect></a>
 <rect class="day-cell" data-date="1975-01-02" x="30" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1975-01-02: 0 entries</title></rect>
 <rect class="day-cell" data-date="1975-01-03" x="30" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1975-01-03: 0 entries</title></rect>
 <rect class="day-cell" data-date="1975-01-04" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>1975-01-04: 0 entries</title></rect>

@@ -12,7 +12,7 @@ def format_reading_time(word_count):
     mins = minutes % 60
     return f"{hours}h {mins}m"
 
-def generate_svg(year, data_by_date, source_config, year_stats, include_tooltips=False):
+def generate_svg(year, data_by_date, source_config, year_stats, include_tooltips=False, embed=False):
     start_date = date(year, 1, 1)
     end_date = date(year, 12, 31)
     first_sunday = start_date - timedelta(days=(start_date.weekday() + 1) % 7)
@@ -28,7 +28,10 @@ def generate_svg(year, data_by_date, source_config, year_stats, include_tooltips
     # Adjusted height for header and removal of legend
     height = 7 * (square_size + square_margin) + 35
 
-    svg_parts = [f'<svg viewBox="0 0 {width} {height}" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">']
+    if embed:
+        svg_parts = [f'<g class="year-{year}">']
+    else:
+        svg_parts = [f'<svg viewBox="0 0 {width} {height}" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">']
 
     # Header: Year and Statistics
     stats_str = (f"Days documented: {year_stats['total_days']}, "
@@ -76,7 +79,9 @@ def generate_svg(year, data_by_date, source_config, year_stats, include_tooltips
                 if include_tooltips:
                     tooltip = f"{date_str}: {count} entry" if count == 1 else f"{date_str}: {count} entries"
                     if count > 0:
-                        tooltip += "\n" + "\n".join([e['title'] for e in entries])
+                        for e in entries:
+                            sname = source_config.get(e['source_id'], {}).get('name', e['source_id'])
+                            tooltip += f"\n- {sname}: {e['title']}"
                     tooltip = saxutils.escape(tooltip).replace('{', '&#123;').replace('}', '&#125;')
                     title_tag = f"<title>{tooltip}</title>"
 
@@ -89,10 +94,41 @@ def generate_svg(year, data_by_date, source_config, year_stats, include_tooltips
             curr += timedelta(days=1)
         if curr > end_date: break
 
-    svg_parts.append('</svg>')
+    if embed:
+        svg_parts.append('</g>')
+    else:
+        svg_parts.append('</svg>')
     return "\n".join(svg_parts)
 
-def generate_key_svg(source_config):
+def get_year_stats(year_data_by_date, source_config):
+    year_stats = {
+        'total_days': len(year_data_by_date),
+        'github': {'days': 0, 'count': 0},
+        'quartz': {'days': 0, 'count': 0},
+        'wordpress': {'days': 0, 'count': 0},
+        'legacy': {'days': 0, 'count': 0}
+    }
+
+    type_mapping = {
+        'github': 'github',
+        'quartz': 'quartz',
+        'wordpress': 'wordpress',
+        'legacy_html': 'legacy'
+    }
+
+    for d, entries in year_data_by_date.items():
+        seen_types_today = set()
+        for e in entries:
+            stype = source_config.get(e['source_id'], {}).get('type')
+            mapped_type = type_mapping.get(stype)
+            if mapped_type:
+                year_stats[mapped_type]['count'] += 1
+                seen_types_today.add(mapped_type)
+        for mt in seen_types_today:
+            year_stats[mt]['days'] += 1
+    return year_stats
+
+def generate_key_svg(source_config, embed=False):
     # Aggregate by type to get unique names/colors for the key
     types_seen = {}
     for sid, config in source_config.items():
@@ -105,7 +141,10 @@ def generate_key_svg(source_config):
 
     width = 676
     height = 20
-    svg_parts = [f'<svg viewBox="0 0 {width} {height}" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">']
+    if embed:
+        svg_parts = ['<g class="key-legend">']
+    else:
+        svg_parts = [f'<svg viewBox="0 0 {width} {height}" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">']
 
     legend_x = 30
     legend_y = 5
@@ -117,7 +156,10 @@ def generate_key_svg(source_config):
         svg_parts.append(f'<text x="{legend_x + 12}" y="{legend_y + 7}" font-family="sans-serif" font-size="7" fill="#767676">{label}</text>')
         legend_x += 70
 
-    svg_parts.append('</svg>')
+    if embed:
+        svg_parts.append('</g>')
+    else:
+        svg_parts.append('</svg>')
     return "\n".join(svg_parts)
 
 def main():
@@ -184,6 +226,9 @@ def main():
     end_year = 2026
 
     output = ["# Diary Activity Overview\n"]
+    output.append("## Combined Overview 1975 - 2026\n")
+    output.append("![Combined Activity Heatmap](assets/combined.svg)\n")
+
     html_output = [
         "<!DOCTYPE html>",
         '<html lang="en">',
@@ -263,37 +308,20 @@ def main():
     html_output.append('        <img src="assets/key.svg" alt="Source key">')
     html_output.append('    </div>')
 
+    html_output.append('    <div class="year-section">')
+    html_output.append('        <h2>Combined Overview (1975-2026)</h2>')
+    html_output.append('        <div class="combined-heatmap">')
+    html_output.append('            <a href="assets/combined.svg" target="_blank"><img src="assets/combined.svg" alt="Combined activity heatmap" style="width: 100%; max-width: none;"></a>')
+    html_output.append('        </div>')
+    html_output.append('    </div>')
+
     # Generate SVGs and collect info for README/index.html
     for year in range(end_year, start_year - 1, -1):
         year_data_by_date = {d: entries for d, entries in data_by_date.items() if d.startswith(str(year))}
         if not year_data_by_date: continue
 
         # Calculate stats for the year
-        year_stats = {
-            'total_days': len(year_data_by_date),
-            'github': {'days': 0, 'count': 0},
-            'quartz': {'days': 0, 'count': 0},
-            'wordpress': {'days': 0, 'count': 0},
-            'legacy': {'days': 0, 'count': 0}
-        }
-
-        type_mapping = {
-            'github': 'github',
-            'quartz': 'quartz',
-            'wordpress': 'wordpress',
-            'legacy_html': 'legacy'
-        }
-
-        for d, entries in year_data_by_date.items():
-            seen_types_today = set()
-            for e in entries:
-                stype = source_config.get(e['source_id'], {}).get('type')
-                mapped_type = type_mapping.get(stype)
-                if mapped_type:
-                    year_stats[mapped_type]['count'] += 1
-                    seen_types_today.add(mapped_type)
-            for mt in seen_types_today:
-                year_stats[mt]['days'] += 1
+        year_stats = get_year_stats(year_data_by_date, source_config)
 
         svg_content = generate_svg(year, data_by_date, source_config, year_stats, include_tooltips=args.tooltip)
         svg_filename = f"activity_{year}.svg"
@@ -433,6 +461,38 @@ def main():
     html_output.append("    </script>")
     html_output.append("</body>")
     html_output.append("</html>")
+
+    # Combined SVG: 3 columns, from 2026 down to 1975
+    # Row 1: 2024, 2025, 2026
+    # Row 2: 2021, 2022, 2023
+    # ...
+    # Row 18: 1973, 1974, 1975 (1973/1974 will be blank as per year >= 1975 check)
+    combined_width = 3 * 676
+    combined_height = 18 * 119 + 30
+    combined_svg = [f'<svg viewBox="0 0 {combined_width} {combined_height}" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">']
+    combined_svg.append('<g transform="translate(0, 5)">')
+    combined_svg.append(generate_key_svg(source_config, embed=True))
+    combined_svg.append('</g>')
+
+    for row in range(18):
+        for col in range(3):
+            year = 2026 - (row * 3) - (2 - col)
+            if year < 1975: continue
+
+            x_offset = col * 676
+            y_offset = 30 + row * 119
+
+            year_data_by_date = {d: entries for d, entries in data_by_date.items() if d.startswith(str(year))}
+            year_stats = get_year_stats(year_data_by_date, source_config)
+
+            svg_year = generate_svg(year, data_by_date, source_config, year_stats, include_tooltips=True, embed=True)
+            combined_svg.append(f'<g transform="translate({x_offset}, {y_offset})">')
+            combined_svg.append(svg_year)
+            combined_svg.append('</g>')
+
+    combined_svg.append('</svg>')
+    with open(os.path.join(assets_dir, "combined.svg"), "w") as f:
+        f.write("\n".join(combined_svg))
 
     # Save index.html
     index_path = os.path.join(repo_root, 'docs', 'index.html')
