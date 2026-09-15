@@ -6,11 +6,11 @@
 Visualize my diary entries like GitHub for commits. Here are two examples
 
 ### 2025
-<img src="docs/assets/example_2025.svg" width="100%">
+<img src="frontend/assets/example_2025.svg" width="100%">
 722 articles in 2025: 700 GitHub, 16 Quartz, 6 WordPress
 
 ### 2006
-![2006](docs/assets/activity_2006.svg)
+![2006](frontend/assets/activity_2006.svg)
 
 49 articles in 2006
 
@@ -30,7 +30,7 @@ The second one throws an error currently, while the first one executes 4 other s
 - step3_analysis.py
 - step4_generate_heatmap.py
 
-The new data is written into `/docs/assets/heatmap_data.json`.
+The new data is written into `/frontend/assets/heatmap_data.json`.
 
 ## 7 categories
 
@@ -67,43 +67,43 @@ The parsing could be embedded in some csv files that are updated each run:
 
 ## Visualisation
 
-<img src="docs/assets/activity_2023.svg" width="24%"><img src="docs/assets/activity_2024.svg" width="24%"><img src="docs/assets/activity_2025.svg" width="24%"><img src="docs/assets/activity_2026.svg" width="24%">
-<img src="docs/assets/activity_2019.svg" width="24%"><img src="docs/assets/activity_2020.svg" width="24%"><img src="docs/assets/activity_2021.svg" width="24%"><img src="docs/assets/activity_2022.svg" width="24%">
-<img src="docs/assets/activity_2015.svg" width="24%"><img src="docs/assets/activity_2016.svg" width="24%"><img src="docs/assets/activity_2017.svg" width="24%"><img src="docs/assets/activity_2018.svg" width="24%">
-<img src="docs/assets/activity_2011.svg" width="24%"><img src="docs/assets/activity_2012.svg" width="24%"><img src="docs/assets/activity_2013.svg" width="24%"><img src="docs/assets/activity_2014.svg" width="24%">
-<img src="docs/assets/activity_2007.svg" width="24%"><img src="docs/assets/activity_2008.svg" width="24%"><img src="docs/assets/activity_2009.svg" width="24%"><img src="docs/assets/activity_2010.svg" width="24%">
-<img src="docs/assets/activity_2003.svg" width="24%"><img src="docs/assets/activity_2004.svg" width="24%"><img src="docs/assets/activity_2005.svg" width="24%"><img src="docs/assets/activity_2006.svg" width="24%">
-<img src="docs/assets/activity_1999.svg" width="24%"><img src="docs/assets/activity_2000.svg" width="24%"><img src="docs/assets/activity_2001.svg" width="24%"><img src="docs/assets/activity_2002.svg" width="24%">
-<img src="docs/assets/activity_1995.svg" width="24%"><img src="docs/assets/activity_1996.svg" width="24%"><img src="docs/assets/activity_1997.svg" width="24%"><img src="docs/assets/activity_1998.svg" width="24%">
-<img src="docs/assets/activity_1991.svg" width="24%"><img src="docs/assets/activity_1992.svg" width="24%"><img src="docs/assets/activity_1993.svg" width="24%"><img src="docs/assets/activity_1994.svg" width="24%">
-<img src="docs/assets/activity_1987.svg" width="24%"><img src="docs/assets/activity_1988.svg" width="24%"><img src="docs/assets/activity_1989.svg" width="24%"><img src="docs/assets/activity_1990.svg" width="24%">
-<img src="docs/assets/activity_1983.svg" width="24%"><img src="docs/assets/activity_1984.svg" width="24%"><img src="docs/assets/activity_1985.svg" width="24%"><img src="docs/assets/activity_1986.svg" width="24%">
-<img src="docs/assets/activity_1979.svg" width="24%"><img src="docs/assets/activity_1980.svg" width="24%"><img src="docs/assets/activity_1981.svg" width="24%"><img src="docs/assets/activity_1982.svg" width="24%">
-<img src="docs/assets/activity_1975.svg" width="24%"><img src="docs/assets/activity_1976.svg" width="24%"><img src="docs/assets/activity_1977.svg" width="24%"><img src="docs/assets/activity_1978.svg" width="24%">
+<img src="frontend/assets/activity_2023.svg" width="24%"><img src="frontend/assets/activity_2024.svg" width="24%"><img src="frontend/assets/activity_2025.svg" width="24%"><img src="frontend/assets/activity_2026.svg" width="24%">
+<img src="frontend/assets/activity_2019.svg" width="24%"><img src="frontend/assets/activity_2020.svg" width="24%"><img src="frontend/assets/activity_2021.svg" width="24%"><img src="frontend/assets/activity_2022.svg" width="24%">
+<img src="frontend/assets/activity_2015.svg" width="24%"><img src="frontend/assets/activity_2016.svg" width="24%"><img src="frontend/assets/activity_2017.svg" width="24%"><img src="frontend/assets/activity_2018.svg" width="24%">
+<img src="frontend/assets/activity_2011.svg" width="24%"><img src="frontend/assets/activity_2012.svg" width="24%"><img src="frontend/assets/activity_2013.svg" width="24%"><img src="frontend/assets/activity_2014.svg" width="24%">
+<img src="frontend/assets/activity_2007.svg" width="24%"><img src="frontend/assets/activity_2008.svg" width="24%"><img src="frontend/assets/activity_2009.svg" width="24%"><img src="frontend/assets/activity_2010.svg" width="24%">
+<img src="frontend/assets/activity_2003.svg" width="24%"><img src="frontend/assets/activity_2004.svg" width="24%"><img src="frontend/assets/activity_2005.svg" width="24%"><img src="frontend/assets/activity_2006.svg" width="24%">
+<img src="frontend/assets/activity_1999.svg" width="24%"><img src="frontend/assets/activity_2000.svg" width="24%"><img src="frontend/assets/activity_2001.svg" width="24%"><img src="frontend/assets/activity_2002.svg" width="24%">
+<img src="frontend/assets/activity_1995.svg" width="24%"><img src="frontend/assets/activity_1996.svg" width="24%"><img src="frontend/assets/activity_1997.svg" width="24%"><img src="frontend/assets/activity_1998.svg" width="24%">
+<img src="frontend/assets/activity_1991.svg" width="24%"><img src="frontend/assets/activity_1992.svg" width="24%"><img src="frontend/assets/activity_1993.svg" width="24%"><img src="frontend/assets/activity_1994.svg" width="24%">
+<img src="frontend/assets/activity_1987.svg" width="24%"><img src="frontend/assets/activity_1988.svg" width="24%"><img src="frontend/assets/activity_1989.svg" width="24%"><img src="frontend/assets/activity_1990.svg" width="24%">
+<img src="frontend/assets/activity_1983.svg" width="24%"><img src="frontend/assets/activity_1984.svg" width="24%"><img src="frontend/assets/activity_1985.svg" width="24%"><img src="frontend/assets/activity_1986.svg" width="24%">
+<img src="frontend/assets/activity_1979.svg" width="24%"><img src="frontend/assets/activity_1980.svg" width="24%"><img src="frontend/assets/activity_1981.svg" width="24%"><img src="frontend/assets/activity_1982.svg" width="24%">
+<img src="frontend/assets/activity_1975.svg" width="24%"><img src="frontend/assets/activity_1976.svg" width="24%"><img src="frontend/assets/activity_1977.svg" width="24%"><img src="frontend/assets/activity_1978.svg" width="24%">
 
-<img src="docs/assets/activity_2025.svg" width="49%"><img src="docs/assets/activity_2026.svg" width="49%">
-<img src="docs/assets/activity_2023.svg" width="49%"><img src="docs/assets/activity_2024.svg" width="49%">
-<img src="docs/assets/activity_2021.svg" width="49%"><img src="docs/assets/activity_2022.svg" width="49%">
-<img src="docs/assets/activity_2019.svg" width="49%"><img src="docs/assets/activity_2020.svg" width="49%">
-<img src="docs/assets/activity_2017.svg" width="49%"><img src="docs/assets/activity_2018.svg" width="49%">
-<img src="docs/assets/activity_2015.svg" width="49%"><img src="docs/assets/activity_2016.svg" width="49%">
-<img src="docs/assets/activity_2013.svg" width="49%"><img src="docs/assets/activity_2014.svg" width="49%">
-<img src="docs/assets/activity_2011.svg" width="49%"><img src="docs/assets/activity_2012.svg" width="49%">
-<img src="docs/assets/activity_2009.svg" width="49%"><img src="docs/assets/activity_2010.svg" width="49%">
-<img src="docs/assets/activity_2007.svg" width="49%"><img src="docs/assets/activity_2008.svg" width="49%">
-<img src="docs/assets/activity_2005.svg" width="49%"><img src="docs/assets/activity_2006.svg" width="49%">
-<img src="docs/assets/activity_2003.svg" width="49%"><img src="docs/assets/activity_2004.svg" width="49%">
-<img src="docs/assets/activity_2001.svg" width="49%"><img src="docs/assets/activity_2002.svg" width="49%">
-<img src="docs/assets/activity_1999.svg" width="49%"><img src="docs/assets/activity_2000.svg" width="49%">
-<img src="docs/assets/activity_1997.svg" width="49%"><img src="docs/assets/activity_1998.svg" width="49%">
-<img src="docs/assets/activity_1995.svg" width="49%"><img src="docs/assets/activity_1996.svg" width="49%">
-<img src="docs/assets/activity_1993.svg" width="49%"><img src="docs/assets/activity_1994.svg" width="49%">
-<img src="docs/assets/activity_1991.svg" width="49%"><img src="docs/assets/activity_1992.svg" width="49%">
-<img src="docs/assets/activity_1989.svg" width="49%"><img src="docs/assets/activity_1990.svg" width="49%">
-<img src="docs/assets/activity_1987.svg" width="49%"><img src="docs/assets/activity_1988.svg" width="49%">
-<img src="docs/assets/activity_1985.svg" width="49%"><img src="docs/assets/activity_1986.svg" width="49%">
-<img src="docs/assets/activity_1983.svg" width="49%"><img src="docs/assets/activity_1984.svg" width="49%">
-<img src="docs/assets/activity_1981.svg" width="49%"><img src="docs/assets/activity_1982.svg" width="49%">
-<img src="docs/assets/activity_1979.svg" width="49%"><img src="docs/assets/activity_1980.svg" width="49%">
-<img src="docs/assets/activity_1977.svg" width="49%"><img src="docs/assets/activity_1978.svg" width="49%">
-<img src="docs/assets/activity_1975.svg" width="49%"><img src="docs/assets/activity_1976.svg" width="49%">
+<img src="frontend/assets/activity_2025.svg" width="49%"><img src="frontend/assets/activity_2026.svg" width="49%">
+<img src="frontend/assets/activity_2023.svg" width="49%"><img src="frontend/assets/activity_2024.svg" width="49%">
+<img src="frontend/assets/activity_2021.svg" width="49%"><img src="frontend/assets/activity_2022.svg" width="49%">
+<img src="frontend/assets/activity_2019.svg" width="49%"><img src="frontend/assets/activity_2020.svg" width="49%">
+<img src="frontend/assets/activity_2017.svg" width="49%"><img src="frontend/assets/activity_2018.svg" width="49%">
+<img src="frontend/assets/activity_2015.svg" width="49%"><img src="frontend/assets/activity_2016.svg" width="49%">
+<img src="frontend/assets/activity_2013.svg" width="49%"><img src="frontend/assets/activity_2014.svg" width="49%">
+<img src="frontend/assets/activity_2011.svg" width="49%"><img src="frontend/assets/activity_2012.svg" width="49%">
+<img src="frontend/assets/activity_2009.svg" width="49%"><img src="frontend/assets/activity_2010.svg" width="49%">
+<img src="frontend/assets/activity_2007.svg" width="49%"><img src="frontend/assets/activity_2008.svg" width="49%">
+<img src="frontend/assets/activity_2005.svg" width="49%"><img src="frontend/assets/activity_2006.svg" width="49%">
+<img src="frontend/assets/activity_2003.svg" width="49%"><img src="frontend/assets/activity_2004.svg" width="49%">
+<img src="frontend/assets/activity_2001.svg" width="49%"><img src="frontend/assets/activity_2002.svg" width="49%">
+<img src="frontend/assets/activity_1999.svg" width="49%"><img src="frontend/assets/activity_2000.svg" width="49%">
+<img src="frontend/assets/activity_1997.svg" width="49%"><img src="frontend/assets/activity_1998.svg" width="49%">
+<img src="frontend/assets/activity_1995.svg" width="49%"><img src="frontend/assets/activity_1996.svg" width="49%">
+<img src="frontend/assets/activity_1993.svg" width="49%"><img src="frontend/assets/activity_1994.svg" width="49%">
+<img src="frontend/assets/activity_1991.svg" width="49%"><img src="frontend/assets/activity_1992.svg" width="49%">
+<img src="frontend/assets/activity_1989.svg" width="49%"><img src="frontend/assets/activity_1990.svg" width="49%">
+<img src="frontend/assets/activity_1987.svg" width="49%"><img src="frontend/assets/activity_1988.svg" width="49%">
+<img src="frontend/assets/activity_1985.svg" width="49%"><img src="frontend/assets/activity_1986.svg" width="49%">
+<img src="frontend/assets/activity_1983.svg" width="49%"><img src="frontend/assets/activity_1984.svg" width="49%">
+<img src="frontend/assets/activity_1981.svg" width="49%"><img src="frontend/assets/activity_1982.svg" width="49%">
+<img src="frontend/assets/activity_1979.svg" width="49%"><img src="frontend/assets/activity_1980.svg" width="49%">
+<img src="frontend/assets/activity_1977.svg" width="49%"><img src="frontend/assets/activity_1978.svg" width="49%">
+<img src="frontend/assets/activity_1975.svg" width="49%"><img src="frontend/assets/activity_1976.svg" width="49%">
