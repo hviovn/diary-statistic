@@ -399,7 +399,7 @@ def main():
             start_year = min(start_year, min(valid_years))
     end_year = 2026
 
-    assets_dir = os.path.join(os.path.dirname(script_dir), "docs", "assets")
+    assets_dir = os.path.join(os.path.dirname(script_dir), "frontend", "assets")
     os.makedirs(assets_dir, exist_ok=True)
 
     # Generate CSV files for each source

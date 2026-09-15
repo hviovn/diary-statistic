@@ -172,7 +172,7 @@ def main():
     data_dir = os.path.join(repo_root, 'data')
     analysis_dir = os.path.join(data_dir, 'step3_analysis')
     sources_yaml = os.path.join(data_dir, 'sources.yaml')
-    assets_dir = os.path.join(repo_root, 'docs', 'assets')
+    assets_dir = os.path.join(repo_root, 'frontend', 'assets')
     os.makedirs(assets_dir, exist_ok=True)
 
     if not os.path.exists(sources_yaml):

@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diary Activity Overview</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; line-height: 1.6; color: #24292e; max-width: 1200px; margin: 0 auto; padding: 20px; position: relative; }
+        .heatmap-container { width: 100%; max-width: 1200px; position: relative; cursor: pointer; }
+        .heatmap-container img { width: 100%; height: auto; display: block; }
+        .year-section { margin-bottom: 40px; }
+        .stats-section { margin-top: 50px; border-top: 1px solid #e1e4e8; padding-top: 20px; }
+        .source-breakdown { margin-top: 20px; }
+        .tooltip {
+            position: absolute;
+            background: #24292e;
+            color: white;
+            padding: 12px;
+            border-radius: 6px;
+            font-size: 12px;
+            pointer-events: none;
+            z-index: 1000;
+            display: none;
+            box-shadow: 0 3px 12px rgba(27,31,35,0.15);
+            max-width: 300px;
+            word-break: break-word;
+        }
+        .tooltip::after {
+            content: '';
+            position: absolute;
+            bottom: -8px;
+            left: var(--arrow-left, 50%);
+            margin-left: -8px;
+            border-width: 8px 8px 0;
+            border-style: solid;
+            border-color: #24292e transparent transparent transparent;
+        }
+        .tooltip.bottom::after {
+            bottom: auto;
+            top: -8px;
+            border-width: 0 8px 8px;
+            border-color: transparent transparent #24292e transparent;
+        }
+        .tooltip.persistent {
+            pointer-events: auto;
+            display: block;
+        }
+        .tooltip a {
+            color: #58a6ff;
+            text-decoration: none;
+        }
+        .tooltip a:hover {
+            text-decoration: underline;
+        }
+        .tooltip ul {
+            list-style: none;
+            padding: 0;
+            margin: 4px 0 0 0;
+        }
+        .tooltip li {
+            margin-bottom: 2px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Diary Activity Overview</h1>
+    <div id="tooltip" class="tooltip"></div>
+    <div style="margin-bottom: 20px;">
+        <img src="assets/key.svg" alt="Source key">
+    </div>
+    <div class="year-section">
+        <h2>Combined Overview (1975-2026)</h2>
+        <div class="combined-heatmap">
+            <a href="assets/combined.svg" target="_blank"><img src="assets/combined.svg" alt="Combined activity heatmap" style="width: 100%; max-width: none;"></a>
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2026">
+            <img src="assets/activity_2026.svg" alt="Activity heatmap for 2026">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2025">
+            <img src="assets/activity_2025.svg" alt="Activity heatmap for 2025">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2024">
+            <img src="assets/activity_2024.svg" alt="Activity heatmap for 2024">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2023">
+            <img src="assets/activity_2023.svg" alt="Activity heatmap for 2023">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2022">
+            <img src="assets/activity_2022.svg" alt="Activity heatmap for 2022">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2021">
+            <img src="assets/activity_2021.svg" alt="Activity heatmap for 2021">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2020">
+            <img src="assets/activity_2020.svg" alt="Activity heatmap for 2020">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2019">
+            <img src="assets/activity_2019.svg" alt="Activity heatmap for 2019">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2018">
+            <img src="assets/activity_2018.svg" alt="Activity heatmap for 2018">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2017">
+            <img src="assets/activity_2017.svg" alt="Activity heatmap for 2017">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2016">
+            <img src="assets/activity_2016.svg" alt="Activity heatmap for 2016">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2015">
+            <img src="assets/activity_2015.svg" alt="Activity heatmap for 2015">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2014">
+            <img src="assets/activity_2014.svg" alt="Activity heatmap for 2014">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2013">
+            <img src="assets/activity_2013.svg" alt="Activity heatmap for 2013">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2012">
+            <img src="assets/activity_2012.svg" alt="Activity heatmap for 2012">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2011">
+            <img src="assets/activity_2011.svg" alt="Activity heatmap for 2011">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2010">
+            <img src="assets/activity_2010.svg" alt="Activity heatmap for 2010">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2009">
+            <img src="assets/activity_2009.svg" alt="Activity heatmap for 2009">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2008">
+            <img src="assets/activity_2008.svg" alt="Activity heatmap for 2008">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2007">
+            <img src="assets/activity_2007.svg" alt="Activity heatmap for 2007">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2006">
+            <img src="assets/activity_2006.svg" alt="Activity heatmap for 2006">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2005">
+            <img src="assets/activity_2005.svg" alt="Activity heatmap for 2005">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2004">
+            <img src="assets/activity_2004.svg" alt="Activity heatmap for 2004">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2003">
+            <img src="assets/activity_2003.svg" alt="Activity heatmap for 2003">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2002">
+            <img src="assets/activity_2002.svg" alt="Activity heatmap for 2002">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2001">
+            <img src="assets/activity_2001.svg" alt="Activity heatmap for 2001">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="2000">
+            <img src="assets/activity_2000.svg" alt="Activity heatmap for 2000">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1999">
+            <img src="assets/activity_1999.svg" alt="Activity heatmap for 1999">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1998">
+            <img src="assets/activity_1998.svg" alt="Activity heatmap for 1998">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1997">
+            <img src="assets/activity_1997.svg" alt="Activity heatmap for 1997">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1996">
+            <img src="assets/activity_1996.svg" alt="Activity heatmap for 1996">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1995">
+            <img src="assets/activity_1995.svg" alt="Activity heatmap for 1995">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1994">
+            <img src="assets/activity_1994.svg" alt="Activity heatmap for 1994">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1993">
+            <img src="assets/activity_1993.svg" alt="Activity heatmap for 1993">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1992">
+            <img src="assets/activity_1992.svg" alt="Activity heatmap for 1992">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1991">
+            <img src="assets/activity_1991.svg" alt="Activity heatmap for 1991">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1990">
+            <img src="assets/activity_1990.svg" alt="Activity heatmap for 1990">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1989">
+            <img src="assets/activity_1989.svg" alt="Activity heatmap for 1989">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1988">
+            <img src="assets/activity_1988.svg" alt="Activity heatmap for 1988">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1987">
+            <img src="assets/activity_1987.svg" alt="Activity heatmap for 1987">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1986">
+            <img src="assets/activity_1986.svg" alt="Activity heatmap for 1986">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1985">
+            <img src="assets/activity_1985.svg" alt="Activity heatmap for 1985">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1984">
+            <img src="assets/activity_1984.svg" alt="Activity heatmap for 1984">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1983">
+            <img src="assets/activity_1983.svg" alt="Activity heatmap for 1983">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1982">
+            <img src="assets/activity_1982.svg" alt="Activity heatmap for 1982">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1981">
+            <img src="assets/activity_1981.svg" alt="Activity heatmap for 1981">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1980">
+            <img src="assets/activity_1980.svg" alt="Activity heatmap for 1980">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1979">
+            <img src="assets/activity_1979.svg" alt="Activity heatmap for 1979">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1978">
+            <img src="assets/activity_1978.svg" alt="Activity heatmap for 1978">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1977">
+            <img src="assets/activity_1977.svg" alt="Activity heatmap for 1977">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1976">
+            <img src="assets/activity_1976.svg" alt="Activity heatmap for 1976">
+        </div>
+    </div>
+    <div class="year-section">
+        <div class="heatmap-container" data-year="1975">
+            <img src="assets/activity_1975.svg" alt="Activity heatmap for 1975">
+        </div>
+    </div>
+    <div class="stats-section">
+        <h2>Statistics</h2>
+        <ul>
+            <li><strong>Days covered:</strong> 660</li>
+            <li><strong>Total entries:</strong> 1733</li>
+            <li><strong>Total words:</strong> 470112</li>
+            <li><strong>Total reading time:</strong> 39h 11m</li>
+        </ul>
+        <div class="source-breakdown">
+            <h3>Breakdown by Source</h3>
+            <ul>
+                <li><strong>GitHub:</strong> 1428 entries, 148427 words, 12h 23m reading time</li>
+                <li><strong>Legacy HTML:</strong> 114 entries, 203030 words, 16h 56m reading time</li>
+                <li><strong>Quartz:</strong> 96 entries, 96938 words, 8h 5m reading time</li>
+                <li><strong>WordPress:</strong> 95 entries, 21717 words, 1h 49m reading time</li>
+            </ul>
+        </div>
+        <div class="longest-articles">
+            <h3>Longest 3 articles by source</h3>
+            <ul>
+                <li>GitHub #1: <a href="https://github.com/kreier/llama.cpp-jetson/blob/main/README.md">[kreier/llama.cpp-jetson] README.md</a> (6493 words, 0h 33m reading time)</li>
+                <li>GitHub #2: <a href="https://github.com/kreier/solarmeter/blob/main/README.md">[kreier/solarmeter] README.md</a> (4727 words, 0h 24m reading time)</li>
+                <li>GitHub #3: <a href="https://github.com/kreier/cru/blob/main/README.md">[kreier/cru] README.md</a> (4460 words, 0h 23m reading time)</li>
+                <li>Legacy HTML #1: <a href="https://saiht.de/legacy/physik/thesis/data/vir2qti.exe">vir2qti.exe</a> (33615 words, 2h 49m reading time)</li>
+                <li>Legacy HTML #2: <a href="https://saiht.de/legacy/projekte/bibel/bibel3.html">das Bibelleseprogramm im dritten Jahr</a> (8441 words, 0h 43m reading time)</li>
+                <li>Legacy HTML #3: <a href="https://saiht.de/legacy/projekte/bibel/bibel2.html">das Bibelleseprogramm im zweiten Jahr</a> (8203 words, 0h 42m reading time)</li>
+                <li>Quartz #1: <a href="https://kreier.github.io/quartz/Diary/2025">2025</a> (6348 words, 0h 32m reading time)</li>
+                <li>Quartz #2: <a href="https://kreier.github.io/quartz/Projects/Computer/Penta-GPU-server-i3-6100">Penta-GPU server i3-6100</a> (4205 words, 0h 22m reading time)</li>
+                <li>Quartz #3: <a href="https://kreier.github.io/quartz/Travel/Leisure/Hiking-in-Vietnam">Hiking in Vietnam</a> (3017 words, 0h 16m reading time)</li>
+                <li>WordPress #1: <a href="https://saiht.de/blog/2025/10/19/12-years-down-four-more-years-to-go/">12 years down &#8211; four more years to go</a> (1736 words, 0h 9m reading time)</li>
+                <li>WordPress #2: <a href="https://saiht.de/blog/2025/12/19/history-of-course-615/">History of course 615</a> (1307 words, 0h 7m reading time)</li>
+                <li>WordPress #3: <a href="https://saiht.de/blog/2016/08/08/bankkonto-1-standard-chartered/">Bankkonto 1: Standard Chartered</a> (625 words, 0h 4m reading time)</li>
+            </ul>
+        </div>
+    </div>
+    <script>
+        const tooltip = document.getElementById('tooltip');
+        let persistent = false;
+        let heatmapData = {};
+        const SQUARE_SIZE = 10; const SQUARE_MARGIN = 2; const OFFSET_X = 30; const OFFSET_Y = 35;
+        const LOGICAL_WIDTH = 53 * (SQUARE_SIZE + SQUARE_MARGIN) + 40;
+        const LOGICAL_HEIGHT = 7 * (SQUARE_SIZE + SQUARE_MARGIN) + 35;
+        fetch('assets/heatmap_data.json').then(r => r.json()).then(d => { heatmapData = d; });
+        function escapeHTML(str) { const p = document.createElement('p'); p.textContent = str; return p.innerHTML; }
+        function getInfoAtPosition(container, clientX, clientY) {
+            const rect = container.getBoundingClientRect();
+            const scaleX = LOGICAL_WIDTH / rect.width; const scaleY = LOGICAL_HEIGHT / rect.height;
+            const x = (clientX - rect.left) * scaleX; const y = (clientY - rect.top) * scaleY;
+            const week = Math.floor((x - OFFSET_X) / (SQUARE_SIZE + SQUARE_MARGIN));
+            const day = Math.floor((y - OFFSET_Y) / (SQUARE_SIZE + SQUARE_MARGIN));
+            if (week < 0 || week >= 53 || day < 0 || day >= 7) return null;
+            const squareLeft = OFFSET_X + week * (SQUARE_SIZE + SQUARE_MARGIN);
+            const squareTop = OFFSET_Y + day * (SQUARE_SIZE + SQUARE_MARGIN);
+            if (x < squareLeft || x > squareLeft + SQUARE_SIZE || y < squareTop || y > squareTop + SQUARE_SIZE) return null;
+            const year = parseInt(container.getAttribute('data-year'));
+            const startDate = new Date(year, 0, 1);
+            const firstSunday = new Date(startDate); firstSunday.setDate(startDate.getDate() - startDate.getDay());
+            const targetDate = new Date(firstSunday); targetDate.setDate(firstSunday.getDate() + (week * 7) + day);
+            if (targetDate.getFullYear() < year && week === 0) return null;
+            if (targetDate.getFullYear() > year) return null;
+            const dateStr = `${targetDate.getFullYear()}-${String(targetDate.getMonth() + 1).padStart(2, '0')}-${String(targetDate.getDate()).padStart(2, '0')}`;
+            return { dateStr, entries: heatmapData[dateStr] || [], centerX: (squareLeft + SQUARE_SIZE / 2) / scaleX + rect.left, centerY: (squareTop + SQUARE_SIZE / 2) / scaleY + rect.top, cellHeight: SQUARE_SIZE / scaleY };
+        }
+        function updateTooltip(info, isPersistent) {
+            if (!info || info.entries.length === 0) { if (!isPersistent && !persistent) tooltip.style.display = 'none'; return; }
+            let content = `<strong>${escapeHTML(info.dateStr)}</strong><ul>`;
+            info.entries.forEach(e => { content += `<li>${escapeHTML(e.source)}: <a href="${encodeURI(e.link)}">${escapeHTML(e.title)}</a></li>`; });
+            content += '</ul>'; tooltip.innerHTML = content; tooltip.style.display = 'block';
+            if (isPersistent) { tooltip.classList.add('persistent'); persistent = true; } else { tooltip.classList.remove('persistent'); }
+            const bodyRect = document.body.getBoundingClientRect();
+            let left = info.centerX - bodyRect.left - tooltip.offsetWidth / 2;
+            if (left < 10) left = 10; if (left + tooltip.offsetWidth > bodyRect.width - 10) left = bodyRect.width - tooltip.offsetWidth - 10;
+            tooltip.style.left = `${left}px`; tooltip.style.setProperty('--arrow-left', `${(info.centerX - bodyRect.left) - left}px`);
+            let top = info.centerY - bodyRect.top - info.cellHeight / 2 - tooltip.offsetHeight - 12;
+            if (top < 10) { top = info.centerY - bodyRect.top + info.cellHeight / 2 + 12; tooltip.classList.add('bottom'); } else { tooltip.classList.remove('bottom'); }
+            tooltip.style.top = `${top}px`;
+        }
+        document.addEventListener('mousemove', (e) => {
+            if (persistent) return;
+            const container = e.target.closest('.heatmap-container');
+            if (container) { updateTooltip(getInfoAtPosition(container, e.clientX, e.clientY), false); } else { tooltip.style.display = 'none'; }
+        });
+        document.addEventListener('click', (e) => {
+            const container = e.target.closest('.heatmap-container');
+            if (container) {
+                const info = getInfoAtPosition(container, e.clientX, e.clientY);
+                if (info && info.entries.length > 0) { updateTooltip(info, true); e.preventDefault(); }
+                else if (!tooltip.contains(e.target)) { tooltip.style.display = 'none'; persistent = false; }
+            } else if (!tooltip.contains(e.target)) { tooltip.style.display = 'none'; persistent = false; }
+        });
+    </script>
+</body>
+</html>
