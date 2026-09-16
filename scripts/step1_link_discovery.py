@@ -172,10 +172,11 @@ def fetch_github(username, exclude_repos=None, exclude_forks=False):
                 items, resp = request_json(url)
                 if not items: break
                 for item in items:
+                    commit_message = item['commit']['message'].split('\n')[0]
                     all_entries.append({
                         'url': item['html_url'],
                         'date': item['commit']['author']['date'].split('T')[0],
-                        'title': f"[{repo_name}] {item['commit']['message'].split('\\n')[0]}",
+                        'title': f"[{repo_name}] {commit_message}",
                         'github_type': 'commit'
                     })
                 if len(items) < 100: break
