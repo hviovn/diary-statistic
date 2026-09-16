@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 jobs:
-  update-data:
+  link-discovery:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -23,25 +23,83 @@ jobs:
           python -m pip install --upgrade pip
           pip install PyYAML
 
-      - name: Stage 1 - Link Discovery
+      - name: Link Discovery
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/step1_link_discovery.py
 
-      - name: Stage 2 - Content Extraction
+  content-extraction:
+    needs: link-discovery
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyYAML
+
+      - name: Content Extraction
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/step2_content_extraction.py
 
-      - name: Stage 3 - Statistical Analysis
+  statistical-analysis:
+    needs: content-extraction
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyYAML
+
+      - name: Statistical Analysis
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/step3_analysis.py
 
-      - name: Stage 4 - Heatmap & Output Generation
+  generate-heatmap:
+    needs: statistical-analysis
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyYAML
+
+      - name: Heatmap & Output Generation
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/step4_generate_heatmap.py
+
+  commit-and-push:
+    needs: generate-heatmap
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
       - name: Commit and Push Changes
         run: |
