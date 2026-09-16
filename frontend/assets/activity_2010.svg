@@ -1,10 +1,10 @@
 <svg viewBox="0 0 676 119" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
 <text x="5" y="15" font-family="sans-serif" font-size="14" font-weight="bold" fill="#24292e">2010</text>
-<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 8, Github: 0 (0), Quartz: 1 (1), Wordpress: 3 (3), Legacy: 4 (4)</text>
+<text x="55" y="15" font-family="sans-serif" font-size="9" fill="#767676">Days documented: 9, Github: 0 (0), Quartz: 1 (1), Wordpress: 3 (3), Legacy: 5 (8)</text>
 <text x="5" y="56" font-family="sans-serif" font-size="8" fill="#767676">Mon</text>
 <text x="5" y="80" font-family="sans-serif" font-size="8" fill="#767676">Wed</text>
 <text x="5" y="104" font-family="sans-serif" font-size="8" fill="#767676">Fri</text>
-<a href="https://kreier.github.io/quartz/Diary/2010"><rect class="day-cell" data-date="2010-01-01" x="30" y="95" width="10" height="10" fill="#ef5350" rx="2" ry="2"></rect></a>
+<a href="https://kreier.github.io/quartz/Diary/2010"><rect class="day-cell" data-date="2010-01-01" x="30" y="95" width="10" height="10" fill="#ffcdd2" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2010-01-02" x="30" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <text x="42" y="30" font-family="sans-serif" font-size="8" fill="#767676">Jan</text>
 <rect class="day-cell" data-date="2010-01-03" x="42" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
@@ -51,7 +51,7 @@
 <rect class="day-cell" data-date="2010-02-12" x="102" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-02-13" x="102" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-02-14" x="114" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://saiht.de/blog/2010/02/15/wieder-online/"><rect class="day-cell" data-date="2010-02-15" x="114" y="47" width="10" height="10" fill="#216e39" rx="2" ry="2"></rect></a>
+<a href="https://saiht.de/blog/2010/02/15/wieder-online/"><rect class="day-cell" data-date="2010-02-15" x="114" y="47" width="10" height="10" fill="#9be9a8" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2010-02-16" x="114" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-02-17" x="114" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-02-18" x="114" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
@@ -102,7 +102,7 @@
 <rect class="day-cell" data-date="2010-04-03" x="186" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <text x="198" y="30" font-family="sans-serif" font-size="8" fill="#767676">Apr</text>
 <rect class="day-cell" data-date="2010-04-04" x="198" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://saiht.de/legacy/logfeile/logfeile.html"><rect class="day-cell" data-date="2010-04-05" x="198" y="47" width="10" height="10" fill="#42a5f5" rx="2" ry="2"></rect></a>
+<a href="https://saiht.de/legacy/logfeile/logfeile.html"><rect class="day-cell" data-date="2010-04-05" x="198" y="47" width="10" height="10" fill="#bbdefb" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2010-04-06" x="198" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-04-07" x="198" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-04-08" x="198" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
@@ -170,7 +170,7 @@
 <rect class="day-cell" data-date="2010-06-07" x="306" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-06-08" x="306" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-06-09" x="306" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://saiht.de/blog/2010/06/10/projekt-der-htw-berlin/"><rect class="day-cell" data-date="2010-06-10" x="306" y="83" width="10" height="10" fill="#216e39" rx="2" ry="2"></rect></a>
+<a href="https://saiht.de/blog/2010/06/10/projekt-der-htw-berlin/"><rect class="day-cell" data-date="2010-06-10" x="306" y="83" width="10" height="10" fill="#9be9a8" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2010-06-11" x="306" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-06-12" x="306" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-06-13" x="318" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
@@ -232,7 +232,7 @@
 <rect class="day-cell" data-date="2010-08-06" x="402" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-08-07" x="402" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-08-08" x="414" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://saiht.de/legacy/logfeile/gruppe.html"><rect class="day-cell" data-date="2010-08-09" x="414" y="47" width="10" height="10" fill="#42a5f5" rx="2" ry="2"></rect></a>
+<a href="https://saiht.de/legacy/logfeile/gruppe.html"><rect class="day-cell" data-date="2010-08-09" x="414" y="47" width="10" height="10" fill="#bbdefb" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2010-08-10" x="414" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-08-11" x="414" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-08-12" x="414" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
@@ -296,16 +296,16 @@
 <rect class="day-cell" data-date="2010-10-07" x="510" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-10-08" x="510" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-10-09" x="510" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://saiht.de/legacy/projekte/02sdw.html"><rect class="day-cell" data-date="2010-10-10" x="522" y="35" width="10" height="10" fill="#42a5f5" rx="2" ry="2"></rect></a>
+<a href="https://sdw.saiht.de/bilder.html"><rect class="day-cell" data-date="2010-10-10" x="522" y="35" width="10" height="10" fill="#216e39" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2010-10-11" x="522" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-10-12" x="522" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://saiht.de/blog/2010/10/13/sdw-beendet/"><rect class="day-cell" data-date="2010-10-13" x="522" y="71" width="10" height="10" fill="#216e39" rx="2" ry="2"></rect></a>
+<a href="https://saiht.de/blog/2010/10/13/sdw-beendet/"><rect class="day-cell" data-date="2010-10-13" x="522" y="71" width="10" height="10" fill="#9be9a8" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2010-10-14" x="522" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-10-15" x="522" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-10-16" x="522" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-10-17" x="534" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-10-18" x="534" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<rect class="day-cell" data-date="2010-10-19" x="534" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
+<a href="https://sdw.saiht.de/"><rect class="day-cell" data-date="2010-10-19" x="534" y="59" width="10" height="10" fill="#9be9a8" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2010-10-20" x="534" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-10-21" x="534" y="83" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-10-22" x="534" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
@@ -336,7 +336,7 @@
 <rect class="day-cell" data-date="2010-11-15" x="582" y="47" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-11-16" x="582" y="59" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-11-17" x="582" y="71" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
-<a href="https://saiht.de/legacy/urlaub/2010_georgien.html"><rect class="day-cell" data-date="2010-11-18" x="582" y="83" width="10" height="10" fill="#42a5f5" rx="2" ry="2"></rect></a>
+<a href="https://saiht.de/legacy/urlaub/2010_georgien.html"><rect class="day-cell" data-date="2010-11-18" x="582" y="83" width="10" height="10" fill="#bbdefb" rx="2" ry="2"></rect></a>
 <rect class="day-cell" data-date="2010-11-19" x="582" y="95" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-11-20" x="582" y="107" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>
 <rect class="day-cell" data-date="2010-11-21" x="594" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"></rect>

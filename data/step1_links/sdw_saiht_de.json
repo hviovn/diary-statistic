@@ -1,0 +1,40 @@
+{
+  "source_id": "sdw_saiht_de",
+  "type": "legacy_html",
+  "base_url": "https://sdw.saiht.de",
+  "last_checked": "2026-09-16T14:44:23.654844+00:00",
+  "pages": [
+    {
+      "url": "https://sdw.saiht.de/",
+      "title": "Schule zur Dienstamtlichen Weiterbildung (SDW)",
+      "date": "2010-10-19",
+      "last_seen": "2026-09-16T14:44:23.654844+00:00",
+      "changed": true,
+      "github_type": null
+    },
+    {
+      "url": "https://sdw.saiht.de/bilder.html",
+      "title": "Schule zur Dienstamtlichen Weiterbildung (SDW)",
+      "date": "2010-10-10",
+      "last_seen": "2026-09-16T14:44:23.654844+00:00",
+      "changed": true,
+      "github_type": null
+    },
+    {
+      "url": "https://sdw.saiht.de/jesus.html",
+      "title": "S\u00e4tze von Jesus",
+      "date": "2010-10-10",
+      "last_seen": "2026-09-16T14:44:23.654844+00:00",
+      "changed": true,
+      "github_type": null
+    },
+    {
+      "url": "https://sdw.saiht.de/stokes.html",
+      "title": "Satz von Stokes",
+      "date": "2010-10-10",
+      "last_seen": "2026-09-16T14:44:23.654844+00:00",
+      "changed": true,
+      "github_type": null
+    }
+  ]
+}
